@@ -2,7 +2,7 @@
 
 Code, crosswalk tables, legend transcriptions and georeferencing records of ArcSurf, the harmonised surficial geology map of the Arctic (Lantuit and Fritz, Earth System Science Data, @PAPER_DOI@; data on PANGAEA: geology and A0 wall map @DATA_DOI@, addendum @ADDENDUM_DOI@).
 
-With these files and the published source maps (Appendix A of the paper; `sources.csv` of the data release), the ArcSurf layer can be rebuilt, including its parts from sources whose terms do not permit redistribution of derived data.
+With these files and the published source maps (Appendix A of the paper; `sources.csv` of the data release), the ArcSurf layer can be rebuilt.
 
 ## Contents
 

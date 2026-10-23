@@ -845,7 +845,8 @@ PDF_META = {'Title': 'ArcSurf v1.0 - Surficial geology of the Arctic permafrost 
 
 def credits():
     return ('Lambert azimuthal equal-area projection centred on the North Pole (EPSG:6931). Areas are true;\n'
-            'distances are true only near the Pole. Relief and bathymetry: ETOPO 2022 (NOAA NCEI).\n'
+            'distances are true only near the Pole. Relief and bathymetry: ETOPO 2022 (NOAA NCEI). '
+            'Land: © OpenStreetMap contributors (ODbL).\n'
             'Places, roads, rivers: Natural Earth. Glaciers: RGI 6.0; Greenland Ice Sheet: PROMICE 2022.\n'
             'Permafrost zones: Obu et al. (2019). Yedoma domain: IRYP v2 (Strauss et al. 2021, 2022). Arctic limit: AMAP.\n'
             # GEUS permission of 2026-10-22: the four datasets cited on the map, GEUS acknowledged, licences stated

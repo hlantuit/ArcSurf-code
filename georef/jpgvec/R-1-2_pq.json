@@ -1,0 +1,280 @@
+{
+ "sheet": "R-1-2_pq",
+ "source": "raster scan",
+ "projection": "tmerc_utm",
+ "rms_m": 123.4045985624597,
+ "max_res_m": 134.71803740811265,
+ "m_per_px": 84.61920802818887,
+ "corner_residuals_m": [
+  134.6,
+  134.7,
+  111.0,
+  111.0
+ ],
+ "corners": [
+  {
+   "approx": [
+    2483.0,
+    897.0
+   ],
+   "snapped": [
+    2483.0,
+    897.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    7365.0,
+    900.0
+   ],
+   "snapped": [
+    7365.0,
+    900.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    7887.0,
+    6147.0
+   ],
+   "snapped": [
+    7887.0,
+    6147.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    1963.0,
+    6147.0
+   ],
+   "snapped": [
+    1963.0,
+    6147.0
+   ],
+   "ok": false
+  }
+ ],
+ "frame_sag_px": 143.9,
+ "argv": "jpg_to_polygons.py extract ../work/gk1m_leg/R-1-2_pq_render.png R-1-2_pq ../sources/legend_R-1-2_pq.csv ../work/facefix/R-1-2_pq.gpkg --lonlat=-180,68,-168,72 --datum 4284 --corners '2483,897;7365,900;7887,6147;1963,6147' --dE 8",
+ "unassigned_before_fill": 0.135,
+ "area_km2": 204430.45839194354,
+ "neatline_km2": 204448.28653222127,
+ "cover_frac": 0.9999127987787028,
+ "n_polygons": 668,
+ "units": {
+  "#bd66a8": {
+   "index": "e",
+   "px": 132497,
+   "direct_frac": 0.757
+  },
+  "#e26b8e": {
+   "index": "ec",
+   "px": 123471,
+   "direct_frac": 0.79
+  },
+  "#f47a51": {
+   "index": "dc",
+   "px": 525817,
+   "direct_frac": 0.823
+  },
+  "#f26c59": {
+   "index": "ds",
+   "px": 284348,
+   "direct_frac": 0.811
+  },
+  "#cde4aa": {
+   "index": "aH",
+   "px": 1676762,
+   "direct_frac": 0.037
+  },
+  "#a0c3e7": {
+   "index": "mH|mvlH",
+   "px": 17135787,
+   "direct_frac": 0.966
+  },
+  "#7bafde": {
+   "index": "mvprH|mdIII",
+   "px": 1650235,
+   "direct_frac": 0.787
+  },
+  "#b0cbea": {
+   "index": "mvplH",
+   "px": 683125,
+   "direct_frac": 0.068
+  },
+  "#7ecbb6": {
+   "index": "laIII",
+   "px": 272281,
+   "direct_frac": 0.842
+  },
+  "#8fb9e3": {
+   "index": "s:mIII",
+   "px": 5095008,
+   "direct_frac": 0.974
+  },
+  "#b7da9b": {
+   "index": "aIIIln",
+   "px": 3134,
+   "direct_frac": 0.001
+  },
+  "#90b3de": {
+   "index": "mIIIln",
+   "px": 140337,
+   "direct_frac": 0.741
+  },
+  "#7da7d9": {
+   "index": "mIIIkr",
+   "px": 5276,
+   "direct_frac": 0.703
+  },
+  "#b2c77b": {
+   "index": "fIIIkt",
+   "px": 579204,
+   "direct_frac": 0.012
+  },
+  "#de9e70": {
+   "index": "gIIIkt",
+   "px": 13290,
+   "direct_frac": 0.75
+  },
+  "#78a0cf": {
+   "index": "mIIIel",
+   "px": 27948,
+   "direct_frac": 0.693
+  },
+  "#d98e5a": {
+   "index": "gII2",
+   "px": 3484,
+   "direct_frac": 0.604
+  },
+  "#a5bf63": {
+   "index": "fII2",
+   "px": 108631,
+   "direct_frac": 0.58
+  },
+  "#659ad2": {
+   "index": "mII1",
+   "px": 100898,
+   "direct_frac": 0.789
+  },
+  "#648ac0": {
+   "index": "mI-IIen2",
+   "px": 4435,
+   "direct_frac": 0.664
+  },
+  "#467bb7": {
+   "index": "mItn",
+   "px": 6403,
+   "direct_frac": 0.711
+  },
+  "#a678b4": {
+   "index": "PREQ",
+   "px": 364780,
+   "direct_frac": 0.925
+  }
+ },
+ "confusable_pairs": [
+  [
+   "aH",
+   "aIIIln",
+   7.0
+  ],
+  [
+   "mH|mvlH",
+   "mvplH",
+   4.8
+  ],
+  [
+   "mH|mvlH",
+   "s:mIII",
+   5.4
+  ],
+  [
+   "mH|mvlH",
+   "mIIIln",
+   7.0
+  ],
+  [
+   "mvprH|mdIII",
+   "s:mIII",
+   5.5
+  ],
+  [
+   "mvprH|mdIII",
+   "mIIIln",
+   5.4
+  ],
+  [
+   "mvprH|mdIII",
+   "mIIIkr",
+   4.3
+  ],
+  [
+   "mvprH|mdIII",
+   "mIIIel",
+   6.0
+  ],
+  [
+   "s:mIII",
+   "mIIIln",
+   2.8
+  ],
+  [
+   "aIIIln",
+   "aIIIel",
+   7.0
+  ],
+  [
+   "mIIIln",
+   "mIIIkr",
+   6.3
+  ],
+  [
+   "mIIIln",
+   "mIIIel",
+   7.7
+  ],
+  [
+   "mIIIkr",
+   "mIIIel",
+   3.0
+  ],
+  [
+   "mIIIkr",
+   "mII1",
+   6.7
+  ],
+  [
+   "mIIIel",
+   "mII1",
+   6.3
+  ],
+  [
+   "mII1",
+   "s:mI-II",
+   4.8
+  ],
+  [
+   "mII1",
+   "mI-IIen2",
+   6.6
+  ],
+  [
+   "s:mI-II",
+   "mI-IIen2",
+   3.4
+  ],
+  [
+   "mI-IIen2",
+   "mItn",
+   7.8
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 8.0,
+ "mmu_px": 120
+}

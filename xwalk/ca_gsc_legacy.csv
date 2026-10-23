@@ -1,0 +1,32 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+LBL:A,F,,,,,legacy A/OF (same decoding as old CGM): oldest-SDM sheets (CGM295/297/298): GSC terrain symbol A = alluvial
+LBL:C,C,,,,,legacy A/OF (same decoding as old CGM): oldest-SDM sheets: symbol C = colluvial
+LBL:G,GF,,,,,legacy A/OF (same decoding as old CGM): oldest-SDM sheets: symbol G = glaciofluvial
+LBL:L,L,,,,,legacy A/OF (same decoding as old CGM): oldest-SDM sheets: symbol L = lacustrine (GL would be written GL)
+LBL:R,R,,,,,legacy A/OF (same decoding as old CGM): oldest-SDM sheets: symbol R = bedrock
+LBL:T,T,,,,,legacy A/OF (same decoding as old CGM): oldest-SDM sheets: symbol T = till
+LBL:O,O,,organic,,,legacy A/OF (same decoding as old CGM): oldest-SDM sheets: symbol O = organic (lowercase prefix = texture qualifier)
+NULL,DROP,,,,,legacy A/OF (same decoding as old CGM): polygon with no unit type and no label (1 polygon) - dropped so a coarser source fills it
+SYM:01,C,,,,,legacy A/OF (same decoding as old CGM): old CGM sheets: SDM symbol group 3.01.01 = colluvial and mass-wasting deposits
+SYM:02,O,,organic,,,legacy A/OF (same decoding as old CGM): old CGM sheets: SDM symbol group 3.01.02 = organic deposits
+SYM:03,E,,sand,,,legacy A/OF (same decoding as old CGM): old CGM sheets: SDM symbol group 3.01.03 = eolian sediments
+SYM:04,F,,,,,legacy A/OF (same decoding as old CGM): old CGM sheets: SDM symbol group 3.01.04 = alluvial sediments
+SYM:05,L,,,,,legacy A/OF (same decoding as old CGM): old CGM sheets: SDM symbol group 3.01.05 = lacustrine sediments
+SYM:06,M,,,,,legacy A/OF (same decoding as old CGM): old CGM sheets: SDM symbol group 3.01.06 = marine sediments
+SYM:07,GF,,,,,legacy A/OF (same decoding as old CGM): old CGM sheets: SDM symbol group 3.01.07 = glaciofluvial sediments
+SYM:08,GL,,,,,legacy A/OF (same decoding as old CGM): old CGM sheets: SDM symbol group 3.01.08 = glaciolacustrine sediments
+SYM:09,GM,,,,,legacy A/OF (same decoding as old CGM): old CGM sheets: SDM symbol group 3.01.09 = glaciomarine sediments
+SYM:10,T,,diamicton,,,legacy A/OF (same decoding as old CGM): old CGM sheets: SDM symbol group 3.01.10 = glacial sediments (till)
+SYM:11,W,,,,,legacy A/OF (same decoding as old CGM): old CGM sheets: SDM symbol group 3.01.11 = weathered bedrock / regolith
+SYM:12,Q,,,,,legacy A/OF (same decoding as old CGM): old CGM sheets: SDM symbol group 3.01.12 = undifferentiated (label U)
+SYM:13,R,,,,,legacy A/OF (same decoding as old CGM): old CGM sheets: SDM symbol group 3.01.13 = bedrock
+SYM:14,X,,,,,legacy A/OF (same decoding as old CGM): old CGM sheets: SDM symbol group 3.01.14 = anthropogenic deposits (label H)
+SYM:15,I,,,,,legacy A/OF (same decoding as old CGM): old CGM sheets: SDM symbol group 3.01.15 = glacial ice or snowpack
+LBL:I,I,,,,,legacy A/OF (same decoding as old CGM): old CGM sheets: terrain symbol I = ice
+LBL:M,M,,,,,legacy A/OF (same decoding as old CGM): old CGM sheets: terrain symbol M = marine
+LBL:E,E,,sand,,,legacy A/OF (same decoding as old CGM): old CGM sheets: terrain symbol E = eolian
+LBL:GF,GF,,,,,legacy A/OF (same decoding as old CGM): old CGM sheets: terrain symbol GF = glaciofluvial
+LBL:GM,GM,,,,,legacy A/OF (same decoding as old CGM): old CGM sheets: terrain symbol GM = glaciomarine
+LBL:H,H,,,,,legacy A/OF (same decoding as old CGM): CGM64 Iqaluit: label Hy = hydrography (water body)
+LBL:W,H,,,,,legacy A/OF (same decoding as old CGM): label W / 'Water' = water body (5 polygons)
+LBL:N,DROP,,,,,legacy A/OF (same decoding as old CGM): label 'None' (9 polygons) - dropped so a coarser source fills it

@@ -1,0 +1,158 @@
+{
+ "sheet": "N-44-XV",
+ "source": "raster scan",
+ "projection": "eqdc",
+ "rms_m": 34.63536155972284,
+ "max_res_m": 64.45551088124233,
+ "m_per_px": 34.88628908560273,
+ "corner_residuals_m": [
+  56.9,
+  43.0,
+  42.3,
+  15.3,
+  5.6,
+  15.1,
+  50.0,
+  25.6,
+  15.0,
+  14.5,
+  18.4,
+  11.4,
+  64.5
+ ],
+ "n_ties": 9,
+ "corners": [
+  {
+   "approx": [
+    72.6,
+    121.4
+   ],
+   "snapped": [
+    72.6,
+    121.4
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1923.0,
+    119.5
+   ],
+   "snapped": [
+    1923.0,
+    119.5
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1939.5,
+    2251.4
+   ],
+   "snapped": [
+    1939.5,
+    2251.4
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    59.7,
+    2252.2
+   ],
+   "snapped": [
+    59.7,
+    2252.2
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.08,
+ "area_km2": 4824.131951533222,
+ "neatline_km2": 4827.440743306341,
+ "cover_frac": 0.9993145867657295,
+ "n_polygons": 6467,
+ "units": {
+  "#dada96": {
+   "index": "alIV",
+   "px": 329868,
+   "direct_frac": 0.507
+  },
+  "#edfaea": {
+   "index": "lIV",
+   "px": 8998,
+   "direct_frac": 0.878
+  },
+  "#d1c7a4": {
+   "index": "d+hIV",
+   "px": 534426,
+   "direct_frac": 0.727
+  },
+  "#e9fabc": {
+   "index": "orIV",
+   "px": 12863,
+   "direct_frac": 0.844
+  },
+  "#f08c03": {
+   "index": "dIV",
+   "px": 36072,
+   "direct_frac": 0.725
+  },
+  "#b9c7ae": {
+   "index": "lhIV",
+   "px": 131763,
+   "direct_frac": 0.575
+  },
+  "#fbf3b4": {
+   "index": "eolIII-IV",
+   "px": 1068777,
+   "direct_frac": 0.914
+  },
+  "#f8f0a3": {
+   "index": "eolIII",
+   "px": 708511,
+   "direct_frac": 0.897
+  },
+  "#f9f1ac": {
+   "index": "saIII",
+   "px": 1132171,
+   "direct_frac": 0.882
+  },
+  "#d8faba": {
+   "index": "LaII-IIIkrs",
+   "px": 625,
+   "direct_frac": 0.643
+  },
+  "#f1e980": {
+   "index": "saI-IIkrd+LaI-IIfd",
+   "px": 11196,
+   "direct_frac": 0.76
+  }
+ },
+ "confusable_pairs": [
+  [
+   "orIV",
+   "LaII-IIIkrs",
+   6.4
+  ],
+  [
+   "eolIII-IV",
+   "eolIII",
+   7.1
+  ],
+  [
+   "eolIII-IV",
+   "saIII",
+   3.1
+  ],
+  [
+   "eolIII",
+   "saIII",
+   4.0
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 30
+}

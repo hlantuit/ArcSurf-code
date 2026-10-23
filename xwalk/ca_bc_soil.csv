@@ -1,0 +1,101 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+COLL|,C,,unknown,unknown,unknown,soil survey MDEP_1 COLL (colluvium)
+COLL|COLL,C,,unknown,unknown,unknown,soil survey MDEP_1 COLL (colluvium); MDEP_2 COLL -> C
+COLL|FLUV,C,F,unknown,unknown,unknown,soil survey MDEP_1 COLL (colluvium); MDEP_2 FLUV -> F
+COLL|GLFL,C,GF,unknown,unknown,unknown,soil survey MDEP_1 COLL (colluvium); MDEP_2 GLFL -> GF
+COLL|GLLC,C,GL,unknown,unknown,unknown,soil survey MDEP_1 COLL (colluvium); MDEP_2 GLLC -> GL
+COLL|TILL,C,T,unknown,unknown,unknown,soil survey MDEP_1 COLL (colluvium); MDEP_2 TILL -> T
+COLL|UNDM,C,Q,unknown,unknown,unknown,soil survey MDEP_1 COLL (colluvium); MDEP_2 UNDM -> Q
+COLL|UNDO,C,O,unknown,unknown,unknown,soil survey MDEP_1 COLL (colluvium); MDEP_2 UNDO -> O
+EOLI|,E,,unknown,unknown,unknown,soil survey MDEP_1 EOLI (eolian)
+EOLI|COLL,E,C,unknown,unknown,unknown,soil survey MDEP_1 EOLI (eolian); MDEP_2 COLL -> C
+EOLI|EOLI,E,,unknown,unknown,unknown,soil survey MDEP_1 EOLI (eolian); MDEP_2 EOLI -> E
+EOLI|SPPT,E,O,unknown,unknown,unknown,soil survey MDEP_1 EOLI (eolian); MDEP_2 SPPT -> O
+FLUV|,F,,unknown,unknown,unknown,soil survey MDEP_1 FLUV (fluvial)
+FLUV|COLL,F,C,unknown,unknown,unknown,soil survey MDEP_1 FLUV (fluvial); MDEP_2 COLL -> C
+FLUV|EOLI,F,E,unknown,unknown,unknown,soil survey MDEP_1 FLUV (fluvial); MDEP_2 EOLI -> E
+FLUV|FLUV,F,,unknown,unknown,unknown,soil survey MDEP_1 FLUV (fluvial); MDEP_2 FLUV -> F
+FLUV|FNPT,F,O,unknown,unknown,unknown,soil survey MDEP_1 FLUV (fluvial); MDEP_2 FNPT -> O
+FLUV|GLFL,F,GF,unknown,unknown,unknown,soil survey MDEP_1 FLUV (fluvial); MDEP_2 GLFL -> GF
+FLUV|SPPT,F,O,unknown,unknown,unknown,soil survey MDEP_1 FLUV (fluvial); MDEP_2 SPPT -> O
+FLUV|TILL,F,T,unknown,unknown,unknown,soil survey MDEP_1 FLUV (fluvial); MDEP_2 TILL -> T
+FLUV|UNDO,F,O,unknown,unknown,unknown,soil survey MDEP_1 FLUV (fluvial); MDEP_2 UNDO -> O
+FNPT|,O,,organic,unknown,unknown,soil survey MDEP_1 FNPT (fen peat)
+FNPT|FNPT,O,,organic,unknown,unknown,soil survey MDEP_1 FNPT (fen peat); MDEP_2 FNPT -> O
+FNPT|GLLC,O,GL,organic,unknown,unknown,soil survey MDEP_1 FNPT (fen peat); MDEP_2 GLLC -> GL
+GLFL|,GF,,unknown,unknown,unknown,soil survey MDEP_1 GLFL (glaciofluvial)
+GLFL|COLL,GF,C,unknown,unknown,unknown,soil survey MDEP_1 GLFL (glaciofluvial); MDEP_2 COLL -> C
+GLFL|FLUV,GF,F,unknown,unknown,unknown,soil survey MDEP_1 GLFL (glaciofluvial); MDEP_2 FLUV -> F
+GLFL|FNPT,GF,O,unknown,unknown,unknown,soil survey MDEP_1 GLFL (glaciofluvial); MDEP_2 FNPT -> O
+GLFL|GLFL,GF,,unknown,unknown,unknown,soil survey MDEP_1 GLFL (glaciofluvial); MDEP_2 GLFL -> GF
+GLFL|GLLC,GF,GL,unknown,unknown,unknown,soil survey MDEP_1 GLFL (glaciofluvial); MDEP_2 GLLC -> GL
+GLFL|SPPT,GF,O,unknown,unknown,unknown,soil survey MDEP_1 GLFL (glaciofluvial); MDEP_2 SPPT -> O
+GLFL|TILL,GF,T,unknown,unknown,unknown,soil survey MDEP_1 GLFL (glaciofluvial); MDEP_2 TILL -> T
+GLFL|UNDO,GF,O,unknown,unknown,unknown,soil survey MDEP_1 GLFL (glaciofluvial); MDEP_2 UNDO -> O
+GLLC|,GL,,unknown,unknown,unknown,soil survey MDEP_1 GLLC (glaciolacustrine)
+GLLC|COLL,GL,C,unknown,unknown,unknown,soil survey MDEP_1 GLLC (glaciolacustrine); MDEP_2 COLL -> C
+GLLC|EOLI,GL,E,unknown,unknown,unknown,soil survey MDEP_1 GLLC (glaciolacustrine); MDEP_2 EOLI -> E
+GLLC|FLUV,GL,F,unknown,unknown,unknown,soil survey MDEP_1 GLLC (glaciolacustrine); MDEP_2 FLUV -> F
+GLLC|FNPT,GL,O,unknown,unknown,unknown,soil survey MDEP_1 GLLC (glaciolacustrine); MDEP_2 FNPT -> O
+GLLC|GLFL,GL,GF,unknown,unknown,unknown,soil survey MDEP_1 GLLC (glaciolacustrine); MDEP_2 GLFL -> GF
+GLLC|GLLC,GL,,unknown,unknown,unknown,soil survey MDEP_1 GLLC (glaciolacustrine); MDEP_2 GLLC -> GL
+GLLC|SPPT,GL,O,unknown,unknown,unknown,soil survey MDEP_1 GLLC (glaciolacustrine); MDEP_2 SPPT -> O
+GLLC|TILL,GL,T,unknown,unknown,unknown,soil survey MDEP_1 GLLC (glaciolacustrine); MDEP_2 TILL -> T
+GLLC|UNDO,GL,O,unknown,unknown,unknown,soil survey MDEP_1 GLLC (glaciolacustrine); MDEP_2 UNDO -> O
+NAME>C|COLL,C,,unknown,unknown,unknown,no MDEP_1; miscellaneous land type named in SOILNAME_1 -> C
+NAME>F|,F,,unknown,unknown,unknown,no MDEP_1; miscellaneous land type named in SOILNAME_1 -> F
+NAME>H|,H,,unknown,unknown,unknown,no MDEP_1; miscellaneous land type named in SOILNAME_1 -> H
+NAME>I|,I,,unknown,unknown,unknown,no MDEP_1; miscellaneous land type named in SOILNAME_1 -> I
+NAME>I|COLL,I,C,unknown,unknown,unknown,no MDEP_1; miscellaneous land type named in SOILNAME_1 -> I
+NAME>I|TILL,I,T,unknown,unknown,unknown,no MDEP_1; miscellaneous land type named in SOILNAME_1 -> I
+NAME>R|,R,,unknown,unknown,unknown,no MDEP_1; miscellaneous land type named in SOILNAME_1 -> R
+NAME>R|COLL,R,C,unknown,unknown,unknown,no MDEP_1; miscellaneous land type named in SOILNAME_1 -> R
+NAME>R|FLUV,R,F,unknown,unknown,unknown,no MDEP_1; miscellaneous land type named in SOILNAME_1 -> R
+NAME>R|FNPT,R,O,unknown,unknown,unknown,no MDEP_1; miscellaneous land type named in SOILNAME_1 -> R
+NAME>R|GLFL,R,GF,unknown,unknown,unknown,no MDEP_1; miscellaneous land type named in SOILNAME_1 -> R
+NAME>R|GLLC,R,GL,unknown,unknown,unknown,no MDEP_1; miscellaneous land type named in SOILNAME_1 -> R
+NAME>R|TILL,R,T,unknown,unknown,unknown,no MDEP_1; miscellaneous land type named in SOILNAME_1 -> R
+NAME>R|UNDO,R,O,unknown,unknown,unknown,no MDEP_1; miscellaneous land type named in SOILNAME_1 -> R
+NAME>X|,X,,unknown,unknown,unknown,no MDEP_1; miscellaneous land type named in SOILNAME_1 -> X
+NOMDEP|,DROP,,unknown,unknown,unknown,no mode of deposition for the dominant soil and no land-type name: not classified; dropped
+NOMDEP|COLL,DROP,,unknown,unknown,unknown,no mode of deposition for the dominant soil and no land-type name: not classified; dropped
+NOMDEP|FLUV,DROP,,unknown,unknown,unknown,no mode of deposition for the dominant soil and no land-type name: not classified; dropped
+NOMDEP|GLFL,DROP,,unknown,unknown,unknown,no mode of deposition for the dominant soil and no land-type name: not classified; dropped
+NOMDEP|GLLC,DROP,,unknown,unknown,unknown,no mode of deposition for the dominant soil and no land-type name: not classified; dropped
+NOMDEP|TILL,DROP,,unknown,unknown,unknown,no mode of deposition for the dominant soil and no land-type name: not classified; dropped
+NOMDEP|UNDO,DROP,,unknown,unknown,unknown,no mode of deposition for the dominant soil and no land-type name: not classified; dropped
+SERIES>COLL|,C,,unknown,unknown,unknown,soil survey MDEP_1 COLL (colluvium); MDEP_1 missing: mode of deposition of the same soil series in all its other SIFT polygons
+SERIES>COLL|COLL,C,,unknown,unknown,unknown,soil survey MDEP_1 COLL (colluvium); MDEP_2 COLL -> C; MDEP_1 missing: mode of deposition of the same soil series in all its other SIFT polygons
+SERIES>COLL|FLUV,C,F,unknown,unknown,unknown,soil survey MDEP_1 COLL (colluvium); MDEP_2 FLUV -> F; MDEP_1 missing: mode of deposition of the same soil series in all its other SIFT polygons
+SERIES>COLL|TILL,C,T,unknown,unknown,unknown,soil survey MDEP_1 COLL (colluvium); MDEP_2 TILL -> T; MDEP_1 missing: mode of deposition of the same soil series in all its other SIFT polygons
+SERIES>COLL|UNDO,C,O,unknown,unknown,unknown,soil survey MDEP_1 COLL (colluvium); MDEP_2 UNDO -> O; MDEP_1 missing: mode of deposition of the same soil series in all its other SIFT polygons
+SERIES>EOLI|,E,,unknown,unknown,unknown,soil survey MDEP_1 EOLI (eolian); MDEP_1 missing: mode of deposition of the same soil series in all its other SIFT polygons
+SERIES>EOLI|EOLI,E,,unknown,unknown,unknown,soil survey MDEP_1 EOLI (eolian); MDEP_2 EOLI -> E; MDEP_1 missing: mode of deposition of the same soil series in all its other SIFT polygons
+SERIES>FLUV|,F,,unknown,unknown,unknown,soil survey MDEP_1 FLUV (fluvial); MDEP_1 missing: mode of deposition of the same soil series in all its other SIFT polygons
+SERIES>GLLC|,GL,,unknown,unknown,unknown,soil survey MDEP_1 GLLC (glaciolacustrine); MDEP_1 missing: mode of deposition of the same soil series in all its other SIFT polygons
+SERIES>TILL|,T,,unknown,unknown,unknown,soil survey MDEP_1 TILL (till (morainal)); MDEP_1 missing: mode of deposition of the same soil series in all its other SIFT polygons
+SERIES>TILL|GLFL,T,GF,unknown,unknown,unknown,soil survey MDEP_1 TILL (till (morainal)); MDEP_2 GLFL -> GF; MDEP_1 missing: mode of deposition of the same soil series in all its other SIFT polygons
+SERIES>TILL|TILL,T,,unknown,unknown,unknown,soil survey MDEP_1 TILL (till (morainal)); MDEP_2 TILL -> T; MDEP_1 missing: mode of deposition of the same soil series in all its other SIFT polygons
+SPPT|,O,,organic,unknown,unknown,soil survey MDEP_1 SPPT (sphagnum peat)
+SPPT|EOLI,O,E,organic,unknown,unknown,soil survey MDEP_1 SPPT (sphagnum peat); MDEP_2 EOLI -> E
+SPPT|FLUV,O,F,organic,unknown,unknown,soil survey MDEP_1 SPPT (sphagnum peat); MDEP_2 FLUV -> F
+SPPT|FNPT,O,,organic,unknown,unknown,soil survey MDEP_1 SPPT (sphagnum peat); MDEP_2 FNPT -> O
+SPPT|GLFL,O,GF,organic,unknown,unknown,soil survey MDEP_1 SPPT (sphagnum peat); MDEP_2 GLFL -> GF
+SPPT|GLLC,O,GL,organic,unknown,unknown,soil survey MDEP_1 SPPT (sphagnum peat); MDEP_2 GLLC -> GL
+SPPT|SPPT,O,,organic,unknown,unknown,soil survey MDEP_1 SPPT (sphagnum peat); MDEP_2 SPPT -> O
+SPPT|TILL,O,T,organic,unknown,unknown,soil survey MDEP_1 SPPT (sphagnum peat); MDEP_2 TILL -> T
+TILL|,T,,unknown,unknown,unknown,soil survey MDEP_1 TILL (till (morainal))
+TILL|COLL,T,C,unknown,unknown,unknown,soil survey MDEP_1 TILL (till (morainal)); MDEP_2 COLL -> C
+TILL|FLUV,T,F,unknown,unknown,unknown,soil survey MDEP_1 TILL (till (morainal)); MDEP_2 FLUV -> F
+TILL|GLFL,T,GF,unknown,unknown,unknown,soil survey MDEP_1 TILL (till (morainal)); MDEP_2 GLFL -> GF
+TILL|GLLC,T,GL,unknown,unknown,unknown,soil survey MDEP_1 TILL (till (morainal)); MDEP_2 GLLC -> GL
+TILL|SPPT,T,O,unknown,unknown,unknown,soil survey MDEP_1 TILL (till (morainal)); MDEP_2 SPPT -> O
+TILL|TILL,T,,unknown,unknown,unknown,soil survey MDEP_1 TILL (till (morainal)); MDEP_2 TILL -> T
+TILL|UNDO,T,O,unknown,unknown,unknown,soil survey MDEP_1 TILL (till (morainal)); MDEP_2 UNDO -> O
+UNDM|,Q,,unknown,unknown,unknown,soil survey MDEP_1 UNDM (undifferentiated mineral)
+UNDO|,O,,organic,unknown,unknown,soil survey MDEP_1 UNDO (undifferentiated organic)
+UNDO|FLUV,O,F,organic,unknown,unknown,soil survey MDEP_1 UNDO (undifferentiated organic); MDEP_2 FLUV -> F
+UNDO|GLFL,O,GF,organic,unknown,unknown,soil survey MDEP_1 UNDO (undifferentiated organic); MDEP_2 GLFL -> GF
+UNDO|GLLC,O,GL,organic,unknown,unknown,soil survey MDEP_1 UNDO (undifferentiated organic); MDEP_2 GLLC -> GL
+UNDO|TILL,O,T,organic,unknown,unknown,soil survey MDEP_1 UNDO (undifferentiated organic); MDEP_2 TILL -> T
+VOLC|,V,,unknown,unknown,unknown,soil survey MDEP_1 VOLC (volcanic (tephra))

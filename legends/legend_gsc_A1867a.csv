@@ -1,0 +1,11 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#c2c1c4,O,Organic deposits: peat and muck up to 2 m; permafrost common with palsas and ice-wedge polygons,O,,organic,yes,"GSC Map 1867A Aylmer Lake (Dredge et al. 1995), 1:125k UTM, SOUTH half (mn01, with legend); NORTH half (mn02) has no legend: not done; L is a blank swatch on this print"
+1,#ffed8a,A,Alluvial deposits: gravel to silt 1-5 m,F,,mixed,,
+2,#ffd317,G2,Glaciofluvial outwash: gravel and sand < 5 m,GF,,gravel,,
+3,#fdfb01,G1,Glaciofluvial esker sediments 1-40 m,GF,,gravel,,
+4,#4f8170,T3,Hummocky till 5-30 m,T,,diamicton,,
+5,#75a599,T2,Till blanket 2-10 m,T,,diamicton,blanket,
+6,#a0ba2f,T1,Till veneer < 2 m with bedrock patches,T,R,diamicton,veneer,
+7,#fbb3d5,R3,Bedrock: granitoid rocks,R,,,,
+8,#ffdbef,R2,Bedrock: metasedimentary rocks,R,,,,
+9,#f285b3,R1,Bedrock: volcanic rocks,R,,,,

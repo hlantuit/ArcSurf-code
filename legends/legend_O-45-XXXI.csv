@@ -1,0 +1,8 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#b9dc6a,el+dQ2-3,eluvial-deluvial loams of the watersheds (Middle-Late Pleistocene; green with vertical ruling),W,C,,,"GGK-200 (1st generation) O-45-XXXI 'Karta chetvertichnyh otlozheniy SSSR', Kuzbasskaya series (geokniga record 11695, 1960: record year, the preview carries no imprint); PREVIEW 1976x2382 px (~33 m/px), map face only: no legend image on geokniga; units read from the indices printed on the map (old notation: el+d eluvial-deluvial, eol eolian, al alluvial, lal lacustrine-alluvial, lh lake-bog); vertical lithology ruling removed by a horizontal median (as r200d prep_vlines)"
+1,#f0e7a6,eolQ3-4,eolian sands (Late Pleistocene-Holocene; tan with dots),E,,,,
+2,#ddf875,alQ3II,alluvium of the 2nd terrace (Late Pleistocene; bright yellow-green ruled),F,,,,
+3,#cbe785,alQ3I+alQ2-3III,alluvium of the 1st and 3rd terraces (light green; shades not separable on the preview),F,,,,
+4,#f2edc0,alQ4,floodplain alluvium (Holocene; whitish ruled),F,,,,
+5,#64a182,lalQ2,lacustrine-alluvial deposits (Middle Pleistocene; dark teal),L,F,,,
+6,#74a9ad,WATER,water (Ob and Tom channels),H,,,,

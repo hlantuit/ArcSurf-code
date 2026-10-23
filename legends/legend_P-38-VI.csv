@@ -1,0 +1,14 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#d9d6c0,plH,bog peat,O,,organic,,"GGK-200/2 P-38-VI, Mezen-Vychegda, Quaternary map, vector PDF (geokniga)"
+1,#e2eec3,ap+1IIIpl-H,floodplain and 1st terrace alluvium,F,,sand,,
+2,#b5dfcd,"a,la2IIIbz-pl",Byzovaya-Polar 2nd terrace alluvium and limnoalluvium,F,L,sand,,
+3,#a6d9c4,"a,la3IIIsl-ls",Sula-Laya 3rd terrace alluvium and limnoalluvium,F,L,sand,,
+4,#82ceee,"l,lgIIvc",Vychegda lacustrine and glaciolacustrine,GL,L,fines,,
+5,#cccca0,"f,lgIIvc",Vychegda glaciofluvial and glaciolacustrine,GF,GL,sand,,
+6,#bbc793,fIIvc,Vychegda glaciofluvial,GF,,sand,,
+7,#e8b995,gIIvc,Vychegda moraine,T,,diamicton,,
+8,#b0be82,faIIpc-rd,Pechora-Rodionovo glacioalluvium,GF,F,sand,,
+9,#e3ac84,"g,lgIIpc",Pechora moraine and glaciolimnic,T,GL,diamicton,,
+10,#8aca8b,"a,laIIcr",Chirva alluvium (section only),F,L,gravel,,
+11,#a677b4,PREQ,pre-Quaternary (section only),R,,,,
+12,#a677b4,PREQ,pre-Quaternary rafts (scheme only),R,,,,

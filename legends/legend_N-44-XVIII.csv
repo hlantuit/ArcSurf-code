@@ -1,0 +1,14 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#cbccce,tH,technogenic,X,,mixed,,"GGK-200/2 N-44-XVIII, Salair (Ob plateau), Quaternary map, vector PDF (geokniga)"
+1,#dc9b75,dcH,deluvial-colluvial,C,,bouldery,,
+2,#ddebb7,aIII-H,loess-free terraces and floodplain,F,,sand,,
+3,#fff4a8,vIII-H,aeolian,E,,sand,,
+4,#7ecbb6,laE-IIIoc,Ob-Chumysh lake-alluvial and loessoid,L,Y,fines,,
+5,#baccb3,a2III,loess-covered 2nd terrace,F,Y,fines,,
+6,#93d2c1,laIIIkr,Krasnobrod lake-alluvial,L,F,fines,,
+7,#ffd38e,LII-IIIbc,Bachat loessoid loams,E,,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+8,#b7da9b,a3-4II-III,loess-covered 3rd-4th terraces,F,Y,fines,,
+9,#60c3aa,laI-IIkdr,Kedrovka lake-alluvial,L,F,fines,,
+10,#ebb059,"p,dE-Isr",Sergeevka proluvial-deluvial,F,C,fines,,
+11,#22ba9d,laEsg,Sagarlyk (scheme only),L,F,fines,,
+12,#a677b4,PREQ,pre-Quaternary,R,,,,

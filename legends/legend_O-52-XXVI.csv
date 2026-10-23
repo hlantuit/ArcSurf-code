@@ -1,0 +1,16 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#d489f9,e,eluvium: sandy loams with debris,W,,mixed,,"GGK-200/2 O-52-XXVI (upper Seimdzha), legend of O-52-XXVII reused, Aldan series, Quaternary map, RASTER (geokniga JPG)"
+1,#feb688,d,deluvium: clayey sands and loams with debris,C,,fines,,
+2,#ff9998,c,colluvial screes and blocks,C,,bouldery,,
+3,#ff868f,"d,s",deluvium and solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+4,#f59275,"c,d",colluvium and deluvium,C,,bouldery,,
+5,#ffab86,"e,d",eluvium and deluvium,W,C,mixed,,
+6,#f4ffc7,aH,floodplain and channel alluvium,F,,sand,,
+7,#b0bd72,plH,palustrine peat and silt,O,,organic,,
+8,#e6cf85,"d,aIII-H",deluvial-alluvial,C,F,mixed,,
+9,#a8ff51,a1III3,Karginsky 1st terrace alluvium,F,,gravel,,
+10,#eebd9b,gIII2,Muruktin till,T,,diamicton,,
+11,#a4e452,fIII2,Muruktin glaciofluvial,GF,,gravel,,
+12,#c34632,gII6,Taz till,T,,bouldery,,
+13,#5cff36,a4IItb-sm,Tobolsk-Samarovo 4th terrace alluvium,F,,sand,,
+14,#8a59a8,PREQ,pre-Quaternary,R,,,,

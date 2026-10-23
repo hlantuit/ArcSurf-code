@@ -1,0 +1,275 @@
+{
+ "sheet": "O-50-51_g2",
+ "source": "raster scan",
+ "projection": "given",
+ "rms_m": 262.05036478114334,
+ "max_res_m": 275.79416188509913,
+ "m_per_px": 84.80790009788858,
+ "corner_residuals_m": [
+  275.3,
+  275.8,
+  248.0,
+  247.6
+ ],
+ "corners": [
+  {
+   "approx": [
+    992.0,
+    1142.0
+   ],
+   "snapped": [
+    992.0,
+    1142.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    6888.0,
+    1200.0
+   ],
+   "snapped": [
+    6888.0,
+    1200.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    7170.0,
+    6455.0
+   ],
+   "snapped": [
+    7170.0,
+    6455.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    613.0,
+    6400.0
+   ],
+   "snapped": [
+    613.0,
+    6400.0
+   ],
+   "ok": false
+  }
+ ],
+ "frame_sag_px": 104.9,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga_1m/O-_50_,51_g2/o-5051-aldan-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federacii-novaya.jpg O-50-51_g2 ../sources/legend_O-50-51_g2.csv ../work/facefix/O-50-51_g2.gpkg --lonlat 117,56,126,60 --datum 4284 --corners '992,1142;6888,1200;7170,6455;613,6400' --thin-units gIII2-4,gII2-4,fII2-4,PREQ,bIV,bN2-Q1:3 --proj '+proj=eqdc +lat_1=47 +lat_2=62 +lon_0=121.5'",
+ "unassigned_before_fill": 0.407,
+ "area_km2": 237063.91602419538,
+ "neatline_km2": 237058.27851978605,
+ "cover_frac": 1.0000237810906438,
+ "n_polygons": 14659,
+ "units": {
+  "#f3f8d7": {
+   "index": "aIV",
+   "px": 100716,
+   "direct_frac": 0.708
+  },
+  "#dadd8c": {
+   "index": "apIV",
+   "px": 32235,
+   "direct_frac": 0.646
+  },
+  "#f3eb9d": {
+   "index": "vIV",
+   "px": 7171,
+   "direct_frac": 0.608
+  },
+  "#b0a3bc": {
+   "index": "bIV",
+   "px": 452237,
+   "direct_frac": 0.355
+  },
+  "#ebb2b3": {
+   "index": "cIII+IV",
+   "px": 9803440,
+   "direct_frac": 0.67
+  },
+  "#dcc99d": {
+   "index": "pIII+IV",
+   "px": 226111,
+   "direct_frac": 0.315
+  },
+  "#e1f2b3": {
+   "index": "aIII",
+   "px": 71247,
+   "direct_frac": 0.528
+  },
+  "#eaf3c5": {
+   "index": "aIII2-4",
+   "px": 192067,
+   "direct_frac": 0.708
+  },
+  "#ba9b7b": {
+   "index": "gIII2-4",
+   "px": 610751,
+   "direct_frac": 0.493
+  },
+  "#c4c69c": {
+   "index": "fIII2-4",
+   "px": 1082112,
+   "direct_frac": 0.294
+  },
+  "#def5a6": {
+   "index": "aIII1",
+   "px": 10641,
+   "direct_frac": 0.632
+  },
+  "#dce9db": {
+   "index": "lIII1",
+   "px": 287392,
+   "direct_frac": 0.94
+  },
+  "#d6f6a3": {
+   "index": "aII",
+   "px": 5647,
+   "direct_frac": 0.63
+  },
+  "#c7f09a": {
+   "index": "aII2-4",
+   "px": 15509,
+   "direct_frac": 0.645
+  },
+  "#b2d3c8": {
+   "index": "lII2-4",
+   "px": 88638,
+   "direct_frac": 0.657
+  },
+  "#acd0aa": {
+   "index": "laII2-4",
+   "px": 73539,
+   "direct_frac": 0.456
+  },
+  "#a37851": {
+   "index": "gII2-4",
+   "px": 743299,
+   "direct_frac": 0.658
+  },
+  "#9da663": {
+   "index": "fII2-4",
+   "px": 47785,
+   "direct_frac": 0.441
+  },
+  "#bcf19a": {
+   "index": "aII1",
+   "px": 17084,
+   "direct_frac": 0.419
+  },
+  "#b8c26e": {
+   "index": "apI+II",
+   "px": 139075,
+   "direct_frac": 0.282
+  },
+  "#abf3b2": {
+   "index": "aI2?",
+   "px": 13504,
+   "direct_frac": 0.774
+  },
+  "#aaf1a1": {
+   "index": "aI1",
+   "px": 11182,
+   "direct_frac": 0.746
+  },
+  "#73bf71": {
+   "index": "aN2-Q1",
+   "px": 173639,
+   "direct_frac": 0.31
+  },
+  "#8a7aad": {
+   "index": "bN2-Q1",
+   "px": 171054,
+   "direct_frac": 0.47
+  },
+  "#c093c0": {
+   "index": "e",
+   "px": 980278,
+   "direct_frac": 0.307
+  },
+  "#f48b51": {
+   "index": "d",
+   "px": 1537087,
+   "direct_frac": 0.786
+  },
+  "#d8a4ab": {
+   "index": "ds",
+   "px": 4105976,
+   "direct_frac": 0.308
+  },
+  "#f46262": {
+   "index": "c",
+   "px": 2047495,
+   "direct_frac": 0.641
+  },
+  "#ec8163": {
+   "index": "dc",
+   "px": 9542163,
+   "direct_frac": 0.529
+  },
+  "#b6c342": {
+   "index": "ap",
+   "px": 194492,
+   "direct_frac": 0.55
+  },
+  "#c5c0aa": {
+   "index": "b",
+   "px": 395130,
+   "direct_frac": 0.429
+  },
+  "#9987ad": {
+   "index": "PREQ",
+   "px": 12967,
+   "direct_frac": 0.198
+  }
+ },
+ "confusable_pairs": [
+  [
+   "aIV",
+   "aIII2-4",
+   7.2
+  ],
+  [
+   "apIV",
+   "vIV",
+   7.4
+  ],
+  [
+   "cIII+IV",
+   "ds",
+   6.6
+  ],
+  [
+   "aIII1",
+   "aII",
+   3.9
+  ],
+  [
+   "aII",
+   "aII2-4",
+   4.7
+  ],
+  [
+   "aII2-4",
+   "aII1",
+   4.4
+  ],
+  [
+   "aII1",
+   "aI1",
+   7.1
+  ],
+  [
+   "aI2?",
+   "aI1",
+   7.8
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 120
+}

@@ -1,0 +1,30 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#fefe7d,aIV,floodplain alluvium,F,,mixed,,"GGK-1000/3 R-(45)-47 Norilsk 2000 (new series), Quaternary map, RASTER (geokniga JPG 11594x8269); frame 87-102E 68-72N; floodplain alluvium"
+1,#fae585,pIV,proluvium,F,,gravel,,proluvium
+2,#a9f4fc,lIV,lacustrine,L,,fines,,lacustrine
+3,#525d5b,tIV,technogenic,X,,mixed,,technogenic
+4,#d3f68f,a1IIIsr-IV,1st terrace alluvium,F,,mixed,,1st terrace alluvium
+5,#68c2f8,lIIIsr-IV,lacustrine,L,,fines,,lacustrine
+6,#fcfd77,vIIIsr-IV,eolian,E,,sand,,eolian
+7,#bc50bc,eIII-IV,eluvium,W,,bouldery,,eluvium
+8,#fb9040,dIII-IV,deluvium,C,,mixed,,deluvium
+9,#f45fa9,"e,dIII-IV",eluvium and deluvium,W,C,bouldery,,eluvium and deluvium
+10,#fb102c,cIII-IV,colluvium,C,,bouldery,,colluvium
+11,#f9323e,dcIII-IV,deluvial-colluvial,C,,bouldery,,deluvial-colluvial
+12,#f7626c,dsIII-IV,deluvial-solifluxion,C,,mixed,,deluvial-solifluxion
+13,#aae05c,a2IIIsr,2nd terrace alluvium,F,,mixed,,2nd terrace alluvium
+14,#b0c960,fIIIsr,Sartan glaciofluvial,GF,,gravel,,Sartan glaciofluvial
+15,#f79a7f,gIIIsr2,Sartan till upper,T,,bouldery,,Sartan till upper
+16,#70c8db,lgIIIsr2,Sartan glaciolacustrine upper,GL,,fines,,Sartan glaciolacustrine upper
+17,#f7846b,gIIIsr1,Sartan till lower,T,,bouldery,,Sartan till lower
+18,#50b8da,lgIIIsr1,Sartan glaciolacustrine lower,GL,,fines,,Sartan glaciolacustrine lower
+19,#6fbc48,aIIIkr,Karga alluvium,F,,mixed,,Karga alluvium
+20,#31a2fb,lIIIkr,Karga lacustrine,L,,fines,,Karga lacustrine
+21,#dc5849,gIIImr,Muruktin till,T,,bouldery,,Muruktin till
+22,#a2c756,fIIImr,Muruktin glaciofluvial,GF,,gravel,,Muruktin glaciofluvial
+23,#47b8e0,lgIIImr,Muruktin glaciolacustrine,GL,,fines,,Muruktin glaciolacustrine
+24,#45a73b,aIIIkz,Kazantsevo alluvium,F,,mixed,,Kazantsevo alluvium
+25,#6b8df8,mIIIkz,Kazantsevo marine,M,,mixed,,Kazantsevo marine
+26,#c73735,gIIs+t,Samarovo-Taz till,T,,bouldery,,Samarovo-Taz till
+27,#0d748b,lgIIs+t,Samarovo-Taz glaciolacustrine,GL,,fines,,Samarovo-Taz glaciolacustrine
+28,#7d2fa3,PREQ,"pre-Quaternary rocks, locally with colluvium",R,C,bouldery,,"pre-Quaternary rocks, locally with colluvium"

@@ -1,0 +1,18 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#fefec7,A,"Alluvium: silt, sand, gravel, cobbles, boulders in modern drainage",F,,mixed,,"GSC Map 1632A Mansel Island (Aylsworth & Shilts 1987), 1:125k UTM NAD27; legend inside the frame (excluded); split boxes X/R = 20-80% bedrock outcrop -> hclass2 R; TL corner label misprinted 63d30 (frame is 61d30-62d30N); "
+1,#98bfb7,MO,"Deepwater marine sediments and post-depositional organic cover, undifferentiated",M,O,fines,,
+2,#77aab2,MO/R,"Deepwater marine sediments, undetermined thickness, 20-80% bedrock outcrop",M,R,fines,,veneer
+3,#fcf540,Mr,"Nearshore sediments: beaches, bars, spits (Mr, Mrl)",M,,gravel,,
+4,#ecb452,Mr/R,"Nearshore sediments, 20-80% bedrock outcrop",M,R,gravel,,veneer
+5,#92bdea,MrO,Nearshore beach ridges with intervening peaty organic flats,M,O,gravel,,
+6,#7fa2c4,MrO/R,"Nearshore ridges and organic flats, 20-80% bedrock outcrop",M,R,gravel,,veneer
+7,#7cb5f3,Mw,Sand sheet deposited on the coastal plain by migrating shoreline,M,,sand,,
+8,#539eec,Md,"Deltaic sediments: uplifted deltaic sand and gravel (Md, Mdr)",M,F,sand,,
+9,#e55c60,G,Glaciofluvial ice-contact sand and gravel (eskers),GF,,gravel,,
+10,#a5c453,Th,Hummocky till,T,,diamicton,,
+11,#85ae56,Th/R,"Hummocky till, undetermined thickness, 20-80% bedrock outcrop",T,R,diamicton,,veneer
+12,#a1c69b,Tr,Ribbed (Rogen) moraine,T,,diamicton,,
+13,#7fae94,Tr/R,"Ribbed moraine, undetermined thickness, 20-80% bedrock outcrop",T,R,diamicton,,veneer
+14,#689f75,TM,"Till and marine sediments, undifferentiated",T,M,diamicton,,
+15,#dd86ad,TM/R,"Till and marine sediments, 20-80% bedrock outcrop",T,R,diamicton,,veneer
+16,#e56a9d,R,Ordovician and Silurian carbonate rocks: >80% outcrop or felsenmeer,R,,,,

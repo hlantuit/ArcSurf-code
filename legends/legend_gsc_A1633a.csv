@@ -1,0 +1,18 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#fefeb7,A,"Alluvium: silt, sand, gravel, cobbles, boulders in channels or on floodplains",F,,mixed,,"GSC Map 1633A Coats Island (Aylsworth & Shilts 1987), 1:125k UTM NAD27; legend inside the frame (excluded); split boxes X/R = 20-80% bedrock outcrop -> hclass2 R; "
+1,#fefebc,Af,"Alluvial fan sediments: sand, gravel, boulders",F,,gravel,,
+2,#a0c3af,MO,"Deepwater marine sediments and post-depositional organic cover, undifferentiated",M,O,fines,,
+3,#89b9b8,MO/R,"Deepwater marine sediments, undetermined thickness, 20-80% bedrock outcrop",M,R,fines,,veneer
+4,#fbf42d,Mr,"Nearshore sediments: beaches, bars, spits (Mr, Mr1)",M,,gravel,,
+5,#f9c24a,Mr/R,"Nearshore sediments, 20-80% bedrock outcrop",M,R,gravel,,veneer
+6,#9ac2ee,MrO,Nearshore beach ridges with intervening peaty organic flats,M,O,gravel,,
+7,#87a6cb,MrO/R,"Nearshore ridges and organic flats, 20-80% bedrock outcrop",M,R,gravel,,veneer
+8,#7fb9f9,Mw,Sand sheet deposited on the coastal plain by migrating shoreline,M,,sand,,
+9,#579ff1,Md,"Deltaic sediments: uplifted deltaic sand and gravel (Md, Mdr)",M,F,sand,,
+10,#e25059,G,Glaciofluvial ice-contact sand and gravel (eskers),GF,,gravel,,
+11,#6c9f4e,T,Till plain: calcareous clay- and silt-rich till,T,,diamicton,,
+12,#e98fba,T/R,"Till, undetermined thickness, 20-80% bedrock outcrop",T,R,diamicton,,veneer
+13,#82ac49,Th,Hummocky till,T,,diamicton,,
+14,#639766,TM,"Till and marine sediments, undifferentiated",T,M,diamicton,,
+15,#db87b0,TM/R,"Till and marine sediments, 20-80% bedrock outcrop",T,R,diamicton,,veneer
+16,#e46ca2,R,Bedrock: >80% frost-shattered outcrop or felsenmeer (carbonates; Precambrian granite gneiss),R,,,,

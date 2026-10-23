@@ -1,0 +1,14 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#d9d6c0,plH,bog peat,O,,organic,,"GGK-200/2 P-39-XIV, Vychegda, Quaternary map, vector PDF (geokniga)"
+1,#f2f5cf,apH,floodplain alluvium,F,,sand,,
+2,#eff1b8,a1H,1st terrace alluvium,F,,sand,,
+3,#e2eec3,ap+1H,floodplain and 1st terrace undivided,F,,sand,,
+4,#b5dfcd,"a,la2IIIbz-pl",Byzovaya-Polar 2nd terrace,F,L,sand,,
+5,#a6d9c4,"a,la3IIIsl-ls",Sula-Laya 3rd terrace,F,L,sand,,
+6,#92d3c9,lgIIvc,Vychegda glaciolimnic,GL,,fines,,
+7,#bbc793,fIIvc,Vychegda glaciofluvial,GF,,sand,,
+8,#e8b995,gIIvc,Vychegda moraine,T,,diamicton,,
+9,#c4c491,"f,a,laIIpc-rd",Pechora-Rodionovo (section only),GF,F,sand,,
+10,#bcac8b,"g,lgIIpc",Pechora moraine (section only),T,GL,diamicton,,
+11,#62c2a0,"a,laIIcr",Chirva alluvium (section only),F,L,sand,,
+12,#a677b4,PREQ,pre-Quaternary (section only),R,,,,

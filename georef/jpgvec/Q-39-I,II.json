@@ -1,0 +1,275 @@
+{
+ "sheet": "Q-39-I,II",
+ "source": "raster scan",
+ "projection": "eqdc",
+ "rms_m": 16.046746336110544,
+ "max_res_m": 16.266163327491086,
+ "m_per_px": 16.931228780873184,
+ "corner_residuals_m": [
+  16.3,
+  16.3,
+  15.8,
+  15.8
+ ],
+ "corners": [
+  {
+   "approx": [
+    2750.0,
+    823.0
+   ],
+   "snapped": [
+    2750.0,
+    823.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    7692.0,
+    823.0
+   ],
+   "snapped": [
+    7692.0,
+    823.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    7760.0,
+    5213.0
+   ],
+   "snapped": [
+    7760.0,
+    5213.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    2680.0,
+    5213.0
+   ],
+   "snapped": [
+    2680.0,
+    5213.0
+   ],
+   "ok": false
+  }
+ ],
+ "frame_sag_px": 20.5,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/Q-39-I,II/q-39-i-ii-indiga-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federacii-i_1.jpg Q-39-I,II ../sources/legend_Q-39-I,II.csv ../work/facefix/Q-39-I,II.gpkg --datum 4284 --corners '2750,823;7692,823;7760,5213;2680,5213' --mmu 60",
+ "unassigned_before_fill": 0.118,
+ "area_km2": 6308.551991662285,
+ "neatline_km2": 6308.735387040358,
+ "cover_frac": 0.9999709299301967,
+ "n_polygons": 7669,
+ "units": {
+  "#b583b4": {
+   "index": "eH",
+   "px": 68373,
+   "direct_frac": 0.354
+  },
+  "#bed48c": {
+   "index": "aH",
+   "px": 200798,
+   "direct_frac": 0.847
+  },
+  "#82c2e8": {
+   "index": "lH",
+   "px": 238262,
+   "direct_frac": 0.91
+  },
+  "#a7a479": {
+   "index": "plH",
+   "px": 324985,
+   "direct_frac": 0.855
+  },
+  "#f6e883": {
+   "index": "vH",
+   "px": 118268,
+   "direct_frac": 0.908
+  },
+  "#7da4d3": {
+   "index": "mH",
+   "px": 5971527,
+   "direct_frac": 0.965
+  },
+  "#9ab8de": {
+   "index": "mHnb",
+   "px": 410232,
+   "direct_frac": 0.782
+  },
+  "#a6cec5": {
+   "index": "amHnb",
+   "px": 503502,
+   "direct_frac": 0.813
+  },
+  "#c7dba8": {
+   "index": "aH2",
+   "px": 236407,
+   "direct_frac": 0.861
+  },
+  "#bed69a": {
+   "index": "aH1",
+   "px": 86423,
+   "direct_frac": 0.877
+  },
+  "#e39f73": {
+   "index": "edIII-H",
+   "px": 106590,
+   "direct_frac": 0.93
+  },
+  "#7bbbe1": {
+   "index": "l,lgIII-H",
+   "px": 939205,
+   "direct_frac": 0.914
+  },
+  "#859dc9": {
+   "index": "l,mIII-H?",
+   "px": 981612,
+   "direct_frac": 0.917
+  },
+  "#cf9a74": {
+   "index": "gIIIpl",
+   "px": 8107466,
+   "direct_frac": 0.775
+  },
+  "#b8c57f": {
+   "index": "fIIIpl",
+   "px": 1139793,
+   "direct_frac": 0.943
+  },
+  "#89c4bc": {
+   "index": "lgIIIpl",
+   "px": 536508,
+   "direct_frac": 0.698
+  },
+  "#7c9bcc": {
+   "index": "mIIItj-bz?",
+   "px": 1899,
+   "direct_frac": 0.481
+  },
+  "#89c1a8": {
+   "index": "a,lIIItj-bz?",
+   "px": 20403,
+   "direct_frac": 0.702
+  },
+  "#6d91c5": {
+   "index": "mIIIsl",
+   "px": 15043,
+   "direct_frac": 0.491
+  },
+  "#c88c65": {
+   "index": "gIIvc",
+   "px": 1113510,
+   "direct_frac": 0.363
+  },
+  "#7bbcb1": {
+   "index": "lgIIvc?",
+   "px": 19674,
+   "direct_frac": 0.302
+  },
+  "#9c7a5f": {
+   "index": "gmIIvc?",
+   "px": 198338,
+   "direct_frac": 0.469
+  },
+  "#5f88c0": {
+   "index": "mIIrd",
+   "px": 73489,
+   "direct_frac": 0.78
+  },
+  "#bf7d55": {
+   "index": "gIIpc",
+   "px": 4068,
+   "direct_frac": 0.562
+  },
+  "#9a7eb1": {
+   "index": "PREQ",
+   "px": 651317,
+   "direct_frac": 0.863
+  }
+ },
+ "confusable_pairs": [
+  [
+   "aH",
+   "aH1",
+   6.3
+  ],
+  [
+   "aH",
+   "fIIIpl",
+   5.9
+  ],
+  [
+   "lH",
+   "l,lgIII-H",
+   2.5
+  ],
+  [
+   "mH",
+   "l,mIII-H?",
+   4.8
+  ],
+  [
+   "mH",
+   "mIIItj-bz?",
+   4.0
+  ],
+  [
+   "mH",
+   "mIIIsl",
+   7.8
+  ],
+  [
+   "amHnb",
+   "lgIIIpl",
+   7.7
+  ],
+  [
+   "aH2",
+   "aH1",
+   5.5
+  ],
+  [
+   "l,mIII-H?",
+   "mIIItj-bz?",
+   3.5
+  ],
+  [
+   "l,mIII-H?",
+   "mIIIsl",
+   7.5
+  ],
+  [
+   "gIIIpl",
+   "gIIvc",
+   5.9
+  ],
+  [
+   "lgIIIpl",
+   "lgIIvc?",
+   4.3
+  ],
+  [
+   "mIIItj-bz?",
+   "mIIIsl",
+   4.6
+  ],
+  [
+   "mIIIsl",
+   "mIIrd",
+   4.5
+  ],
+  [
+   "gIIvc",
+   "gIIpc",
+   6.2
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

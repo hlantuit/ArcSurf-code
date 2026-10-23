@@ -1,0 +1,16 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#bd66a8,e,eluvium,W,,bouldery,,"GGK-1000/3 U-41-44 (Franz Josef Land, eastern islands), Quaternary map, vector PDF (geokniga); ice/firn is a dotted pattern on white (not captured -> I from RGI per ice decision)"
+1,#f79557,"e,d",eluvium and deluvium,W,C,bouldery,,
+2,#f5846e,"d,s",deluvium and solifluxion,C,,fines,,
+3,#cbda93,fH,glaciofluvium,GF,,gravel,,
+4,#e8b995,gH,till,T,,diamicton,,
+5,#a0c3e7,mH,"marine (incl. undalluvium, declivium, nepheloid shelf units)",M,,mixed,,
+6,#c59cc8,"g,gmIII-H",glacial and glaciomarine,GM,T,fines,,
+7,#8ca6d1,"G,mIII-H",glaciogenic and marine,GM,M,fines,,
+8,#7bafde,mIII-H,"marine (incl. declivium, turbidite)",M,,fines,,
+9,#7a99ca,mtIII-H,marine turbidite (hatched swatch fill),M,,fines,,
+10,#659ad2,mdII-H,marine declivium / turbidite,M,,fines,,
+11,#60a3d9,mIII,marine,M,,sand,,
+12,#6991cb,mdI-II,marine declivium (scheme),M,,fines,,
+13,#4b83c3,mdE,marine declivium (scheme),M,,fines,,
+14,#a677b4,PREQ,pre-Quaternary,R,,,,

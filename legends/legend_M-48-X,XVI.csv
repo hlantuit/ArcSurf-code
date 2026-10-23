@@ -1,0 +1,30 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#bf80af,e,eluvium,W,,bouldery,,"GGK-200/2 M-48-X,XVI (Tashir), Selenga series, Neogene-Quaternary map, vector PDF (geokniga q1_5)"
+1,#f0a47a,"e,d",eluvium and deluvium,W,C,mixed,,
+2,#c28eb9,E,"eluvium, desertion and solifluxion",W,C,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+3,#f0a26b,d,deluvium,C,,mixed,,
+4,#eb8870,C,"colluvium, desertion and deluvium",C,,mixed,,
+5,#e4634b,c,colluvium,C,,bouldery,,
+6,#ec9173,"c,d",colluvium and deluvium,C,,mixed,,
+7,#ee9792,"c,dr",colluvium and desertion,C,,bouldery,,
+8,#f6c481,"v,d",aeolian and deluvial,E,C,sand,,
+9,#e2efc2,aH2,low floodplain and channel alluvium,F,,mixed,,
+10,#d1e7b5,aH1,high floodplain alluvium,F,,sand,,
+11,#bddfaa,aH,floodplain and channel alluvium,F,,gravel,,
+12,#87c7ec,lbH,"lacustrine-biogenic, peat",L,O,mixed,,
+13,#fef487,vH,aeolian,E,,sand,,
+14,#d6bb82,"a,dIII-H",alluvial and deluvial,F,C,sand,,
+15,#ecc68d,"p,dIII-H",proluvial and deluvial,F,C,mixed,,
+16,#e6df8f,"a,pIII-H",alluvial and proluvial,F,,mixed,,
+17,#ed9786,"d,sIII-H",deluvium and solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+18,#a7d59d,a1IIIos-H,Oshurkovo 1st terrace alluvium,F,,sand,,
+19,#ab896e,gIIIos,Oshurkovo till,T,,bouldery,,
+20,#8bc990,a2IIIst-os,2nd terrace alluvium,F,,sand,,
+21,#9f7a5c,gIIItm,Tompa till,T,,diamicton,,
+22,#79c280,a3IIIsv-tm,3rd terrace alluvium,F,,gravel,,
+23,#f5bb70,"v,pdII-III",aeolian and proluvial-deluvial loess-like,E,F,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+24,#64ba6d,a5II1-3kj,Krivoyar 5th terrace alluvium,F,,sand,,
+25,#009f80,laE-II?,lake-alluvial terrace ridges,L,F,fines,,
+26,#009d59,aPgl-E?,slope and ancient-valley alluvium,F,,gravel,,
+27,#e4b26c,pdPgltl,Tologoi proluvial-deluvial red clays,F,C,fines,,
+28,#996aa2,PREQ,pre-Pliocene,R,,,,

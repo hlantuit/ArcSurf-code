@@ -1,0 +1,11 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#fbface,aH,floodplain alluvium,F,,sand,,"GGK-200/2 P-43 West Siberian series (Tyumen-Salekhard subseries), Pliocene-Quaternary map, RASTER (geokniga JPG); series legend shared by P-43-XVI/XVII/XVIII/XXII/XXIII; the green diagonal 'peat up to 5 m' cover hatch (most of the map) is NOT captured: units are the substrate, the hatch is cover -> O cover missing"
+1,#f1f8c4,a1IIIsr-H,Sartan 1st terrace alluvium,F,,sand,,
+2,#e8f6b6,a2IIIkr,Karginsky 2nd terrace alluvium,F,,sand,,
+3,#b7efdb,la3IIIer,Ermakovo lake-alluvial 3rd terrace,L,F,sand,,
+4,#a4e9d1,la4II-IIItz-kz,Taz-Kazantsevo lake-alluvial 4th terrace,L,F,sand,,
+5,#88b9da,lmIIsh-tz,Shirta-Taz lacustrine-marine regressive sands,L,M,sand,,
+6,#cdee8e,aIItb,Tobolsk alluvium,F,,sand,,
+7,#ace88d,aItl,Talagaika alluvium,F,,sand,,
+8,#d998df,gmN2ig,Inguyagun ice-marine (sections only),GM,,diamicton,,
+9,#c27bd4,PREQ,pre-Pliocene loose rocks,R,,,,

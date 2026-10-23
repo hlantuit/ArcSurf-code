@@ -1,0 +1,74 @@
+{
+ "sheet": "N-54-XXX",
+ "projection": "eqdc",
+ "rms_m": 0.1906793794809648,
+ "max_res_m": 0.31158139146669583,
+ "m_per_pt": 70.5558900796284,
+ "frame_hausdorff_after_snap_m": 2.43032627182305,
+ "n_polygons": 368,
+ "area_km2": 4980.903296237202,
+ "neatline_km2": 4981.125479330738,
+ "gap_frac": 3.4596999361164764e-05,
+ "area_by_index": {
+  "a3III2": 0.3,
+  "aH2": 77.9,
+  "amIII2": 11.5,
+  "amdH": 26.6,
+  "d,cIII-H": 90.4,
+  "dIII-H": 50.7,
+  "e,dIII-H": 150.6,
+  "eIII-H": 187.3,
+  "lH2": 27.3,
+  "laH2": 3.1,
+  "m1H2": 26.3,
+  "m2H1": 40.8,
+  "m3III2": 109.0,
+  "mvl,plH2": 15.3,
+  "mvprH|mpH|mfdH|mnlH": 3968.4,
+  "plH(cover)/amIII2": 9.2,
+  "plH(cover)/m1H2": 3.3,
+  "plH(cover)/m2H1": 1.0,
+  "plH(cover)/mvl,plH2": 4.9,
+  "plH2": 163.8,
+  "vH2": 13.2
+ },
+ "non_legend_colours": [
+  [
+   "#ffffff",
+   148506.74110633507
+  ],
+  [
+   "#231f20",
+   83376.71431315038
+  ],
+  [
+   "#0066b3",
+   21470.386671261862
+  ],
+  [
+   "#8b9414",
+   523.4912192542106
+  ],
+  [
+   "#e0871a",
+   34.05901845917106
+  ]
+ ],
+ "datum": "EPSG:4284 assumed",
+ "hatch": {
+  "#00b08d": {
+   "pseudo_fill": "#00b08e",
+   "n_segments": 88,
+   "spacing_pt": 4.01,
+   "pieces_whole": 5,
+   "pieces_partial": 3,
+   "area_frac": 0.0037,
+   "hatched_by_orig_fill_frac": {
+    "#7cccbf": 0.00186,
+    "#afd5f1": 0.00098,
+    "#b0cbea": 0.00066,
+    "#8fb9e3": 0.0002
+   }
+  }
+ }
+}

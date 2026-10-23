@@ -1,0 +1,17 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#fbdbc1,"e,d",eluvial and deluvial rubbly loams with blocks,W,C,bouldery,,"GGK-200/2 Q-54-XXIX,XXX (Predporozhny), Yana-Indigirka series, RASTER (geokniga JPG 13098x9104); two districts share fills (alluvial units F either way); paired swatches sampled half by half"
+1,#fbbe84,"c,d",colluvial and deluvial rubble with loams,C,,bouldery,,
+2,#fcaa58,c,colluvial rubbly loams with blocks,C,,bouldery,,
+3,#fbd0a6,s,solifluxion rubbly loams,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+4,#faa46d,"d,s",deluvial and solifluxion rubbly loams,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+5,#f7b5b4,tH2,technogenic: dredge tailings and dumps,X,,mixed,,
+6,#ebef98,aH2,channel and floodplain alluvium,F,,gravel,,
+7,#dbe357,a1H1,1st terrace alluvium with peat,F,,gravel,,
+8,#dae081,a2IIIsr,Sartan 2nd terrace alluvium,F,,gravel,,
+9,#ebd8be,gIIIsr,Sartan till,T,,bouldery,,
+10,#e3dc79,aIIIml,Molotkov alluvium,F,,gravel,,
+11,#cba266,gIIIoj,Oiyagoss till,T,,bouldery,,
+12,#e8d242,fIIIoj,Oiyagoss glaciofluvial,GF,,gravel,,
+13,#d5d712,aIII1,1st-step alluvium,F,,gravel,,
+14,#d1cd31,aIIal,Albyn alluvium,F,,gravel,,
+15,#c5c142,aE-Iol,Oler alluvium,F,,gravel,,

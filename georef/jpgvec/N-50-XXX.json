@@ -1,0 +1,144 @@
+{
+ "sheet": "N-50-XXX",
+ "source": "raster scan",
+ "projection": "eqdc",
+ "rms_m": 24.040217743420747,
+ "max_res_m": 45.458651288547095,
+ "m_per_px": 36.021309046112734,
+ "corner_residuals_m": [
+  17.1,
+  22.3,
+  45.5,
+  39.5,
+  25.4,
+  25.8,
+  13.9,
+  7.3,
+  17.5,
+  22.7,
+  38.3,
+  27.4,
+  10.9,
+  3.5,
+  30.2,
+  14.4,
+  25.4,
+  11.2,
+  17.8,
+  33.5,
+  25.6,
+  18.9,
+  27.8,
+  4.5,
+  12.8
+ ],
+ "n_ties": 21,
+ "corners": [
+  {
+   "approx": [
+    68.8,
+    132.6
+   ],
+   "snapped": [
+    68.8,
+    132.6
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1917.7,
+    125.9
+   ],
+   "snapped": [
+    1917.7,
+    125.9
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1940.5,
+    2190.9
+   ],
+   "snapped": [
+    1940.5,
+    2190.9
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    62.9,
+    2198.0
+   ],
+   "snapped": [
+    62.9,
+    2198.0
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.107,
+ "area_km2": 4974.408594079502,
+ "neatline_km2": 4981.155076443352,
+ "cover_frac": 0.9986455988098513,
+ "n_polygons": 4511,
+ "units": {
+  "#de9adb": {
+   "index": "e",
+   "px": 115249,
+   "direct_frac": 0.794
+  },
+  "#fb939c": {
+   "index": "d",
+   "px": 551133,
+   "direct_frac": 0.87
+  },
+  "#f8c098": {
+   "index": "e,d",
+   "px": 116823,
+   "direct_frac": 0.861
+  },
+  "#f19686": {
+   "index": "c",
+   "px": 698394,
+   "direct_frac": 0.832
+  },
+  "#f28d70": {
+   "index": "c,d",
+   "px": 1513229,
+   "direct_frac": 0.859
+  },
+  "#f28483": {
+   "index": "d,s",
+   "px": 498281,
+   "direct_frac": 0.801
+  },
+  "#e0edb8": {
+   "index": "aH|a1III4|a2III3-4|a2III3",
+   "px": 173547,
+   "direct_frac": 0.646
+  },
+  "#acd940": {
+   "index": "a3III2|a4III1-2|aII|a6IIhb",
+   "px": 50303,
+   "direct_frac": 0.58
+  },
+  "#b570c7": {
+   "index": "PREQ",
+   "px": 114849,
+   "direct_frac": 0.495
+  },
+  "#e6f5f8": {
+   "index": "WATER",
+   "px": 16256,
+   "direct_frac": 0.672
+  }
+ },
+ "confusable_pairs": [],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 30
+}

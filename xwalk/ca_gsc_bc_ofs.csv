@@ -1,0 +1,32 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+EOF2011-2|Af,F,,unknown,unknown,unknown,EOF 2011-2 Af: GSC terrain symbol A (genetic) + f
+EOF2011-2|Ap,F,,unknown,unknown,unknown,EOF 2011-2 Ap: GSC terrain symbol A (genetic) + p
+EOF2011-2|At,F,,unknown,unknown,unknown,EOF 2011-2 At: GSC terrain symbol A (genetic) + t
+EOF2011-2|C,C,,unknown,unknown,unknown,EOF 2011-2 C: GSC terrain symbol C (genetic) + -
+EOF2011-2|Cv,C,,unknown,veneer,unknown,EOF 2011-2 Cv: GSC terrain symbol C (genetic) + v
+EOF2011-2|E,E,,sand,unknown,unknown,EOF 2011-2 E: GSC terrain symbol E (genetic) + -
+EOF2011-2|GFf,GF,,unknown,unknown,unknown,EOF 2011-2 GFf: GSC terrain symbol GF (genetic) + f
+EOF2011-2|GFh,GF,,unknown,unknown,unknown,EOF 2011-2 GFh: GSC terrain symbol GF (genetic) + h
+EOF2011-2|GFp,GF,,unknown,unknown,unknown,EOF 2011-2 GFp: GSC terrain symbol GF (genetic) + p
+EOF2011-2|GLb,GL,,unknown,blanket,unknown,EOF 2011-2 GLb: GSC terrain symbol GL (genetic) + b
+EOF2011-2|GLb_Tb,GL,T,unknown,blanket,unknown,EOF 2011-2 GLb_Tb: GSC terrain symbol GL (genetic) + b; 2nd component Tb -> T
+EOF2011-2|GLb_Tv,GL,T,unknown,blanket,unknown,EOF 2011-2 GLb_Tv: GSC terrain symbol GL (genetic) + b; 2nd component Tv -> T
+EOF2011-2|GLv_Tb,GL,T,unknown,veneer,unknown,EOF 2011-2 GLv_Tb: GSC terrain symbol GL (genetic) + v; 2nd component Tb -> T
+EOF2011-2|R,R,,unknown,unknown,unknown,EOF 2011-2 R: GSC terrain symbol R (genetic) + -
+EOF2011-2|River,H,,unknown,unknown,unknown,EOF 2011-2 River: water body
+EOF2011-2|Tb,T,,unknown,blanket,unknown,EOF 2011-2 Tb: GSC terrain symbol T (genetic) + b
+EOF2011-2|Tv,T,,unknown,veneer,unknown,EOF 2011-2 Tv: GSC terrain symbol T (genetic) + v
+OF2270|Af,F,,diamicton,unknown,unknown,OF D2270 93N Af fan sediments: DEPOSIT Alluvial (Fluvial); texture sand and gravel; with diamicton
+OF2270|Ap,F,,mixed,unknown,unknown,OF D2270 93N Ap floodplain sediments: DEPOSIT Alluvial (Fluvial); texture sand and silt
+OF2270|At,F,,mixed,unknown,unknown,OF D2270 93N At terrace sediments: DEPOSIT Alluvial (Fluvial); texture sand and gravel
+OF2270|Au,F,,mixed,unknown,unknown,OF D2270 93N Au alluvial sediments; undivided: DEPOSIT Alluvial (Fluvial); texture sand and gravel
+OF2270|Ca,C,,unknown,unknown,unknown,OF D2270 93N Ca colluvial apron and talus: DEPOSIT Colluvial; texture rubble and blocks
+OF2270|Cs,C,,unknown,unknown,unknown,OF D2270 93N Cs slope colluvium: DEPOSIT Colluvial; texture rock fragments
+OF2270|Gh,GF,,mixed,unknown,unknown,OF D2270 93N Gh ice contact deposits: DEPOSIT Glaciofluvial; texture sand and gravel
+OF2270|Gt,GF,,mixed,unknown,unknown,OF D2270 93N Gt glaciofluvial terrace sediments: DEPOSIT Glaciofluvial; texture sand and gravel
+OF2270|O,O,,organic,unknown,unknown,OF D2270 93N O organic deposits: DEPOSIT Organic; texture n/a
+OF2270|R,R,,unknown,unknown,unknown,OF D2270 93N R bedrock: DEPOSIT Bedrock; texture n/a
+OF2270|Rs,R,,unknown,unknown,unknown,OF D2270 93N Rs steep bedrock slopes: DEPOSIT Bedrock; texture bedrock outcrops and blocks
+OF2270|Tb,T,,diamicton,blanket,unknown,OF D2270 93N Tb till blanket: DEPOSIT Till; texture diamicton
+OF2270|Tv,T,,diamicton,veneer,unknown,OF D2270 93N Tv till veneer: DEPOSIT Till; texture diamicton
+OF2270|Tv-c,T,,diamicton,veneer,unknown,OF D2270 93N Tv-c till veneer: DEPOSIT Till; texture diamicton

@@ -1,0 +1,77 @@
+{
+ "sheet": "Q-54_g3",
+ "projection": "lcc",
+ "rms_m": 18.66243318540047,
+ "max_res_m": 44.22908434305829,
+ "m_per_pt": 352.8424046833019,
+ "frame_hausdorff_after_snap_m": 40.17514139173973,
+ "n_polygons": 1238,
+ "area_km2": 120998.90762752488,
+ "neatline_km2": 121489.20976707962,
+ "gap_frac": 0.004004201085230017,
+ "area_by_index": {
+  "LIIIed": 133.3,
+  "PREQ": 7401.3,
+  "a,fIIIht-H|aIIal": 883.5,
+  "a,laEII-Iol": 1712.2,
+  "a,laII-IIIms": 1186.2,
+  "a,pHol2": 30.3,
+  "a,pIIIes": 1448.0,
+  "a,pIIIht-H|a,pIIIsr-H": 3102.1,
+  "a1IIIht-H1|a1IIIsr-H1": 1368.3,
+  "a2IIIht": 1668.1,
+  "a2IIIkb": 775.5,
+  "a2IIIkb+ht": 379.4,
+  "a2IIIsr": 55.4,
+  "a3IIIml": 267.7,
+  "a3IIIvc|aN2-EI": 846.7,
+  "a4II": 67.9,
+  "a5-6I": 62.9,
+  "aE-NPad": 31.7,
+  "aHol": 3433.1,
+  "aHol1": 613.4,
+  "aHol2|aH2": 958.5,
+  "aIII": 445.3,
+  "c,d": 19884.9,
+  "c,dr": 14633.0,
+  "d,dr": 7289.3,
+  "d,s": 10417.6,
+  "d,sIIIht-H": 191.7,
+  "dr,s": 19495.8,
+  "e,d": 13423.9,
+  "e,s": 246.6,
+  "fII": 450.5,
+  "fIIIht": 174.5,
+  "fIIIjg": 313.2,
+  "g,fIIIjg": 2025.5,
+  "gII": 1109.6,
+  "gIIIht": 735.2,
+  "gIIIjg": 2658.9,
+  "l,plIIIht-H|l,plIIIsr-H": 791.2,
+  "laIIIkb": 195.8,
+  "tH2": 91.4
+ },
+ "non_legend_colours": [
+  [
+   "#ccffff",
+   27624.419374777004
+  ],
+  [
+   "#ffffff",
+   1262.2140630930662
+  ],
+  [
+   "#000000",
+   29.02953163906932
+  ],
+  [
+   "#0000ff",
+   23.039296865463257
+  ],
+  [
+   "#99cc00",
+   12.4407339990139
+  ]
+ ],
+ "datum": "EPSG:4284 assumed"
+}

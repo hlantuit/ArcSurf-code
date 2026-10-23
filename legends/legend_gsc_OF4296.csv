@@ -1,0 +1,15 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#ffffd6,A,Fluvial deposits: gravel sand boulders 1-5 m; terraces and valley bottoms,F,,gravel,,"GSC OF 4296 Wordie Bay (Dredge 2003), 1:100k UTM NAD83, 2 panels (mn1 west islands, mn2 east mainland), same legend; white legend boxes = units absent; A and Mv are very pale (check paper confusion)"
+1,#80ffff,Mr,Marine beach sediments: gravel and sand 1-5 m; ridge flights,M,,gravel,,
+2,#21b9ff,Md,Marine deltaic sediments 2-15 m,M,F,sand,,
+3,#a5ffff,Mb,Marine blanket: sand and silt with ice-rafted debris 2-10 m,M,,sand,blanket,
+4,#daffff,Mv,Marine veneer 0.5-2 m over till or rock,M,T,mixed,veneer,
+5,#b6b6fc,Lv,Glaciolacustrine veneer: sandy 0.5-2 m,GL,T,sand,veneer,
+6,#ffeb7f,Gp,Glaciofluvial outwash 2-15 m,GF,,gravel,,
+7,#fe9f00,Gr,Glaciofluvial ice-contact (eskers kames) 5-20 m,GF,,gravel,,
+8,#7dff81,Th,Hummocky till 2-30 m; may contain remnant glacial ice,T,,diamicton,,
+9,#c0ff2e,Tb,Till blanket 2-10 m,T,,diamicton,blanket,
+10,#eeff76,Tv,Till veneer 0.5-2 m,T,R,diamicton,veneer,
+11,#fdd1fe,RL,Bedrock: clastic metasedimentary rocks,R,,,,
+12,#ff2cff,RB,Bedrock: mafic and ultramafic rocks,R,,,,
+13,#fca2fb,RG,Bedrock: granite and gneiss,R,,,,

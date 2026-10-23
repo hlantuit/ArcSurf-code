@@ -1,0 +1,16 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#ddc3de,"d,el-H","Неоплейстоцен, нижнее звено - голоцен нерасчлененные. Делювий и элювий. Суглинки легкие (реже пески) (до 0,3 м)",C,W,fines,,"GGK-200/2 P-38-IV (Novolavela), Mezen series, map of Neogene-Quaternary formations (recommended for publication NRS MPR RF 26.03.2002; (c) 2002; authors Rumyantseva, Cheremkhina; electronic map VSEGEI Moscow branch), RASTER: geokniga FULL-SHEET scan JPG 7639x8738 (300 dpi, ~16.9 m/px) with legend; corners measured on a map-only crop + 8 interior 15x10 graticule crossings; fills = map tints (= legend swatches, digital print); a,lII-III, laIIgr? and the Neogene units (mN2-E rsc ... aN2gg1) are section/scheme only (omitted)"
+1,#c3bea0,plH,Палюстрий нерасчлененный. Торф (до 6 м),O,,organic,,
+2,#c7dc98,aH2+3,"Средняя и верхняя части. Аллювий поймы. Пески (до 2,5 м)",F,,sand,,
+3,#bfd78b,a1H1,"Нижняя часть. Аллювий первой надпойменной террасы. Пески (реже галечники, суглинки и супеси) (до 8 м)",F,,sand,,
+4,#a3ca78,aIIIos-H,"Осташковский горизонт - голоцен нерасчлененные. Аллювий. Пески (до 3,5 м)",F,,sand,,
+5,#9ed2f7,lIIIos-H,"Осташковский горизонт - голоцен нерасчлененные. Лимний. Пески разнозернистые, слабосортированные (реже алевриты, глины и сапропели) (до 5 м)",L,,sand,,
+6,#a4d0bf,"la,a2IIIdr","Дриасовый наслой. Лимноаллювий и аллювий второй надпойменной террасы. Пески мелкозернистые, светло-коричневые, глинистые (до 5 м)",L,F,sand,,
+7,#96c9aa,"a,l3IIIvz",Важские слои. Аллювий и лимний третьей надпойменной террасы. Пески глинистые (реже галечники и суглинки) (до 9 м),F,L,sand,,
+8,#93cac4,lg4IIIcl2,"Чолминские слои. Гляциолимний четвертой террасы. Пески однородные (реже суглинки и супеси) (до 16,7 м)",GL,,sand,,
+9,#84c3ba,lg5IIIcl1,"Чолминские слои. Гляциолимний пятой террасы. Пески коричневатые, мелкозернистые, глинистые (до 10 м)",GL,,sand,,same printed colour as lgIIbb: one class (both GL)
+10,#84c3ba,lgIIbb,"Бабушкинский горизонт. Гляциолимний. Пески мелкозернистые, глинистые (реже с прослоями разнозернистых) (до 7 м)",GL,,sand,,same printed colour as lg5IIIcl1: one class (both GL)
+11,#b58766,"g,lgIIbb",Бабушкинский горизонт. Морена и гляциолимний. Суглинки красновато-коричневые (реже слоистые пески) (до 15 м),T,GL,diamicton,,
+12,#74bcb0,lgIpg,"Пичугский горизонт. Гляциолимний. Суглинки коричневые с гравием, галькой (до 10 м)",GL,,fines,,
+13,#bfdaa5,alIsg,"Шангальская свита. Аллювий. Пески серые разнозернистые с включениями валунов, гальки (до 7,4 м)",F,,sand,,legend swatch tint pinned (free calibration drifted 15 dE onto aIIIos-H)
+14,#997cb6,PREQ,Докайнозойские скальные и полускальные породы,R,,,,legend swatch tint pinned

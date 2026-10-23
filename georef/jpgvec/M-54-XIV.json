@@ -1,0 +1,133 @@
+{
+ "sheet": "M-54-XIV",
+ "source": "raster scan",
+ "projection": "eqdc",
+ "rms_m": 7.8827116263005035,
+ "max_res_m": 7.935936658795981,
+ "m_per_px": 16.925954905077212,
+ "corner_residuals_m": [
+  7.9,
+  7.9,
+  7.8,
+  7.8
+ ],
+ "corners": [
+  {
+   "approx": [
+    370.5,
+    1011.5
+   ],
+   "snapped": [
+    370.5,
+    1011.5
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    4548.5,
+    1011.5
+   ],
+   "snapped": [
+    4548.5,
+    1011.5
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    4576.5,
+    5392.5
+   ],
+   "snapped": [
+    4576.5,
+    5392.5
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    341.5,
+    5392.5
+   ],
+   "snapped": [
+    341.5,
+    5392.5
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.16,
+ "area_km2": 5273.678084592689,
+ "neatline_km2": 5280.075593716893,
+ "cover_frac": 0.9987883678915852,
+ "n_polygons": 7046,
+ "units": {
+  "#c7c7c5": {
+   "index": "tH3",
+   "px": 40129,
+   "direct_frac": 0.469
+  },
+  "#e2efc3": {
+   "index": "aH",
+   "px": 962398,
+   "direct_frac": 0.784
+  },
+  "#e8bc7d": {
+   "index": "p,dIII-H",
+   "px": 344662,
+   "direct_frac": 0.76
+  },
+  "#e49598": {
+   "index": "d,drIII-H",
+   "px": 4077833,
+   "direct_frac": 0.79
+  },
+  "#ec8878": {
+   "index": "c,dIII-H",
+   "px": 5850658,
+   "direct_frac": 0.751
+  },
+  "#f1b088": {
+   "index": "e,dIII-H",
+   "px": 1153403,
+   "direct_frac": 0.802
+  },
+  "#e7775f": {
+   "index": "cIII-H",
+   "px": 4669712,
+   "direct_frac": 0.718
+  },
+  "#c88fba": {
+   "index": "eIII-H",
+   "px": 83911,
+   "direct_frac": 0.82
+  },
+  "#d1e7b6": {
+   "index": "a1III",
+   "px": 1126742,
+   "direct_frac": 0.757
+  },
+  "#b2da9c": {
+   "index": "a2II",
+   "px": 115018,
+   "direct_frac": 0.624
+  },
+  "#996aa1": {
+   "index": "PREQ",
+   "px": 4182,
+   "direct_frac": 0.351
+  }
+ },
+ "confusable_pairs": [
+  [
+   "aH",
+   "a1III",
+   5.6
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

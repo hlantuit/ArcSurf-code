@@ -1,0 +1,11 @@
+yc,xoff,index,description_ru,hclass,hclass2,texture,note
+1302,0,aN2-Q1,Аллювиальный,F,,mixed,Pliocene-Eopleistocene alluvium
+1422,0,e,Элювиальный,W,,bouldery,eluvium
+1538,0,"e,d","Элювиальный, делювиальный",W,C,bouldery,eluvium and deluvium
+1658,0,d,Делювиальный,C,,mixed,deluvium
+1775,0,ds,Делювиально-солифлюкционный,C,,mixed,deluvial-solifluxion
+1892,0,dc,Делювиально-коллювиальный,C,,bouldery,deluvial-colluvial
+2010,0,c,Коллювиальный,C,,bouldery,colluvium
+2128,0,lb,Озерно-болотный,L,O,organic,lacustrine-palustrine
+2255,-45,PREQ,Дочетвертичные образования,R,,,pre-Quaternary
+2255,45,"PREQ,c",Дочетвертичные породы с участием коллювия,R,C,bouldery,pre-Quaternary with colluvium

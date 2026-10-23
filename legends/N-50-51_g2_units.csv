@@ -1,0 +1,32 @@
+x,y,w,index,description_ru,hclass,hclass2,texture,note
+1233,8770,150,aN2-Q1bl,Белогорская свита,F,,mixed,Belogorsk suite Pliocene-Eopleistocene alluvium
+1436,8770,150,aN2-Q1kn,Кангильская свита,F,,mixed,Kangil suite Pliocene-Eopleistocene alluvium
+1908,8770,150,aI3tn,Тындинская толща,F,,mixed,Tynda unit lower Neopleistocene alluvium
+2149,8773,150,aI,Аллювиальный,F,,mixed,lower Neopleistocene alluvium
+3339,8778,150,aII,Аллювиальный,F,,mixed,middle Neopleistocene alluvium
+3576,8778,150,aII-III,Аллювиальный,F,,mixed,middle-upper Neopleistocene alluvium
+3810,8778,150,aIII1sv,Сувинский горизонт,F,,mixed,Suvo horizon alluvium
+4290,8780,150,a2III3st,Степановский горизонт,F,,mixed,Stepanovka 2nd terrace alluvium
+4530,8780,150,a1III4os,Ошурковский горизонт,F,,mixed,Oshurkovo 1st terrace alluvium
+4762,8780,150,aIII,Аллювиальный,F,,mixed,upper Neopleistocene alluvium
+5000,8780,150,aIII-IV,Аллювиальный,F,,mixed,upper Neopleistocene-Holocene alluvium
+5230,8783,150,aIV,Аллювиальный,F,,mixed,Holocene alluvium
+5000,8687,150,cIII-IV,Коллювиальный,C,,bouldery,colluvium
+3339,9016,150,gII,Ледниковый (морена),T,,bouldery,middle Neopleistocene moraine
+4050,9018,150,gIII2tm,Томпинский горизонт,T,,bouldery,Tompa moraine
+4530,9018,150,gIII4os,Ошурковский горизонт,T,,bouldery,Oshurkovo moraine
+5478,8595,150,e,Элювиальный,W,,bouldery,eluvium
+5478,8690,150,c,Коллювиальный,C,,bouldery,colluvium
+5477,8928,150,d,Делювиальный,C,,fines,deluvium
+1673,9387,150,dsI2tn,Тындинская толща,C,,mixed,Tynda unit deluvial-solifluxion
+2863,9158,400,laII2-4kr,Кропоткинский надгоризонт,L,F,fines,Kropotkin lake-alluvium
+3810,9160,150,laIII1gl,Гилюйская свита,L,F,fines,Gilyui suite lake-alluvium
+3574,9301,150,dcII-III,Делювиально-коллювиальный,C,,bouldery,deluvial-colluvial
+3574,9396,150,dsII-III,Делювиально-солифлюкционный,C,,mixed,deluvial-solifluxion
+3573,9539,150,csII-III,Коллювиально-солифлюкционный,C,,bouldery,colluvial-solifluxion
+4997,9401,150,dsIII-IV,Делювиально-солифлюкционный,C,,mixed,deluvial-solifluxion
+5474,9307,150,dc,Делювиально-коллювиальный,C,,bouldery,deluvial-colluvial
+5474,9403,150,ds,Делювиально-солифлюкционный,C,,mixed,deluvial-solifluxion
+5474,9643,150,"e,d",Элювиально-делювиальный,W,C,bouldery,eluvium and deluvium
+5430,9738,60,PREQ,Дочетвертичные породы,R,,,pre-Quaternary
+5512,9738,60,"PREQ,c",Дочетвертичные породы местами с коллювием,R,C,bouldery,pre-Quaternary with colluvium

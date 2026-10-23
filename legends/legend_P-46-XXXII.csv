@@ -1,0 +1,14 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#cb90bf,e,eluvium,W,,mixed,,"GGK-200/2 P-46-XXXII, Tunguska (Yenisei Ridge), Quaternary map, vector PDF (geokniga); main legend = 40x20 column (auto pick was the geomorph inset)"
+1,#f26c4f,c,colluvium,C,,bouldery,,
+2,#eca5b5,dr,desertion,C,,bouldery,,
+3,#f6978f,s,solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+4,#e9919f,"dr,s",desertion and solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+5,#ea9488,"c,s",colluvium and solifluxion,C,,bouldery,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+6,#f69788,"d,s",deluvium and solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+7,#c6d1d7,tH,technogenic (placer workings),X,,mixed,,
+8,#f1f3c3,aH,floodplain alluvium,F,,gravel,,
+9,#d2ccb2,plH,bog peat,O,,organic,,
+10,#d7e7aa,a1IIIsr,Sartan 1st terrace alluvium,F,,gravel,,
+11,#d1d5e1,lEkc,Kochkovo lacustrine,L,,fines,,
+12,#a677b4,PREQ,pre-Quaternary (scheme only),R,,,,

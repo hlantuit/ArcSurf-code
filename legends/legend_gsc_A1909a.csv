@@ -1,0 +1,17 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#c4c1c2,O,Organic deposits: peat and muck up to 2 m; ice-wedge polygons and thermokarst,O,,organic,yes,"GSC Map 1909A Kikerk Lake (Dredge et al. 1998), 1:125k UTM; frame 112-114W 67-68N from the corner labels; descriptive notes printed over the western map area (text = linework, filled from neighbours); T1 re-sampled on the map face (swatch dE 11 off)"
+1,#ffe597,A,Alluvial deposits: gravel to silt 1-5 m,F,,mixed,,
+2,#468de9,M3,Marine littoral sediments: sand with pebbles 1-3 m,M,,sand,,
+3,#c6e1ff,M2,Marine blanket: silt and clay 2-30 m; segregated ice; thaw slumps,M,,fines,yes,
+4,#92c2f9,M1,Marine veneer < 2 m,M,R,fines,veneer,
+5,#74a8c3,D,Glaciomarine and marine deltas 5-20 m,GM,F,sand,,
+6,#886ca2,L,Glaciolacustrine deposits: sand 1-8 m,GL,,sand,,
+7,#fec94e,G2,Glaciofluvial outwash 2-20 m,GF,,gravel,,
+8,#fff946,G1,Glaciofluvial esker sediments 1-20 m,GF,,gravel,,
+9,#518887,T3,Hummocky till 5-30 m,T,,diamicton,,
+10,#75a7a1,T2,Till blanket 2-10 m,T,,diamicton,blanket,
+11,#8fb265,T1,Till veneer < 2 m,T,R,diamicton,veneer,
+12,#e04e8e,R5,Bedrock: flow basalt and gabbro sills,R,,,,
+13,#facec9,R4,Bedrock: sedimentary rocks,R,,,,
+14,#efa5c9,R3,Bedrock: granitoid rocks,R,,,,
+15,#f7cee5,R2,Bedrock: metasedimentary rocks,R,,,,

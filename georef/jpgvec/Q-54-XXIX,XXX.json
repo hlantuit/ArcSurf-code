@@ -1,0 +1,170 @@
+{
+ "sheet": "Q-54-XXIX,XXX",
+ "source": "raster scan",
+ "projection": "eqdc",
+ "rms_m": 16.426445601702905,
+ "max_res_m": 16.62420048635977,
+ "m_per_px": 16.931063345504576,
+ "corner_residuals_m": [
+  16.6,
+  16.6,
+  16.2,
+  16.2
+ ],
+ "corners": [
+  {
+   "approx": [
+    3890.0,
+    740.0
+   ],
+   "snapped": [
+    3890.0,
+    740.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    9395.0,
+    740.0
+   ],
+   "snapped": [
+    9395.0,
+    740.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    9460.0,
+    5125.0
+   ],
+   "snapped": [
+    9460.0,
+    5125.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    3820.0,
+    5125.0
+   ],
+   "snapped": [
+    3820.0,
+    5125.0
+   ],
+   "ok": false
+  }
+ ],
+ "frame_sag_px": 22.3,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/Q-54-XXIX,XXX/q-54-xxix-xxx-predporozhnyy-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-f_1.jpg Q-54-XXIX,XXX ../sources/legend_Q-54-XXIX,XXX.csv ../work/facefix/Q-54-XXIX,XXX.gpkg --datum 4284 --corners '3890,740;9395,740;9460,5125;3820,5125' --mmu 60",
+ "unassigned_before_fill": 0.044,
+ "area_km2": 7012.957747668315,
+ "neatline_km2": 7013.161187633341,
+ "cover_frac": 0.9999709916884009,
+ "n_polygons": 7250,
+ "units": {
+  "#fbdbc1": {
+   "index": "e,d",
+   "px": 1388268,
+   "direct_frac": 0.861
+  },
+  "#fbbe84": {
+   "index": "c,d",
+   "px": 10581077,
+   "direct_frac": 0.912
+  },
+  "#fcaa58": {
+   "index": "c",
+   "px": 4528789,
+   "direct_frac": 0.93
+  },
+  "#fbd0a6": {
+   "index": "s",
+   "px": 186288,
+   "direct_frac": 0.931
+  },
+  "#faa46d": {
+   "index": "d,s",
+   "px": 2682445,
+   "direct_frac": 0.898
+  },
+  "#f7b5b4": {
+   "index": "tH2",
+   "px": 220784,
+   "direct_frac": 0.668
+  },
+  "#ebef98": {
+   "index": "aH2",
+   "px": 679518,
+   "direct_frac": 0.656
+  },
+  "#dbe357": {
+   "index": "a1H1",
+   "px": 1102881,
+   "direct_frac": 0.825
+  },
+  "#dae081": {
+   "index": "a2IIIsr",
+   "px": 711288,
+   "direct_frac": 0.799
+  },
+  "#ebd8be": {
+   "index": "gIIIsr",
+   "px": 64596,
+   "direct_frac": 0.202
+  },
+  "#e3dc79": {
+   "index": "aIIIml",
+   "px": 265000,
+   "direct_frac": 0.803
+  },
+  "#cba266": {
+   "index": "gIIIoj",
+   "px": 1309302,
+   "direct_frac": 0.888
+  },
+  "#e8d242": {
+   "index": "fIIIoj",
+   "px": 63411,
+   "direct_frac": 0.694
+  },
+  "#d5d712": {
+   "index": "aIII1",
+   "px": 312726,
+   "direct_frac": 0.87
+  },
+  "#d1cd31": {
+   "index": "aIIal",
+   "px": 144072,
+   "direct_frac": 0.86
+  },
+  "#c5c142": {
+   "index": "aE-Iol",
+   "px": 278874,
+   "direct_frac": 0.717
+  }
+ },
+ "confusable_pairs": [
+  [
+   "e,d",
+   "gIIIsr",
+   5.5
+  ],
+  [
+   "aH2",
+   "a2IIIsr",
+   7.0
+  ],
+  [
+   "a2IIIsr",
+   "aIIIml",
+   5.9
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

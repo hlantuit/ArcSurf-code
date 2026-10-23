@@ -1,0 +1,303 @@
+{
+ "sheet": "N-57-XX",
+ "source": "raster scan",
+ "projection": "eqdc",
+ "rms_m": 8.948731088107632,
+ "max_res_m": 9.01666644015495,
+ "m_per_px": 16.932105068384093,
+ "corner_residuals_m": [
+  9.0,
+  9.0,
+  8.9,
+  8.9
+ ],
+ "corners": [
+  {
+   "approx": [
+    3767.5,
+    838.5
+   ],
+   "snapped": [
+    3767.5,
+    838.5
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    7641.5,
+    838.5
+   ],
+   "snapped": [
+    7641.5,
+    838.5
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    7671.5,
+    5220.0
+   ],
+   "snapped": [
+    7671.5,
+    5220.0
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    3738.0,
+    5220.0
+   ],
+   "snapped": [
+    3738.0,
+    5220.0
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.117,
+ "area_km2": 4899.333459462118,
+ "neatline_km2": 4904.5941115612395,
+ "cover_frac": 0.998927403169465,
+ "n_polygons": 6273,
+ "units": {
+  "#efbce9": {
+   "index": "eH",
+   "px": 885171,
+   "direct_frac": 0.743
+  },
+  "#ffd4b0": {
+   "index": "dH",
+   "px": 189562,
+   "direct_frac": 0.812
+  },
+  "#ffc1a5": {
+   "index": "e,dH|cH",
+   "px": 5916924,
+   "direct_frac": 0.731
+  },
+  "#e2ad94": {
+   "index": "cgH",
+   "px": 891065,
+   "direct_frac": 0.719
+  },
+  "#fb9d89": {
+   "index": "csH",
+   "px": 173290,
+   "direct_frac": 0.385
+  },
+  "#ffa980": {
+   "index": "c,dH",
+   "px": 368586,
+   "direct_frac": 0.648
+  },
+  "#f0ca9a": {
+   "index": "dlH",
+   "px": 93014,
+   "direct_frac": 0.693
+  },
+  "#ffc3bc": {
+   "index": "sH",
+   "px": 182558,
+   "direct_frac": 0.76
+  },
+  "#e8bba5": {
+   "index": "dl,sH",
+   "px": 134825,
+   "direct_frac": 0.725
+  },
+  "#f8e0a9": {
+   "index": "pdH",
+   "px": 27876,
+   "direct_frac": 0.719
+  },
+  "#f2d7ad": {
+   "index": "pd,dH",
+   "px": 28082,
+   "direct_frac": 0.752
+  },
+  "#f2d1aa": {
+   "index": "dlH2",
+   "px": 32236,
+   "direct_frac": 0.745
+  },
+  "#f5f4be": {
+   "index": "slH2|aH2",
+   "px": 766927,
+   "direct_frac": 0.724
+  },
+  "#f3e0b5": {
+   "index": "pkH2|pdH2",
+   "px": 634007,
+   "direct_frac": 0.671
+  },
+  "#d1cbab": {
+   "index": "plH2",
+   "px": 157007,
+   "direct_frac": 0.765
+  },
+  "#bababb": {
+   "index": "tH2",
+   "px": 3620,
+   "direct_frac": 0.403
+  },
+  "#eabf86": {
+   "index": "dlH1",
+   "px": 34017,
+   "direct_frac": 0.566
+  },
+  "#eef7b6": {
+   "index": "a1H1",
+   "px": 39214,
+   "direct_frac": 0.799
+  },
+  "#e4cc9d": {
+   "index": "pkH1",
+   "px": 83071,
+   "direct_frac": 0.799
+  },
+  "#f7da97": {
+   "index": "pdH1",
+   "px": 552818,
+   "direct_frac": 0.817
+  },
+  "#ffb091": {
+   "index": "cIII4-H",
+   "px": 1604045,
+   "direct_frac": 0.789
+  },
+  "#e1af84": {
+   "index": "gIII4|gIII2",
+   "px": 3019946,
+   "direct_frac": 0.77
+  },
+  "#e2e99e": {
+   "index": "fIII4",
+   "px": 652337,
+   "direct_frac": 0.883
+  },
+  "#acc464": {
+   "index": "vlE-Ija",
+   "px": 30391,
+   "direct_frac": 0.689
+  },
+  "#c27bd4": {
+   "index": "PREQ",
+   "px": 605644,
+   "direct_frac": 0.66
+  }
+ },
+ "confusable_pairs": [
+  [
+   "dH",
+   "dlH",
+   7.7
+  ],
+  [
+   "dH",
+   "pd,dH",
+   6.9
+  ],
+  [
+   "dH",
+   "dlH2",
+   4.6
+  ],
+  [
+   "cgH",
+   "dl,sH",
+   6.1
+  ],
+  [
+   "c,dH",
+   "cIII4-H",
+   7.1
+  ],
+  [
+   "dlH",
+   "pd,dH",
+   7.1
+  ],
+  [
+   "dlH",
+   "dlH2",
+   5.9
+  ],
+  [
+   "dlH",
+   "dlH1",
+   6.7
+  ],
+  [
+   "dlH",
+   "pkH1",
+   5.9
+  ],
+  [
+   "pdH",
+   "pd,dH",
+   7.0
+  ],
+  [
+   "pdH",
+   "pkH2|pdH2",
+   6.5
+  ],
+  [
+   "pdH",
+   "pkH1",
+   7.8
+  ],
+  [
+   "pdH",
+   "pdH1",
+   7.0
+  ],
+  [
+   "pd,dH",
+   "dlH2",
+   3.2
+  ],
+  [
+   "pd,dH",
+   "pkH2|pdH2",
+   4.1
+  ],
+  [
+   "pd,dH",
+   "pkH1",
+   5.1
+  ],
+  [
+   "dlH2",
+   "pkH2|pdH2",
+   7.2
+  ],
+  [
+   "dlH2",
+   "pkH1",
+   5.9
+  ],
+  [
+   "slH2|aH2",
+   "a1H1",
+   6.6
+  ],
+  [
+   "pkH2|pdH2",
+   "pkH1",
+   7.6
+  ],
+  [
+   "a1H1",
+   "fIII4",
+   7.3
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

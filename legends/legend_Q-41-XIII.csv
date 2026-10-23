@@ -1,0 +1,10 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#a5c287,alIV,"Аллювиальные отложения. Пойма и первая надпойменная терраса. Пески, суглинки, галечники",F,,sand,,"GGK-200/1 Q-41-XIII (Inta), Severo-Uralskaya series, Quaternary map 1st ed. 1963 (printed 1971), RASTER (geokniga 4464, JPG 3084x4776, 200 dpi, ~25 m/px) ; fill = map tint (legend swatch #abca97); 1st-edition print: map tints differ from the swatches (lpIV hatch, glIII2 hatch), so fills of the main units are map tints (k-means centres of the 5x5-median face, checked against labelled polygons); the Usa river prints in the lpIV tint (0-2 dE) and the large lakes are 17.6 dE from lpIV, so no WATER row (both read as lpIV); lalIII1 restricted to the SE and m-glmI-II to the W edge strip (--restrict): elsewhere their tints match dark valley linework"
+1,#8faaa3,lpIV,"Озерно-болотные отложения. Суглинки, супеси, торф",L,O,organic,,fill = map tint (legend swatch #a5c3ca)
+2,#98c03c,lal-fglIII3-4,"Озерно-аллювиальные и флювиогляциальные отложения. Пески, супеси, суглинки, галечники",L,GF,sand,,same printed colour as lal-fglIII2: one class
+3,#b8d464,fglIII2,"Флювиогляциальные отложения зырянского оледенения. Пески, галечники",GF,,sand,,fill = map tint (legend swatch #b7d961)
+4,#98c03c,lal-fglIII2,"Озерно-аллювиальные и флювиогляциальные отложения. Слоистые пески, суглинки, супеси",L,GF,sand,,same printed colour as lal-fglIII3-4: one class
+5,#d19b6e,glIII2,Ледниковые отложения зырянского оледенения. Суглинки с валунами,T,,diamicton,,fill = map tint (legend swatch #dca980)
+6,#abb25a,lalIII1,"Озерно-аллювиальные отложения. Пески, галечники",L,F,sand,,fill = map tint (legend swatch #abb94e)
+7,#9f8973,m-glmI-II,"Нижне-среднечетвертичные отложения. Морские и ледниково-морские отложения. Суглинки, глины, пески",M,GM,fines,,
+8,#b895c0,PREQ,Дочетвертичные породы,R,,,,

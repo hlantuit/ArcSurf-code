@@ -1,0 +1,9 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#e4fca7,alQIV,"Аллювиальные отложения пойменных террас. Пески, супеси, суглинки, глины, илы",F,,mixed,,"GGK-200 O-42-XXXV (Geologicheskaya karta SSSR, 1st edition, Ishim series; approved 1967, printed 1972; 70-71E 56d-56d40mN), Quaternary map; RASTER = geokniga 1963x2396 px PREVIEW (~34 m/px); vertical lithology ruling removed (work/r200d/prep_vlines.py); tints calibrated on the map (preview_tint_calib.py); alQIV+alQIII1 merged (same printed tint); el+dQIII (subaerial cover loams, partly loess-like) coded E, hclass2 W (PI decision 2026-10-04); frame = 4 corners (paper edge and ridge filter agree) + 4 mid-side graticule lines + 7 interior 15x10 min graticule crossings as ties ; same printed colour as alQIII1: one class"
+1,#d6faef,lQIV,"Отложения низких озерных террас. Глины, илы, суглинки, торф",L,,fines,,
+2,#e6f9eb,l+hQIV,"Озерно-болотные отложения. Торф, глины, суглинки, илы",L,O,organic,,
+3,#f6e1bd,d+plQIII-IV,"Делювиальные и пролювиальные отложения. Супеси, суглинки",C,F,fines,,
+4,#e4fca7,alQIII1,"Аллювиальные отложения первой надпойменной террасы. Супеси, пески, суглинки, глины",F,,mixed,,same printed colour as alQIV: one class
+5,#fdf5be,el+dQIII,"Элювиально-делювиальные покровные отложения. Суглинки, супеси",E,W,fines,,"subaerial COVER loams (покровные; partly loess-like): coded E per PI decision 2026-10-04 (loess / loess-like / subaerial cover = E), hclass2 W = the legend genesis e,d"
+6,#daff7e,alQIII2,"Аллювиальные отложения второй надпойменной террасы. Суглинки, супеси, пески, прослои глин",F,,mixed,,
+7,#f7c5ea,PREQ,Дочетвертичные отложения,R,,,,

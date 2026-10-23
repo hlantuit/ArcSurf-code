@@ -1,0 +1,14 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#faf5da,eldQ4^3,Элювиально-делювиальные отложения. Осыпи и щебень коренных пород,W,C,bouldery,,"GGK-200/1 R-41-XXXIII,XXXIV, Severo-Uralskaya series, Quaternary map 1st ed., author Yu.F. Chebotarev (Komi-Nenets geological survey), approved 1959, signed for print 11.II.1961 (imprint qinf); RASTER: geokniga 12331 map image JPG 2000x1841 (~44 m/px) + separate legend image r-41-xxxiiixxxivql.jpg (brighter than the map), so fills are MAP tints (k-means of the 5x5-median face + labelled polygons; legend swatch colours in the notes); legend swatch #faeeca; --class-dE eldQ4^3=7 so that white lakes are not read as eluvium"
+1,#e2d2ac,eldQ4^3,Элювиально-делювиальные отложения. Осыпи и щебень коренных пород,W,C,bouldery,,second map tint (V symbols / brown linework)
+2,#d2ddcb,lQ4^3,"Озерно-болотные отложения. Супеси, глины, торфяники",L,O,organic,,legend swatch #daf5e5
+3,#b5c4b2,lQ4^3,"Озерно-болотные отложения. Супеси, глины, торфяники",L,O,organic,,second map tint (green peat dashes)
+4,#c0d3a7,aQ4^2-3,"Аллювиальные отложения поймы, I и II надпойменных террас. Пески, супеси, галечники",F,,sand,,legend swatch #d9f5b3
+5,#d5d9e2,m(Q3^2-Q4^1),Морские поздне-послеледниковые отложения. Пески и супеси,M,,sand,,legend swatch #cbcee2
+6,#cad781,fglQ3^2,"Водно-ледниковые отложения последнего покровного оледенения. Пески разнозернистые, галечники, супеси",GF,,sand,,legend swatch #c3d86e
+7,#f9db9b,glQ3^2,"Ледниковые отложения последнего покровного оледенения. В верхней части - пески с галькой и валунами, в нижней - валунные морские суглинки с линзами песка",T,GM,diamicton,,"legend swatch #f9c66b; the lower part is described as boulder MARINE loams: hclass2 GM"
+8,#f9d28c,glQ3^2,Ледниковые отложения последнего покровного оледенения,T,GM,diamicton,,second map tint
+9,#d0ac6c,glQ3^2,Ледниковые отложения последнего покровного оледенения,T,GM,diamicton,,third map tint (circle symbols / darker print)
+10,#eb8f78,glQ3^2,Ледниковые отложения последнего покровного оледенения,T,GM,diamicton,,"red overprints 'Грядовый холмисто-моренный рельеф' and 'Холмисто-котловинный (камовый) рельеф' on glQ3^2: relief symbols, base unit kept"
+11,#b2bcdb,mQ3^1,Морские межледниковые отложения. Пески средне- и мелкозернистые и супеси с прослоями глины и галечника с морской фауной,M,,sand,,legend swatch #92a1db; narrow valley-side strips
+12,#9f5b03,glQ2^2,"Ледниковые отложения предпоследнего покровного оледенения. Морские суглинки с окатанными валунами, галькой и линзами песка",T,GM,diamicton,,"legend swatch (no map tint measurable: narrow valley-side strips); --class-dE glQ2^2=10"

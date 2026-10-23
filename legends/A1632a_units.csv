@@ -1,0 +1,18 @@
+x,y,w,index,description_ru,hclass,hclass2,texture,note
+967,3330,180,A,"Alluvium: silt, sand, gravel, cobbles, boulders in modern drainage",F,,mixed,
+908,3710,80,MO,"Deepwater marine sediments and post-depositional organic cover, undifferentiated",M,O,fines,
+1026,3710,80,MO/R,"Deepwater marine sediments, undetermined thickness, 20-80% bedrock outcrop",M,R,fines,veneer
+908,4011,80,Mr,"Nearshore sediments: beaches, bars, spits (Mr, Mrl)",M,,gravel,
+1026,4011,80,Mr/R,"Nearshore sediments, 20-80% bedrock outcrop",M,R,gravel,veneer
+908,4078,80,MrO,Nearshore beach ridges with intervening peaty organic flats,M,O,gravel,
+1026,4078,80,MrO/R,"Nearshore ridges and organic flats, 20-80% bedrock outcrop",M,R,gravel,veneer
+967,4144,180,Mw,Sand sheet deposited on the coastal plain by migrating shoreline,M,,sand,
+967,4710,180,Md,"Deltaic sediments: uplifted deltaic sand and gravel (Md, Mdr)",M,F,sand,
+967,5034,180,G,"Glaciofluvial ice-contact sand and gravel (eskers)",GF,,gravel,
+908,5209,80,Th,Hummocky till,T,,diamicton,
+1026,5209,80,Th/R,"Hummocky till, undetermined thickness, 20-80% bedrock outcrop",T,R,diamicton,veneer
+908,5277,80,Tr,Ribbed (Rogen) moraine,T,,diamicton,
+1026,5277,80,Tr/R,"Ribbed moraine, undetermined thickness, 20-80% bedrock outcrop",T,R,diamicton,veneer
+908,5826,80,TM,"Till and marine sediments, undifferentiated",T,M,diamicton,
+1026,5826,80,TM/R,"Till and marine sediments, 20-80% bedrock outcrop",T,R,diamicton,veneer
+967,6181,180,R,"Ordovician and Silurian carbonate rocks: >80% outcrop or felsenmeer",R,,,

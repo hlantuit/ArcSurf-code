@@ -1,0 +1,15 @@
+x,y,w,index,description_ru,hclass,hclass2,texture,note
+10678,6137,180,A,"Alluvial deposits: gravel, sand and silt, 1-10 m; terraces and plains of former floodplains and deltas (Nelson and Hayes rivers)",F,,mixed,
+10678,6590,180,Wr,"Marine shoreline deposits (Tyrrell Sea): sand and gravel, 1-3 m; beaches and bars from till and glaciofluvial materials",M,,gravel,
+10678,6762,180,W,"Marine nearshore and intertidal deposits: silt, sand and clay, 1-3 m, upward-coarsening offlap; commonly over till",M,T,mixed,veneer
+10678,7172,180,L,"Glaciolacustrine basin deposits (glacial Lake Agassiz): clay and silt, 2-15 m; nearly unbroken blanket in low relief areas",GL,,fines,
+10624,7386,90,LM,"Glaciolacustrine discontinuous veneer, 1-2 m, largely over till, including areas of till and rock",GL,T,fines,veneer
+10727,7386,90,LR,"Glaciolacustrine discontinuous veneer, 1-2 m, largely over rock, with abundant rock outcrops",GL,R,fines,veneer
+10678,7602,180,Lr,"Glaciolacustrine shoreline deposits: sand, gravel and rock rubble, up to 3 m; beach ridges, bars, spits",GL,,gravel,
+10670,8102,180,G,"Glaciofluvial ice-contact deposits: sand and gravel, 15-90 m; kame moraines, interlobate moraines, kames, eskers",GF,,gravel,
+10670,8446,180,Gt,"Glaciofluvial channel deposits: well sorted sand and gravel, 1-15 m; plains and terraces in valleys",GF,,gravel,
+10665,8940,180,M,"Ground moraine: sandy and silty till, 1-8 m; nearly flat blanket, locally under a glaciolacustrine veneer",T,,sand,
+10665,9157,180,Mv,"Till veneer: till and minor clay, silt, sand, gravel, up to 2 m, over rock with abundant outcrops",T,R,sand,veneer
+10665,9332,180,Mh,"Hummocky moraine: till 5-30 m; ridges, knolls, hummocks; with glaciofluvial ice-contact deposits",T,GF,mixed,
+10611,9650,90,Rc,"Dolomite, calcareous shale and limestone: flat-lying carbonates and rock rubble with patches of thin till",R,,,
+10715,9650,90,R,"Igneous and crystalline metamorphic rock (Precambrian Shield): knob and lake topography",R,,,

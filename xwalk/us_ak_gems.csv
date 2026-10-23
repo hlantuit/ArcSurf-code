@@ -1,0 +1,424 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+aof125_tolstoi_pt_cape_nome_surf_gems_shapfile|QTv,V,,unknown,unknown,unknown,Volcanic rocks of late Tertiary and Quaternary age :: rule-classified from name
+aof125_tolstoi_pt_cape_nome_surf_gems_shapfile|Qal,F,,unknown,unknown,unknown,Channel and overbank deposits of modern streams :: rule-classified from name
+aof125_tolstoi_pt_cape_nome_surf_gems_shapfile|Qba,M,,unknown,unknown,unknown,Beach deposits :: rule-classified from name
+aof125_tolstoi_pt_cape_nome_surf_gems_shapfile|Qbv,M,,unknown,unknown,unknown,Beach deposits (vegetated) :: rule-classified from name
+aof125_tolstoi_pt_cape_nome_surf_gems_shapfile|Qct,C,,unknown,unknown,unknown,Talus deposits :: rule-classified from name
+aof125_tolstoi_pt_cape_nome_surf_gems_shapfile|Qf,X,,unknown,unknown,unknown,Artificial fill :: rule-classified from name
+aof125_tolstoi_pt_cape_nome_surf_gems_shapfile|Qif,M,,unknown,unknown,unknown,Intertidal flat deposits :: rule-classified from name
+aof125_tolstoi_pt_cape_nome_surf_gems_shapfile|Qls,C,,unknown,unknown,unknown,Landslide deposits :: rule-classified from name
+aof125_tolstoi_pt_cape_nome_surf_gems_shapfile|Qt,F,,unknown,unknown,unknown,Stream-terrace deposits :: rule-classified from name
+aof125_tolstoi_pt_cape_nome_surf_gems_shapfile|Qu,Q,,unknown,unknown,unknown,Undifferentiated deposits :: UNCLASSIFIED by rules - review
+aof125_tolstoi_pt_cape_nome_surf_gems_shapfile|Qud,Q,,unknown,unknown,unknown,Undifferentiated deposits (melt features) :: UNCLASSIFIED by rules - review
+aof125_tolstoi_pt_cape_nome_surf_gems_shapfile|Water,H,,unknown,unknown,unknown,Water :: rule-classified from name; water body
+aof125_tolstoi_pt_cape_nome_surf_gems_shapfile|pQb,R,,unknown,unknown,unknown,"Pre-Quaternary sedimentary, metamorphic, and igneous rocks. :: rule-classified from name"
+aof140_lower_pilgrim_valley_surf_gems_shapefile|af,F,,unknown,unknown,unknown,Alluvial-fan deposits :: rule-classified from name
+aof140_lower_pilgrim_valley_surf_gems_shapefile|aft,F,,unknown,unknown,unknown,Torrential- and slush-flow-fan deposits :: rule-classified from name
+aof140_lower_pilgrim_valley_surf_gems_shapefile|al,F,,unknown,unknown,unknown,Alluvium :: rule-classified from name
+aof140_lower_pilgrim_valley_surf_gems_shapefile|at,F,,unknown,unknown,unknown,Alluvial-terrace deposits :: rule-classified from name
+aof140_lower_pilgrim_valley_surf_gems_shapefile|bx,R,,unknown,unknown,unknown,Undifferentiated bedrock units :: rule-classified from name
+aof140_lower_pilgrim_valley_surf_gems_shapefile|cc,C,,unknown,unknown,unknown,Coarse colluvium :: rule-classified from name
+aof140_lower_pilgrim_valley_surf_gems_shapefile|cf,F,,unknown,unknown,unknown,"Fine-grained colluvium, commonly with fluvially derived components :: rule-classified from name"
+aof140_lower_pilgrim_valley_surf_gems_shapefile|cm,C,,unknown,unknown,unknown,Mixed colluvium :: rule-classified from name
+aof140_lower_pilgrim_valley_surf_gems_shapefile|cr,W,,bouldery,unknown,unknown,Rubble sheets (felsenmeer) :: rule-classified from name
+aof140_lower_pilgrim_valley_surf_gems_shapefile|d,T,,unknown,unknown,unknown,Undifferentiated glacial deposits :: rule-classified from name
+aof140_lower_pilgrim_valley_surf_gems_shapefile|dac,F,,unknown,unknown,unknown,Abandoned glacial-meltwater-channel deposits :: rule-classified from name
+aof140_lower_pilgrim_valley_surf_gems_shapefile|do,GF,,unknown,unknown,unknown,Outwash deposits :: rule-classified from name
+aof140_lower_pilgrim_valley_surf_gems_shapefile|ds,GF,,unknown,unknown,unknown,Stratified drift (other than outwash) :: rule-classified from name
+aof140_lower_pilgrim_valley_surf_gems_shapefile|dt,T,,unknown,unknown,unknown,Till :: rule-classified from name
+aof140_lower_pilgrim_valley_surf_gems_shapefile|dt/bx,T,,unknown,unknown,unknown,Till / Undifferentiated bedrock units :: rule-classified from name
+aof140_lower_pilgrim_valley_surf_gems_shapefile|e/d,T,,fines,unknown,unknown,Undifferentiated eolian sand and silt / Undifferentiated glacial deposits :: rule-classified from name
+aof140_lower_pilgrim_valley_surf_gems_shapefile|e/do,GF,,fines,unknown,unknown,Undifferentiated eolian sand and silt / Outwash deposits :: rule-classified from name
+aof140_lower_pilgrim_valley_surf_gems_shapefile|e/ds,GF,,fines,unknown,unknown,Undifferentiated eolian sand and silt / Stratified drift (other than outwash) :: rule-classified from name
+aof140_lower_pilgrim_valley_surf_gems_shapefile|e/dt,T,,fines,unknown,unknown,Undifferentiated eolian sand and silt / Till :: rule-classified from name
+aof140_lower_pilgrim_valley_surf_gems_shapefile|es,E,,sand,unknown,unknown,Sand-dune and sheet deposits :: rule-classified from name
+aof140_lower_pilgrim_valley_surf_gems_shapefile|l,L,,unknown,unknown,unknown,Paludal and lacustrine deposits :: rule-classified from name
+aof140_lower_pilgrim_valley_surf_gems_shapefile|l/dt,T,,unknown,unknown,unknown,Paludal and lacustrine deposits / Till :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|Kp,V,,unknown,unknown,unknown,"Sandstone, siltstone, shale, and pyroclastic rocks :: rule-classified from name"
+giesche2024_central_arctic_coastal_gems_shapefile|QTg,Q,,unknown,unknown,unknown,Sand and gravel :: UNCLASSIFIED by rules - review
+giesche2024_central_arctic_coastal_gems_shapefile|QTg('),Q,,unknown,unknown,unknown,Sand and gravel :: UNCLASSIFIED by rules - review
+giesche2024_central_arctic_coastal_gems_shapefile|QTgm,Q,,unknown,unknown,unknown,"Gravel over sand, silt, and clay :: UNCLASSIFIED by rules - review"
+giesche2024_central_arctic_coastal_gems_shapefile|QTsg,Q,,unknown,unknown,unknown,"Silt and sand over gravel, gravelly sand, and sand :: UNCLASSIFIED by rules - review"
+giesche2024_central_arctic_coastal_gems_shapefile|QTtA,M,,unknown,unknown,unknown,Alluvial and Marine-Terrace A Deposits :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|QTtAB,M,,unknown,unknown,unknown,Alluvial and Marine-Terrace A and B Deposits :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|QTtB,M,,unknown,unknown,unknown,Alluvial and Marine-Terrace B Deposits :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|QTtC,M,,unknown,unknown,unknown,Alluvial and Marine-Terrace C Deposits :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|Qaf,F,,unknown,unknown,unknown,Alluvial-fan Deposit :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|Qai,Q,,unknown,unknown,unknown,Active Flood-Plain Deposits with aufeis :: UNCLASSIFIED by rules - review
+giesche2024_central_arctic_coastal_gems_shapefile|Qal,F,,unknown,unknown,unknown,Alluvium with aufeis :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|Qat,F,,unknown,unknown,unknown,Alluvial-Terrace Deposits :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|Qau,F,,unknown,unknown,unknown,Undifferentiated Alluvium :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|Qb,M,,unknown,unknown,unknown,Beach Deposits :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|Qc,C,,unknown,unknown,unknown,Undifferentiated Colluvium :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|Qd,F,M,unknown,unknown,unknown,Active Delta Deposits :: rule-classified from name; deltaic
+giesche2024_central_arctic_coastal_gems_shapefile|Qda,F,M,unknown,unknown,unknown,Abandoned Delta Deposits :: rule-classified from name; deltaic
+giesche2024_central_arctic_coastal_gems_shapefile|Qdi,F,M,unknown,unknown,unknown,Inactive Delta Deposits :: rule-classified from name; deltaic
+giesche2024_central_arctic_coastal_gems_shapefile|Qf,Q,,unknown,unknown,unknown,Active Flood-Plain Deposits :: UNCLASSIFIED by rules - review
+giesche2024_central_arctic_coastal_gems_shapefile|Qf/Qfi,Q,,unknown,unknown,unknown,Active Flood-Plain Deposits over Inactive Flood-Plain Deposits :: UNCLASSIFIED by rules - review
+giesche2024_central_arctic_coastal_gems_shapefile|Qfa,Q,,unknown,unknown,unknown,Abandoned Flood-Plain Deposits :: UNCLASSIFIED by rules - review
+giesche2024_central_arctic_coastal_gems_shapefile|Qfi,Q,,unknown,unknown,unknown,Inactive Flood-Plain Deposits :: UNCLASSIFIED by rules - review
+giesche2024_central_arctic_coastal_gems_shapefile|Qfi/Qfa,Q,,unknown,unknown,unknown,Inactive Flood-Plain Deposits over Abandoned Flood-Plain Deposits :: UNCLASSIFIED by rules - review
+giesche2024_central_arctic_coastal_gems_shapefile|Qgt3,T,,unknown,unknown,unknown,Middle Pleistocene(?) Till :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|Qgt4,T,,unknown,unknown,unknown,Early Pleistocene(?) Till :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|Qo,GF,,gravel,unknown,unknown,Outwash Gravel :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|Qrg,Q,,unknown,unknown,unknown,Retransported Granular Deposits :: UNCLASSIFIED by rules - review
+giesche2024_central_arctic_coastal_gems_shapefile|Qs,Q,,unknown,unknown,unknown,Sand Cover Deposits :: UNCLASSIFIED by rules - review
+giesche2024_central_arctic_coastal_gems_shapefile|Qsd,E,,sand,unknown,unknown,Sand Dune Deposits :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|Qsg,F,,unknown,unknown,unknown,Alluvial-Plain Deposits :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|Qsgt3,T,,sand,unknown,unknown,Silt and Sand over Middle Pleistocene(?) Till :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|Qsgt4,T,,sand,unknown,unknown,Silt and Sand over Early Pleistocene(?) Till :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|Qsm,O,,unknown,unknown,unknown,Salt-Marsh Deposits :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|Qso,GF,,gravel,unknown,unknown,Silt and Sand Over Outwash Gravel :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|Qt,K,L,unknown,unknown,unknown,Thaw-Lake Deposits :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|QtD,F,,unknown,unknown,unknown,Alluvial terrace D Deposits :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|QtE,F,,unknown,unknown,unknown,Alluvial terrace E Deposits :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|QtEF,F,,unknown,unknown,unknown,Alluvial terrace E and F Deposits :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|QtF,F,,unknown,unknown,unknown,Alluvial terrace F Deposits :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|Qtf,M,,unknown,unknown,unknown,Tidal-Flat Deposits :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|Qti,K,L,unknown,unknown,yes,Ice-Rich Thaw-Lake Deposits :: rule-classified from name
+giesche2024_central_arctic_coastal_gems_shapefile|Tg,Q,,unknown,unknown,unknown,Kuparuk Gravel :: UNCLASSIFIED by rules - review
+giesche2024_central_arctic_coastal_gems_shapefile|Tgs,Q,,unknown,unknown,unknown,Undifferentiated Gravelly Sand :: UNCLASSIFIED by rules - review
+giesche2024_central_arctic_coastal_gems_shapefile|Tmg,Q,,unknown,unknown,unknown,Muddy conglomerate (diamicton) :: UNCLASSIFIED by rules - review
+giesche2024_central_arctic_coastal_gems_shapefile|Ts,Q,,unknown,unknown,unknown,"Undifferentiated siltstone, shale, and sandstone :: UNCLASSIFIED by rules - review"
+giesche2024_central_arctic_coastal_gems_shapefile|Tsg,Q,,unknown,unknown,unknown,"Undifferentiated sand, gravelly sand, conglomerate, and pebbly mud :: UNCLASSIFIED by rules - review"
+giesche2024_central_arctic_coastal_gems_shapefile|Tsmg,Q,,unknown,unknown,unknown,Silt and muddy conglomerate :: UNCLASSIFIED by rules - review
+giesche2024_central_arctic_coastal_gems_shapefile|Water,H,,unknown,unknown,unknown,Water :: rule-classified from name; water body
+pdf1998_037c_tanana_a1_a2_surficial_gems_shapefile|Qa,F,,unknown,unknown,unknown,Alluvium in modern stream channels :: rule-classified from name
+pdf1998_037c_tanana_a1_a2_surficial_gems_shapefile|Qac,F,,unknown,unknown,unknown,Undifferentiated alluvial and colluvial valley-fill deposits :: rule-classified from name
+pdf1998_037c_tanana_a1_a2_surficial_gems_shapefile|Qaf,F,,unknown,unknown,unknown,Alluvial fan deposits :: rule-classified from name
+pdf1998_037c_tanana_a1_a2_surficial_gems_shapefile|Qag,F,,unknown,unknown,unknown,"Old, high-level alluvial gravels :: rule-classified from name"
+pdf1998_037c_tanana_a1_a2_surficial_gems_shapefile|Qap,F,,unknown,unknown,unknown,Alluvial plains deposits :: rule-classified from name
+pdf1998_037c_tanana_a1_a2_surficial_gems_shapefile|Qas,F,,unknown,unknown,unknown,Silty alluvium in modern stream channels :: rule-classified from name
+pdf1998_037c_tanana_a1_a2_surficial_gems_shapefile|Qc,C,,unknown,unknown,unknown,Undifferentiated colluvium :: rule-classified from name
+pdf1998_037c_tanana_a1_a2_surficial_gems_shapefile|Qca,F,,unknown,unknown,unknown,Colluvial apron and fan deposits :: rule-classified from name
+pdf1998_037c_tanana_a1_a2_surficial_gems_shapefile|Qel,E,,unknown,unknown,unknown,Loess :: rule-classified from name
+pdf1998_037c_tanana_a1_a2_surficial_gems_shapefile|Qelp,E,,unknown,unknown,unknown,Pitted loess :: rule-classified from name
+pdf1998_037c_tanana_a1_a2_surficial_gems_shapefile|Qer,Q,,unknown,unknown,unknown,Reworked upland silt :: UNCLASSIFIED by rules - review
+pdf1998_037c_tanana_a1_a2_surficial_gems_shapefile|Qfp,F,,unknown,unknown,unknown,Floodplain alluvium bordering modern streams :: rule-classified from name
+pdf1998_037c_tanana_a1_a2_surficial_gems_shapefile|Qld,F,M,unknown,unknown,unknown,Delta deposits :: rule-classified from name; deltaic
+pdf1998_037c_tanana_a1_a2_surficial_gems_shapefile|Qmt,X,,unknown,unknown,unknown,Mine tailings :: rule-classified from name
+pdf1998_037c_tanana_a1_a2_surficial_gems_shapefile|Qs,O,,unknown,unknown,unknown,Swamp deposits :: rule-classified from name
+pdf1998_037c_tanana_a1_a2_surficial_gems_shapefile|Qsf,F,,fines,unknown,unknown,Silt fan deposits :: rule-classified from name
+pdf1998_037c_tanana_a1_a2_surficial_gems_shapefile|WATER,H,,unknown,unknown,unknown,Water :: rule-classified from name; water body
+pdf1998_037c_tanana_a1_a2_surficial_gems_shapefile|b,R,,unknown,unknown,unknown,Exposed bedrock :: rule-classified from name
+pdf1998_037c_tanana_a1_a2_surficial_gems_shapefile|bc,R,,unknown,unknown,unknown,Thinly covered bedrock :: rule-classified from name
+pir2001_003c_eagle_a2_surficial_geo_fed_gems_shp|Qa,F,,unknown,unknown,unknown,ALLUVIUM OF MODERN STREAM CHANNELS :: rule-classified from name
+pir2001_003c_eagle_a2_surficial_geo_fed_gems_shp|Qac,F,,unknown,unknown,unknown,ABANDONED-CHANNEL DEPOSITS :: rule-classified from name
+pir2001_003c_eagle_a2_surficial_geo_fed_gems_shp|Qaf,F,,unknown,unknown,unknown,ALLUVIAL-FAN DEPOSITS :: rule-classified from name
+pir2001_003c_eagle_a2_surficial_geo_fed_gems_shp|Qat1,F,,unknown,unknown,unknown,OLDEST TERRACE ALLUVIUM :: rule-classified from name
+pir2001_003c_eagle_a2_surficial_geo_fed_gems_shp|Qat2,F,,unknown,unknown,unknown,OLD TERRACE ALLUVIUM :: rule-classified from name
+pir2001_003c_eagle_a2_surficial_geo_fed_gems_shp|Qat3,F,,unknown,unknown,unknown,YOUNG TERRACE ALLUVIUM :: rule-classified from name
+pir2001_003c_eagle_a2_surficial_geo_fed_gems_shp|Qat4,F,,unknown,unknown,unknown,YOUNGEST TERRACE ALLUVIUM :: rule-classified from name
+pir2001_003c_eagle_a2_surficial_geo_fed_gems_shp|Qc,C,,unknown,unknown,unknown,UNDIFFERENTIATED COLLUVIUM :: rule-classified from name
+pir2001_003c_eagle_a2_surficial_geo_fed_gems_shp|Qca,F,,unknown,unknown,unknown,COLLUVIAL AND ALLUVIAL VALLEY-FILL DEPOSITS :: rule-classified from name
+pir2001_003c_eagle_a2_surficial_geo_fed_gems_shp|Qcf,C,,fines,unknown,unknown,FINE-GRAINED COLLUVIUM AND SILT :: rule-classified from name
+pir2001_003c_eagle_a2_surficial_geo_fed_gems_shp|Qcl,C,,unknown,unknown,unknown,LANDSLIDE DEPOSITS :: rule-classified from name
+pir2001_003c_eagle_a2_surficial_geo_fed_gems_shp|Qfp,F,,unknown,unknown,unknown,FLOODPLAIN ALLUVIUM :: rule-classified from name
+pir2001_003c_eagle_a2_surficial_geo_fed_gems_shp|Qh,X,,unknown,unknown,unknown,PLACER-MINE TAILINGS AND ARTIFICIAL FILLS :: rule-classified from name
+pir2001_003c_eagle_a2_surficial_geo_fed_gems_shp|Qs,O,,unknown,unknown,unknown,SWAMP DEPOSITS :: rule-classified from name
+pir2001_003c_eagle_a2_surficial_geo_fed_gems_shp|b,R,,unknown,unknown,unknown,UNDIFFERENTIATED BEDROCK :: rule-classified from name
+pir2001_003c_eagle_a2_surficial_geo_fed_gems_shp|b',R,,unknown,unknown,unknown,SHALLOWLY BURIED BEDROCK :: rule-classified from name
+pir2001_003c_eagle_a2_surficial_geo_fed_gems_shp|lake,H,,unknown,unknown,unknown,lake :: rule-classified from name; water body
+pir2002_001c_eagle_a1_surficial_geo_fed_gems_shp|Qa,F,,unknown,unknown,unknown,ALLUVIUM OF MODERN STREAM CHANNELS :: rule-classified from name
+pir2002_001c_eagle_a1_surficial_geo_fed_gems_shp|Qaf,F,,unknown,unknown,unknown,ALLUVIAL-FAN DEPOSITS :: rule-classified from name
+pir2002_001c_eagle_a1_surficial_geo_fed_gems_shp|Qat1,F,,unknown,unknown,unknown,OLDEST TERRACE ALLUVIUM :: rule-classified from name
+pir2002_001c_eagle_a1_surficial_geo_fed_gems_shp|Qat2,F,,unknown,unknown,unknown,OLD TERRACE ALLUVIUM :: rule-classified from name
+pir2002_001c_eagle_a1_surficial_geo_fed_gems_shp|Qat3,F,,unknown,unknown,unknown,YOUNG TERRACE ALLUVIUM :: rule-classified from name
+pir2002_001c_eagle_a1_surficial_geo_fed_gems_shp|Qc,C,,unknown,unknown,unknown,UNDIFFERENTIATED COLLUVIUM :: rule-classified from name
+pir2002_001c_eagle_a1_surficial_geo_fed_gems_shp|Qca,F,,unknown,unknown,unknown,COLLUVIAL AND ALLUVIAL VALLEY-FILL DEPOSITS :: rule-classified from name
+pir2002_001c_eagle_a1_surficial_geo_fed_gems_shp|Qcf,C,,fines,unknown,unknown,FINE-GRAINED COLLUVIUM AND SILT :: rule-classified from name
+pir2002_001c_eagle_a1_surficial_geo_fed_gems_shp|Qcl,C,,unknown,unknown,unknown,LANDSLIDE DEPOSIT :: rule-classified from name
+pir2002_001c_eagle_a1_surficial_geo_fed_gems_shp|Qcr,Q,,unknown,unknown,unknown,RUBBLE DEPOSITS :: UNCLASSIFIED by rules - review
+pir2002_001c_eagle_a1_surficial_geo_fed_gems_shp|Qd,T,,unknown,unknown,unknown,UNDIFFERENTIATED DRIFT :: rule-classified from name
+pir2002_001c_eagle_a1_surficial_geo_fed_gems_shp|Qfp,F,,unknown,unknown,unknown,FLOODPLAIN ALLUVIUM :: rule-classified from name
+pir2002_001c_eagle_a1_surficial_geo_fed_gems_shp|Qh,X,,unknown,unknown,unknown,PLACER-MINE TAILINGS AND ARTIFICIAL FILLS :: rule-classified from name
+pir2002_001c_eagle_a1_surficial_geo_fed_gems_shp|Qs,O,,unknown,unknown,unknown,SWAMP DEPOSITS :: rule-classified from name
+pir2002_001c_eagle_a1_surficial_geo_fed_gems_shp|b,R,,unknown,unknown,unknown,UNDIFFERENTIATED BEDROCK :: rule-classified from name
+pir2002_001c_eagle_a1_surficial_geo_fed_gems_shp|b',R,,unknown,unknown,unknown,SHALLOWLY BURIED BEDROCK :: rule-classified from name
+pir2024_008_kivalina_gems_shapefile|Db,Q,,unknown,unknown,unknown,"Baird Group, upper part :: UNCLASSIFIED by rules - review"
+pir2024_008_kivalina_gems_shapefile|Dbl,Q,,unknown,unknown,unknown,"Baird Group, upper part limestone :: UNCLASSIFIED by rules - review"
+pir2024_008_kivalina_gems_shapefile|JPe,Q,,unknown,unknown,unknown,Etivluk Group :: UNCLASSIFIED by rules - review
+pir2024_008_kivalina_gems_shapefile|JTrb,Q,,unknown,unknown,unknown,Basalt :: UNCLASSIFIED by rules - review
+pir2024_008_kivalina_gems_shapefile|Ko,Q,,unknown,unknown,unknown,Okpikruak Formation :: UNCLASSIFIED by rules - review
+pir2024_008_kivalina_gems_shapefile|MDl,Q,,unknown,unknown,unknown,Limestone and dolomite :: UNCLASSIFIED by rules - review
+pir2024_008_kivalina_gems_shapefile|Mk,Q,,unknown,unknown,unknown,Kayak shale :: UNCLASSIFIED by rules - review
+pir2024_008_kivalina_gems_shapefile|Mko,Q,,unknown,unknown,unknown,Kogruk Formation :: UNCLASSIFIED by rules - review
+pir2024_008_kivalina_gems_shapefile|Mml,Q,,unknown,unknown,unknown,Micritic limestone :: UNCLASSIFIED by rules - review
+pir2024_008_kivalina_gems_shapefile|Mu,Q,,unknown,unknown,unknown,Utukok Formation :: UNCLASSIFIED by rules - review
+pir2024_008_kivalina_gems_shapefile|Mul,Q,,unknown,unknown,unknown,"Utukok Formation, buff limestone member :: UNCLASSIFIED by rules - review"
+pir2024_008_kivalina_gems_shapefile|Mus,Q,,unknown,unknown,unknown,"Utukok Formation, sandstone member :: UNCLASSIFIED by rules - review"
+pir2024_008_kivalina_gems_shapefile|PMc,Q,,unknown,unknown,unknown,Black chert :: UNCLASSIFIED by rules - review
+pir2024_008_kivalina_gems_shapefile|PMk,Q,,unknown,unknown,unknown,Kuna Formation :: UNCLASSIFIED by rules - review
+pir2024_008_kivalina_gems_shapefile|PMn,Q,,unknown,unknown,unknown,Nuka Formation :: UNCLASSIFIED by rules - review
+pir2024_008_kivalina_gems_shapefile|Qa,F,,unknown,unknown,unknown,"Alluvial deposits, undifferentiated :: rule-classified from name"
+pir2024_008_kivalina_gems_shapefile|Qaa,F,,unknown,unknown,unknown,Active-floodplain alluvium :: rule-classified from name
+pir2024_008_kivalina_gems_shapefile|Qab,F,,unknown,unknown,unknown,Abandoned-floodplain alluvium :: rule-classified from name
+pir2024_008_kivalina_gems_shapefile|Qaf,F,,unknown,unknown,unknown,Alluvial-fan deposits :: rule-classified from name
+pir2024_008_kivalina_gems_shapefile|Qafd,F,M,unknown,unknown,unknown,Alluvial-fan delta deposits :: rule-classified from name; deltaic
+pir2024_008_kivalina_gems_shapefile|Qai,F,,unknown,unknown,unknown,Inactive-floodplain alluvium :: rule-classified from name
+pir2024_008_kivalina_gems_shapefile|Qat,F,,unknown,unknown,unknown,Alluvial terrace deposits :: rule-classified from name
+pir2024_008_kivalina_gems_shapefile|Qb,M,,unknown,unknown,unknown,"Beach deposits, undifferentiated :: rule-classified from name"
+pir2024_008_kivalina_gems_shapefile|Qc,C,,unknown,unknown,unknown,Colluvium :: rule-classified from name
+pir2024_008_kivalina_gems_shapefile|Qcf,F,,unknown,unknown,unknown,Mixed colluvium and alluvium :: rule-classified from name
+pir2024_008_kivalina_gems_shapefile|Qme,M,,unknown,unknown,unknown,Estuarine deposits :: rule-classified from name
+pir2024_008_kivalina_gems_shapefile|Qsi,Q,,unknown,unknown,unknown,Lowland silt deposits :: UNCLASSIFIED by rules - review
+pir2024_008_kivalina_gems_shapefile|water,H,,unknown,unknown,unknown,Water :: rule-classified from name; water body
+pir2025_001_maynard_mnt_gems_shapefile|Kv,Q,,unknown,unknown,unknown,Valdez Group :: UNCLASSIFIED by rules - review
+pir2025_001_maynard_mnt_gems_shapefile|Qa,F,,unknown,unknown,unknown,Alluvium :: rule-classified from name
+pir2025_001_maynard_mnt_gems_shapefile|Qc,C,,unknown,unknown,unknown,Colluvium :: rule-classified from name
+pir2025_001_maynard_mnt_gems_shapefile|Qct,C,,unknown,unknown,unknown,Talus :: rule-classified from name
+pir2025_001_maynard_mnt_gems_shapefile|Qdf,C,,unknown,unknown,unknown,Debris Flow deposit :: rule-classified from name
+pir2025_001_maynard_mnt_gems_shapefile|Qgl,Q,,unknown,unknown,unknown,Glacial ice or permanent snowpack :: UNCLASSIFIED by rules - review
+pir2025_001_maynard_mnt_gems_shapefile|Qm,T,,unknown,unknown,unknown,Moraine :: rule-classified from name
+pir2025_001_maynard_mnt_gems_shapefile|water,H,,unknown,unknown,unknown,water :: rule-classified from name; water body
+pr124_ak_hwy_surficial_gems_shapefile_pkg|(Qc),C,,unknown,veneer,unknown,Bedrock overlain by thin or discontinuous colluvium :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|(Qcf),F,,unknown,veneer,unknown,Bedrock overlain by thin or discontinuous mixed colluvium and alluvium :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|QTgdp,T,,unknown,unknown,unknown,Undifferentiated glacial drift of pre-Delta Glaciation :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|QTr,Q,,unknown,unknown,unknown,Block rubble :: UNCLASSIFIED by rules - review
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qa,F,,unknown,unknown,unknown,Undifferentiated floodplain alluvium :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qaa,F,,unknown,unknown,unknown,Active-floodplain alluvium :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qab,F,,unknown,unknown,unknown,Abandoned-floodplain alluvium :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qaf,F,,unknown,unknown,unknown,Alluvial-fan deposits :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qai,F,,unknown,unknown,unknown,Inactive-floodplain alluvium :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qat,F,,unknown,unknown,unknown,Stream-terrace alluvium :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qc,C,,unknown,unknown,unknown,Undifferentiated colluvium :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qca,C,,unknown,unknown,unknown,Snow-avalanche deposit :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qcd,C,,unknown,unknown,unknown,Debris-flow deposit :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qcf,F,,unknown,unknown,unknown,Mixed colluvium and alluvium :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qcft,F,,unknown,unknown,unknown,Tectonically deformed colluvial-fluvial deposits :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qcg,R,,unknown,unknown,unknown,Rock-glacier deposits :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qcl,C,,unknown,unknown,unknown,Landslide deposits :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qcr,C,,unknown,unknown,unknown,Rock-fall deposits :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qct,C,,unknown,unknown,unknown,Talus :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qe,E,,unknown,unknown,unknown,Undifferentiated eolian deposits :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qel,E,,unknown,unknown,unknown,Loess :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qer,E,,sand,unknown,unknown,Retransported silt and sand complexly mixed with lowland loess :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qes,E,,sand,unknown,unknown,Eolian sand :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qfb,Q,,unknown,unknown,unknown,Undifferentiated flood deposits :: UNCLASSIFIED by rules - review
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qfbo,F,M,unknown,unknown,unknown,Flood deposits of Delta age :: rule-classified from name; deltaic
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qfby,Q,,unknown,unknown,unknown,Flood deposits of Donnelly age :: UNCLASSIFIED by rules - review
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qfs,Q,,unknown,unknown,unknown,Slackwater flood deposits :: UNCLASSIFIED by rules - review
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qft,H,,unknown,unknown,unknown,Terrace deposits of Tok River alluvial fan :: rule-classified from name; water body
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qgdh,T,,unknown,unknown,unknown,Till and associated morainal deposits of Holocene Glaciation :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qgdo,T,,unknown,unknown,unknown,Till and associated morainal deposits of Delta Glaciation :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qgdy,T,,unknown,unknown,unknown,Till and associated morainal deposits of Donnelly Glaciation :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qgfeo,GF,,unknown,unknown,unknown,Esker-kame complex of Delta Glaciation :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qgfey,GF,,unknown,unknown,unknown,Esker-kame complex of Donnelly Glaciation :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qgfh,GF,,unknown,unknown,unknown,Outwash of Holocene Glaciation :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qgfo,GF,,unknown,unknown,unknown,Outwash of Delta Glaciation :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qgfy,GF,,unknown,unknown,unknown,Outwash of Donnelly Glaciation :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qgfyy,GF,,unknown,unknown,unknown,Outwash of late Donnelly Glaciation :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qhf,X,,unknown,unknown,unknown,Artificial fill :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qlb,L,,unknown,unknown,unknown,Lake-bottom deposits :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qld,F,M,unknown,unknown,unknown,Delta deposits :: rule-classified from name; deltaic
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qlr,Q,,unknown,unknown,unknown,Deposits of ice-shoved ridges :: UNCLASSIFIED by rules - review
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Qp,O,,unknown,unknown,unknown,Swamp deposits :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|Water,H,,unknown,unknown,unknown,Water :: rule-classified from name; water body
+pr124_ak_hwy_surficial_gems_shapefile_pkg|b,R,,unknown,unknown,unknown,Undifferentiated bedrock :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|b',R,,unknown,unknown,unknown,Thinly covered bedrock :: rule-classified from name
+pr124_ak_hwy_surficial_gems_shapefile_pkg|b+b',R,,unknown,unknown,unknown,Bedrock and thinly covered bedrock :: rule-classified from name
+ri1984_006_livengood_b3b4c3c4_surf_gems_shapefile|Bu,R,,unknown,unknown,unknown,Bedrock :: rule-classified from name
+ri1984_006_livengood_b3b4c3c4_surf_gems_shapefile|a,F,,unknown,unknown,unknown,Alluvial deposits :: rule-classified from name
+ri1984_006_livengood_b3b4c3c4_surf_gems_shapefile|af,F,,unknown,unknown,unknown,Alluvial-fan deposits :: rule-classified from name
+ri1984_006_livengood_b3b4c3c4_surf_gems_shapefile|al,F,,unknown,unknown,unknown,Flood-plain alluvium :: rule-classified from name
+ri1984_006_livengood_b3b4c3c4_surf_gems_shapefile|at,F,,unknown,unknown,unknown,Stream-terrace alluvium :: rule-classified from name
+ri1984_006_livengood_b3b4c3c4_surf_gems_shapefile|c,C,,unknown,unknown,unknown,"Colluvium, undifferentiated :: rule-classified from name"
+ri1984_006_livengood_b3b4c3c4_surf_gems_shapefile|ca,F,,unknown,unknown,unknown,Colluvial-alluvial-fan deposits :: rule-classified from name
+ri1984_006_livengood_b3b4c3c4_surf_gems_shapefile|cf,C,,unknown,unknown,unknown,Fine-grained colluvium :: rule-classified from name
+ri1984_006_livengood_b3b4c3c4_surf_gems_shapefile|cm,C,,diamicton,unknown,unknown,Colluvial diamicton :: rule-classified from name
+ri1984_006_livengood_b3b4c3c4_surf_gems_shapefile|cs,C,,unknown,unknown,unknown,Solifluction deposits :: rule-classified from name
+ri1984_006_livengood_b3b4c3c4_surf_gems_shapefile|e,E,,sand,unknown,unknown,Eolian silt and fine sand :: rule-classified from name
+ri1984_006_livengood_b3b4c3c4_surf_gems_shapefile|el,Q,,unknown,unknown,unknown,Well-sorted silt :: UNCLASSIFIED by rules - review
+ri1984_006_livengood_b3b4c3c4_surf_gems_shapefile|t,X,,unknown,unknown,unknown,Tailings :: rule-classified from name
+ri1984_006_livengood_b3b4c3c4_surf_gems_shapefile|uf,Q,,unknown,unknown,unknown,"Fan-shaped deposits, undetermined origin :: UNCLASSIFIED by rules - review"
+ri1984_006_livengood_b3b4c3c4_surf_gems_shapefile|ur,Q,,unknown,unknown,unknown,Ridge-shaped deposits :: UNCLASSIFIED by rules - review
+ri1984_015_seward_d6_quad_surficial_gems_shapefile|Kv,R,,unknown,unknown,unknown,"Sedimentary rocks, undifferentiated :: rule-classified from name"
+ri1984_015_seward_d6_quad_surficial_gems_shapefile|Kvs,Q,,unknown,unknown,unknown,Schist :: UNCLASSIFIED by rules - review
+ri1984_015_seward_d6_quad_surficial_gems_shapefile|Qcf,F,,unknown,unknown,unknown,"Colluvium and alluvium, undifferentiated :: rule-classified from name"
+ri1984_015_seward_d6_quad_surficial_gems_shapefile|Qcg,C,,unknown,unknown,unknown,Active rock-glacier and protalus-lobe deposits :: rule-classified from name
+ri1984_015_seward_d6_quad_surficial_gems_shapefile|Qcl,C,,unknown,unknown,unknown,Landslide deposits :: rule-classified from name
+ri1984_015_seward_d6_quad_surficial_gems_shapefile|Qct,C,,unknown,unknown,unknown,Talus deposits :: rule-classified from name
+ri1984_015_seward_d6_quad_surficial_gems_shapefile|Qfa,F,,unknown,unknown,unknown,Flood-plain alluvium :: rule-classified from name
+ri1984_015_seward_d6_quad_surficial_gems_shapefile|Qff,F,,unknown,unknown,unknown,Alluvial-fan deposits :: rule-classified from name
+ri1984_015_seward_d6_quad_surficial_gems_shapefile|Qffi,F,,unknown,unknown,unknown,Inactive alluvial-fan deposits :: rule-classified from name
+ri1984_015_seward_d6_quad_surficial_gems_shapefile|Qhd,T,,unknown,unknown,unknown,"Holocene drift, undifferentiated :: rule-classified from name"
+ri1984_015_seward_d6_quad_surficial_gems_shapefile|Qhf,X,,unknown,unknown,unknown,Artificial fill :: rule-classified from name
+ri1984_015_seward_d6_quad_surficial_gems_shapefile|Qho,GF,,unknown,unknown,unknown,"Holocene glaciofluvial deposits, undifferentiated :: rule-classified from name"
+ri1984_015_seward_d6_quad_surficial_gems_shapefile|Qhof,GF,,unknown,unknown,unknown,Holocene outwash-fan deposit :: rule-classified from name
+ri1984_015_seward_d6_quad_surficial_gems_shapefile|Qmt,Q,,unknown,unknown,unknown,Active tidal deposits :: UNCLASSIFIED by rules - review
+ri1984_015_seward_d6_quad_surficial_gems_shapefile|Qmti,Q,,unknown,unknown,unknown,Inactive tidal deposits :: UNCLASSIFIED by rules - review
+ri1984_015_seward_d6_quad_surficial_gems_shapefile|Qo,O,,unknown,unknown,unknown,Organic deposits :: rule-classified from name
+ri1984_015_seward_d6_quad_surficial_gems_shapefile|Qpd,T,,unknown,unknown,unknown,"Pleistocene drift, undifferentiated :: rule-classified from name"
+ri1984_015_seward_d6_quad_surficial_gems_shapefile|Qpo,GF,,unknown,unknown,unknown,"Pleistocene glaciofluvial deposits, undifferentiated :: rule-classified from name"
+ri1984_015_seward_d6_quad_surficial_gems_shapefile|Qs,O,,unknown,unknown,unknown,Swamp deposits :: rule-classified from name
+ri1984_022_seward_d7_quad_surficial_gems_shp|Kv,R,,unknown,unknown,unknown,"Sedimentary rocks, undifferentiated :: rule-classified from name"
+ri1984_022_seward_d7_quad_surficial_gems_shp|Qcf,F,,unknown,unknown,unknown,"Colluvium and alluvium, undifferentiated :: rule-classified from name"
+ri1984_022_seward_d7_quad_surficial_gems_shp|Qcg,C,,unknown,unknown,unknown,Active rock-glacier and protalus-lobe deposits :: rule-classified from name
+ri1984_022_seward_d7_quad_surficial_gems_shp|Qcgi,C,,unknown,unknown,unknown,Inactive rock-glacier and protalus-lobe deposits :: rule-classified from name
+ri1984_022_seward_d7_quad_surficial_gems_shp|Qct,C,,unknown,unknown,unknown,Talus deposits :: rule-classified from name
+ri1984_022_seward_d7_quad_surficial_gems_shp|Qfa,F,,unknown,unknown,unknown,Flood-plain alluvium :: rule-classified from name
+ri1984_022_seward_d7_quad_surficial_gems_shp|Qff,F,,unknown,unknown,unknown,Alluvial-fan deposits :: rule-classified from name
+ri1984_022_seward_d7_quad_surficial_gems_shp|Qffi,F,,unknown,unknown,unknown,Inactive alluvial-fan deposits :: rule-classified from name
+ri1984_022_seward_d7_quad_surficial_gems_shp|Qft,F,,unknown,unknown,unknown,Terrace deposits :: rule-classified from name
+ri1984_022_seward_d7_quad_surficial_gems_shp|Qhd,T,,unknown,unknown,unknown,"Holocene drift, undifferentiated :: rule-classified from name"
+ri1984_022_seward_d7_quad_surficial_gems_shp|Qho,GF,,unknown,unknown,unknown,"Holocene glaciofluvial deposits, undifferentiated :: rule-classified from name"
+ri1984_022_seward_d7_quad_surficial_gems_shp|Qmt,Q,,unknown,unknown,unknown,Active tidal deposits :: UNCLASSIFIED by rules - review
+ri1984_022_seward_d7_quad_surficial_gems_shp|Qmti,Q,,unknown,unknown,unknown,Inactive tidal deposits :: UNCLASSIFIED by rules - review
+ri1984_022_seward_d7_quad_surficial_gems_shp|Qo,O,,unknown,unknown,unknown,Organic deposits :: rule-classified from name
+ri1984_022_seward_d7_quad_surficial_gems_shp|Qpd,T,,unknown,unknown,unknown,"Pleistocene drift, undifferentiated :: rule-classified from name"
+ri1984_022_seward_d7_quad_surficial_gems_shp|Qpo,GF,,unknown,unknown,unknown,"Pleistocene glaciofluvial deposits, undifferentiated :: rule-classified from name"
+ri1995_002c_circle_mining_dist_surficial_gems_shp|Qa,F,,unknown,unknown,unknown,Floodplain alluvium :: rule-classified from name
+ri1995_002c_circle_mining_dist_surficial_gems_shp|Qaf,F,,unknown,unknown,unknown,Alluvial-fan deposits :: rule-classified from name
+ri1995_002c_circle_mining_dist_surficial_gems_shp|Qat,F,,unknown,unknown,unknown,Terrace alluvium :: rule-classified from name
+ri1995_002c_circle_mining_dist_surficial_gems_shp|Qc,C,,unknown,unknown,unknown,Undifferentiated colluvium :: rule-classified from name
+ri1995_002c_circle_mining_dist_surficial_gems_shp|Qcf,F,,unknown,unknown,unknown,Undifferentiated colluvium and alluvium :: rule-classified from name
+ri1995_002c_circle_mining_dist_surficial_gems_shp|Qd,T,,unknown,unknown,unknown,Modified drift of Mastodon Dome glaciation :: rule-classified from name
+ri1995_002c_circle_mining_dist_surficial_gems_shp|Qh,X,,unknown,unknown,unknown,"Man-made deposits, primarily placer-mine tailings :: rule-classified from name"
+ri1995_002c_circle_mining_dist_surficial_gems_shp|Qsu,O,,fines,unknown,unknown,Undifferentiated peat and organic silt :: rule-classified from name
+ri1995_002c_circle_mining_dist_surficial_gems_shp|b,R,,unknown,unknown,unknown,Undifferentiated bedrock :: rule-classified from name
+ri1997_015c_tanana_b1_surficial_gems_shapefile|QTg,Q,,unknown,unknown,unknown,high-level bench gravel :: UNCLASSIFIED by rules - review
+ri1997_015c_tanana_b1_surficial_gems_shapefile|Qac,F,,unknown,unknown,unknown,undifferentiated alluvial and colluvial valley fill deposits :: rule-classified from name
+ri1997_015c_tanana_b1_surficial_gems_shapefile|Qaf,F,,unknown,unknown,unknown,alluvial fan deposits :: rule-classified from name
+ri1997_015c_tanana_b1_surficial_gems_shapefile|Qal,F,,unknown,unknown,unknown,alluvium in modern stream channels :: rule-classified from name
+ri1997_015c_tanana_b1_surficial_gems_shapefile|Qat1,F,,unknown,unknown,unknown,older alluvial terrace deposits of lower minook creek :: rule-classified from name
+ri1997_015c_tanana_b1_surficial_gems_shapefile|Qat2,F,,unknown,unknown,unknown,"younger alluvial terrace deposits of lower Hunter, Hoosier, and Minook creeks :: rule-classified from name"
+ri1997_015c_tanana_b1_surficial_gems_shapefile|Qc,C,,unknown,unknown,unknown,undifferentiated colluvium :: rule-classified from name
+ri1997_015c_tanana_b1_surficial_gems_shapefile|Qca,F,,unknown,unknown,unknown,colluvial apron and fan deposits :: rule-classified from name
+ri1997_015c_tanana_b1_surficial_gems_shapefile|Qcs,C,,unknown,unknown,unknown,solifluction deposits :: rule-classified from name
+ri1997_015c_tanana_b1_surficial_gems_shapefile|Qct,C,,unknown,unknown,unknown,talus deposits :: rule-classified from name
+ri1997_015c_tanana_b1_surficial_gems_shapefile|Qd,T,,unknown,unknown,unknown,modified drift :: rule-classified from name
+ri1997_015c_tanana_b1_surficial_gems_shapefile|Qer,Q,,unknown,unknown,unknown,primary and reworked upland silt :: UNCLASSIFIED by rules - review
+ri1997_015c_tanana_b1_surficial_gems_shapefile|Qes,E,,sand,unknown,unknown,dune sand deposits :: rule-classified from name
+ri1997_015c_tanana_b1_surficial_gems_shapefile|Qfo,F,,unknown,unknown,unknown,old fan deposits of lower chapman creek :: rule-classified from name
+ri1997_015c_tanana_b1_surficial_gems_shapefile|Qfp,F,,unknown,unknown,unknown,floodplain alluvium bordering modern streams :: rule-classified from name
+ri1997_015c_tanana_b1_surficial_gems_shapefile|Qh,X,,unknown,unknown,unknown,mine tailings :: rule-classified from name
+ri1997_015c_tanana_b1_surficial_gems_shapefile|Ql,L,,unknown,unknown,unknown,undifferentiated lacustrine deposits :: rule-classified from name
+ri1997_015c_tanana_b1_surficial_gems_shapefile|Qls,C,,unknown,unknown,unknown,landslide deposits :: rule-classified from name
+ri1997_015c_tanana_b1_surficial_gems_shapefile|Qof,GF,,unknown,unknown,unknown,outwash fan deposits :: rule-classified from name
+ri1997_015c_tanana_b1_surficial_gems_shapefile|RIV,H,,unknown,unknown,unknown,river :: rule-classified from name; water body
+ri1997_015c_tanana_b1_surficial_gems_shapefile|b,R,,unknown,unknown,unknown,exposed bedrock :: rule-classified from name
+ri1997_015c_tanana_b1_surficial_gems_shapefile|bc,R,,unknown,unknown,unknown,thinly covered bedrock :: rule-classified from name
+ri2004_001c_salcha_river_pogo_surficial_gems_shp|Qa,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2004_001c_salcha_river_pogo_surficial_gems_shp|Qc,V,,unknown,unknown,unknown,Vent and cinder deposits :: rule-classified from name
+ri2004_001c_salcha_river_pogo_surficial_gems_shp|Qca,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2004_001c_salcha_river_pogo_surficial_gems_shp|Qcd,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2004_001c_salcha_river_pogo_surficial_gems_shp|Qcl,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2004_001c_salcha_river_pogo_surficial_gems_shp|Qer,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2004_001c_salcha_river_pogo_surficial_gems_shp|Qgd,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2004_001c_salcha_river_pogo_surficial_gems_shp|Qt,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2004_001c_salcha_river_pogo_surficial_gems_shp|b,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2004_001c_salcha_river_pogo_surficial_gems_shp|b',Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2005_001c_big_hurrah_surficial_gems_shapefile|Qal,F,,unknown,unknown,unknown,"Alluvium, undifferentiated :: rule-classified from name"
+ri2005_001c_big_hurrah_surficial_gems_shapefile|Qas,F,,unknown,unknown,unknown,Silty alluvium :: rule-classified from name
+ri2005_001c_big_hurrah_surficial_gems_shapefile|Qat,F,,unknown,unknown,unknown,Terrace alluvium :: rule-classified from name
+ri2005_001c_big_hurrah_surficial_gems_shapefile|Qc,C,,unknown,unknown,unknown,"Colluvium, undifferentiated :: rule-classified from name"
+ri2005_001c_big_hurrah_surficial_gems_shapefile|Qcs,C,,unknown,unknown,unknown,Solifluction deposits :: rule-classified from name
+ri2005_001c_big_hurrah_surficial_gems_shapefile|Qds,T,,unknown,unknown,unknown,Drift of Sinuk age :: rule-classified from name
+ri2005_001c_big_hurrah_surficial_gems_shapefile|Qdu,T,,unknown,unknown,unknown,"Older drift, undifferentiated :: rule-classified from name"
+ri2005_001c_big_hurrah_surficial_gems_shapefile|Qmt,X,,unknown,unknown,unknown,Mine tailings :: rule-classified from name
+ri2005_001c_big_hurrah_surficial_gems_shapefile|Qus,Q,,unknown,unknown,unknown,Upland silt :: UNCLASSIFIED by rules - review
+ri2005_001c_big_hurrah_surficial_gems_shapefile|b,R,,unknown,unknown,unknown,"Bedrock, exposed :: rule-classified from name"
+ri2005_001c_big_hurrah_surficial_gems_shapefile|b',R,,unknown,unknown,unknown,"Bedrock, thinly covered :: rule-classified from name"
+ri2005_001f_council_surficial_gems_shapefile_pkg|Qal,F,,unknown,unknown,unknown,"Alluvium, undifferentiated :: rule-classified from name"
+ri2005_001f_council_surficial_gems_shapefile_pkg|Qat,F,,unknown,unknown,unknown,Terrace alluvium :: rule-classified from name
+ri2005_001f_council_surficial_gems_shapefile_pkg|Qc,C,,unknown,unknown,unknown,"Colluvium, undifferentiated :: rule-classified from name"
+ri2005_001f_council_surficial_gems_shapefile_pkg|Qcs,C,,unknown,unknown,unknown,Solifluction deposits :: rule-classified from name
+ri2005_001f_council_surficial_gems_shapefile_pkg|Qdn,H,,unknown,unknown,unknown,Drift of Nome River age :: rule-classified from name; water body
+ri2005_001f_council_surficial_gems_shapefile_pkg|Qds,T,,unknown,unknown,unknown,Drift of Sinuk age :: rule-classified from name
+ri2005_001f_council_surficial_gems_shapefile_pkg|Qds-os,GF,,sand,unknown,unknown,Sandy outwash of Sinuk age :: rule-classified from name
+ri2005_001f_council_surficial_gems_shapefile_pkg|Qds-ow,GF,,unknown,unknown,unknown,Outwash of Sinuk age :: rule-classified from name
+ri2005_001f_council_surficial_gems_shapefile_pkg|Qds-v,T,,unknown,veneer,unknown,"Drift of Sinuk age, veneer :: rule-classified from name"
+ri2005_001f_council_surficial_gems_shapefile_pkg|Qds-w,T,,unknown,unknown,unknown,"Drift of Sinuk age, washed :: rule-classified from name"
+ri2005_001f_council_surficial_gems_shapefile_pkg|Qfp,F,,unknown,unknown,unknown,Floodplain alluvium :: rule-classified from name
+ri2005_001f_council_surficial_gems_shapefile_pkg|Qls,Q,,unknown,unknown,unknown,Lowland silt :: UNCLASSIFIED by rules - review
+ri2005_001f_council_surficial_gems_shapefile_pkg|Qls-p,Q,,unknown,unknown,unknown,Permafrost-rich lowland silt :: UNCLASSIFIED by rules - review
+ri2005_001f_council_surficial_gems_shapefile_pkg|Qmt,X,,unknown,unknown,unknown,Mine tailings :: rule-classified from name
+ri2005_001f_council_surficial_gems_shapefile_pkg|Qrg,C,,unknown,unknown,unknown,Rock glacier deposits :: rule-classified from name; rock glacier
+ri2005_001f_council_surficial_gems_shapefile_pkg|Qs,O,,unknown,unknown,unknown,Swamp deposits :: rule-classified from name
+ri2005_001f_council_surficial_gems_shapefile_pkg|Qtl,K,L,unknown,unknown,unknown,Thaw lake deposits :: rule-classified from name
+ri2005_001f_council_surficial_gems_shapefile_pkg|Qus,Q,,unknown,unknown,unknown,Upland silt :: UNCLASSIFIED by rules - review
+ri2005_001f_council_surficial_gems_shapefile_pkg|b,R,,unknown,unknown,unknown,"Bedrock, exposed :: rule-classified from name"
+ri2005_001f_council_surficial_gems_shapefile_pkg|b',R,,unknown,unknown,unknown,"Bedrock, thinly covered :: rule-classified from name"
+ri2011_004_ne_fairbanks_surficial_gems_shapefile|Qa,F,,unknown,unknown,unknown,"Alluvium, undifferentiated :: rule-classified from name"
+ri2011_004_ne_fairbanks_surficial_gems_shapefile|Qaa,F,,unknown,unknown,unknown,Alluvium in active channels :: rule-classified from name
+ri2011_004_ne_fairbanks_surficial_gems_shapefile|Qaf,F,,unknown,unknown,unknown,Alluvial fan deposits :: rule-classified from name
+ri2011_004_ne_fairbanks_surficial_gems_shapefile|Qai,F,,unknown,unknown,unknown,Alluvium in inactive channels :: rule-classified from name
+ri2011_004_ne_fairbanks_surficial_gems_shapefile|Qat,F,,unknown,unknown,unknown,"Terrace alluvium, undifferentiated :: rule-classified from name"
+ri2011_004_ne_fairbanks_surficial_gems_shapefile|Qat1,F,,unknown,unknown,unknown,Terrace alluvium of oldest age :: rule-classified from name
+ri2011_004_ne_fairbanks_surficial_gems_shapefile|Qat2,F,,unknown,unknown,unknown,Terrace alluvium of intermediate age :: rule-classified from name
+ri2011_004_ne_fairbanks_surficial_gems_shapefile|Qat3,F,,unknown,unknown,unknown,Terrace alluvium of young-intermediate age :: rule-classified from name
+ri2011_004_ne_fairbanks_surficial_gems_shapefile|Qat4,F,,unknown,unknown,unknown,Terrace alluvium of youngest age :: rule-classified from name
+ri2011_004_ne_fairbanks_surficial_gems_shapefile|Qc,C,,unknown,unknown,unknown,"Colluvium, undifferentiated :: rule-classified from name"
+ri2011_004_ne_fairbanks_surficial_gems_shapefile|Qcf,F,,unknown,unknown,unknown,Mixed colluvium and alluvium :: rule-classified from name
+ri2011_004_ne_fairbanks_surficial_gems_shapefile|Qcl,C,,unknown,unknown,unknown,Possible landslide deposits :: rule-classified from name
+ri2011_004_ne_fairbanks_surficial_gems_shapefile|Qct,C,,unknown,unknown,unknown,Talus deposits :: rule-classified from name
+ri2011_004_ne_fairbanks_surficial_gems_shapefile|Qdlc,T,,unknown,unknown,unknown,Drift of Little Champion age :: rule-classified from name
+ri2011_004_ne_fairbanks_surficial_gems_shapefile|Qdp,T,,unknown,unknown,unknown,Drift of Prindle age or older :: rule-classified from name
+ri2011_004_ne_fairbanks_surficial_gems_shapefile|Qh,Q,,unknown,unknown,unknown,Construction pad :: UNCLASSIFIED by rules - review
+ri2011_004_ne_fairbanks_surficial_gems_shapefile|Qlc,C,,unknown,unknown,unknown,Lowland colluvium :: rule-classified from name
+ri2011_004_ne_fairbanks_surficial_gems_shapefile|Qmt,X,,unknown,unknown,unknown,Mine tailings :: rule-classified from name
+ri2011_004_ne_fairbanks_surficial_gems_shapefile|b,R,,unknown,unknown,unknown,Exposed bedrock :: rule-classified from name
+ri2011_004_ne_fairbanks_surficial_gems_shapefile|b',R,,unknown,unknown,unknown,Thinly covered bedrock :: rule-classified from name
+ri2013_002_livengood_area_surficial_gems_shapefile|Qa,F,,unknown,unknown,unknown,Undifferentiated alluvium :: rule-classified from name
+ri2013_002_livengood_area_surficial_gems_shapefile|Qat,F,,unknown,unknown,unknown,Terrace alluvium :: rule-classified from name
+ri2013_002_livengood_area_surficial_gems_shapefile|Qcf,F,,unknown,unknown,unknown,Mixed colluvium and alluvium :: rule-classified from name
+ri2013_002_livengood_area_surficial_gems_shapefile|Qcl,C,,unknown,unknown,unknown,Landslide deposits :: rule-classified from name
+ri2013_002_livengood_area_surficial_gems_shapefile|Qel,E,,unknown,unknown,unknown,Loess :: rule-classified from name
+ri2013_002_livengood_area_surficial_gems_shapefile|Qelx,E,,unknown,unknown,yes,Frozen loess with considerable ground ice :: rule-classified from name
+ri2013_002_livengood_area_surficial_gems_shapefile|Qer,E,,fines,unknown,unknown,Retransported silt and lowland loess :: rule-classified from name
+ri2013_002_livengood_area_surficial_gems_shapefile|Qfb,F,,unknown,unknown,unknown,Bench alluvium :: rule-classified from name
+ri2013_002_livengood_area_surficial_gems_shapefile|Qh,X,,unknown,unknown,unknown,Placer tailings and artificial fills :: rule-classified from name
+ri2013_002_livengood_area_surficial_gems_shapefile|Qs,O,,unknown,unknown,unknown,Swamp deposits :: rule-classified from name
+ri2013_002_livengood_area_surficial_gems_shapefile|b,R,,unknown,unknown,unknown,Exposed bedrock :: rule-classified from name
+ri2013_002_livengood_area_surficial_gems_shapefile|b',R,,unknown,unknown,unknown,Thinly covered bedrock :: rule-classified from name
+ri2013_002_livengood_area_surficial_gems_shapefile|water,H,,unknown,unknown,unknown,Water :: rule-classified from name; water body
+ri2017_005_shaktoolik_surficial_gems_shapefile|Kcg,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|Kvc,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|MZPRc,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|Qac,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|Qaf,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|Qal,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|Qas,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|Qat1,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|Qat2,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|Qbr,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|Qbry,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|Qc,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|Qfp1,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|Qfp2,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|Qfp3,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|Qmb,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|Qme,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|Qsi,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|Qsii,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|Qtl,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|Qtlm,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|Qus,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|lagoon,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|lake,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2017_005_shaktoolik_surficial_gems_shapefile|river,Q,,unknown,unknown,unknown, :: UNCLASSIFIED by rules - review
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qal,F,,unknown,unknown,unknown,"Alluvium, Undifferentiated :: rule-classified from name"
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qas,F,,unknown,unknown,unknown,Silty Alluvium :: rule-classified from name
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qat,F,,unknown,unknown,unknown,Terrace Alluvium :: rule-classified from name
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qb,M,,unknown,unknown,unknown,Beach Deposits :: rule-classified from name
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qc,C,,unknown,unknown,unknown,"Colluvium, Undifferentiated :: rule-classified from name"
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qcd,T,,unknown,unknown,unknown,Colluvium with Glacial Drift :: rule-classified from name
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qcs,C,,unknown,unknown,unknown,Solifluction Deposits :: rule-classified from name
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qdn,H,,unknown,unknown,unknown,Drift of Nome River Age :: rule-classified from name; water body
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qds,T,,unknown,unknown,unknown,Drift of Sinuk Age :: rule-classified from name
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qds-os,GF,,sand,unknown,unknown,Sandy Outwash of Sinuk Age :: rule-classified from name
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qds-ow,GF,,unknown,unknown,unknown,Outwash of Sinuk Age :: rule-classified from name
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qds-v,T,,unknown,veneer,unknown,"Drift of Sinuk Age, veneer :: rule-classified from name"
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qds-w,T,,unknown,unknown,unknown,"Drift of Sinuk Age, washed :: rule-classified from name"
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qdu,T,,unknown,unknown,unknown,"Older Drift, undifferentiated (early? Pleistocene) :: rule-classified from name"
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qfp,F,,unknown,unknown,unknown,Floodplain Alluvium :: rule-classified from name
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qls,Q,,unknown,unknown,unknown,Lowland Silt :: UNCLASSIFIED by rules - review
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qmt,X,,unknown,unknown,unknown,Mine Tailings :: rule-classified from name
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qrg,C,,unknown,unknown,unknown,Rock Glacier Deposits :: rule-classified from name; rock glacier
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qs,O,,unknown,unknown,unknown,Swamp Deposits :: rule-classified from name
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qtl,K,L,unknown,unknown,unknown,Thaw Lake Deposits :: rule-classified from name
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qus,Q,,unknown,unknown,unknown,Upland Silt :: UNCLASSIFIED by rules - review
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qus-r,Q,,unknown,unknown,unknown,Reworked Upland Silt :: UNCLASSIFIED by rules - review
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|Qv,V,,unknown,unknown,unknown,Basalt Lava Flows :: rule-classified from name
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|b,R,,unknown,unknown,unknown,"Bedrock, Exposed :: rule-classified from name"
+ri2024_006_casadepaga_surf_gems_db_pkg_shp|b',R,,unknown,unknown,unknown,"Bedrock, Thinly Covered :: rule-classified from name"

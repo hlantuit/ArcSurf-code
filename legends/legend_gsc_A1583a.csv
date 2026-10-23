@@ -1,0 +1,19 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#ad6b59,8,"COLLUVIAL DEPOSITS: diamicton, locally organic rich, at the foot of slopes; slopewash or mass movement",C,,diamicton,,GSC Map 1583A (Hodgson & Vincent 1980); raster scan; description_ru holds the English legend text
+1,#fffe21,7b,"FLUVIAL: channel and floodplain deposits (active): mainly sand and gravel, includes deltas and fans",F,,mixed,,
+2,#ffffa7,7a,"FLUVIAL: terrace deposits: mainly sand, sandy silt, gravel or peat; in places overlies fine marine or deltaic sediment",F,,mixed,,
+3,#daf8f9,6b,"MARINE: raised beach deposits: gravel and sand, or gravel; raised beach berms",M,,gravel,,swatch sampled by hand
+4,#b2e8ec,6a,"MARINE: raised undifferentiated shore, nearshore and offshore deposits: chiefly sand or finer",M,,sand,,
+5,#a7cbf6,5,"DELTAIC DEPOSITS (Pleistocene): gravel, sand or silt; deltas of former water planes, commonly marine",M,F,mixed,,deltas of former marine (locally glacial-lake) levels
+6,#78aff2,4,"MARINE DEPOSITS (Pleistocene): silty clay to gravelly sand; littoral, nearshore or offshore",M,,mixed,,
+7,#ffd64b,3,"GLACIOFLUVIAL DEPOSITS: boulders or silty sand; proglacial terraces abutting Winter Harbour Till",GF,,mixed,,
+8,#82ac5c,2e,"MORAINAL: undifferentiated drift: scattered thin sandy till-like deposits",T,,sand,,thin cover
+9,#b1ca55,2d,"MORAINAL: Winter Harbour Till: carbonate-rich sand, silt and clay matrix till",T,,diamicton,,
+10,#c1e33e,2c,"MORAINAL: Liddon Till: sand, silt and clay matrix till",T,,diamicton,,same colour as 2b (both T)
+11,#c2e33d,2b,"MORAINAL: Bolduc Till: sand, silt and clay matrix till",T,,diamicton,,
+12,#e1f7a7,2a,"MORAINAL: Dundas Till: dark grey clay to sand matrix till",T,,diamicton,,
+13,#ffb85c,1,"ICE CONTACT DEPOSITS: gravel-veneered gravelly sand; kame-like hills and knolls",GF,,mixed,,
+14,#fef1ed,A,"WEATHERED BEDROCK, fine grained: dominantly sandy silt or clayey silt",W,R,fines,,swatch sampled by hand; nearly paper-white (L 96 vs paper 99)
+15,#fccde4,B,"WEATHERED BEDROCK, mixed: fine and coarse deposits",W,R,mixed,,
+16,#f69bc4,C,"WEATHERED BEDROCK, sand: sand and minor gravelly sand or silt",W,R,sand,,
+17,#fec0bb,D,"WEATHERED BEDROCK, rubble: rock fragments; sand or silt locally dominant",W,R,bouldery,,

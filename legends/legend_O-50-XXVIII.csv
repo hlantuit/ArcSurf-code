@@ -1,0 +1,23 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#cb90bf,e,eluvium,W,,bouldery,,"GGK-200/2 O-50-XXVIII, Kodar-Udokan, Quaternary map, vector PDF (geokniga)"
+1,#f58466,c,colluvium,C,,bouldery,,
+2,#ea9488,cs,colluvial-solifluxion,C,,bouldery,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+3,#f1f3c3,aH,floodplain and channel alluvium,F,,gravel,,
+4,#f0e4ab,apH,alluvial-proluvial fans,F,,gravel,,
+5,#d7e7aa,a1III4-H,Oshurkovo 1st terrace alluvium,F,,gravel,,
+6,#efe29d,apIII4-H,dry-delta alluvium-proluvium,F,,gravel,,
+7,#f2bf92,gIII4,Oshurkovo till,T,,diamicton,,
+8,#c6d69e,fIII4,Oshurkovo glaciofluvial,GF,,gravel,,
+9,#eba66c,gIII2,Tompa till,T,,diamicton,,
+10,#b2c77b,fIII2,Tompa glaciofluvial,GF,,gravel,,
+11,#7ecbb6,laIII2,Tompa lake-alluvial,L,F,gravel,,
+12,#7fcbae,laIII1,Suvi lake-alluvial (scheme only),L,F,gravel,,
+13,#de9e70,gII4,Borzhigantai till,T,,diamicton,,
+14,#b0be82,fII4,Borzhigantai glaciofluvial,GF,,gravel,,
+15,#60c3aa,laII3,Tungir lake-alluvial (section only),L,F,gravel,,
+16,#cb9168,gII2,Ust-Kiran till (section only),T,,diamicton,,
+17,#62c2a0,laEIob,Oibon lake-alluvial (section only),L,F,sand,,
+18,#42c8f4,lN2lk,Lyuksyugun lacustrine (section only),L,,sand,,
+19,#00bff3,lN,Neogene lacustrine (section only,L,,fines,,
+20,#1abbb4,lN1an,Anargin lacustrine (section only),L,,fines,,
+21,#a677b4,PREQ,pre-Neogene bedrock,R,,,,

@@ -1,0 +1,20 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+A,F,,,,,alluvial (SGCMS derived legend; LegLink GENESIS)
+C,C,,,,,colluvial
+E,E,,,,,eolian
+G,GF,,,,,glaciofluvial
+Gs,GF,,,,,glaciofluvial (subtype)
+Lc,GL,,,,,glaciolacustrine
+Ls,GL,,,,,glaciolacustrine
+Lm,L,,,,,lacustrine
+M,GM,,,,,glaciomarine
+Ms,GM,,,,,glaciomarine
+O,O,,organic,,,wetland / organic
+R,R,,,,,rock
+Rc,R,,,,,rock (LegLink GENESIS 'Marine' - marine-washed bedrock)
+Rm,R,,,,,rock (LegLink GENESIS 'Marine')
+Rp,R,,,,,"rock (residual, volcanic or n/a)"
+T,T,,,,,glacial/morainal
+Tc,T,,,,,glacial/morainal
+Tm,T,,,,,glacial/morainal
+Tp,T,,,,,glacial/morainal (till plain)

@@ -1,0 +1,134 @@
+{
+ "sheet": "O-42-XXXIV",
+ "source": "raster scan",
+ "projection": "tmerc_utm",
+ "rms_m": 120.98322847699905,
+ "max_res_m": 211.71006942915753,
+ "m_per_px": 33.891890675919214,
+ "corner_residuals_m": [
+  211.7,
+  174.0,
+  209.8,
+  175.4,
+  94.9,
+  98.4,
+  62.9,
+  86.1,
+  70.2,
+  51.0,
+  119.5,
+  76.9,
+  74.3,
+  42.0,
+  67.9
+ ],
+ "n_ties": 11,
+ "corners": [
+  {
+   "approx": [
+    87.3,
+    120.6
+   ],
+   "snapped": [
+    87.3,
+    120.6
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1897.3,
+    117.7
+   ],
+   "snapped": [
+    1897.3,
+    117.7
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1905.2,
+    2332.2
+   ],
+   "snapped": [
+    1905.2,
+    2332.2
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    65.5,
+    2312.1
+   ],
+   "snapped": [
+    65.5,
+    2312.1
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.119,
+ "area_km2": 4588.951011188493,
+ "neatline_km2": 4591.757110831967,
+ "cover_frac": 0.9993888832584689,
+ "n_polygons": 420,
+ "units": {
+  "#e2fac6": {
+   "index": "alIV",
+   "px": 258787,
+   "direct_frac": 0.753
+  },
+  "#cadfef": {
+   "index": "lIV",
+   "px": 4474,
+   "direct_frac": 0.912
+  },
+  "#a4aeaf": {
+   "index": "l+hIV",
+   "px": 660816,
+   "direct_frac": 0.797
+  },
+  "#f2e823": {
+   "index": "eolIII-IV",
+   "px": 3415,
+   "direct_frac": 0.5
+  },
+  "#dbcb89": {
+   "index": "d+plIII-IV",
+   "px": 39939,
+   "direct_frac": 0.537
+  },
+  "#c1fc8f": {
+   "index": "alIII1",
+   "px": 73217,
+   "direct_frac": 0.736
+  },
+  "#fcbe8e": {
+   "index": "el+dIII",
+   "px": 2943763,
+   "direct_frac": 0.918
+  },
+  "#ffd5f9": {
+   "index": "PREQ",
+   "px": 485,
+   "direct_frac": 0.338
+  },
+  "#a9e2e1": {
+   "index": "WATER",
+   "px": 16580,
+   "direct_frac": 0.756
+  },
+  "#ebfcf3": {
+   "index": "WATER",
+   "px": 18747,
+   "direct_frac": 0.965
+  }
+ },
+ "confusable_pairs": [],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 30
+}

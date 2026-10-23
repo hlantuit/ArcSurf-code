@@ -1,0 +1,72 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#e05d59,cIII-IV,colluvium,C,,bouldery,,"GGK-1000/3 Q-60,1 Anadyr 2001 (new series), Quaternary map, RASTER (geokniga JPG 11232x7984), MATRIX legend (swatches located by scripts/swatch_overlay.py); scheme-only (*) units omitted; crosses 180 deg; colluvium"
+1,#ee776b,cIV,Holocene colluvium,C,,bouldery,,Holocene colluvium
+2,#d44444,c,colluvium,C,,bouldery,,colluvium
+3,#da4853,s,solifluxion,C,,mixed,,solifluxion
+4,#f3ee89,aIV,Holocene alluvium,F,,mixed,,Holocene alluvium
+5,#b1c065,a1IV1,lower Holocene 1st terrace alluvium,F,,mixed,,lower Holocene 1st terrace alluvium
+6,#99af65,a1III4-IV1,1st terrace alluvium,F,,mixed,,1st terrace alluvium
+7,#8ba764,a2III3,2nd terrace alluvium,F,,mixed,,2nd terrace alluvium
+8,#789755,a3III1,3rd terrace alluvium,F,,mixed,,3rd terrace alluvium
+9,#688b4a,a4II3,4th terrace alluvium,F,,mixed,,4th terrace alluvium
+10,#edb86c,pIV,Holocene proluvium,F,,gravel,,Holocene proluvium
+11,#96bef8,lIV,Holocene lacustrine,L,,fines,,Holocene lacustrine
+12,#7eabf6,lIV2-3,mid-late Holocene lacustrine,L,,fines,,mid-late Holocene lacustrine
+13,#6493f0,lIII4-IV1,lacustrine,L,,fines,,lacustrine
+14,#588bf7,lIII3,lacustrine stage 3,L,,fines,,lacustrine stage 3
+15,#4b7ff7,lIII2,lacustrine stage 2,L,,fines,,lacustrine stage 2
+16,#4076f4,lIII1,lacustrine stage 1,L,,fines,,lacustrine stage 1
+17,#d28a6f,gIII4,stage 4 till,T,,bouldery,,stage 4 till
+18,#c3765c,gIII2,stage 2 till,T,,bouldery,,stage 2 till
+19,#bb6552,gII4,middle Pleistocene stage 4 till,T,,bouldery,,middle Pleistocene stage 4 till
+20,#ae5247,gII2,middle Pleistocene stage 2 till,T,,bouldery,,middle Pleistocene stage 2 till
+21,#909c5a,fIII4,glaciofluvial,GF,,gravel,,glaciofluvial
+22,#83904e,fIII2,glaciofluvial,GF,,gravel,,glaciofluvial
+23,#758442,fII4,glaciofluvial,GF,,gravel,,glaciofluvial
+24,#64763c,fII2,glaciofluvial,GF,,gravel,,glaciofluvial
+25,#b3824b,"g,fII2",till and glaciofluvial,T,GF,bouldery,,till and glaciofluvial
+26,#5b8898,lgIII2,glaciolacustrine,GL,,fines,,glaciolacustrine
+27,#447379,lgII2,glaciolacustrine,GL,,fines,,glaciolacustrine
+28,#af8170,gmII4,glaciomarine,GM,,mixed,,glaciomarine
+29,#9b6e5e,gmII2,glaciomarine,GM,,mixed,,glaciomarine
+30,#905e50,gmI-II,glaciomarine,GM,,mixed,,glaciomarine
+31,#825046,gmI,glaciomarine,GM,,mixed,,glaciomarine
+32,#908c82,tIV,technogenic,X,,mixed,,technogenic
+33,#b3b9f5,mIV,Holocene marine on land,M,,sand,,Holocene marine on land
+34,#5e6fcb,m1IV1,lower Holocene marine terrace,M,,sand,,lower Holocene marine terrace
+35,#6f77cc,m2III3,marine terrace,M,,sand,,marine terrace
+36,#5d67bf,m3III2,marine terrace,M,,sand,,marine terrace
+37,#515ab2,m3III1,marine terrace,M,,sand,,marine terrace
+38,#454ea4,m4II3,marine terrace,M,,mixed,,marine terrace
+39,#424993,m5II1,marine terrace,M,,mixed,,marine terrace
+40,#42448b,m6I1,marine terrace,M,,mixed,,marine terrace
+41,#3f407f,mE,Eopleistocene marine,M,,mixed,,Eopleistocene marine
+42,#a3c3c1,laIV1,lake-alluvial,L,F,fines,,lake-alluvial
+43,#8db0ae,laIII4-IV1,lake-alluvial,L,F,fines,,lake-alluvial
+44,#7ba39f,laIII3,lake-alluvial,L,F,fines,,lake-alluvial
+45,#68928e,laIII2,lake-alluvial,L,F,fines,,lake-alluvial
+46,#5a867b,laIII1,lake-alluvial,L,F,fines,,lake-alluvial
+47,#507d6d,laII3,lake-alluvial,L,F,fines,,lake-alluvial
+48,#457360,laII1,lake-alluvial,L,F,fines,,lake-alluvial
+49,#48775a,laEII-I1,Eopleistocene-lower Neopleistocene lake-alluvial,L,F,fines,,Eopleistocene-lower Neopleistocene lake-alluvial
+50,#e5ce6b,apIV,alluvial-proluvial,F,,gravel,,alluvial-proluvial
+51,#a5c5cb,amIV2-3,alluvial-marine,F,M,sand,,alluvial-marine
+52,#93b9bb,amIII3,alluvial-marine,F,M,sand,,alluvial-marine
+53,#7fa9ac,amIII2,alluvial-marine,F,M,sand,,alluvial-marine
+54,#69989a,amIII1,alluvial-marine,F,M,sand,,alluvial-marine
+55,#ab9a7c,"l,bIV",lacustrine and biogenic (peat),L,O,organic,,lacustrine and biogenic (peat)
+56,#f0ac70,dpIII-IV,deluvial-proluvial,C,F,mixed,,deluvial-proluvial
+57,#e45645,"e,d",eluvium and deluvium,W,C,bouldery,,eluvium and deluvium
+58,#dd4e45,dc,deluvial-colluvial,C,,bouldery,,deluvial-colluvial
+59,#e25755,ds,deluvial-solifluxion,C,,mixed,,deluvial-solifluxion
+60,#83a8f9,s:m1IV,shelf wave (offshore),M,,sand,,shelf wave (offshore)
+61,#90b4c8,s:m3IV,shelf current (offshore),M,,sand,,shelf current (offshore)
+62,#89a8d3,s:aIII-IV,submerged alluvium,F,M,sand,,submerged alluvium
+63,#a8c4f8,s:PREQ,offshore pre-Quaternary,R,,,,offshore pre-Quaternary
+64,#673b6d,e',e',W,,bouldery,,e'
+65,#855286,e'',e'',W,,fines,,e''
+66,#ae7fc7,PREQ,PREQ,R,,,,PREQ
+67,#7b4c93,"PREQ,b","PREQ,b",R,,,,"PREQ,b"
+68,#679af9,s:m2'IV,s:m2'IV,M,,fines,,s:m2'IV
+69,#7dadf7,s:m2''IV,s:m2''IV,M,,fines,,s:m2''IV
+70,#ffffff,WATER,море (белое),H,,,,

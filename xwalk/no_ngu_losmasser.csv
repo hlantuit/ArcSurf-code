@@ -1,0 +1,103 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+1,H,,,,,"løsmasser/berggrunn under vann - under water, unspecified"
+10,T,,,,,morenemateriale uspesifisert
+11,T,,,blanket,,"continuous cover, locally thick"
+12,T,,,discontinuous,,"discontinuous or thin cover over bedrock (NGU does not separate thin from patchy)"
+13,T,,fines,,,moreneleire (clayey till) - texture stated in the unit name
+14,T,,,,,ablation moraine
+15,T,,,,,end moraine / moraine zone
+16,T,,,,,drumlin
+17,T,,,,,rogen moraine
+20,GF,,,,,glaciofluvial
+21,GF,F,,,,glaciofluvial and fluvial
+22,GF,,,,,esker
+23,GF,,,,,kame
+30,GL,,,,,glaciolacustrine / ice-dammed lake
+31,GF,GL,,,,glaciofluvial and glaciolacustrine
+35,L,,,,,lacustrine
+36,GL,L,,,,glaciolacustrine and lacustrine
+37,L,,,,,lake / ice-dammed-lake shore deposit
+40,M,,,,,"hav- og fjordavsetning, unspecified (marine and fjord deposits)"
+41,M,,,blanket,,"marine/fjord, continuous, locally thick"
+42,M,,,blanket,,"marine beach deposit, continuous"
+43,M,,,discontinuous,,"marine/fjord/beach, discontinuous or thin over bedrock"
+44,M,,sand,,,shell sand - texture stated
+45,M,,,,,marine gyttja
+50,F,,,,,fluvial
+51,F,,,blanket,,"fluvial, continuous"
+52,F,,,discontinuous,,"fluvial, discontinuous or thin"
+53,F,,,,,glacial-lake outburst flood deposit
+54,F,,,blanket,,"outburst flood deposit, continuous"
+55,F,,,discontinuous,,"outburst flood deposit, discontinuous or thin over bedrock"
+56,F,,,,,flood deposit
+57,F,,,discontinuous,,"flood deposit, discontinuous or thin"
+60,E,,,,,eolian
+70,W,,,,,weathering material undivided by thickness
+71,W,,,,,weathering material
+72,W,,,discontinuous,,"weathering material, discontinuous or thin over bedrock"
+73,W,,bouldery,,,"weathering material, stone- and block-rich (blockfield) - texture stated"
+80,C,,,,,mass-wasting material undivided by thickness
+81,C,,,blanket,,"mass-wasting material, continuous"
+82,C,,,discontinuous,,"mass-wasting material, discontinuous or thin"
+88,C,,,,,rock glacier deposit
+90,O,,,,,peat and bog
+100,O,R,,veneer,,thin organic cover over bedrock
+101,Q,R,,discontinuous,,"discontinuous or thin cover of several deposit types over bedrock"
+102,Q,,,blanket,,continuous cover of several deposit types
+110,R,O,,,,bare rock / rock with thin peat cover
+120,X,,,,,fill
+121,X,,,,,waste rock tip
+122,X,,,,,anthropogenically altered material
+130,R,,,,,bare rock
+135,R,,,,,fractured rock
+136,R,,,,,deformed rock
+140,R,Q,,discontinuous,,"'Bart fjell, stedvis tynt løsmassedekke' - bedrock with discontinuous/thin cover"
+150,R,,,,,hard sediments / sedimentary rock (marine geology)
+200,M,,,,,marine suspension deposit (offshore)
+201,M,,,,,marine bottom-current deposit (offshore)
+202,GM,,,,,glaciomarine deposit (offshore)
+203,GM,,,,,ice-contact deposit (marine geology)
+204,M,,,,,winnowed lag (offshore)
+205,GF,M,,,,glaciofluvial delta (marine geology)
+206,F,M,,,,fluvial delta (marine geology)
+207,M,,,,,tidal deposit
+208,M,F,,,,estuarine deposit
+209,M,,,,,levee deposit (offshore)
+210,M,,,,,shallow-marine deposit
+211,M,,,,,contourite (offshore)
+212,M,,,,,turbidite (offshore)
+213,M,C,,,,debris-flow deposit (offshore)
+214,M,,,,,submarine fan (offshore)
+215,M,,,,,channel deposit (offshore)
+216,M,,,,,deep-marine deposit (offshore)
+217,M,,,,,bioclastic deposit (offshore)
+218,M,,,,,volcanosedimentary deposit (offshore)
+219,M,,,,,layered sediments over debris flow (offshore)
+220,M,,,,,carbonate crust (offshore)
+221,GF,,,,,tunnel-valley deposit
+230,T,GM,,,,till with thin glaciomarine cover (offshore)
+231,T,,,,,till with thin fine-grained cover (offshore)
+240,C,M,,,,slide material covered by younger sediments (offshore)
+241,C,M,,,,slide material partly covered (offshore)
+242,C,M,,,,slide material and hemipelagic deposits (offshore)
+250,M,,,,,unspecified marine deposit (offshore)
+301,C,,,,,debris-flow / flood-slide deposit
+302,C,,,discontinuous,,"debris-flow deposit, discontinuous or thin"
+303,C,,fines,blanket,,"quick-clay slide deposit, locally thick - clay stated"
+304,C,,fines,discontinuous,,"quick-clay slide deposit, discontinuous or thin - clay stated"
+305,C,,,blanket,,"rock-avalanche deposit, locally thick"
+306,C,,,discontinuous,,"rock-avalanche deposit, discontinuous or thin"
+307,C,,,blanket,,"rockfall deposit, locally thick"
+308,C,,,discontinuous,,"rockfall deposit, discontinuous or thin"
+309,C,,,blanket,,"snow-avalanche deposit, locally thick"
+310,C,,,discontinuous,,"snow-avalanche deposit, discontinuous or thin"
+311,C,,,blanket,,"rockslide deposit, locally thick"
+312,C,,,discontinuous,,"rockslide deposit, discontinuous or thin"
+313,C,,,blanket,,"snow and debris slide deposit, locally thick"
+314,C,,,discontinuous,,"snow and debris slide deposit, discontinuous or thin"
+315,C,,,blanket,,"debris slide and rockfall deposit, locally thick"
+316,C,,,discontinuous,,"debris slide and rockfall deposit, discontinuous or thin"
+317,C,,,blanket,,"snow and rockfall deposit, locally thick"
+318,C,,,discontinuous,,"snow and rockfall deposit, discontinuous or thin"
+320,C,O,,,,solifluction soil with high organic content
+321,C,,,,,"stone-rich creeping slope material"

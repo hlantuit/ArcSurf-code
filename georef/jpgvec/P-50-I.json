@@ -1,0 +1,168 @@
+{
+ "sheet": "P-50-I",
+ "source": "raster scan",
+ "projection": "tmerc",
+ "rms_m": 2.1372033823966716,
+ "max_res_m": 2.162325045232137,
+ "m_per_px": 16.964367531563322,
+ "corner_residuals_m": [
+  2.2,
+  2.2,
+  2.1,
+  2.1
+ ],
+ "corners": [
+  {
+   "approx": [
+    1557.0,
+    795.0
+   ],
+   "snapped": [
+    1557.0,
+    795.0
+   ],
+   "ok": "rejected (moved > 15 px)"
+  },
+  {
+   "approx": [
+    4440.0,
+    795.0
+   ],
+   "snapped": [
+    4440.0,
+    795.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    4475.0,
+    5183.0
+   ],
+   "snapped": [
+    4475.0,
+    5183.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    1523.0,
+    5183.0
+   ],
+   "snapped": [
+    1523.0,
+    5183.0
+   ],
+   "ok": false
+  }
+ ],
+ "unassigned_before_fill": 0.042,
+ "area_km2": 3676.1989759408843,
+ "neatline_km2": 3679.735892537302,
+ "cover_frac": 0.9990388123768364,
+ "n_polygons": 1019,
+ "units": {
+  "#c59cc6": {
+   "index": "e",
+   "px": 3497916,
+   "direct_frac": 0.945
+  },
+  "#b29680": {
+   "index": "ed",
+   "px": 5712729,
+   "direct_frac": 0.965
+  },
+  "#efc094": {
+   "index": "d",
+   "px": 1513898,
+   "direct_frac": 0.906
+  },
+  "#e69f89": {
+   "index": "c",
+   "px": 146414,
+   "direct_frac": 0.875
+  },
+  "#e69f8d": {
+   "index": "ds",
+   "px": 312032,
+   "direct_frac": 0.912
+  },
+  "#dfeac0": {
+   "index": "aH",
+   "px": 253516,
+   "direct_frac": 0.818
+  },
+  "#bdddd0": {
+   "index": "laH",
+   "px": 285972,
+   "direct_frac": 0.86
+  },
+  "#b8e0fa": {
+   "index": "lplH",
+   "px": 452986,
+   "direct_frac": 0.901
+  },
+  "#c7dea6": {
+   "index": "a1IIIsr-H",
+   "px": 317635,
+   "direct_frac": 0.845
+  },
+  "#bcd999": {
+   "index": "a2IIIkr-sr",
+   "px": 21706,
+   "direct_frac": 0.848
+  },
+  "#b1d28b": {
+   "index": "a3IIIkz-mr",
+   "px": 5752,
+   "direct_frac": 0.776
+  },
+  "#a6cd8c": {
+   "index": "a4IIsr-tz",
+   "px": 1584,
+   "direct_frac": 0.787
+  },
+  "#b197c6": {
+   "index": "PREQ",
+   "px": 279850,
+   "direct_frac": 0.831
+  }
+ },
+ "confusable_pairs": [
+  [
+   "e",
+   "PREQ",
+   7.0
+  ],
+  [
+   "c",
+   "ds",
+   2.1
+  ],
+  [
+   "a1IIIsr-H",
+   "a2IIIkr-sr",
+   5.4
+  ],
+  [
+   "a2IIIkr-sr",
+   "a3IIIkz-mr",
+   5.0
+  ],
+  [
+   "a2IIIkr-sr",
+   "a4IIsr-tz",
+   6.3
+  ],
+  [
+   "a3IIIkz-mr",
+   "a4IIsr-tz",
+   4.2
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

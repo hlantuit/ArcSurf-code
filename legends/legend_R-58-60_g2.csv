@@ -1,0 +1,44 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#6edf71,aN2-Q1,Аллювиальный,F,,mixed,,"GGK-1000/2 R-58-(60) Bilibino 1998 (new series), Quaternary map, RASTER (geokniga JPG 7928x11203), MATRIX legend; L = loess (coded Y); upper Pliocene-lower Neopleistocene alluvium"
+1,#93d37e,aI,Аллювиальный,F,,mixed,,lower Neopleistocene alluvium
+2,#abdd95,aI-II,Аллювиальный,F,,mixed,,lower-middle Neopleistocene alluvium
+3,#b7e49a,aII1,Аллювиальный,F,,mixed,,middle Neopleistocene interglacial alluvium
+4,#c5eaae,aII2,Аллювиальный,F,,mixed,,middle Neopleistocene glacial-stage alluvium
+5,#dbf2bf,aIII1-2,Аллювиальный,F,,mixed,,Elveneiveem-Kitepsky alluvium
+6,#e5f7ce,aIII3-4,Аллювиальный,F,,mixed,,Longovsky-Iskatensky alluvium
+7,#d1edb0,aIII,Аллювиальный,F,,mixed,,upper Neopleistocene alluvium
+8,#eefad7,aIV,Аллювиальный,F,,mixed,,Holocene alluvium
+9,#f5cf93,LII-III,Лёссы,E,,fines,,"middle-upper Neopleistocene loess (ice complex); 2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+10,#fee5bc,LIII,Лёссы,E,,fines,,"upper Neopleistocene loess (ice complex); 2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+11,#e4b5e2,eIII-IV,Элювиальный,W,,bouldery,,eluvium
+12,#fdbfce,sIII-IV,Солифлюкционный,C,,mixed,,solifluxion
+13,#f9e8c4,pIII-IV,Пролювиальный,F,,gravel,,proluvium
+14,#c6f0f9,lIII-IV,Озерный,L,,fines,,lacustrine
+15,#fefbbe,vIII-IV,Эоловый,E,,sand,,eolian
+16,#d6f4fb,lIV,Озерный,L,,fines,,Holocene lacustrine
+17,#e59480,gII2,Ледниковый (морена),T,,bouldery,,middle Neopleistocene moraine
+18,#bfce8e,fII2,Флювиогляциальный,GF,,gravel,,middle Neopleistocene glaciofluvial
+19,#9cc890,amI-II,Аллювиально-морской,F,M,sand,,lower-middle Neopleistocene alluvial-marine
+20,#dcaa96,gIII2,Ледниковый (морена),T,,bouldery,,Kitepsky moraine
+21,#cfdfa0,fIII2,Флювиогляциальный,GF,,gravel,,Kitepsky glaciofluvial
+22,#f2ceba,gIII4,Ледниковый (морена),T,,bouldery,,Iskatensky moraine
+23,#dce9b1,fIII4,Флювиогляциальный,GF,,gravel,,Iskatensky glaciofluvial
+24,#9abee1,mIII1-2,Морские отложения,M,,mixed,,Elveneiveem-Kitepsky marine
+25,#b8d0e9,mIII3-4,Морские отложения,M,,mixed,,Longovsky-Iskatensky marine
+26,#b6d0a1,amIII3-4,Аллювиально-морской,F,M,sand,,Longovsky-Iskatensky alluvial-marine
+27,#d5937f,gIII,Ледниковый (морена),T,,bouldery,,upper Neopleistocene moraine
+28,#c9dc8c,fIII,Флювиогляциальный,GF,,gravel,,upper Neopleistocene glaciofluvial
+29,#a9c4e5,mIII,Морские отложения,M,,mixed,,upper Neopleistocene marine
+30,#f0ec7d,apIII,Аллювиально-пролювиальный,F,,gravel,,alluvial-proluvial
+31,#ddad82,psIII,Пролювиально-солифлюкционный,C,F,mixed,,proluvial-solifluxion
+32,#facca7,"e,dIII-IV",Элювиальный и делювиальный,W,C,bouldery,,eluvium and deluvium
+33,#f59da2,dcIII-IV,Делювиально-коллювиальный,C,,bouldery,,deluvial-colluvial
+34,#f480ac,dsIII-IV,Делювиально-солифлюкционный,C,,mixed,,deluvial-solifluxion
+35,#bbdff2,mIV1-2,Морские отложения,M,,mixed,,Amguema horizon marine
+36,#c7e8f6,mIV3,Морские отложения,M,,mixed,,Ekugsky horizon marine
+37,#d5ecf8,mIV,Морские отложения,M,,mixed,,Holocene marine
+38,#d5ecf8,m1IV,Волновой (шельф),M,,sand,,shallow shelf wave (offshore)
+39,#dbf5fa,m2IV,Бассейновый лагунный (шельф),M,,fines,,shallow shelf basin/lagoon (offshore)
+40,#b592c9,PREQ,Дочетвертичные породы кайнозойские,R,,,,pre-Quaternary Cenozoic
+41,#8a52ae,"PREQ,b",Дочетвертичные породы докайнозойские,R,,,,pre-Cenozoic rocks
+42,#cfeefb,WATER,море (не расчленено),H,,,,open-sea tint outside the shelf units

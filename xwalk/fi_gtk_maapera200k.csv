@@ -1,0 +1,17 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+195110,R,,,,,kalliopaljastuma (exposed bedrock)
+195111,R,Q,,veneer,,kalliomaa (bedrock with thin soil cover)
+195112,W,,bouldery,,,rakka (boulder field / block field)
+195210,Q,,diamicton,,,"SY: mixed-grained, main class not determined - in practice mostly till, but GTK does not state genesis; texture from the class"
+195310,Q,,mixed,,,"KY: coarse-grained (sand-gravel), main class not determined - mostly glaciofluvial/littoral, genesis not stated"
+195312,Q,,bouldery,,,kiviä (stones)
+195410,Q,,fines,,,"HY: fine-grained, main class not determined"
+195413,Q,,fines,,,savi (clay)
+195511,L,,organic,,,"lieju (gyttja/mud) - lacustrine by definition"
+195618,L,,fines,,,liejuinen hienorakeinen maalaji (gyttja-bearing fines)
+19551822,O,,organic,,,soistuma (paludified land)
+19551891,O,,organic,veneer,,ohut turvekerros (thin peat)
+19551892,O,,organic,blanket,,paksu turvekerros (thick peat)
+195601,X,,,,,täytemaa (fill)
+195602,DROP,,,,,"kartoittamaton (unmapped) - dropped so a coarser source can fill it"
+195603,H,,,,,vesi (water)

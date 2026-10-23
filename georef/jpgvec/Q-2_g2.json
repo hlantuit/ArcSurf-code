@@ -1,0 +1,255 @@
+{
+ "sheet": "Q-2_g2",
+ "source": "raster scan",
+ "projection": "eqdc",
+ "rms_m": 671.3091008808133,
+ "max_res_m": 718.6653507175756,
+ "m_per_px": 85.23016929988788,
+ "corner_residuals_m": [
+  718.6,
+  718.7,
+  620.4,
+  620.4
+ ],
+ "corners": [
+  {
+   "approx": [
+    548.0,
+    908.0
+   ],
+   "snapped": [
+    548.0,
+    908.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    3509.0,
+    917.0
+   ],
+   "snapped": [
+    3509.0,
+    917.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    3750.0,
+    6198.0
+   ],
+   "snapped": [
+    3750.0,
+    6198.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    320.0,
+    6188.0
+   ],
+   "snapped": [
+    320.0,
+    6188.0
+   ],
+   "ok": false
+  }
+ ],
+ "frame_sag_px": 41.6,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga_1m/Q-2_g2/q-2-uelen-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federacii-novaya-se.jpg Q-2_g2 ../sources/legend_Q-2_g2.csv ../work/facefix/Q-2_g2.gpkg --lonlat=-174,64,-168,68 --datum 4284 --corners '548,908;3509,917;3750,6198;320,6188' --paper-nodata --paper-rgb '#ffffff'",
+ "unassigned_before_fill": 0.155,
+ "area_km2": 88908.4749440069,
+ "neatline_km2": 121487.40822493669,
+ "cover_frac": 0.7318328396585005,
+ "n_polygons": 4460,
+ "units": {
+  "#985797": {
+   "index": "e",
+   "px": 137356,
+   "direct_frac": 0.461
+  },
+  "#ff5d6c": {
+   "index": "c",
+   "px": 109679,
+   "direct_frac": 0.836
+  },
+  "#e6f9a0": {
+   "index": "a1IV1",
+   "px": 59975,
+   "direct_frac": 0.632
+  },
+  "#f5febf": {
+   "index": "aIV2",
+   "px": 221947,
+   "direct_frac": 0.449
+  },
+  "#f6a69a": {
+   "index": "gIII2",
+   "px": 107222,
+   "direct_frac": 0.645
+  },
+  "#b7cb7b": {
+   "index": "fIII2",
+   "px": 957121,
+   "direct_frac": 0.534
+  },
+  "#6066b4": {
+   "index": "mI2",
+   "px": 71323,
+   "direct_frac": 0.376
+  },
+  "#626dbf": {
+   "index": "m4II2",
+   "px": 8939,
+   "direct_frac": 0.557
+  },
+  "#6472ce": {
+   "index": "mII4",
+   "px": 41817,
+   "direct_frac": 0.404
+  },
+  "#7581df": {
+   "index": "m3III1",
+   "px": 114077,
+   "direct_frac": 0.322
+  },
+  "#a8b2fa": {
+   "index": "m2III3",
+   "px": 40098,
+   "direct_frac": 0.55
+  },
+  "#8ea1f9": {
+   "index": "m1IV1",
+   "px": 148105,
+   "direct_frac": 0.648
+  },
+  "#a6b6fc": {
+   "index": "mIV2",
+   "px": 2504431,
+   "direct_frac": 0.759
+  },
+  "#afe6f6": {
+   "index": "laIII3",
+   "px": 13170,
+   "direct_frac": 0.58
+  },
+  "#d29c9d": {
+   "index": "gmII2",
+   "px": 71171,
+   "direct_frac": 0.437
+  },
+  "#fe6368": {
+   "index": "e,d",
+   "px": 1163508,
+   "direct_frac": 0.571
+  },
+  "#fc5562": {
+   "index": "dc",
+   "px": 1015673,
+   "direct_frac": 0.808
+  },
+  "#fe6278": {
+   "index": "ds",
+   "px": 547455,
+   "direct_frac": 0.468
+  },
+  "#9a5ba2": {
+   "index": "PREQ",
+   "px": 8334,
+   "direct_frac": 0.784
+  },
+  "#a5d4ff": {
+   "index": "s:m1IV",
+   "px": 1570932,
+   "direct_frac": 0.853
+  },
+  "#8ecbff": {
+   "index": "s:m2'IV",
+   "px": 3341154,
+   "direct_frac": 0.868
+  },
+  "#a0daff": {
+   "index": "s:m2''IV",
+   "px": 19266,
+   "direct_frac": 0.809
+  },
+  "#feffeb": {
+   "index": "aIV",
+   "px": 84640,
+   "direct_frac": 0.95
+  },
+  "#f1fbff": {
+   "index": "mIV",
+   "px": 20658,
+   "direct_frac": 0.451
+  },
+  "#dfcfc2": {
+   "index": "lbIV",
+   "px": 9704,
+   "direct_frac": 0.221
+  }
+ },
+ "confusable_pairs": [
+  [
+   "e",
+   "PREQ",
+   4.4
+  ],
+  [
+   "c",
+   "e,d",
+   4.5
+  ],
+  [
+   "c",
+   "dc",
+   4.0
+  ],
+  [
+   "c",
+   "ds",
+   6.0
+  ],
+  [
+   "mI2",
+   "m4II2",
+   3.5
+  ],
+  [
+   "m4II2",
+   "mII4",
+   5.8
+  ],
+  [
+   "mII4",
+   "m3III1",
+   6.0
+  ],
+  [
+   "m2III3",
+   "mIV2",
+   2.5
+  ],
+  [
+   "e,d",
+   "dc",
+   5.3
+  ],
+  [
+   "s:m1IV",
+   "s:m2'IV",
+   6.8
+  ],
+  [
+   "s:m1IV",
+   "s:m2''IV",
+   5.1
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 120
+}

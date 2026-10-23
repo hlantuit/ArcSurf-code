@@ -1,0 +1,11 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#edfffc,lpIV,"Озерно-болотные отложения. Торф, суглинки, пески",L,O,organic,,"GGK-200/1 P-40-X (Severo-Uralskaya series), Quaternary map 1st ed., RASTER: geokniga 44043 map image JPG 1655x2406 (~34 m/px) + separate legend image p-40-xql.jpg; swatch colours match the map tints within 1.6-5.7 dE (k-means centres), so fills = swatches; omitted: glIII2 (no distinct map tint: its fill only caught eldIII-IV with brown contours); no WATER row (rivers are thin blue lines, lakes print in the lpIV tint)"
+1,#e8ffdc,alIV,"Аллювиальные отложения поймы и I надпойменной террасы. Пески, галечники",F,,sand,,same printed colour as alIII4: one class
+2,#fefcfc,eldIII-IV,"Верхнечетвертичные-современные элювиально-делювиальные отложения на выходах коренных пород. Суглинки, щебень коренных пород",W,C,mixed,,
+3,#e8ffdc,alIII4,"Аллювиальные отложения II надпойменной террасы: суглинки, супеси, пески",F,,sand,,same printed colour as alIV: one class
+4,#e2efb7,fglIII2,"Водно-ледниковые отложения зырянского оледенения: пески с валунами, галькой и галечники",GF,,gravel,,--class-dE fglIII2=6 (its tint lies between the lal-fglII-III olive and the alluvium)
+5,#d4fecf,lalIII1,"Озерно-аллювиальные отложения: глины, супеси, пески",L,F,fines,,
+6,#d3e3a1,lal-fglII-III,"Средне-верхнечетвертичные озерно-аллювиальные и водно-ледниковые отложения нерасчлененные. Суглинки, супеси, пески",L,GF,mixed,,
+7,#f0d2a5,glII4,"Ледниковые отложения московского оледенения. Суглинки, супеси с галькой и валунами",T,,diamicton,,
+8,#a3c5ba,glmII2,"Морские, ледниково-морские отложения. Суглинки, глины оскольчатые, плотные с мелкой галькой, пески слоистые",M,GM,fines,,"--class-dE glmII2=7, --thin-units glmII2:1 (dark-green valley linework otherwise reads as this unit)"
+9,#fee7fe,PREQ,Выходы коренных пород,R,,,,

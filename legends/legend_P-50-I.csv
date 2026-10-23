@@ -1,0 +1,14 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#c59cc6,e,"eluvium: rubble, debris, loams",W,,bouldery,,"GGK-200/2 P-50-I, Upper Vilyui series, Quaternary map, RASTER (geokniga JPG); legend read on P-50-II (row-centre samples, patterned swatches); lithology line patterns over units = linework"
+1,#b29680,ed,eluvium-deluvium loams with debris,W,C,mixed,,
+2,#efc094,d,deluvium loams with rubble,C,,fines,,
+3,#e69f89,c,colluvium: rubble and blocks,C,,bouldery,,
+4,#e69f8d,ds,deluvial-solifluxion (same tint as c),C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+5,#dfeac0,aH,floodplain alluvium,F,,sand,,
+6,#bdddd0,laH,limno-alluvial silts and clays,L,F,fines,,
+7,#b8e0fa,lplH,limno-palustrine peat and silts,L,O,organic,,
+8,#c7dea6,a1IIIsr-H,1st terrace alluvium,F,,sand,,
+9,#bcd999,a2IIIkr-sr,2nd terrace alluvium,F,,sand,,
+10,#b1d28b,a3IIIkz-mr,3rd terrace alluvium,F,,sand,,
+11,#a6cd8c,a4IIsr-tz,4th terrace alluvium,F,,sand,,
+12,#b197c6,PREQ,pre-Quaternary,R,,,,

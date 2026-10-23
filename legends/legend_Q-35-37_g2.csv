@@ -1,0 +1,51 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#e1ff67,aH,Holocene alluvium,F,,sand,,"GGK-1000/3 Q-(35)-37 Kirovsk 2003 (new series), Quaternary map, RASTER (geokniga JPG 10000x6627); descriptions in English from the legend; Holocene alluvium"
+1,#c5ffff,lH,Holocene lacustrine,L,,fines,,Holocene lacustrine
+2,#b6fecc,laH,Holocene lake-alluvial,L,F,sand,,Holocene lake-alluvial
+3,#c9d1a0,plH,Holocene palustrine peat,O,,organic,,Holocene palustrine peat
+4,#fffb80,vH,Holocene eolian sand,E,,sand,,Holocene eolian sand
+5,#b6e2ff,mH,Holocene marine,M,,sand,,Holocene marine
+6,#91f6ba,amH,Holocene alluvial-marine,F,M,fines,,Holocene alluvial-marine
+7,#b5b6a4,tH,technogenic,X,,mixed,,technogenic
+8,#e6b7ff,eIII-H,eluvium,W,,bouldery,,eluvium
+9,#ff8081,edIII-H,"eluvial-deluvial (incl. colluvial, solifluction)",W,C,bouldery,,"eluvial-deluvial (incl. colluvial, solifluction)"
+10,#c1ff80,aIIIos-H,Ostashkov-Holocene alluvium,F,,sand,,Ostashkov-Holocene alluvium
+11,#b7fffe,lIIIos-H,Ostashkov-Holocene lacustrine,L,,sand,,Ostashkov-Holocene lacustrine
+12,#f1caad,gogIIIos-H,cirque-glacier ground moraine,T,,bouldery,,cirque-glacier ground moraine
+13,#96d5ff,mIIIos-Hpt,Portlandia transgression marine,M,,fines,,Portlandia transgression marine
+14,#afb9dd,mpIIIos-H,marine perluvial,M,,gravel,,marine perluvial
+15,#f5c3a0,gIIIos-Hkv,Kalevala stade glacial,T,,bouldery,,Kalevala stade glacial
+16,#c7f37a,fIIIos-Hkv,Kalevala glaciofluvial,GF,,sand,,Kalevala glaciofluvial
+17,#a1f6ca,lgIIIos-Hkv,Kalevala glaciolacustrine,GL,,fines,,Kalevala glaciolacustrine
+18,#95ffb5,laIIIos,Ostashkov lake-alluvial,L,F,sand,,Ostashkov lake-alluvial
+19,#ecb28a,gogIIIos,mountain-glacier ground moraine,T,,bouldery,,mountain-glacier ground moraine
+20,#f2aa7a,gIIIos,Ostashkov glacial (till),T,,bouldery,,Ostashkov glacial (till)
+21,#bee674,fIIIos,Ostashkov glaciofluvial,GF,,sand,,Ostashkov glaciofluvial
+22,#90f6c4,lgIIIos,Ostashkov glaciolacustrine,GL,,fines,,Ostashkov glaciolacustrine
+23,#80ceff,mIIIos,Ostashkov marine,M,,sand,,Ostashkov marine
+24,#c29f81,gmIIIos?,Ostashkov glaciomarine (?),GM,,fines,,Ostashkov glaciomarine (?)
+25,#c4cddc,"l,plIIIln",Leningrad lacustrine and palustrine,L,O,organic,,Leningrad lacustrine and palustrine
+26,#a7ffff,lIIIln,Leningrad lacustrine,L,,fines,,Leningrad lacustrine
+27,#80ffa6,laIIIln,Leningrad lake-alluvial,L,F,sand,,Leningrad lake-alluvial
+28,#66c3ff,mIIIln,Leningrad marine,M,,sand,,Leningrad marine
+29,#e5a174,gogIIIpd,Podporozhye mountain-glacier moraine,T,,bouldery,,Podporozhye mountain-glacier moraine
+30,#ef8843,gIIIpd,Podporozhye glacial,T,,bouldery,,Podporozhye glacial
+31,#a6dc3e,fIIIpd,Podporozhye glaciofluvial,GF,,sand,,Podporozhye glaciofluvial
+32,#61f1a9,lgIIIpd,Podporozhye glaciolacustrine (varved clays),GL,,fines,,Podporozhye glaciolacustrine (varved clays)
+33,#ba8f6d,gmIIIpd,Podporozhye glaciomarine,GM,,fines,,Podporozhye glaciomarine
+34,#bac6d6,"l,plIIImk",Mikulino lacustrine and palustrine,L,O,fines,,Mikulino lacustrine and palustrine
+35,#95ffff,lIIImk,Mikulino lacustrine,L,,sand,,Mikulino lacustrine
+36,#47b6fe,mIIImk,Mikulino marine,M,,sand,,Mikulino marine
+37,#dd8047,gIIms,Moscow glacial,T,,bouldery,,Moscow glacial
+38,#9ac24f,fIIms,Moscow glaciofluvial,GF,,sand,,Moscow glaciofluvial
+39,#5ae19e,lgIIms,Moscow glaciolacustrine,GL,,fines,,Moscow glaciolacustrine
+40,#ad7b56,gmIIms,Moscow glaciomarine,GM,,mixed,,Moscow glaciomarine
+41,#68e1ff,lIIgr,Gorki lacustrine,L,,fines,,Gorki lacustrine
+42,#2695ff,mIIgr,Gorki marine,M,,fines,,Gorki marine
+43,#d56827,gIIvl,Vologda glacial,T,,fines,,Vologda glacial
+44,#89b635,fIIvl,Vologda glaciofluvial,GF,,gravel,,Vologda glaciofluvial
+45,#33b682,lgIIvl,Vologda glaciolacustrine,GL,,fines,,Vologda glaciolacustrine
+46,#9e653a,gmIIvl,Vologda glaciomarine,GM,,fines,,Vologda glaciomarine
+47,#0080ff,mIIlh,Likhvin marine,M,,sand,,Likhvin marine
+48,#7fff48,"a,lN2-I",Pliocene-lower Neopleistocene alluvial and lacustrine,F,L,fines,,Pliocene-lower Neopleistocene alluvial and lacustrine
+49,#9248ff,PREQ,pre-Quaternary,R,,,,pre-Quaternary

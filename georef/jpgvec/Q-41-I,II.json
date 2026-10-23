@@ -1,0 +1,230 @@
+{
+ "sheet": "Q-41-I,II",
+ "source": "raster scan",
+ "projection": "eqdc",
+ "rms_m": 16.538028445483743,
+ "max_res_m": 16.76606931427016,
+ "m_per_px": 16.93291803637143,
+ "corner_residuals_m": [
+  16.8,
+  16.8,
+  16.3,
+  16.3
+ ],
+ "corners": [
+  {
+   "approx": [
+    183.0,
+    822.0
+   ],
+   "snapped": [
+    185.5,
+    822.5
+   ],
+   "ok": true
+  },
+  {
+   "approx": [
+    5127.0,
+    822.0
+   ],
+   "snapped": [
+    5127.0,
+    822.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    5195.0,
+    5212.0
+   ],
+   "snapped": [
+    5194.5,
+    5212.5
+   ],
+   "ok": true
+  },
+  {
+   "approx": [
+    115.0,
+    5212.0
+   ],
+   "snapped": [
+    115.0,
+    5212.0
+   ],
+   "ok": "rejected (moved > 15 px)"
+  }
+ ],
+ "frame_sag_px": 20.5,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/Q-41-I,II/q-41-iii-oz-vatyarty-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federac_0.jpg Q-41-I,II ../sources/legend_Q-41-I,II.csv ../work/facefix/Q-41-I,II.gpkg --datum 4284 --corners '183,822;5127,822;5195,5212;115,5212' --mmu 60",
+ "unassigned_before_fill": 0.065,
+ "area_km2": 6308.324090217615,
+ "neatline_km2": 6308.751080711027,
+ "cover_frac": 0.9999323177459454,
+ "n_polygons": 3392,
+ "units": {
+  "#f3f792": {
+   "index": "vH",
+   "px": 40954,
+   "direct_frac": 0.843
+  },
+  "#c9c896": {
+   "index": "plH",
+   "px": 106119,
+   "direct_frac": 0.838
+  },
+  "#d7eda7": {
+   "index": "a3-apIII-H",
+   "px": 1068818,
+   "direct_frac": 0.862
+  },
+  "#abd9e3": {
+   "index": "lIII-H",
+   "px": 803718,
+   "direct_frac": 0.906
+  },
+  "#bdbc80": {
+   "index": "plIII-H",
+   "px": 937102,
+   "direct_frac": 0.902
+  },
+  "#fa977f": {
+   "index": "dsII-H",
+   "px": 386140,
+   "direct_frac": 0.936
+  },
+  "#cdeaa7": {
+   "index": "a2IIIsj",
+   "px": 72413,
+   "direct_frac": 0.831
+  },
+  "#c3e896": {
+   "index": "a3IIIsd",
+   "px": 80641,
+   "direct_frac": 0.88
+  },
+  "#a0d1d5": {
+   "index": "l,am4IIIcl",
+   "px": 1250024,
+   "direct_frac": 0.893
+  },
+  "#73cca4": {
+   "index": "la4IIIjk",
+   "px": 233874,
+   "direct_frac": 0.85
+  },
+  "#58c095": {
+   "index": "laIIcr",
+   "px": 3810448,
+   "direct_frac": 0.916
+  },
+  "#6ec2a5": {
+   "index": "am,ml-IIvs",
+   "px": 5548859,
+   "direct_frac": 0.921
+  },
+  "#ca8c57": {
+   "index": "gmE-Irg",
+   "px": 7724811,
+   "direct_frac": 0.94
+  },
+  "#76cdad": {
+   "index": "la,aEpm",
+   "px": 94,
+   "direct_frac": 0.0
+  },
+  "#8099c3": {
+   "index": "m,gmN2pd",
+   "px": 549,
+   "direct_frac": 0.8
+  },
+  "#84ce55": {
+   "index": "aN2km",
+   "px": 190,
+   "direct_frac": 0.058
+  },
+  "#8ac9cc": {
+   "index": "l,amP3vt",
+   "px": 1622,
+   "direct_frac": 0.039
+  },
+  "#6f91c1": {
+   "index": "mP2sr",
+   "px": 127,
+   "direct_frac": 0.063
+  }
+ },
+ "confusable_pairs": [
+  [
+   "plH",
+   "plIII-H",
+   7.1
+  ],
+  [
+   "a3-apIII-H",
+   "a2IIIsj",
+   3.3
+  ],
+  [
+   "lIII-H",
+   "l,am4IIIcl",
+   4.7
+  ],
+  [
+   "l,am4IIIcl",
+   "l,amP3vt",
+   5.7
+  ],
+  [
+   "la4IIIjk",
+   "laIIcr",
+   6.7
+  ],
+  [
+   "la4IIIjk",
+   "am,ml-IIvs",
+   6.9
+  ],
+  [
+   "la4IIIjk",
+   "la,aEpm",
+   4.6
+  ],
+  [
+   "am,ml-IIvs",
+   "la,aEpm",
+   4.1
+  ],
+  [
+   "m,gmN2pd",
+   "mN2kl",
+   6.3
+  ],
+  [
+   "m,gmN2pd",
+   "mP2sr",
+   5.4
+  ],
+  [
+   "mN2kl",
+   "mP2sr",
+   5.4
+  ],
+  [
+   "l,amP3vt",
+   "l,amP3hd",
+   6.1
+  ],
+  [
+   "l,amP3hd",
+   "l,amP1hs",
+   6.6
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

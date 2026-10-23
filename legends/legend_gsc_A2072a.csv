@@ -1,0 +1,9 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#b8b9b8,O,"Dépôts organiques: tourbe 0,5-3 m",O,,organic,,"GSC Map 2072A Lac Vernon est, Québec (Paradis & Parent 2005), 1:125k UTM NAD83; series legend (coloured boxes = units on this sheet); "
+1,#e6e7a2,Ap,"Alluvions récentes: sable, gravier, silt 1-5 m",F,,sand,,
+2,#e7e745,At,Alluvions de terrasses fluviales,F,,gravel,,
+3,#e7a5e6,Ld,Glaciolacustres: sédiments deltaïques (lac Chavigny),GL,F,sand,,
+4,#df9e43,Go,Épandage proglaciaire subaérien,GF,,gravel,,
+5,#b9e4ba,Tb,Till en couverture continue (>0.5 m),T,,mixed,,
+6,#a4e722,Tv,Till en couverture discontinue (<0.5 m),T,R,mixed,,veneer
+7,#e85e8d,R,Roches archéennes (Province du Supérieur),R,,,,

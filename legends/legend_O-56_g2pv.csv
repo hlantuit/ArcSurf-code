@@ -1,0 +1,24 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#c9444b,c,Коллювиальные отложения (индекс c прочитан на карте),C,,bouldery,,"GGK-1000 new series, combined sheet O-56 (Magadan) + P-56,57 (Seymchan), Quaternary map ('Karta chetvertichnykh obrazovaniy'), geokniga record 43169; the image holds the FULL P-56,57 frame (150-162E, 60-64N) and the O-56 land block below its west half (150-156E, 60N to 58 deg 46.7' N; the rest of O-56 is Sea of Okhotsk, not printed); this legend serves both P-56-57_g2pv and O-56_g2pv; RASTER = geokniga 2000x1801 px PREVIEW (~0.35 km/px); NO legend image on geokniga: unit indices READ ON THE MAP at 5-12x (contrast-enhanced where needed), descriptions = standard reading of the index, not a transcription; print year not on the frame-cropped preview; tints calibrated on the map (scripts/preview_tint_calib.py seeded from k-means clusters of the face, drift <= 15; amIII pinned to a map sample); frame: measured face edges (+ 6 interior graticule ties), eqdc 47/62 lon_0 156, input = edge-extended image (work/pv_fe/o56/map_prep.png); sea: three light-cyan tints = WATER; the light-blue tint (Holocene marine coastal strips m1IV/mIV + lagoons + deeper-sea bands, inseparable) and the white offshore tint = PAPER no-data; lithology/cirque symbols, the diagonal green hatch overprint on floodplains and glaciation limits not read; ds ice_rich = project ds convention (legend text not available; the P-56-XII/XVIII 1:200k legends state ice lenses in d,sIII-H); crimson"
+1,#e9613a,dc,Делювиально-коллювиальные отложения (индекс dc),C,,bouldery,,vermilion
+2,#e7a396,ds,Делювиально-солифлюкционные отложения (индекс ds),C,,fines,,salmon; ice_rich by the ds convention; 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+3,#d17666,ed,Элювиально-делювиальные отложения (индекс ed),W,C,bouldery,,"rose; W/C as e,d"
+4,#c86b6e,cIV,Коллювиальные отложения голоцена (индекс cIV),C,,bouldery,,dark rose
+5,#d58db5,e',Элювиальные отложения (индекс e'),W,,bouldery,,"pink-lilac; e' = eluvium on bedrock in the P-54,55 Oymyakon legend of the same series"
+6,#755086,gIII4,"Ледниковые отложения верхнего неоплейстоцена, четвертая ступень (индекс gIII4; кары, вершинный пояс)",T,,bouldery,,"violet, highest summits with cirque symbols; index read in contrast-enhanced crops; P-57_g3 and Q2500 map these summits as colluvium (11-14 % agreement): interpretation difference, kept as the map's unit; must survive a 2-px opening (violet coastline)"
+7,#b9947f,gIII2,"Ледниковые отложения верхнего неоплейстоцена, вторая ступень (индекс gIII2)",T,,bouldery,,tan with boulder ovals; dE <= 11 and a 2-px opening
+8,#97725b,gII,Ледниковые отложения среднего неоплейстоцена (индекс gII),T,,bouldery,,dark brown; dE <= 10 and a 2-px opening
+9,#8d9061,fII,Флювиогляциальные отложения среднего неоплейстоцена (индекс fII),GF,,gravel,,"olive; mostly alluvium on the references (interpretation difference, as T-49 / P-46); dE <= 10"
+10,#b2b583,fIII2,"Флювиогляциальные отложения верхнего неоплейстоцена, вторая ступень (индекс fIII2)",GF,,gravel,,"light olive; the green-hatched aIV floodplains mix to tints 2-12 dE from it, so part of fIII2 is hatched floodplain; dE <= 9"
+11,#d8cd93,pIII-IV,Пролювиальные отложения верхнего неоплейстоцена - голоцена (индекс pIII-IV),F,,gravel,,"sand-yellow; also carries the paler apIII (alluvial-proluvial, same hclass)"
+12,#cfd79e,aIV,Аллювиальные отложения голоцена (индекс aIV),F,,mixed,,pale yellow-green
+13,#a7c185,aIII,Аллювиальные отложения верхнего неоплейстоцена (индекс aIII),F,,mixed,,green
+14,#6f9564,aII,Аллювиальные отложения среднего неоплейстоцена (индекс aII),F,,mixed,,darker green
+15,#67867c,laI-II,Озерно-аллювиальные отложения нижнего-среднего неоплейстоцена (индекс laI-II),L,F,fines,,dark teal
+16,#729a90,laIII,Озерно-аллювиальные отложения верхнего неоплейстоцена (индекс laIII),L,F,fines,,teal
+17,#797fa7,amIII,Аллювиально-морские отложения верхнего неоплейстоцена (индекс amIII),F,M,sand,,slate blue; tint pinned (map sample)
+18,#c7deea,WATER,море,H,,,,sea tint sampled on the map
+19,#c9dfdd,WATER,море,H,,,,sea tint sampled on the map
+20,#d0e6e5,WATER,море,H,,,,sea tint sampled on the map
+21,#aec7e0,PAPER,нет данных (не используется),,,,,no-data: light blue = Holocene marine coastal strips + lagoons + deeper sea (inseparable)
+22,#f8f8f6,PAPER,нет данных (не используется),,,,,no-data: white offshore zone / paper

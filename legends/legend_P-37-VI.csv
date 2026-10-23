@@ -1,0 +1,9 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#e2dfbc,bIV,Голоцен: болотные отложения (торф),O,,organic,,"GGK-200 P-37-VI (Northern Dvina / Yemetsk), Quaternary map, RASTER: geokniga map-only PREVIEW JPG 1754x1169 = the map FACE ONLY, resampled anisotropically (x 28.1 m/px, y 63.4 m/px; frame cut off at the image edge): the image is lon/lat-linear (meridians vertical and parallel, no convergence): frame model --proj eqc (plate carree) + image edges as frame corners + 7 interior 15x10 graticule crossings (LOO 11 m; eqdc model 184 m rms); NO legend and NO imprint image (print year unknown): legend reconstructed from the indexes printed on the face (gIIIos, fIIIos, lgIIIos, laIII-IV, aIII-IV, bIV, lbIV, lIV), hclass from the genetic index; fills = map tints (preview_tint_calib.py); narrow aIV valley strips not separated (too narrow, tint between fIIIos and the paper); lakes print white -> WATER"
+1,#afccc9,lbIV,Голоцен: озерно-болотные отложения,L,O,organic,,tint pinned at the map sample (calibration drifted onto the dotted laIII-IV)
+2,#f6f7c4,aIII-IV,Верхний неоплейстоцен - голоцен: аллювиальные отложения (террасы и пойма Северной Двины),F,,sand,,
+3,#badec5,laIII-IV,Верхний неоплейстоцен - голоцен: озерно-аллювиальные отложения,L,F,sand,,
+4,#bfe5d9,lgIIIos,Верхний неоплейстоцен. Осташковский горизонт: озерно-ледниковые отложения,GL,,sand,,
+5,#d5d69d,fIIIos,Верхний неоплейстоцен. Осташковский горизонт: флювиогляциальные отложения,GF,,sand,,
+6,#f6d09a,gIIIos,Верхний неоплейстоцен. Осташковский горизонт: ледниковые отложения (морена),T,,diamicton,,
+7,#e9fbff,WATER,вода (озера и русло Северной Двины),H,,,,"white water tint (lakes, Northern Dvina channel), pinned; >= 18 dE from every unit"

@@ -1,0 +1,15 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#e3ecbf,aH,"Аллювий поймы: галечники с валунами и гравием, валунники, пески, супеси, глины, илы (до 25 м)",F,,gravel,,"GGK-200/2 M-53-XXXVI (Istok r. Anyuy), Nikolaevsk series, Quaternary map 2nd ed., RASTER (geokniga JPG 7065x10100); "
+1,#c59cc6,eIII-H,"Элювиальные: супеси, суглинки, дресва, глыбы (0.5-0.7 м)",W,,mixed,,
+2,#eebc93,dIII-H,"Делювиальные: дресва, щебень, супеси (0.5-10 м)",C,W,mixed,,same printed colour as edIII-H: one class
+3,#e3a08d,"c,dIII-H","Коллювиальные и делювиальные: щебень, глыбы, супеси, суглинки, дресва (0.5-10 м)",C,,bouldery,,"same printed colour as dsIII-H/c,sIII-H: one class"
+4,#eebc93,edIII-H,"Элювиально-делювиальные: щебень, дресва, супеси, суглинки (0.2-5 м)",C,W,mixed,,same printed colour as dIII-H: one class
+5,#e3a08d,dsIII-H,"Делювиально-солифлюкционные: щебень, дресва, глыбы, супеси, суглинки (0.5-5 м)",C,,bouldery,,"solifluction ; same printed colour as c,dIII-H/c,sIII-H: one class"
+6,#e3a08d,"c,sIII-H","Коллювиальные и солифлюкционные: глыбы, щебень, суглинки (0.5-10 м)",C,,bouldery,,"solifluction ; same printed colour as c,dIII-H/dsIII-H: one class"
+7,#eac996,"p,dIII-H","Пролювиальные и делювиальные: щебень с глыбами и дресвой, суглинки (10-15 м)",F,C,bouldery,,
+8,#c2db9a,a1III,"Аллювий первой надпойменной террасы: галечники с валунами, суглинки, пески, глины (до 25 м)",F,,gravel,,same printed colour as a2II: one class
+9,#95c9b3,laIII,"Озерно-аллювиальные: глины с примесью валунов, гальки и песка (до 15 м)",L,F,fines,,
+10,#d3a584,gIII,"Ледниковые: глыбы, щебень, супеси (10-15 м)",T,,bouldery,,
+11,#c2db9a,a2II,"Аллювий второй надпойменной террасы: галечники с валунами и супесью, суглинки, пески (10-25 м)",F,,gravel,,same printed colour as a1III: one class
+12,#99c47c,a3I,"Аллювий третьей надпойменной террасы: пески, галечники с валунами (до 5 м)",F,,sand,,
+13,#a589bc,PREQ,Дочетвертичные образования,R,,,,

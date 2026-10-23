@@ -1,0 +1,131 @@
+{
+ "sheet": "M-50-V",
+ "source": "raster scan",
+ "projection": "tmerc",
+ "rms_m": 27.08006950988908,
+ "max_res_m": 52.42886626212824,
+ "m_per_px": 37.064976162444935,
+ "corner_residuals_m": [
+  38.3,
+  27.4,
+  52.4,
+  25.1,
+  24.5,
+  24.4,
+  12.2,
+  26.8,
+  21.3,
+  19.6,
+  17.1,
+  44.6,
+  37.8,
+  11.1,
+  6.9,
+  28.5,
+  24.2,
+  5.3,
+  26.6,
+  28.4,
+  9.0
+ ],
+ "n_ties": 17,
+ "corners": [
+  {
+   "approx": [
+    64.8,
+    112.1
+   ],
+   "snapped": [
+    64.8,
+    112.1
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1917.3,
+    108.1
+   ],
+   "snapped": [
+    1917.3,
+    108.1
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1934.4,
+    2098.2
+   ],
+   "snapped": [
+    1934.4,
+    2098.2
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    56.4,
+    2101.4
+   ],
+   "snapped": [
+    56.4,
+    2101.4
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.088,
+ "area_km2": 5123.753015638399,
+ "neatline_km2": 5132.076806758904,
+ "cover_frac": 0.9983780852403568,
+ "n_polygons": 3164,
+ "units": {
+  "#c36f96": {
+   "index": "e",
+   "px": 115189,
+   "direct_frac": 0.78
+  },
+  "#fab382": {
+   "index": "d|pdIII-H",
+   "px": 848077,
+   "direct_frac": 0.888
+  },
+  "#f8a35d": {
+   "index": "ed",
+   "px": 216128,
+   "direct_frac": 0.875
+  },
+  "#f47d46": {
+   "index": "c|cd|cs",
+   "px": 1511792,
+   "direct_frac": 0.931
+  },
+  "#f68e65": {
+   "index": "ds",
+   "px": 342743,
+   "direct_frac": 0.847
+  },
+  "#eae6a2": {
+   "index": "aH|a1III4",
+   "px": 533764,
+   "direct_frac": 0.758
+  },
+  "#dcda8a": {
+   "index": "a2III3",
+   "px": 143556,
+   "direct_frac": 0.766
+  }
+ },
+ "confusable_pairs": [
+  [
+   "aH|a1III4",
+   "a2III3",
+   7.8
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 30
+}

@@ -1,0 +1,395 @@
+{
+ "sheet": "M-47-48_g2",
+ "source": "raster scan",
+ "projection": "given",
+ "rms_m": 188.35758027364207,
+ "max_res_m": 196.62937803459334,
+ "m_per_px": 84.82682831708316,
+ "corner_residuals_m": [
+  196.6,
+  196.6,
+  179.7,
+  179.8
+ ],
+ "corners": [
+  {
+   "approx": [
+    772.0,
+    1118.0
+   ],
+   "snapped": [
+    772.0,
+    1118.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    7996.0,
+    1180.0
+   ],
+   "snapped": [
+    7996.0,
+    1180.0
+   ],
+   "ok": "rejected (moved > 15 px)"
+  },
+  {
+   "approx": [
+    8298.0,
+    6429.0
+   ],
+   "snapped": [
+    8298.0,
+    6429.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    397.0,
+    6359.0
+   ],
+   "snapped": [
+    397.0,
+    6359.0
+   ],
+   "ok": false
+  }
+ ],
+ "frame_sag_px": 126.2,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga_1m/M-_47_,48_g2/m-4748-ulan-ude-gosudarstvennaya-geologicheskaya-karta-sssr-novaya-seriya-karta-.jpg M-47-48_g2 ../sources/legend_M-47-48_g2.csv ../work/facefix/M-47-48_g2.gpkg --lonlat 99,48,108,52 --datum 4284 --corners '772,1118;7996,1180;8298,6429;397,6359' --paper-nodata --paper-rgb '#e7e0ce' --thin-units gIIIsr,gIIIz,gII,fIIIz:3 --proj '+proj=eqdc +lat_1=47 +lat_2=62 +lon_0=103.5'",
+ "unassigned_before_fill": 0.469,
+ "area_km2": 90268.65188003668,
+ "neatline_km2": 287040.6103438769,
+ "cover_frac": 0.3144804206341888,
+ "n_polygons": 14708,
+ "units": {
+  "#c4c691": {
+   "index": "aIV",
+   "px": 593564,
+   "direct_frac": 0.367
+  },
+  "#e1cd68": {
+   "index": "vIV",
+   "px": 1125,
+   "direct_frac": 0.517
+  },
+  "#a9b8b1": {
+   "index": "lIV",
+   "px": 737493,
+   "direct_frac": 0.388
+  },
+  "#dad092": {
+   "index": "apIV",
+   "px": 26474,
+   "direct_frac": 0.424
+  },
+  "#d3b86a": {
+   "index": "dpIV",
+   "px": 6963,
+   "direct_frac": 0.115
+  },
+  "#b5bd7a": {
+   "index": "aIII-IV",
+   "px": 268254,
+   "direct_frac": 0.432
+  },
+  "#b15667": {
+   "index": "dsIII-IV",
+   "px": 292743,
+   "direct_frac": 0.441
+  },
+  "#ca5769": {
+   "index": "csIII-IV",
+   "px": 1219866,
+   "direct_frac": 0.535
+  },
+  "#c25b6b": {
+   "index": "sIII-IV",
+   "px": 281676,
+   "direct_frac": 0.352
+  },
+  "#749945": {
+   "index": "aIIIkr+sr",
+   "px": 364110,
+   "direct_frac": 0.244
+  },
+  "#b3926e": {
+   "index": "gIIIsr",
+   "px": 691,
+   "direct_frac": 0.495
+  },
+  "#7ca154": {
+   "index": "aIIIz",
+   "px": 38324,
+   "direct_frac": 0.393
+  },
+  "#82724d": {
+   "index": "g+fIIIz",
+   "px": 864038,
+   "direct_frac": 0.251
+  },
+  "#888d52": {
+   "index": "fIIIz",
+   "px": 14245,
+   "direct_frac": 0.698
+  },
+  "#987256": {
+   "index": "gIIIz",
+   "px": 6678,
+   "direct_frac": 0.238
+  },
+  "#568468": {
+   "index": "lgIIIz",
+   "px": 75950,
+   "direct_frac": 0.317
+  },
+  "#79a054": {
+   "index": "aIIIks-z",
+   "px": 11821,
+   "direct_frac": 0.372
+  },
+  "#e1c951": {
+   "index": "vIII",
+   "px": 142511,
+   "direct_frac": 0.73
+  },
+  "#8fa6a5": {
+   "index": "lIII",
+   "px": 53894,
+   "direct_frac": 0.481
+  },
+  "#c0b666": {
+   "index": "apIII",
+   "px": 7189,
+   "direct_frac": 0.399
+  },
+  "#dfd396": {
+   "index": "pIII",
+   "px": 35231,
+   "direct_frac": 0.457
+  },
+  "#e17935": {
+   "index": "dIII",
+   "px": 159264,
+   "direct_frac": 0.332
+  },
+  "#dac361": {
+   "index": "dpIII",
+   "px": 6458,
+   "direct_frac": 0.209
+  },
+  "#b66e76": {
+   "index": "bIII",
+   "px": 742684,
+   "direct_frac": 0.348
+  },
+  "#88a4a4": {
+   "index": "lII",
+   "px": 2591,
+   "direct_frac": 0.529
+  },
+  "#cdbb6b": {
+   "index": "pII",
+   "px": 1525,
+   "direct_frac": 0.454
+  },
+  "#77a054": {
+   "index": "aIIt",
+   "px": 1198,
+   "direct_frac": 0.622
+  },
+  "#bdad4e": {
+   "index": "apII",
+   "px": 16425,
+   "direct_frac": 0.404
+  },
+  "#ca9143": {
+   "index": "dpII",
+   "px": 176636,
+   "direct_frac": 0.282
+  },
+  "#8d5e4c": {
+   "index": "gII",
+   "px": 86115,
+   "direct_frac": 0.26
+  },
+  "#4d8350": {
+   "index": "laI-II",
+   "px": 296540,
+   "direct_frac": 0.55
+  },
+  "#bc9655": {
+   "index": "pI",
+   "px": 34766,
+   "direct_frac": 0.246
+  },
+  "#8c7548": {
+   "index": "apI",
+   "px": 356770,
+   "direct_frac": 0.241
+  },
+  "#7da1a1": {
+   "index": "lI",
+   "px": 56309,
+   "direct_frac": 0.479
+  },
+  "#7fa024": {
+   "index": "ad",
+   "px": 73441,
+   "direct_frac": 0.65
+  },
+  "#e37425": {
+   "index": "d",
+   "px": 69162,
+   "direct_frac": 0.676
+  },
+  "#e2763a": {
+   "index": "e,d",
+   "px": 1374959,
+   "direct_frac": 0.261
+  },
+  "#c63523": {
+   "index": "cd",
+   "px": 1188098,
+   "direct_frac": 0.583
+  },
+  "#c4342c": {
+   "index": "c",
+   "px": 1640558,
+   "direct_frac": 0.394
+  },
+  "#de9699": {
+   "index": "e",
+   "px": 727493,
+   "direct_frac": 0.561
+  },
+  "#a65467": {
+   "index": "bN2-Q1",
+   "px": 455272,
+   "direct_frac": 0.253
+  },
+  "#9f949e": {
+   "index": "PREQ",
+   "px": 82463,
+   "direct_frac": 0.231
+  }
+ },
+ "confusable_pairs": [
+  [
+   "aIV",
+   "apIV",
+   8.0
+  ],
+  [
+   "vIV",
+   "dpIII",
+   3.8
+  ],
+  [
+   "apIV",
+   "pIII",
+   1.6
+  ],
+  [
+   "dpIV",
+   "apIII",
+   7.6
+  ],
+  [
+   "dpIV",
+   "pII",
+   4.0
+  ],
+  [
+   "dsIII-IV",
+   "sIII-IV",
+   6.2
+  ],
+  [
+   "dsIII-IV",
+   "bN2-Q1",
+   4.8
+  ],
+  [
+   "csIII-IV",
+   "sIII-IV",
+   5.0
+  ],
+  [
+   "aIIIkr+sr",
+   "aIIIz",
+   4.9
+  ],
+  [
+   "aIIIkr+sr",
+   "aIIIks-z",
+   5.1
+  ],
+  [
+   "aIIIkr+sr",
+   "aIIt",
+   5.2
+  ],
+  [
+   "aIIIz",
+   "aIIIks-z",
+   1.0
+  ],
+  [
+   "aIIIz",
+   "aIIt",
+   1.8
+  ],
+  [
+   "g+fIIIz",
+   "apI",
+   6.0
+  ],
+  [
+   "aIIIks-z",
+   "aIIt",
+   0.8
+  ],
+  [
+   "lIII",
+   "lII",
+   2.1
+  ],
+  [
+   "lIII",
+   "lI",
+   5.2
+  ],
+  [
+   "apIII",
+   "pII",
+   4.2
+  ],
+  [
+   "dIII",
+   "d",
+   6.6
+  ],
+  [
+   "dIII",
+   "e,d",
+   3.5
+  ],
+  [
+   "lII",
+   "lI",
+   3.2
+  ],
+  [
+   "cd",
+   "c",
+   5.3
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 120
+}

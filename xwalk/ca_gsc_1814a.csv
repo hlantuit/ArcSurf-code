@@ -1,0 +1,8 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+glaciomarine and marine,M,GM,mixed,blanket,,"1814A legend: gravel, sand and mud deposited or modified in a glaciomarine or marine environment, undifferentiated; extensive thick (>5 m) blanket; includes ice-contact deposits"
+glaciolacustrine,GL,,sand,blanket,,"1814A legend: sandy, poorly sorted sediments of ice-dammed lakes; blanket >2 m (the GeoAtlas row had fines; the map says sandy)"
+glaciofluvial,GF,,gravel,,,"1814A legend: proglacial or ice-contact sand and gravel (fans, deltas, outwash, kames, eskers)"
+ablation drift,T,,diamicton,,,"1814A legend: silty to sandy diamicton and sand and gravel from ice-sheet disintegration, hummocky; in northern Labrador may include glaciolacustrine and glaciomarine deposits"
+rogen moraine,T,,diamicton,,,"1814A legend: ribbed (Rogen) moraine of sandy diamicton, gravel and sandy gravel, may be boulder-mantled"
+"till, undifferentiated",T,,diamicton,,,"1814A legend: till and other surficial deposits (undifferentiated): silty to sandy diamicton, gravel; includes minor or thin (<2 m) glaciofluvial, glaciolacustrine, marine and fluvial deposits"
+drift poor,R,T,,discontinuous,,"1814A legend: drift-poor areas, >80 % bedrock; till and other materials <1 m and discontinuous; in northern Labrador extensive boulder fields (felsenmeer)"

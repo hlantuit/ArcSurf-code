@@ -1,0 +1,14 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#cb90bf,e,eluvium,W,,bouldery,,"GGK-200/2 M-50-III, Eastern Transbaikalia (Unda), Quaternary map, vector PDF (geokniga)"
+1,#fcbc86,d,deluvium,C,,fines,,
+2,#e88e72,c,colluvium,C,,bouldery,,
+3,#f6978f,s,"solifluxion (kurums, stone streams)",C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+4,#e9ed9a,aH,floodplain alluvium,F,,gravel,,
+5,#f9b5ac,sH,"valley-mire solifluxion, peat",C,O,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+6,#d7e7aa,a1III-H,1st terrace alluvium,F,,sand,,
+7,#b7da9b,aIII,2nd-4th terrace alluvium,F,,sand,,
+8,#aad48a,a5IIbr,Borzhigantai 5th terrace,F,,sand,,
+9,#9acf8b,a6IIhb,Kholbon 6th terrace,F,,sand,,
+10,#87c875,aN2-Ecs,Tsasuchei high-terrace alluvium,F,,sand,,
+11,#ebb059,"p,dN2kk",Kokui proluvial-deluvial,R,,mixed,,2026-10-06: Kokui suite (Pliocene only) -> R as on M-50-IV (Neogene suites are R; genesis proluvial-deluvial)
+12,#a677b4,PREQ,pre-Cenozoic,R,,,,

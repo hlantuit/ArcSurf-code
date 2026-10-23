@@ -1,0 +1,22 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#bd8fbf,eH,eluvium,W,,bouldery,,"GGK-200/2 P-57-V, Okhotsk series, Quaternary map, RASTER (geokniga JPG)"
+1,#e59a7e,"c,dH",colluvium and deluvium,C,,bouldery,,
+2,#ebad84,"e,dH",eluvium and deluvium,W,C,bouldery,,
+3,#ebd290,pH,proluvium,F,,bouldery,,
+4,#e6c085,"p,dH",proluvium and deluvium,F,C,bouldery,,
+5,#e3d888,apH,alluvial-proluvial,F,,gravel,,
+6,#cade9b,aH2,floodplain alluvium,F,,gravel,,
+7,#a5a393,tH2,technogenic,X,,mixed,,
+8,#c0d88c,a1H1,1st terrace alluvium,F,,gravel,,
+9,#e08272,dsIII4-H,deluvial-solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+10,#b2d38c,aIII4,"Khetakagchan terrace alluvium, peat",F,,gravel,,
+11,#cd9975,gIII4,Khetakagchan till,T,,bouldery,,
+12,#b1c17a,fIII4,Khetakagchan glaciofluvial,GF,,bouldery,,
+13,#a5cc7c,aIII3,Kubalakh terrace alluvium,F,,sand,,
+14,#c58c65,gIII2,Yugler till,T,,bouldery,,
+15,#a4b766,fIII2,Yugler glaciofluvial,GF,,gravel,,
+16,#99c67b,aIII1,Vecherninsk terrace alluvium,F,,gravel,,
+17,#8ac16c,aII,erosion-accumulation terrace alluvium,F,,gravel,,
+18,#a26d4b,"f,gII",Middle Pleistocene till and glaciofluvial,T,GF,bouldery,,
+19,#8ac06c,aE-Imr,Morozov socle-terrace alluvium,F,,gravel,,
+20,#997cb6,PREQ,pre-Quaternary,R,,,,

@@ -1,0 +1,8 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#d6f0b5,alIV,"Аллювиальные отложения пойменных террас. Пески, илы, суглинки, супеси",F,,sand,,"GGK-200/1 P-41-XXXVI (Zauralskaya series), Quaternary map 1st ed., RASTER: geokniga 44065 map image JPG 1769x2393 (~33.6 m/px) + separate legend image p-41-xxxviql.jpg; the legend image is rendered much brighter than the map, so all fills are MAP tints (k-means of the 5x5-median face + labelled polygons; legend swatch colours in the notes); 'Покровные отложения с карты сняты' (cover deposits removed from the map); legend swatch #e8ffbc"
+1,#cde9d0,lhIV,"Озерно-болотные отложения. Торф, илы, супеси",L,O,organic,,legend swatch #cef6dd; lakes print white (12 dE from this tint) and read as lhIV: no WATER row (the documented rule needs a pale-blue tint >= 18 dE from every unit)
+2,#ddfaa8,alIII(1),Аллювиальные отложения первой надпойменной террасы. Пески с прослоями супесей и суглинков,F,,sand,,legend swatch #dcffa4
+3,#c4fa7b,alIII(2),Аллювиальные отложения второй надпойменной террасы. Пески с прослоями глин и алевритов,F,,sand,,legend swatch #c7fe7c; same printed colour as alIII(3): one class
+4,#c4fa7b,alIII(3),"Аллювиальные отложения третьей надпойменной террасы. Пески, супеси, глины, суглинки",F,,sand,,legend swatch #bdff78; same printed colour as alIII(2): one class
+5,#acf8a6,lalIIIjal,"Озёрно-аллювиальные отложения. Ялбыньинская толща. Глины, алевриты, супеси, пески",L,F,fines,,legend swatch #b4feaf
+6,#edb1be,PREQ,Дочетвертичные отложения,R,,,,legend swatch #ffa6d4; thin strips on river banks

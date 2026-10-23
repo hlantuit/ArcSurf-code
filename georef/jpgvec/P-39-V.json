@@ -1,0 +1,148 @@
+{
+ "sheet": "P-39-V",
+ "source": "raster scan",
+ "projection": "eqdc",
+ "rms_m": 2.937790016701112,
+ "max_res_m": 2.971726396717713,
+ "m_per_px": 16.922012110292933,
+ "corner_residuals_m": [
+  3.0,
+  3.0,
+  2.9,
+  2.9
+ ],
+ "corners": [
+  {
+   "approx": [
+    4223.5,
+    947.5
+   ],
+   "snapped": [
+    4223.5,
+    947.5
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    7115.5,
+    947.5
+   ],
+   "snapped": [
+    7115.5,
+    947.5
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    7149.5,
+    5337.5
+   ],
+   "snapped": [
+    7149.5,
+    5337.5
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    4189.5,
+    5337.5
+   ],
+   "snapped": [
+    4189.5,
+    5337.5
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.091,
+ "area_km2": 3675.8266879808025,
+ "neatline_km2": 3679.715208083266,
+ "cover_frac": 0.9989432551481371,
+ "n_polygons": 4252,
+ "units": {
+  "#dfb8d3": {
+   "index": "e,dIII-H",
+   "px": 1838,
+   "direct_frac": 0.742
+  },
+  "#d8ebb4": {
+   "index": "a1IIIpl-H",
+   "px": 584382,
+   "direct_frac": 0.682
+  },
+  "#c2c1a3": {
+   "index": "plH",
+   "px": 1457701,
+   "direct_frac": 0.886
+  },
+  "#99d1c6": {
+   "index": "a,la2+3III",
+   "px": 221476,
+   "direct_frac": 0.753
+  },
+  "#c2d59e": {
+   "index": "fIIvc",
+   "px": 3392718,
+   "direct_frac": 0.911
+  },
+  "#88cac6": {
+   "index": "lgnIIvc|lgprIIvc",
+   "px": 660363,
+   "direct_frac": 0.881
+  },
+  "#e1b693": {
+   "index": "gkIIvc",
+   "px": 196726,
+   "direct_frac": 0.755
+  },
+  "#dbaa89": {
+   "index": "goIIvc",
+   "px": 4910875,
+   "direct_frac": 0.896
+  },
+  "#75c3b5": {
+   "index": "laoIIrd",
+   "px": 28431,
+   "direct_frac": 0.429
+  },
+  "#c39574": {
+   "index": "gIIpc",
+   "px": 103211,
+   "direct_frac": 0.498
+  },
+  "#996aa1": {
+   "index": "PREQ",
+   "px": 1287385,
+   "direct_frac": 0.878
+  }
+ },
+ "confusable_pairs": [
+  [
+   "a1IIIpl-H",
+   "fIIvc",
+   7.8
+  ],
+  [
+   "a,la2+3III",
+   "lgnIIvc|lgprIIvc",
+   5.3
+  ],
+  [
+   "lgnIIvc|lgprIIvc",
+   "laoIIrd",
+   7.8
+  ],
+  [
+   "gkIIvc",
+   "goIIvc",
+   4.7
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

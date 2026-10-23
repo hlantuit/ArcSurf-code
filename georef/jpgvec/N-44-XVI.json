@@ -1,0 +1,150 @@
+{
+ "sheet": "N-44-XVI",
+ "source": "raster scan",
+ "projection": "tmerc_utm",
+ "rms_m": 67.43268598561711,
+ "max_res_m": 112.39081796205828,
+ "m_per_px": 35.00238637554151,
+ "corner_residuals_m": [
+  109.5,
+  80.9,
+  112.4,
+  74.0,
+  62.5,
+  35.5,
+  70.6,
+  30.1,
+  62.0,
+  64.0,
+  48.1,
+  18.9,
+  28.3
+ ],
+ "n_ties": 9,
+ "corners": [
+  {
+   "approx": [
+    76.5,
+    117.5
+   ],
+   "snapped": [
+    76.5,
+    117.5
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1919.2,
+    111.9
+   ],
+   "snapped": [
+    1919.2,
+    111.9
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1936.8,
+    2247.0
+   ],
+   "snapped": [
+    1936.8,
+    2247.0
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    64.2,
+    2242.1
+   ],
+   "snapped": [
+    64.2,
+    2242.1
+   ],
+   "ok": "measured"
+  }
+ ],
+ "frame_sag_px": 2.8,
+ "argv": "jpg_to_polygons.py extract /albedo/work/user/hlantuit/arctic_surficial/work/r200d/N-44-XVI/prep.png N-44-XVI ../sources/legend_N-44-XVI.csv ../work/jpgvec/N-44-XVI.gpkg --datum 4284 --corners '76.5,117.5;1919.2,111.9;1936.8,2247.0;64.2,2242.1' --no-snap --dE 14 --mmu 30 --ties '81.250000,54.166667,534.6,1712.4;81.250000,54.333333,534.5,1182.0;81.250000,54.500000,537.0,651.3;81.500000,54.166667,1001.3,1714.5;81.500000,54.333333,1001.4,1181.5;81.500000,54.500000,1000.3,648.5;81.750000,54.166667,1466.4,1715.3;81.750000,54.333333,1464.9,1181.5;81.750000,54.500000,1461.8,648.3'",
+ "unassigned_before_fill": 0.156,
+ "area_km2": 4827.158796325674,
+ "neatline_km2": 4827.441439956754,
+ "cover_frac": 0.9999414506349595,
+ "n_polygons": 2588,
+ "units": {
+  "#fdfcb4": {
+   "index": "aIV",
+   "px": 256790,
+   "direct_frac": 0.879
+  },
+  "#f7e8b9": {
+   "index": "d+hIV|saIII",
+   "px": 2604598,
+   "direct_frac": 0.858
+  },
+  "#e98c08": {
+   "index": "dIV",
+   "px": 55342,
+   "direct_frac": 0.257
+  },
+  "#cdddc6": {
+   "index": "lhIV",
+   "px": 42467,
+   "direct_frac": 0.382
+  },
+  "#fdfca9": {
+   "index": "eolIII-IV",
+   "px": 350207,
+   "direct_frac": 0.894
+  },
+  "#e0f9a5": {
+   "index": "alIII1|alIII2",
+   "px": 90493,
+   "direct_frac": 0.68
+  },
+  "#e4f7b0": {
+   "index": "LalII-IIIkrs",
+   "px": 52797,
+   "direct_frac": 0.469
+  },
+  "#cefc7f": {
+   "index": "alII-III3|alII4",
+   "px": 63761,
+   "direct_frac": 0.829
+  },
+  "#f1dd8e": {
+   "index": "salI-IIkrd+LalI-IIfd",
+   "px": 268174,
+   "direct_frac": 0.475
+  },
+  "#f9c5db": {
+   "index": "PREQ",
+   "px": 460,
+   "direct_frac": 0.224
+  },
+  "#edfaea": {
+   "index": "WATER",
+   "px": 175672,
+   "direct_frac": 0.943
+  }
+ },
+ "confusable_pairs": [
+  [
+   "aIV",
+   "eolIII-IV",
+   5.4
+  ],
+  [
+   "alIII1|alIII2",
+   "LalII-IIIkrs",
+   6.8
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 30
+}

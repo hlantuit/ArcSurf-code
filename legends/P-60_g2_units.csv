@@ -1,0 +1,45 @@
+x,y,w,index,description_ru,hclass,hclass2,texture,note
+6653,1316,110,c,colluvium,C,,bouldery,colluvium
+6654,1411,110,s,solifluxion,C,,mixed,solifluxion
+6477,1507,110,aIV,Holocene alluvium,F,,mixed,Holocene alluvium
+5948,1510,110,a1III4-IV1,1st terrace alluvium,F,,mixed,1st terrace alluvium
+5595,1512,110,a2III3,2nd terrace alluvium,F,,mixed,2nd terrace alluvium
+5242,1514,110,a3III1,3rd terrace alluvium,F,,mixed,3rd terrace alluvium
+4704,1517,110,aI,lower Neopleistocene alluvium,F,,mixed,lower Neopleistocene alluvium
+6478,1604,110,lIV,Holocene lacustrine,L,,fines,Holocene lacustrine
+5596,1609,110,lIII3,lacustrine,L,,fines,lacustrine
+5243,1611,110,lIII1,lacustrine,L,,fines,lacustrine
+5774,1703,110,gIII4,till,T,,bouldery,till
+5420,1705,110,gIII2,till,T,,bouldery,till
+5066,1707,110,gII2,till,T,,bouldery,till
+5774,1799,110,fIII4,glaciofluvial,GF,,gravel,glaciofluvial
+5420,1801,110,fIII2,glaciofluvial,GF,,gravel,glaciofluvial
+5067,1897,110,"g,fII2",till and glaciofluvial,T,GF,bouldery,till and glaciofluvial
+5422,1991,110,lgIII2,glaciolacustrine,GL,,fines,glaciolacustrine
+5068,1992,110,lgII2,glaciolacustrine,GL,,fines,glaciolacustrine
+5069,2087,110,gmII2,glaciomarine,GM,,mixed,glaciomarine
+5601,2369,110,m2III3,marine terrace,M,,sand,marine terrace
+5248,2371,110,m3III1,marine terrace,M,,sand,marine terrace
+5954,2534,110,laIII4-IV1,lake-alluvial,L,F,fines,lake-alluvial
+5603,2536,110,laIII3,lake-alluvial,L,F,fines,lake-alluvial
+5249,2538,110,laIII1,lake-alluvial,L,F,fines,lake-alluvial
+6484,2625,110,apIV,alluvial-proluvial,F,,gravel,alluvial-proluvial
+6164,2723,110,amIV2,alluvial-marine,F,M,sand,alluvial-marine
+6486,2815,110,lbIV,lacustrine-biogenic (peat),L,O,organic,lacustrine-biogenic (peat)
+5956,2912,110,dpIII-IV,deluvial-proluvial,C,F,mixed,deluvial-proluvial
+6664,3002,110,"e,d",eluvium and deluvium,W,C,bouldery,eluvium and deluvium
+6665,3096,110,dc,deluvial-colluvial,C,,bouldery,deluvial-colluvial
+6666,3191,110,ds,deluvial-solifluxion,C,,mixed,deluvial-solifluxion
+6491,3454,110,s:m1IV,shelf wave (offshore),M,,sand,shelf wave (offshore)
+6492,3646,110,s:m3IV,shelf current (offshore),M,,sand,shelf current (offshore)
+6493,3740,110,s:m4IV,shelf gravitational (offshore),M,,fines,shelf gravitational (offshore)
+6494,3836,110,s:mbIV,shelf biogenic (offshore),M,,fines,shelf biogenic (offshore)
+6637,3286,45,PREQ,PREQ,R,,,PREQ
+6697,3286,45,"PREQ,c","PREQ,c",R,C,,"PREQ,c"
+6462,3551,45,s:m2'IV,s:m2'IV,M,,fines,s:m2'IV
+6522,3551,45,s:m2''IV,s:m2''IV,M,,fines,s:m2''IV
+6143,1527,90,aIV2,mid Holocene alluvium,F,,mixed,mid Holocene alluvium
+6285,1527,90,aIV3,late Holocene alluvium,F,,mixed,late Holocene alluvium
+6214,1487,200,aIV2-3,mid-late Holocene alluvium,F,,mixed,mid-late Holocene alluvium
+6482,2363,110,mIV,Holocene marine on land,M,,sand,Holocene marine on land
+6495,4024,90,s:amIV,submerged alluvial-marine (offshore),F,M,sand,submerged alluvial-marine (offshore)

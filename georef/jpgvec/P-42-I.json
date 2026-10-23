@@ -1,0 +1,137 @@
+{
+ "sheet": "P-42-I",
+ "source": "raster scan",
+ "projection": "eqdc",
+ "rms_m": 41.94085429212896,
+ "max_res_m": 82.8764872536121,
+ "m_per_px": 33.932431922105096,
+ "corner_residuals_m": [
+  44.5,
+  57.3,
+  60.4,
+  82.9,
+  12.2,
+  23.4,
+  20.6,
+  30.2,
+  43.6,
+  20.8,
+  7.3,
+  4.0,
+  51.5
+ ],
+ "n_ties": 9,
+ "corners": [
+  {
+   "approx": [
+    83.0,
+    115.6
+   ],
+   "snapped": [
+    83.0,
+    115.6
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1526.0,
+    110.8
+   ],
+   "snapped": [
+    1526.0,
+    110.8
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1542.0,
+    2318.4
+   ],
+   "snapped": [
+    1542.0,
+    2318.4
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    67.1,
+    2316.4
+   ],
+   "snapped": [
+    67.1,
+    2316.4
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.129,
+ "area_km2": 3675.3610922945936,
+ "neatline_km2": 3679.7266367541433,
+ "cover_frac": 0.9988136226164342,
+ "n_polygons": 3474,
+ "units": {
+  "#d8f9b5": {
+   "index": "alIII1",
+   "px": 465311,
+   "direct_frac": 0.781
+  },
+  "#d1fc8f": {
+   "index": "alIII2",
+   "px": 358996,
+   "direct_frac": 0.841
+  },
+  "#befb7a": {
+   "index": "alIII3",
+   "px": 691116,
+   "direct_frac": 0.875
+  },
+  "#ebfde7": {
+   "index": "laIIIjl",
+   "px": 667188,
+   "direct_frac": 0.849
+  },
+  "#e2f4c8": {
+   "index": "l+hIV",
+   "px": 235233,
+   "direct_frac": 0.732
+  },
+  "#ff8000": {
+   "index": "alIV",
+   "px": 457513,
+   "direct_frac": 0.827
+  },
+  "#f0c78f": {
+   "index": "el+d+prIII-IV",
+   "px": 136512,
+   "direct_frac": 0.795
+  },
+  "#b9bf64": {
+   "index": "fglIIul",
+   "px": 86438,
+   "direct_frac": 0.718
+  },
+  "#c4914c": {
+   "index": "glIIul",
+   "px": 13637,
+   "direct_frac": 0.338
+  },
+  "#f1fdfa": {
+   "index": "WATER",
+   "px": 70232,
+   "direct_frac": 0.943
+  },
+  "#d0fef4": {
+   "index": "WATER",
+   "px": 33656,
+   "direct_frac": 0.851
+  }
+ },
+ "confusable_pairs": [],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 30
+}

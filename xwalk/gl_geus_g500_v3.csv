@@ -1,0 +1,18 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+BEDROCK,R,,,,,all pre-Quaternary units; native lithology kept in src_code/src_desc
+Q,Q,,,,,"'Quaternary, undifferentiated cover' - 93.5% of mapped Quaternary; genesis not given"
+Q1,T,,,,,historic moraine
+Q2,T,GF,,,,"ground moraine, glaciofluvial deposits, colluvium (composite)"
+Q6,F,,,,,alluvium and deltaic deposits
+Q7,GF,M,,,,glaciofluvial and marine deposits (composite)
+Q8,M,,,,,"marine deposits, includes raised delta terraces"
+Q10,C,,,,,rock slides
+ICE,I,,,,,ice sheet and glaciers (1980s-2000s ice edge)
+beta2,I,,,,,labelled Ice in legend
+grn,I,,,,,labelled Ice in legend
+LAK,H,,,,,"lake (legend: on the Inland Ice). Coded water since 2026-10-07: 1,138 km2 of LAK lie in tiles with no PROMICE or RGI ice at all, i.e. they are lakes on land; where the 2022 ice mask covers a LAK lake the glacier override makes it I anyway (hclass_under_ice H)"
+ICELAK,H,,,,,"ice-marginal / supraglacial lake: water; on the 2022 ice mask the glacier override makes it I"
+RIVER,H,,,,,
+TOWN,X,,,,,town or village
+LD,Q,,,,,"'Land' - mapped land without a unit; kept as Q rather than guessed"
+UNMAP,DROP,,,,,"source states unmapped - dropped so a coarser source can fill it"

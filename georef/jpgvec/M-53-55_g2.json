@@ -1,0 +1,525 @@
+{
+ "sheet": "M-53-55_g2",
+ "source": "raster scan",
+ "projection": "given",
+ "rms_m": 553.2165541661466,
+ "max_res_m": 578.4572548073417,
+ "m_per_px": 83.9310775949001,
+ "corner_residuals_m": [
+  578.5,
+  577.4,
+  526.8,
+  527.8
+ ],
+ "corners": [
+  {
+   "approx": [
+    683.0,
+    1105.0
+   ],
+   "snapped": [
+    683.0,
+    1105.0
+   ],
+   "ok": "rejected (moved > 15 px)"
+  },
+  {
+   "approx": [
+    7976.0,
+    1081.0
+   ],
+   "snapped": [
+    7976.0,
+    1081.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    8338.0,
+    6374.0
+   ],
+   "snapped": [
+    8338.0,
+    6374.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    345.0,
+    6390.0
+   ],
+   "snapped": [
+    345.0,
+    6390.0
+   ],
+   "ok": false
+  }
+ ],
+ "frame_sag_px": 127.2,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga_1m/M-_53_,54,_55__g2/m-535455-gosudarstvennaya-geologicheskaya-karta-sssr-habarovsk-karta-chetvertich.jpg M-53-55_g2 ../sources/legend_M-53-55_g2.csv ../work/facefix/M-53-55_g2.gpkg --lonlat 135,48,144,52 --datum 4284 --corners '683,1105;7976,1081;8338,6374;345,6390' --thin-units gIII,PREQ:3 --proj '+proj=eqdc +lat_1=47 +lat_2=62 +lon_0=139.5'",
+ "unassigned_before_fill": 0.183,
+ "area_km2": 287036.2010585365,
+ "neatline_km2": 287038.69616690895,
+ "cover_frac": 0.9999913074146246,
+ "n_polygons": 22039,
+ "units": {
+  "#ffb0f5": {
+   "index": "e",
+   "px": 1208952,
+   "direct_frac": 0.697
+  },
+  "#db4235": {
+   "index": "c",
+   "px": 2116085,
+   "direct_frac": 0.59
+  },
+  "#f47772": {
+   "index": "cIV",
+   "px": 514464,
+   "direct_frac": 0.627
+  },
+  "#e3473d": {
+   "index": "cIII-IV",
+   "px": 1072160,
+   "direct_frac": 0.804
+  },
+  "#cefc67": {
+   "index": "a",
+   "px": 82782,
+   "direct_frac": 0.378
+  },
+  "#e6fe8b": {
+   "index": "aIII4",
+   "px": 481086,
+   "direct_frac": 0.506
+  },
+  "#e0ff74": {
+   "index": "aIII",
+   "px": 710156,
+   "direct_frac": 0.467
+  },
+  "#d9fe85": {
+   "index": "aIII3",
+   "px": 10360,
+   "direct_frac": 0.395
+  },
+  "#cafd59": {
+   "index": "aII-III",
+   "px": 43641,
+   "direct_frac": 0.383
+  },
+  "#c9f981": {
+   "index": "aII",
+   "px": 416856,
+   "direct_frac": 0.452
+  },
+  "#aef53e": {
+   "index": "aI",
+   "px": 11602,
+   "direct_frac": 0.342
+  },
+  "#feaa67": {
+   "index": "d",
+   "px": 2246067,
+   "direct_frac": 0.686
+  },
+  "#c8f6e1": {
+   "index": "lI",
+   "px": 60572,
+   "direct_frac": 0.578
+  },
+  "#994b0e": {
+   "index": "gIII",
+   "px": 48856,
+   "direct_frac": 0.196
+  },
+  "#34774a": {
+   "index": "bN2-Q1",
+   "px": 1005389,
+   "direct_frac": 0.621
+  },
+  "#8d7573": {
+   "index": "piIV",
+   "px": 137017,
+   "direct_frac": 0.257
+  },
+  "#75a0e0": {
+   "index": "mIII",
+   "px": 211939,
+   "direct_frac": 0.389
+  },
+  "#a6e9a1": {
+   "index": "la",
+   "px": 9763,
+   "direct_frac": 0.353
+  },
+  "#c5f8b9": {
+   "index": "laIII",
+   "px": 9421,
+   "direct_frac": 0.685
+  },
+  "#caf7c0": {
+   "index": "laIII1",
+   "px": 364890,
+   "direct_frac": 0.506
+  },
+  "#bbf1b2": {
+   "index": "laII",
+   "px": 222962,
+   "direct_frac": 0.445
+  },
+  "#bda836": {
+   "index": "ap",
+   "px": 1173888,
+   "direct_frac": 0.315
+  },
+  "#fec045": {
+   "index": "ad",
+   "px": 451324,
+   "direct_frac": 0.648
+  },
+  "#f5d5a4": {
+   "index": "dp",
+   "px": 376087,
+   "direct_frac": 0.466
+  },
+  "#fe8b59": {
+   "index": "dc",
+   "px": 5945196,
+   "direct_frac": 0.744
+  },
+  "#fca476": {
+   "index": "dcIII-IV",
+   "px": 231671,
+   "direct_frac": 0.603
+  },
+  "#fcac9e": {
+   "index": "ds",
+   "px": 113370,
+   "direct_frac": 0.555
+  },
+  "#f8b3a6": {
+   "index": "dsIII-IV",
+   "px": 617923,
+   "direct_frac": 0.693
+  },
+  "#fea1b4": {
+   "index": "e,d",
+   "px": 3700696,
+   "direct_frac": 0.748
+  },
+  "#fe8bd2": {
+   "index": "cs",
+   "px": 134593,
+   "direct_frac": 0.074
+  },
+  "#e6fdef": {
+   "index": "lII1",
+   "px": 1498995,
+   "direct_frac": 0.659
+  },
+  "#dffcec": {
+   "index": "lII2",
+   "px": 24108,
+   "direct_frac": 0.465
+  },
+  "#d9fbe9": {
+   "index": "lII",
+   "px": 45981,
+   "direct_frac": 0.483
+  },
+  "#f2fef4": {
+   "index": "lIII",
+   "px": 444422,
+   "direct_frac": 0.594
+  },
+  "#fdf4e1": {
+   "index": "dIII-IV",
+   "px": 220044,
+   "direct_frac": 0.598
+  },
+  "#f1ff77": {
+   "index": "aIV",
+   "px": 3686668,
+   "direct_frac": 0.584
+  },
+  "#f2fea5": {
+   "index": "aIV1",
+   "px": 208222,
+   "direct_frac": 0.475
+  },
+  "#f5fd97": {
+   "index": "aIV2",
+   "px": 266230,
+   "direct_frac": 0.492
+  },
+  "#f9fff7": {
+   "index": "lIV",
+   "px": 5123257,
+   "direct_frac": 0.736
+  },
+  "#fef05b": {
+   "index": "vIV",
+   "px": 17132,
+   "direct_frac": 0.606
+  },
+  "#fced64": {
+   "index": "vIV2",
+   "px": 10713,
+   "direct_frac": 0.53
+  },
+  "#aea895": {
+   "index": "bIV",
+   "px": 765493,
+   "direct_frac": 0.532
+  },
+  "#85a9e2": {
+   "index": "mIV",
+   "px": 27999,
+   "direct_frac": 0.437
+  },
+  "#9ab7e4": {
+   "index": "mIV1",
+   "px": 32149,
+   "direct_frac": 0.569
+  },
+  "#cedced": {
+   "index": "mIV2",
+   "px": 83473,
+   "direct_frac": 0.443
+  },
+  "#e8fdde": {
+   "index": "laIII-IV",
+   "px": 50232,
+   "direct_frac": 0.539
+  },
+  "#c9ba4d": {
+   "index": "apIII-IV",
+   "px": 313422,
+   "direct_frac": 0.419
+  },
+  "#fcd064": {
+   "index": "adIII-IV",
+   "px": 6350,
+   "direct_frac": 0.603
+  },
+  "#dbf0b5": {
+   "index": "amIV1",
+   "px": 104339,
+   "direct_frac": 0.397
+  },
+  "#e2f1dc": {
+   "index": "amIV2",
+   "px": 206301,
+   "direct_frac": 0.395
+  },
+  "#fae9c9": {
+   "index": "dpIII-IV",
+   "px": 442429,
+   "direct_frac": 0.602
+  },
+  "#d7face": {
+   "index": "laIII2",
+   "px": 37539,
+   "direct_frac": 0.538
+  },
+  "#e1fcd8": {
+   "index": "laIII3",
+   "px": 59629,
+   "direct_frac": 0.455
+  },
+  "#f4fdf5": {
+   "index": "WATER",
+   "px": 3698220,
+   "direct_frac": 0.563
+  }
+ },
+ "confusable_pairs": [
+  [
+   "c",
+   "cIII-IV",
+   2.9
+  ],
+  [
+   "a",
+   "aIII",
+   7.4
+  ],
+  [
+   "a",
+   "aII-III",
+   6.2
+  ],
+  [
+   "aIII4",
+   "aIII3",
+   5.7
+  ],
+  [
+   "aIII",
+   "aIV",
+   6.9
+  ],
+  [
+   "aIII3",
+   "aII",
+   4.8
+  ],
+  [
+   "lI",
+   "lII2",
+   7.2
+  ],
+  [
+   "lI",
+   "lII",
+   5.1
+  ],
+  [
+   "mIII",
+   "mIV",
+   5.5
+  ],
+  [
+   "la",
+   "laII",
+   7.8
+  ],
+  [
+   "laIII",
+   "laIII1",
+   4.6
+  ],
+  [
+   "laIII",
+   "laII",
+   2.9
+  ],
+  [
+   "laIII1",
+   "laII",
+   6.1
+  ],
+  [
+   "laIII1",
+   "laIII2",
+   7.1
+  ],
+  [
+   "ap",
+   "apIII-IV",
+   7.3
+  ],
+  [
+   "ds",
+   "dsIII-IV",
+   5.1
+  ],
+  [
+   "lII1",
+   "lII2",
+   2.5
+  ],
+  [
+   "lII1",
+   "lII",
+   4.6
+  ],
+  [
+   "lII1",
+   "lIII",
+   4.5
+  ],
+  [
+   "lII1",
+   "lIV",
+   7.0
+  ],
+  [
+   "lII1",
+   "amIV2",
+   5.9
+  ],
+  [
+   "lII1",
+   "WATER",
+   5.9
+  ],
+  [
+   "lII2",
+   "lII",
+   2.2
+  ],
+  [
+   "lII2",
+   "lIII",
+   7.0
+  ],
+  [
+   "lII2",
+   "amIV2",
+   6.2
+  ],
+  [
+   "lII",
+   "laIII-IV",
+   8.0
+  ],
+  [
+   "lII",
+   "amIV2",
+   7.0
+  ],
+  [
+   "lIII",
+   "lIV",
+   2.5
+  ],
+  [
+   "lIII",
+   "amIV2",
+   7.7
+  ],
+  [
+   "lIII",
+   "WATER",
+   1.5
+  ],
+  [
+   "aIV1",
+   "aIV2",
+   6.6
+  ],
+  [
+   "lIV",
+   "WATER",
+   1.4
+  ],
+  [
+   "vIV",
+   "vIV2",
+   4.9
+  ],
+  [
+   "laIII-IV",
+   "amIV2",
+   6.5
+  ],
+  [
+   "laIII-IV",
+   "laIII3",
+   3.5
+  ],
+  [
+   "laIII2",
+   "laIII3",
+   5.3
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 120
+}

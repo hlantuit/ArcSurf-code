@@ -1,0 +1,12 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#d5dcdf,tH2,technogenic settlement fill,X,,mixed,,"GGK-200/2 N-51-XXIII,XXIX (Never), Stanovoy/Amur series, Quaternary map, RASTER (geokniga JPG 9968x12890), double sheet stacked N-S"
+1,#eff7b7,aIII4+H,combined low and high floodplain alluvium,F,,gravel,,
+2,#ffb9b1,sIII3-H,solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+3,#ffbb97,"c,dIII3-H",colluvium and deluvium,C,,bouldery,,
+4,#ffb39b,dsIII3-H,deluvial-solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+5,#ffcc9f,edIII3-H,eluvium-deluvium (weathering crust),W,C,mixed,,
+6,#e4f4a7,a1III2,1st terrace alluvium,F,,sand,,
+7,#f3d8a6,"a,d,sIII+H","alluvial, deluvial and solifluxion combined",F,C,fines,,
+8,#cded8d,a2II2,2nd terrace alluvium,F,,sand,,
+9,#a7df6a,a3I-II1,3rd terrace alluvium,F,,sand,,
+10,#c27bd4,PREQ,pre-Quaternary (scheme only),R,,,,

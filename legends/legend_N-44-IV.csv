@@ -1,0 +1,5 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#d9d9a6,d+hQIV,"Современные отложения. Делювиальные и болотные отложения деллей и суффозионных западин. Суглинки, торф",C,O,fines,,"GGK-200 N-44-IV (Geologicheskaya karta SSSR, 1st edition, approved 1965, printed 1970; Baraba, 81-82E 55d20m-56dN), Quaternary map; RASTER = geokniga 1999x2377 px PREVIEW (~34 m/px); vertical lithology ruling removed before classification (work/r200d/prep_vlines.py); tints calibrated on the map (preview_tint_calib.py); four map units only (d+hQIV, orQIV, lhQIV, saQIII); saQIII coded E (PI decision 2026-10-04); lalQIIfd, N2-Q1kc and aQ appear only on sections; frame = 4 corners (BR checked at 14x) + interior 15x10 min graticule crossings as ties ; hatched swatch: 5x5-median sample"
+1,#edf2d3,orQIV,Современные отложения. Органогенные отложения рямов. Торф сфагновый,O,,organic,,
+2,#eff6c7,lhQIV,"Современные отложения. Озерно-болотные отложения. Суглинки, торф",L,O,organic,,
+3,#f4d9c1,saQIII,Верхнечетвертичные отложения. Субаэральные покровные отложения. Суглинки,E,,fines,,subaerial COVER loams: E per PI decision 2026-10-04

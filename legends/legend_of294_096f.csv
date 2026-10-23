@@ -1,0 +1,57 @@
+label,hclass,hclass2,texture,cover,description
+$Af,F,,fines,unknown,silt alluvial fan
+$Ap,F,,fines,unknown,silt alluvial plain
+$sAfv,F,,fines,veneer,"silt/sand alluvial fan, veneer (<1.5 m)"
+Cv,C,,unknown,veneer,colluvial veneer (<1.5 m)
+Cx,C,,unknown,unknown,colluvial complex
+R,R,,unknown,unknown,bedrock
+R/Cv,R,C,unknown,unknown,bedrock with 5-15 % colluvial veneer (<1.5 m)
+R/tMv,R,T,unknown,unknown,bedrock with 5-15 % till morainal veneer (<1.5 m)
+Rk,R,,unknown,unknown,bedrock kettled / thermokarst (karst on bedrock)
+Rk/C,R,C,unknown,unknown,bedrock kettled / thermokarst (karst on bedrock) with 5-15 % colluvial
+Rk/tMv,R,T,unknown,unknown,bedrock kettled / thermokarst (karst on bedrock) with 5-15 % till morainal veneer (<1.5 m)
+Rks,R,,unknown,unknown,"bedrock kettled / thermokarst (karst on bedrock), striated"
+Rs/Cv,R,C,unknown,unknown,bedrock striated with 5-15 % colluvial veneer (<1.5 m)
+Rs/tMv,R,T,unknown,unknown,bedrock striated with 5-15 % till morainal veneer (<1.5 m)
+c$Lv,L,,fines,veneer,clay/silt lacustrine veneer (<1.5 m)
+fO,O,,organic,unknown,fen organic
+fO//c$Lp,O,L,organic,veneer,"fen organic, as a veneer over clay/silt lacustrine plain"
+fO/tMv,O,T,organic,unknown,fen organic with 5-15 % till morainal veneer (<1.5 m)
+fpO,O,,organic,unknown,fen/peat organic
+fpO/tMp,O,T,organic,unknown,fen/peat organic with 5-15 % till morainal plain
+gAp,F,,gravel,unknown,gravel alluvial plain
+gtMv,T,,gravel,veneer,gravel/till morainal veneer (<1.5 m)
+pO,O,,organic,unknown,peat organic
+pO//Rk,O,R,organic,veneer,"peat organic, as a veneer over bedrock kettled / thermokarst (karst on bedrock)"
+pfO,O,,organic,unknown,peat/fen organic
+pfO/tMp,O,T,organic,unknown,peat/fen organic with 5-15 % till morainal plain
+s$Ap,F,,sand,unknown,sand/silt alluvial plain
+s$Lp,L,,sand,unknown,sand/silt lacustrine plain
+sAp,F,,sand,unknown,sand alluvial plain
+sGhr,GF,,sand,unknown,"sand glaciofluvial hummocky, ridged"
+sLpk/pfO,L,O,sand,unknown,"sand lacustrine plain, kettled / thermokarst (karst on bedrock) with 5-15 % peat/fen organic"
+sgGh,GF,,gravel,unknown,sand/gravel glaciofluvial hummocky
+sgGpc,GF,,gravel,unknown,"sand/gravel glaciofluvial plain, channelled"
+sgGt,GF,,gravel,unknown,sand/gravel glaciofluvial terrace
+sgGth,GF,,gravel,unknown,"sand/gravel glaciofluvial terrace, hummocky"
+tMd,T,,diamicton,unknown,till morainal drumlinoid
+tMp,T,,diamicton,unknown,till morainal plain
+tMp/sGv,T,GF,diamicton,unknown,till morainal plain with 5-15 % sand glaciofluvial veneer (<1.5 m)
+tMpd,T,,diamicton,unknown,"till morainal plain, drumlinoid"
+tMpv,T,,diamicton,veneer,"till morainal plain, veneer (<1.5 m)"
+tMv,T,,diamicton,veneer,till morainal veneer (<1.5 m)
+tMv-Rsk,T,R,diamicton,veneer,"till morainal veneer (<1.5 m) with 16-49 % bedrock striated, kettled / thermokarst (karst on bedrock)"
+tMv-pfO,T,O,diamicton,veneer,till morainal veneer (<1.5 m) with 16-49 % peat/fen organic
+tMv/$Afv,T,F,diamicton,veneer,"till morainal veneer (<1.5 m) with 5-15 % silt alluvial fan, veneer (<1.5 m)"
+tMv//R,T,R,diamicton,veneer,"till morainal veneer (<1.5 m), as a veneer over bedrock"
+tMv//Rh,T,R,diamicton,veneer,"till morainal veneer (<1.5 m), as a veneer over bedrock hummocky"
+tMv//Rk,T,R,diamicton,veneer,"till morainal veneer (<1.5 m), as a veneer over bedrock kettled / thermokarst (karst on bedrock)"
+tMv//Rs,T,R,diamicton,veneer,"till morainal veneer (<1.5 m), as a veneer over bedrock striated"
+tMv//Rsk,T,R,diamicton,veneer,"till morainal veneer (<1.5 m), as a veneer over bedrock striated, kettled / thermokarst (karst on bedrock)"
+tMv/R,T,R,diamicton,veneer,till morainal veneer (<1.5 m) with 5-15 % bedrock
+tMvd,T,,diamicton,veneer,"till morainal veneer (<1.5 m), drumlinoid"
+tMvh,T,,diamicton,veneer,"till morainal veneer (<1.5 m), hummocky"
+tMvp,T,,diamicton,veneer,"till morainal veneer (<1.5 m), plain"
+tMvp/sEv,T,E,diamicton,veneer,"till morainal veneer (<1.5 m), plain with 5-15 % sand eolian veneer (<1.5 m)"
+tgMh,T,,diamicton,unknown,till/gravel morainal hummocky
+tgMph,T,,diamicton,unknown,"till/gravel morainal plain, hummocky"

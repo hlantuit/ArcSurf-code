@@ -1,0 +1,10 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#6b676a,O,"Dépôts organiques: tourbe 0,5-3 m",O,,organic,,"GSC Map 2006A Lac Bermen Ouest, Québec (Paradis & Parent 2001), 1:125k UTM19 NAD83; white = lakes (paper); "
+1,#685e48,Co,Dépôts colluviaux: éboulis,C,,bouldery,,
+2,#ac9b45,Ap,"Alluvions récentes: sable, gravier, silt 1-3 m",F,,sand,,
+3,#b19879,Go,Épandage proglaciaire subaérien: sable et gravier,GF,,gravel,,
+4,#a98349,Gs,Épandage proglaciaire subaquatique: sable silteux,GF,GL,sand,,
+5,#a06d4a,Gx,"Juxtaglaciaires: eskers, moraines, kames",GF,,gravel,,
+6,#6d8679,Tb,Till en couverture continue (>0.5 m),T,,mixed,,
+7,#8c9586,Tv,Till en couverture discontinue (<0.5 m),T,R,mixed,,veneer
+8,#883f4f,R,Roches archéennes,R,,,,

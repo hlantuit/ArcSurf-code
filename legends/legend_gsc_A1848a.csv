@@ -1,0 +1,13 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+1,#387eb7,13,Marine littoral deposits: bouldery and flaggy gravel; 2-6 m; emerged beach ridges,M,,gravel,,"GSC Map 1848A Miertsching Lake (Dredge 1994), 1:200k UTM; A1847A-1851A series legend (from A1849a), ALL tints re-sampled on this print (they differ from A1849a). Units 6 (hummocky Laurentide till) and 9-like whites are printed white = paper: lost. 11b = 10 tint: merged. Alluvium 14 (#f7f8b5) DROPPED: dE 2 from till veneer 4 on this print; its pixels read as 4"
+2,#5095b9,12,Marine deltaic deposits: sand and silt; 5-30 m; terraces,M,F,sand,,
+3,#c9e0de,11a,"Offshore and sub-littoral deposits, blanket: stratified sand and silt; 1-10 m; mudboils",M,,fines,blanket,
+5,#86c9c6,"10,11b",Glaciomarine deposits and marine veneer/till (10) and offshore/sub-littoral veneer (11b): same tint on this print (dE 4),GM,M,diamicton,,
+6,#f7f771,8,"Glaciofluvial outwash: sand and rounded gravel; 1-10 m; kettled terraces, braided fans",GF,,gravel,,
+7,#ec7666,7,Kame and esker deposits: sand and gravel; 5-15 m,GF,,gravel,,
+9,#89c29b,5,Sandy Laurentide till blanket: 1-10 m; rolling plains,T,,diamicton,blanket,map tint #78a496 sampled ON THE MAP (legend swatch #7098a6)
+10,#eaf1af,4,Sandy Laurentide till veneer: < 1 m over rock,T,R,diamicton,veneer,map tint #e8f1bc sampled ON THE MAP (legend swatch #e7f1cd)
+11,#be694a,3,Bouldery local till blanket: 1-5 m; flat plain,T,,bouldery,blanket,map tint #b06858 sampled ON THE MAP (legend swatch #a4685a)
+12,#7c3f39,2,Bouldery local till veneer: < 1 m over bedrock,T,R,bouldery,veneer,map tint #6d393e sampled ON THE MAP (legend swatch #5f3242)
+13,#f7ced2,"1,A(Archean)","Broken rock / felsenmeer (1) or Archean granitoid rock (A): near-identical tints, not separable by colour",W,R,bouldery,,1 #f8d8d8 and Archean A #f8d2dc are dE ~4 apart: merged into one class
+14,#f286ad,A(Aphebian),"Rock: Aphebian metasedimentary rocks of the Penrhyn Group (marble, quartzite, pelitic gneiss)",R,,,,

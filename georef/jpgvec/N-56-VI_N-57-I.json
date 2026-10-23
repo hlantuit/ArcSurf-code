@@ -1,0 +1,215 @@
+{
+ "sheet": "N-56-VI_N-57-I",
+ "source": "raster scan",
+ "projection": "tmerc",
+ "rms_m": 4.744264842864053,
+ "max_res_m": 4.784995849530664,
+ "m_per_px": 18.716060641853,
+ "corner_residuals_m": [
+  4.8,
+  4.8,
+  4.7,
+  4.7
+ ],
+ "corners": [
+  {
+   "approx": [
+    2353.1,
+    752.5
+   ],
+   "snapped": [
+    2353.1,
+    752.5
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    7351.1,
+    751.9
+   ],
+   "snapped": [
+    7351.1,
+    751.9
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    7395.0,
+    4715.1
+   ],
+   "snapped": [
+    7395.0,
+    4715.1
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    2310.3,
+    4715.9
+   ],
+   "snapped": [
+    2310.3,
+    4715.9
+   ],
+   "ok": "measured"
+  }
+ ],
+ "frame_sag_px": 13.7,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/N-56-VI+N-57-I/n-56-vin-57-ikcho.jpg N-56-VI_N-57-I ../sources/legend_N-56-VI_N-57-I.csv ../work/facefix/N-56-VI_N-57-I.gpkg --datum 4284 --corners '2353.1,752.5;7351.1,751.9;7395.0,4715.1;2310.3,4715.9' --mmu 60 --no-snap --lonlat 155.5,55.333333,157,56",
+ "unassigned_before_fill": 0.051,
+ "area_km2": 7006.03746378771,
+ "neatline_km2": 7006.413801554169,
+ "cover_frac": 0.999946286677162,
+ "n_polygons": 3430,
+ "units": {
+  "#d994ff": {
+   "index": "eH",
+   "px": 669767,
+   "direct_frac": 0.937
+  },
+  "#ff7d26": {
+   "index": "dH",
+   "px": 2147775,
+   "direct_frac": 0.944
+  },
+  "#ff9499": {
+   "index": "cobH|dsH",
+   "px": 1196982,
+   "direct_frac": 0.795
+  },
+  "#bfff7f": {
+   "index": "aH",
+   "px": 1711796,
+   "direct_frac": 0.883
+  },
+  "#e5cc7f": {
+   "index": "daH",
+   "px": 90486,
+   "direct_frac": 0.79
+  },
+  "#f2d97f": {
+   "index": "pH",
+   "px": 13975,
+   "direct_frac": 0.791
+  },
+  "#ebe688": {
+   "index": "apH",
+   "px": 474387,
+   "direct_frac": 0.837
+  },
+  "#bdc88b": {
+   "index": "plH",
+   "px": 3260891,
+   "direct_frac": 0.924
+  },
+  "#94d4ff": {
+   "index": "mH",
+   "px": 1338451,
+   "direct_frac": 0.982
+  },
+  "#7fbfff": {
+   "index": "mnlH",
+   "px": 210594,
+   "direct_frac": 0.988
+  },
+  "#88ebb9": {
+   "index": "amH",
+   "px": 83319,
+   "direct_frac": 0.811
+  },
+  "#ff9e94": {
+   "index": "c,dH",
+   "px": 107463,
+   "direct_frac": 0.926
+  },
+  "#ffa67f": {
+   "index": "e,dH",
+   "px": 1642704,
+   "direct_frac": 0.949
+  },
+  "#72e5e5": {
+   "index": "l,plH",
+   "px": 209856,
+   "direct_frac": 0.942
+  },
+  "#e09466": {
+   "index": "gIII4",
+   "px": 220625,
+   "direct_frac": 0.607
+  },
+  "#aae05a": {
+   "index": "fIII4",
+   "px": 511840,
+   "direct_frac": 0.884
+  },
+  "#72e5ac": {
+   "index": "amIII4",
+   "px": 133505,
+   "direct_frac": 0.82
+  },
+  "#a3ff47": {
+   "index": "aIII3",
+   "px": 631131,
+   "direct_frac": 0.89
+  },
+  "#5ae09c": {
+   "index": "amIII3",
+   "px": 72081,
+   "direct_frac": 0.849
+  },
+  "#db7f47": {
+   "index": "gIII2",
+   "px": 2059154,
+   "direct_frac": 0.954
+  },
+  "#9bdb3d": {
+   "index": "fIII2",
+   "px": 1344957,
+   "direct_frac": 0.892
+  },
+  "#d46626": {
+   "index": "g,fII",
+   "px": 598537,
+   "direct_frac": 0.933
+  },
+  "#66ff26": {
+   "index": "vlE-Isr",
+   "px": 372014,
+   "direct_frac": 0.922
+  },
+  "#66cc99": {
+   "index": "m,amN2-Eit",
+   "px": 573450,
+   "direct_frac": 0.935
+  },
+  "#a366ff": {
+   "index": "PREQ",
+   "px": 70834,
+   "direct_frac": 0.726
+  },
+  "#d9ffff": {
+   "index": "WATER",
+   "px": 281378,
+   "direct_frac": 0.889
+  }
+ },
+ "confusable_pairs": [
+  [
+   "daH",
+   "pH",
+   7.4
+  ],
+  [
+   "amH",
+   "amIII4",
+   6.7
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

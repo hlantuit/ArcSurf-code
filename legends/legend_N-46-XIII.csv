@@ -1,0 +1,25 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#fdd386,d,deluvium,C,,mixed,,"GGK-200/2 N-46-XIII (Sorsk), Minusinsk series, Quaternary map, RASTER (geokniga JPG 10711x7664); Quaternary legend is RIGHT of the map (left = geomorph/landscape); loess cover hatch not captured"
+1,#fe9464,"e,d",eluvium and deluvium,W,C,mixed,,
+2,#fe7969,c,colluvium,C,,bouldery,,
+3,#ffa97a,"d,c",deluvium and colluvium,C,,bouldery,,
+4,#fd6f81,dr,desertion,C,,bouldery,,
+5,#f4949e,"dr,c",desertion and colluvium,C,,bouldery,,
+6,#e0988e,"dr,s",desertion and solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+7,#f9a0cb,"e,s",eluvium and solifluxion,W,C,mixed,,
+8,#fca07f,"d,s",deluvium and solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+9,#dfbb93,"d,p",deluvium and proluvium,C,F,fines,,
+10,#ccf097,aH2,Yenisei tributaries alluvium,F,,gravel,,
+11,#e3f8ab,aH,Chulym basin river alluvium,F,,sand,,
+12,#d6d8d8,"l,plH2","lake and bog: sands, loams, peat",L,O,organic,,
+13,#d09b90,tH2,technogenic quarry dumps,X,,mixed,,
+14,#dfdf95,apIII-H,alluvial-proluvial,F,,mixed,,
+15,#9fe2f0,lIII,lacustrine clays and sands,L,,fines,,
+16,#b9ea7b,a5IItg,"Lager alluvium, 5th terrace",F,,gravel,,
+17,#a1dc6a,a6IIsb,"Sobakino alluvium, 6th terrace",F,,sand,,
+18,#94d364,a7I-IItr,"Torgashino alluvium, 7th terrace",F,,gravel,,
+19,#90d265,aI,ancient-valley alluvium,F,,gravel,,
+20,#d0d18a,"a,pI",alluvial-proluvial,F,,mixed,,
+21,#99dbb9,laN2-Eks,Kaspa lake-alluvial,L,F,fines,,
+22,#c4946f,dpN2-Eks,Kaspa deluvial-proluvial,C,F,fines,,
+23,#ac91ad,PREQ,pre-Quaternary with thin slope cover,R,,,,

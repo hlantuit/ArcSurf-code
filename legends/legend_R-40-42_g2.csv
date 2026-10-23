@@ -1,0 +1,56 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#ff7a43,d,Делювиальный,C,,fines,,"GGK-1000/2 R-(40)-42 Vaygach-Yamal 1999 (new series), Pliocene-Quaternary map, RASTER (geokniga JPG 11369 px, JPEG-compressed); deluvium"
+1,#fb866a,"e,d",Элювиальный и делювиальный,W,C,mixed,,eluvium and deluvium
+2,#fc605d,dc,Делювиально-коллювиальный,C,,bouldery,,deluvial-colluvial
+3,#dc5956,cd,Коллювиально-делювиальный,C,,bouldery,,colluvial-deluvial
+4,#9b5457,ds,Делювиально-солифлюкционный,C,,fines,,deluvial-solifluxion
+5,#df616c,"c,s",Коллювиальный и солифлюкционный,C,,bouldery,,colluvium and solifluxion
+6,#ef8d4d,pd,Пролювиально-делювиальный,F,C,mixed,,proluvial-deluvial
+7,#fdf898,aIV,Аллювиальный (пойменные террасы),F,,sand,,Holocene floodplain alluvium
+8,#fcb292,gIV,Ледниковый (морены современных каровых ледников),T,,bouldery,,modern cirque moraines
+9,#c3c6fd,mIV,"Морской (лайды, ватты, пляжи)",M,,sand,,"Holocene marine: laidas, tidal flats, beaches"
+10,#bbd8e2,amIV,Аллювиально-морской (приустьевые участки речных долин),F,M,sand,,Holocene alluvial-marine
+11,#a2bdda,lbIV,Озерно-болотный,L,O,organic,,Holocene lacustrine-palustrine
+12,#d1d984,a1III-IV,Аллювиальный (первая терраса),F,,sand,,first terrace alluvium
+13,#a2c7fa,lIII-IV,Озерный,L,,fines,,lacustrine
+14,#acb6fa,m1III-IV,Морской (первая терраса),M,,sand,,first marine terrace
+15,#a2c7d1,am1III-IV,Аллювиально-морской (первая терраса),F,M,sand,,first terrace alluvial-marine
+16,#f49c80,gIII4,Ледниковый (горно-долинного оледенения),T,,bouldery,,Polar Urals horizon mountain-valley glacial
+17,#def0a4,a2III,Аллювиальный (вторая терраса),F,,sand,,Karginsky second terrace alluvium
+18,#abbdfc,m2III,Морской (вторая терраса),M,,sand,,Karginsky second marine terrace
+19,#93bbc0,la2III,Озерно-аллювиальный (вторая терраса),L,F,fines,,Karginsky second terrace lake-alluvium
+20,#7dadc2,am2III,Аллювиально-морской (вторая терраса),F,M,sand,,Karginsky second terrace alluvial-marine
+21,#f08e77,gIII2,Ледниковый (горно-покровного оледенения),T,,bouldery,,Khanmei horizon glacial
+22,#ccd375,fIII2,Флювиогляциальный (горно-покровного оледенения),GF,,gravel,,Khanmei glaciofluvial
+23,#6b9ca6,"la,fIII2",Озерно-аллювиальный и флювиогляциальный,L,GF,sand,,lake-alluvial and glaciofluvial
+24,#8ca0fb,m3III,Морской (третья терраса),M,,sand,,third marine terrace
+25,#7aa9a9,la3III,Озерно-аллювиальный (третья терраса),L,F,fines,,third terrace lake-alluvium
+26,#7186e6,m4III,Морской (четвертая терраса),M,,fines,,Kazantsevo fourth marine terrace
+27,#649290,la4III,Озерно-аллювиальный (четвертая терраса),L,F,fines,,fourth terrace lake-alluvium
+28,#87a3b9,"a,amII",Аллювиальный и аллювиально-морской,F,M,sand,,middle Neopleistocene
+29,#6f7bd4,"m,gmII","Морской, ледово- и ледниково-морской",M,GM,fines,,middle Neopleistocene marine and glaciomarine
+30,#5f85a4,"m,laI-II",Морской и озерно-аллювиальный,M,L,fines,,lower-middle Neopleistocene
+31,#6c8c4c,aI,Аллювиальный,F,,sand,,lower Neopleistocene alluvium
+32,#648296,"a,amI",Аллювиальный и аллювиально-морской,F,M,sand,,lower Neopleistocene
+33,#5c6ec1,"m,gmI","Морской, ледово- и ледниково-морской",M,GM,fines,,lower Neopleistocene marine and glaciomarine
+34,#516aca,mE,Морской,M,,fines,,Eopleistocene marine
+35,#a47565,gmE,Ледово- и ледниково-морской,GM,,fines,,Eopleistocene glaciomarine
+36,#6e9294,"lm,mN23",Озерно-морской и морской,M,L,fines,,upper Pliocene
+37,#927782,"gm,mN23",Ледово-ледниково-морской и морской,GM,M,fines,,upper Pliocene
+38,#507770,"la,amN23",Озерно-аллювиальный и аллювиально-морской,L,F,sand,,upper Pliocene
+39,#6a515b,"gm,amN23",Ледово-морской и аллювиально-морской,GM,F,fines,,upper Pliocene
+40,#659455,aN2,Аллювиальный,F,,sand,,Pliocene alluvium
+41,#597c4b,"a,gmN2",Аллювиальный и ледово-морской,F,GM,mixed,,Pliocene alluvial and glaciomarine
+42,#4e5caa,"m,gmN2","Морской, ледово- и ледниково-морской",M,GM,fines,,Pliocene marine and glaciomarine
+43,#9e63a7,PREQ,Доплиоценовые породы,R,,,,pre-Pliocene rocks
+44,#e2eafb,s:m1IV,Волновой нерасчлененный (шельф),M,,sand,,offshore Holocene wave
+45,#dfe7fb,s:m1''IV,Волновой прибрежный (шельф),M,,sand,,offshore Holocene nearshore wave
+46,#c4d3fa,s:m2IV,Бассейновый (шельф),M,,fines,,offshore Holocene basin
+47,#b0bafb,s:m3IV,Потоковый (шельф),M,,sand,,offshore Holocene current
+48,#a7b0f2,s:mIII4-IV,Волновой (шельф),M,,sand,,offshore wave
+49,#97a1e7,s:mIII,Бассейновый (шельф),M,,fines,,offshore basin
+50,#828ed3,s:m1III,Волновой (шельф),M,,sand,,offshore wave
+51,#e3e7fb,s:amIII-IV,Аллювиально-морской затопленный (шельф),F,M,sand,,submerged alluvial-marine
+52,#d8dafb,s:gmI-III,Ледниково-морской затопленный (шельф),GM,,fines,,submerged glaciomarine
+53,#c7c6f7,s:gmI-II,Ледниково-морской затопленный (шельф),GM,,fines,,submerged glaciomarine
+54,#b397d6,s:PREQ,Дочетвертичные породы (шельф),R,,,,offshore pre-Quaternary

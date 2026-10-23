@@ -1,0 +1,150 @@
+{
+ "sheet": "O-53-XII",
+ "source": "raster scan",
+ "projection": "tmerc",
+ "rms_m": 2.2346035567841773,
+ "max_res_m": 2.2562685123775736,
+ "m_per_px": 16.962471652438353,
+ "corner_residuals_m": [
+  2.3,
+  2.3,
+  2.2,
+  2.2
+ ],
+ "corners": [
+  {
+   "approx": [
+    593.0,
+    818.0
+   ],
+   "snapped": [
+    593.0,
+    818.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    3947.0,
+    818.0
+   ],
+   "snapped": [
+    3947.0,
+    818.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    3979.0,
+    5206.0
+   ],
+   "snapped": [
+    3979.0,
+    5206.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    559.0,
+    5206.0
+   ],
+   "snapped": [
+    559.0,
+    5206.0
+   ],
+   "ok": false
+  }
+ ],
+ "frame_sag_px": 6.4,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/O-53-XII/o-53-xii-verhove-r-iotkan-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-f_1.jpg O-53-XII ../sources/legend_O-53-XII.csv ../work/jpgvec/O-53-XII.gpkg --datum 4284 --corners '593,818;3947,818;3979,5206;559,5206' --mmu 60",
+ "unassigned_before_fill": 0.073,
+ "area_km2": 4268.192592618377,
+ "neatline_km2": 4268.4470728134065,
+ "cover_frac": 0.9999403810822323,
+ "n_polygons": 1493,
+ "units": {
+  "#d6cecc": {
+   "index": "tH",
+   "px": 19385,
+   "direct_frac": 0.602
+  },
+  "#f9f9cd": {
+   "index": "aH",
+   "px": 641490,
+   "direct_frac": 0.773
+  },
+  "#ffd4b0": {
+   "index": "e,dIII-H",
+   "px": 672006,
+   "direct_frac": 0.909
+  },
+  "#ffc4a7": {
+   "index": "d,cIII-H",
+   "px": 5507299,
+   "direct_frac": 0.89
+  },
+  "#f5c1a7": {
+   "index": "d,drIII-H",
+   "px": 5290520,
+   "direct_frac": 0.881
+  },
+  "#ffc0aa": {
+   "index": "d,sIII-H",
+   "px": 1766514,
+   "direct_frac": 0.891
+  },
+  "#f7d9ae": {
+   "index": "p,dIII-H",
+   "px": 209196,
+   "direct_frac": 0.884
+  },
+  "#ddf5b6": {
+   "index": "a1III3-4",
+   "px": 337197,
+   "direct_frac": 0.809
+  },
+  "#d5f2a4": {
+   "index": "a2III1-2",
+   "px": 275811,
+   "direct_frac": 0.86
+  },
+  "#c9f0a3": {
+   "index": "a3II",
+   "px": 157278,
+   "direct_frac": 0.858
+  }
+ },
+ "confusable_pairs": [
+  [
+   "e,dIII-H",
+   "p,dIII-H",
+   6.1
+  ],
+  [
+   "d,cIII-H",
+   "d,drIII-H",
+   3.7
+  ],
+  [
+   "d,cIII-H",
+   "d,sIII-H",
+   3.8
+  ],
+  [
+   "d,drIII-H",
+   "d,sIII-H",
+   4.8
+  ],
+  [
+   "a2III1-2",
+   "a3II",
+   4.0
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

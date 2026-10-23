@@ -1,0 +1,31 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#cb90bf,e,eluvium of flat watershed surfaces,W,,bouldery,,"GGK-200/2 M-49-XVIII,XXIV (Aksha, Mikhailo-Pavlovsk), Daurian series, Neogene-Quaternary map, 2nd ed. (electronic edition 2018; compiled Chitageolsyomka 2001), vector PDF (geokniga); Mongolian part of the frame unmapped (white)"
+1,#fcbc86,d,"deluvium of lower and middle slopes (loams, sandy loams with grus)",C,,fines,,
+2,#fab383,ed,eluvial-deluvial,W,C,mixed,,
+3,#f58466,c,colluvium of steep slopes,C,,bouldery,,
+4,#f8a07c,cd,colluvial-deluvial,C,,bouldery,,
+5,#f6978f,s,"solifluxion (rubbly loams, clays)",C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+6,#f69780,ds,deluvial-solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+7,#ea9488,cs,colluvial-solifluxion,C,,bouldery,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+8,#eff1b8,aH,floodplain alluvium,F,,gravel,,
+9,#f4e0af,pH,proluvial fans,F,,gravel,,
+10,#9cdcf9,lH,lacustrine beach and basin deposits,L,,mixed,,
+11,#d7e7aa,a1III-H,1st terrace alluvium,F,,sand,,
+12,#efe29d,apIII-H,alluvial-proluvial dry deltas,F,,gravel,,
+13,#f4ce98,pdIII-H,proluvial-deluvial trains,F,C,fines,,
+14,#c4df9b,a2-4III,2nd-4th terrace and buried-incision alluvium,F,,sand,,
+15,#b7da9b,a2III3-4,Stepanov-Oshurkovo 2nd terrace alluvium,F,,gravel,,
+16,#aed094,a3III2,Tompa 3rd terrace alluvium,F,,sand,,
+17,#9acf8b,a5IIbr,Borzhigantai 5th terrace alluvium,F,,gravel,,
+18,#8aca8b,aIIhb,Kholbon buried-incision alluvium (section and scheme only),F,,gravel,,
+19,#e7d676,apIIhb,Kholbon alluvial-proluvial (scheme only),F,,gravel,,
+20,#62c2a0,laI-II,lake-alluvial terraces at 800-850 m,L,F,sand,,
+21,#e3cf5c,apIul,Ulachin suite alluvial-proluvial,F,,bouldery,,
+22,#87c875,aN2-Eur2,"upper Urei subsuite alluvium (Pliocene-Eopleistocene, section only)",F,,gravel,,
+23,#ddb362,adN2-Eur2,"upper Urei alluvial-deluvial (Pliocene-Eopleistocene, scheme only)",F,C,fines,,
+24,#edc464,pN2-Eur2,"upper Urei proluvial loams and clays (Pliocene-Eopleistocene, surficial: classed by genesis)",F,,fines,,
+25,#ddc839,apN2-Eur2,"upper Urei alluvial-proluvial (Pliocene-Eopleistocene, surficial: classed by genesis)",F,,fines,,
+26,#69b56f,aN2-Eur1,lower Urei subsuite alluvium (section and scheme only),F,,bouldery,,
+27,#a677b4,PREQ,pre-Pliocene formations (sections only),R,,,,
+28,#71c276,aN2-Ecs,"Tsasuchei suite alluvium, Aga zone (section only)",F,,sand,,
+29,#d6bf00,apN2-Ecs,"Tsasuchei suite alluvial-proluvial, Aga zone (section only)",F,,mixed,,

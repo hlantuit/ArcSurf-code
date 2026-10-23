@@ -1,0 +1,28 @@
+x,y,w,index,description_ru,hclass,hclass2,texture,note
+4545,8651,120,eIII-IV,eluvium,W,,bouldery,eluvium
+4276,8741,120,aIV,Holocene alluvium,F,,mixed,Holocene alluvium
+4021,8742,120,aIIIsr,Sartan alluvium,F,,mixed,Sartan alluvium
+4279,8836,120,lIV,Holocene lacustrine,L,,fines,Holocene lacustrine
+4019,8837,120,lIIIsr,Sartan lacustrine,L,,fines,Sartan lacustrine
+3397,8839,120,lIIIkr,Karga lacustrine,L,,fines,Karga lacustrine
+3121,8938,120,gIIImr,Muruktin till,T,,bouldery,Muruktin till
+2521,8942,120,gIIs-t,Samarovo-Taz till,T,,bouldery,Samarovo-Taz till
+3119,9034,120,fIIImr,Muruktin glaciofluvial,GF,,gravel,Muruktin glaciofluvial
+3124,9128,120,gmIIImr,Muruktin glacial-ice-marine,GM,,mixed,Muruktin glacial-ice-marine
+2235,9132,120,gmE-II,Eopleistocene-middle glacial-ice-marine,GM,,mixed,Eopleistocene-middle glacial-ice-marine
+4285,9215,120,mIV,Holocene marine,M,,sand,Holocene marine
+3709,9220,120,mIIIkz-kr,Kazantsevo-Karga marine,M,,mixed,Kazantsevo-Karga marine
+3401,9222,120,mIIIkr,Karga marine,M,,mixed,Karga marine
+2831,9226,120,mIIIkz,Kazantsevo marine,M,,mixed,Kazantsevo marine
+1947,9230,120,mN2-E?,Pliocene-Eopleistocene marine,M,,mixed,Pliocene-Eopleistocene marine
+3124,9414,120,lgIIImr,glaciolacustrine,GL,,fines,glaciolacustrine
+4024,9504,120,laIIIsr,lake-alluvial,L,F,fines,lake-alluvial
+3397,9508,120,laIIIkr,lake-alluvial,L,F,fines,lake-alluvial
+3714,9600,120,lmIIIkz-kr,lagoonal,M,L,fines,lagoonal
+4553,9691,120,edIII-IV,eluvial-deluvial,W,C,bouldery,eluvial-deluvial
+4554,9786,120,dcIII-IV,deluvial-colluvial,C,,bouldery,deluvial-colluvial
+4556,9881,120,dsIII-IV,deluvial-solifluxion,C,,mixed,deluvial-solifluxion
+4294,10109,120,s:m1IV,shelf wave/beach (offshore),M,,sand,shelf wave/beach (offshore)
+4293,10202,120,s:m2IV,shelf (offshore),M,,fines,shelf (offshore)
+4517,9976,55,PREQ,pre-Late-Cenozoic rocks,R,,,
+4597,9976,55,"PREQ,c",pre-Late-Cenozoic rocks with colluvium,R,C,bouldery,

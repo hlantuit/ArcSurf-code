@@ -1,0 +1,373 @@
+{
+ "sheet": "P-55-XVII",
+ "source": "raster scan",
+ "projection": "tmerc",
+ "rms_m": 0.6846916031891623,
+ "max_res_m": 0.6922540998129989,
+ "m_per_px": 16.923791806877006,
+ "corner_residuals_m": [
+  0.7,
+  0.7,
+  0.7,
+  0.7
+ ],
+ "corners": [
+  {
+   "approx": [
+    4134.0,
+    835.0
+   ],
+   "snapped": [
+    4134.0,
+    835.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    7161.0,
+    835.0
+   ],
+   "snapped": [
+    7161.0,
+    835.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    7195.0,
+    5223.0
+   ],
+   "snapped": [
+    7195.0,
+    5223.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    4100.0,
+    5223.0
+   ],
+   "snapped": [
+    4100.0,
+    5223.0
+   ],
+   "ok": false
+  }
+ ],
+ "unassigned_before_fill": 0.106,
+ "area_km2": 3847.034840092739,
+ "neatline_km2": 3850.7343108700243,
+ "cover_frac": 0.9990392817372931,
+ "n_polygons": 4746,
+ "units": {
+  "#ffa389": {
+   "index": "d,sH",
+   "px": 4987803,
+   "direct_frac": 0.86
+  },
+  "#fbface": {
+   "index": "acnH",
+   "px": 458971,
+   "direct_frac": 0.743
+  },
+  "#f6ebb6": {
+   "index": "a,pH",
+   "px": 179368,
+   "direct_frac": 0.773
+  },
+  "#e19bd9": {
+   "index": "eH",
+   "px": 110840,
+   "direct_frac": 0.834
+  },
+  "#f7a5b4": {
+   "index": "e,sH",
+   "px": 523799,
+   "direct_frac": 0.891
+  },
+  "#fab0a0": {
+   "index": "dr,sH",
+   "px": 3828365,
+   "direct_frac": 0.845
+  },
+  "#b8c2c7": {
+   "index": "tH2",
+   "px": 118372,
+   "direct_frac": 0.465
+  },
+  "#f7fbd9": {
+   "index": "ainH2",
+   "px": 39283,
+   "direct_frac": 0.405
+  },
+  "#f1f8c3": {
+   "index": "aprH2",
+   "px": 408575,
+   "direct_frac": 0.661
+  },
+  "#e9f1be": {
+   "index": "a1H1",
+   "px": 329978,
+   "direct_frac": 0.584
+  },
+  "#f1d7a6": {
+   "index": "d,aIII-H",
+   "px": 1084882,
+   "direct_frac": 0.794
+  },
+  "#e7f0b1": {
+   "index": "aIII",
+   "px": 560748,
+   "direct_frac": 0.706
+  },
+  "#e8f6b6": {
+   "index": "a2IIIht",
+   "px": 51789,
+   "direct_frac": 0.75
+  },
+  "#ccc190": {
+   "index": "fIIIht",
+   "px": 137584,
+   "direct_frac": 0.566
+  },
+  "#dcac82": {
+   "index": "gIIIht",
+   "px": 322223,
+   "direct_frac": 0.826
+  },
+  "#98d3ed": {
+   "index": "lIIIht",
+   "px": 16164,
+   "direct_frac": 0.762
+  },
+  "#e3f4a6": {
+   "index": "a3IIIkb",
+   "px": 5834,
+   "direct_frac": 0.632
+  },
+  "#ccdd98": {
+   "index": "a4IIIjg",
+   "px": 90452,
+   "direct_frac": 0.413
+  },
+  "#c7966a": {
+   "index": "gIIIjg",
+   "px": 83390,
+   "direct_frac": 0.562
+  },
+  "#d8eaa0": {
+   "index": "a5IIIvc",
+   "px": 8953,
+   "direct_frac": 0.639
+  },
+  "#cce89e": {
+   "index": "a6II",
+   "px": 13642,
+   "direct_frac": 0.776
+  },
+  "#cdee8e": {
+   "index": "a7E-I",
+   "px": 4427,
+   "direct_frac": 0.613
+  },
+  "#c0e086": {
+   "index": "aE-I",
+   "px": 2498,
+   "direct_frac": 0.664
+  },
+  "#beeb8d": {
+   "index": "a8,9N2-2",
+   "px": 13565,
+   "direct_frac": 0.791
+  },
+  "#b2de86": {
+   "index": "aN2-2",
+   "px": 5137,
+   "direct_frac": 0.367
+  },
+  "#ace88d": {
+   "index": "a10N2-1",
+   "px": 21457,
+   "direct_frac": 0.675
+  },
+  "#81c966": {
+   "index": "a11-13N1-N2",
+   "px": 3444,
+   "direct_frac": 0.629
+  },
+  "#c27bd4": {
+   "index": "PREQ",
+   "px": 20125,
+   "direct_frac": 0.691
+  }
+ },
+ "confusable_pairs": [
+  [
+   "acnH",
+   "a,pH",
+   7.8
+  ],
+  [
+   "acnH",
+   "ainH2",
+   5.4
+  ],
+  [
+   "acnH",
+   "aprH2",
+   5.6
+  ],
+  [
+   "acnH",
+   "a1H1",
+   6.3
+  ],
+  [
+   "a,pH",
+   "aprH2",
+   7.6
+  ],
+  [
+   "a,pH",
+   "a1H1",
+   7.5
+  ],
+  [
+   "aprH2",
+   "a1H1",
+   2.7
+  ],
+  [
+   "aprH2",
+   "aIII",
+   6.1
+  ],
+  [
+   "aprH2",
+   "a2IIIht",
+   6.3
+  ],
+  [
+   "a1H1",
+   "aIII",
+   6.1
+  ],
+  [
+   "a1H1",
+   "a2IIIht",
+   6.9
+  ],
+  [
+   "aIII",
+   "a2IIIht",
+   2.6
+  ],
+  [
+   "aIII",
+   "a3IIIkb",
+   8.0
+  ],
+  [
+   "aIII",
+   "a5IIIvc",
+   7.2
+  ],
+  [
+   "a2IIIht",
+   "a3IIIkb",
+   7.2
+  ],
+  [
+   "a2IIIht",
+   "a5IIIvc",
+   7.2
+  ],
+  [
+   "a3IIIkb",
+   "a5IIIvc",
+   3.9
+  ],
+  [
+   "a3IIIkb",
+   "aII",
+   3.9
+  ],
+  [
+   "a3IIIkb",
+   "a6II",
+   6.7
+  ],
+  [
+   "a4IIIjg",
+   "a5IIIvc",
+   4.9
+  ],
+  [
+   "a4IIIjg",
+   "a6II",
+   5.6
+  ],
+  [
+   "a5IIIvc",
+   "aII",
+   4.5
+  ],
+  [
+   "a5IIIvc",
+   "a6II",
+   4.1
+  ],
+  [
+   "aII",
+   "a6II",
+   4.2
+  ],
+  [
+   "a7E-I",
+   "aE-I",
+   5.4
+  ],
+  [
+   "a7E-I",
+   "a8,9N2-2",
+   4.9
+  ],
+  [
+   "aE-I",
+   "a8,9N2-2",
+   5.9
+  ],
+  [
+   "aE-I",
+   "aN2-2",
+   4.9
+  ],
+  [
+   "a8,9N2-2",
+   "aN2-2",
+   5.1
+  ],
+  [
+   "a8,9N2-2",
+   "a10N2-1",
+   5.9
+  ],
+  [
+   "aN2-2",
+   "a10N2-1",
+   6.4
+  ],
+  [
+   "aN2-1",
+   "a11-13N1-N2",
+   7.8
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

@@ -1,0 +1,30 @@
+yc,xoff,index,description_ru,hclass,hclass2,texture,note
+1305,0,aIV,Аллювиальный низкой и высокой пойм,F,,mixed,Holocene floodplain alluvium
+1420,0,apIII-IV,Аллювиально-пролювиальный,F,,gravel,alluvial-proluvial
+1540,0,dpIII-IV,Делювиально-пролювиальный,C,F,mixed,deluvial-proluvial
+1655,0,dcIII-IV,Делювиально-коллювиальный,C,,bouldery,deluvial-colluvial
+1775,0,cIII-IV,Коллювиальный,C,,bouldery,colluvium
+1892,0,vIII-IV,Эоловый,E,,sand,eolian
+2012,0,lbIII-IV,Озерно-болотный,L,O,organic,lacustrine-palustrine
+2130,0,aIII4,Аллювиальный I надпойменной террасы,F,,mixed,1st terrace alluvium
+2245,0,gIII4,Ледниковый,T,,bouldery,glacial (Sartan)
+2365,0,aIII3,Аллювиальный II надпойменной террасы,F,,mixed,2nd terrace alluvium
+2482,0,gIII2,Ледниковый,T,,bouldery,glacial (Zyryanka)
+2600,0,fIII2,Флювиогляциальный,GF,,gravel,glaciofluvial
+2720,0,aIII1-2,Аллювиальный III надпойменной террасы,F,,mixed,3rd terrace alluvium
+2840,0,aIII1,Аллювиальный,F,,mixed,alluvium
+2952,0,laIII1,Озерно-аллювиальный,L,F,fines,lake-alluvial
+3070,0,aIII,Аллювиальный надпойменных террас (I-II) комплекса,F,,mixed,terrace alluvium
+3190,0,dsII-III,Делювиально-солифлюкционный,C,,mixed,deluvial-solifluxion
+3310,0,dcII-III,Делювиально-коллювиальный,C,,bouldery,deluvial-colluvial
+3428,0,csII-III,Коллювиально-солифлюкционный,C,,bouldery,colluvial-solifluxion
+3545,0,cII-III,Коллювиальный,C,,bouldery,colluvium
+3665,0,fII-III,Флювиогляциальный,GF,,gravel,glaciofluvial
+3785,0,aII2-4,Аллювиальный IV надпойменной террасы,F,,mixed,4th terrace alluvium
+3898,0,laII2-4,Озерно-аллювиальный IV надпойменной террасы,L,F,fines,lake-alluvial
+4018,0,fII2-4,Флювиогляциальный,GF,,gravel,glaciofluvial
+4140,0,gII2-4,Ледниковый,T,,bouldery,glacial (middle Pleistocene)
+4258,0,aII,Аллювиальный IV и V надпойменных террас,F,,mixed,4th-5th terrace alluvium
+4375,0,aI-II1,Аллювиальный,F,,mixed,alluvium
+4492,0,laI-II1,Озерно-аллювиальный,L,F,fines,lake-alluvial
+4612,0,aI,Аллювиальный VI надпойменной террасы,F,,mixed,6th terrace alluvium

@@ -1,0 +1,10 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#ebf8bd,alIV,"Современные отложения. Аллювиальные отложения пойменной террасы р. Иртыша. Переслаивание песков, супесей, суглинков, реже глин",F,,mixed,,"GGK-200 N-43-XV (Geologicheskaya karta SSSR, 1st edition, approved 1968, printed 1977; Irtysh valley, 74-75E 54d-54d40mN), Quaternary map; RASTER = geokniga 2000x2320 px PREVIEW (~35 m/px); vertical lithology ruling removed (work/r200d/prep_vlines.py); tints calibrated on the map (preview_tint_calib.py); alIV+alIII1 merged (5 dE, 47-52 % ambiguous); the lake and lake-bog deposits lIV, lhIV (lake rims, ~1 % of the face) print in the tint of the Irtysh and the lakes: read as WATER (two water tints: teal river, white lake interiors); el+dIII (subaerial cover loams) and eol+dIII coded E (PI decision 2026-10-04); frame = 4 corners (paper edge and ridge filter agree) + 9 interior 15x10 min graticule crossings as ties (checked at 6x) ; same printed colour as alIII1: one class"
+1,#ebf8bd,alIII1,"Верхнечетвертичные отложения. Аллювиальные отложения первой надпойменной террасы р. Иртыша. Переслаивание суглинков, песков и супесей",F,,mixed,,same printed colour as alIV: one class
+2,#fad371,eol+dIII,"Верхнечетвертичные отложения. Эоловые и делювиальные отложения. Пески и супеси палевые и желтые, пылеватые, редко суглинки легкие",E,C,sand,,
+3,#fdbb8c,el+dIII,"Верхнечетвертичные отложения. Элювиальные и делювиальные покровные отложения. Суглинки бурые, мелкокомковатые",E,W,fines,,"subaerial COVER loams (покровные): E per PI decision 2026-10-04, hclass2 W"
+4,#e0fba6,alIII2,"Верхнечетвертичные отложения. Аллювиальные отложения второй надпойменной террасы р. Иртыша. Переслаивание суглинков, песков, супесей",F,,mixed,,
+5,#d9fc97,alII-III3,"Средне-верхнечетвертичные отложения. Аллювиальные отложения третьей надпойменной террасы р. Иртыша. Переслаивание суглинков, песков, супесей",F,,mixed,,
+6,#fccbe0,PREQ,Дочетвертичные отложения,R,,,,
+7,#cae6c9,WATER,"р. Иртыш, озера",H,,,,river tint sampled on the map
+8,#eff9e8,WATER,озера (белая заливка),H,,,,white lake interiors sampled on the map

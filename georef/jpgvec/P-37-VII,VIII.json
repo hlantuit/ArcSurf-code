@@ -1,0 +1,117 @@
+{
+ "sheet": "P-37-VII,VIII",
+ "source": "raster scan",
+ "projection": "tmerc",
+ "rms_m": 19.309029006647222,
+ "max_res_m": 39.04933680003018,
+ "m_per_px": 53.20200616307728,
+ "corner_residuals_m": [
+  2.3,
+  0.8,
+  1.6,
+  1.5,
+  19.3,
+  5.3,
+  39.0,
+  9.6,
+  16.0,
+  34.0,
+  25.7
+ ],
+ "n_ties": 7,
+ "corners": [
+  {
+   "approx": [
+    59.0,
+    69.5
+   ],
+   "snapped": [
+    59.0,
+    69.5
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1941.4,
+    69.6
+   ],
+   "snapped": [
+    1941.4,
+    69.6
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1962.2,
+    1457.3
+   ],
+   "snapped": [
+    1962.2,
+    1457.3
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    36.4,
+    1457.1
+   ],
+   "snapped": [
+    36.4,
+    1457.1
+   ],
+   "ok": "measured"
+  }
+ ],
+ "frame_sag_px": 7.3,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/P-37-VII,VIII/p-37-viiviii-sergievo-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-fed.jpg P-37-VII,VIII ../sources/legend_P-37-VII,VIII.csv ../work/facefix/P-37-VII,VIII.gpkg --datum 4284 --corners '59.0,69.5;1941.4,69.6;1962.2,1457.3;36.4,1457.1' --no-snap --dE 14 --mmu 30 --ties '36.500000,62.833334,521.1,1115.9;36.500000,63.000000,523.6,768.9;36.500000,63.166667,525.9,421.9;37.000000,62.833334,999.5,1117.5;37.000000,63.000000,1000.0,770.6;37.000000,63.166667,1000.6,423.8;37.500000,62.833334,1477.8,1116.0'",
+ "unassigned_before_fill": 0.185,
+ "area_km2": 7529.814487556416,
+ "neatline_km2": 7530.9462276787635,
+ "cover_frac": 0.9998497213911596,
+ "n_polygons": 982,
+ "units": {
+  "#e5e1bb": {
+   "index": "bH",
+   "px": 1043074,
+   "direct_frac": 0.87
+  },
+  "#f8d7ba": {
+   "index": "edH",
+   "px": 21674,
+   "direct_frac": 0.515
+  },
+  "#9ad8c7": {
+   "index": "lgIIIos",
+   "px": 279912,
+   "direct_frac": 0.859
+  },
+  "#d4e281": {
+   "index": "fIIIos",
+   "px": 305557,
+   "direct_frac": 0.819
+  },
+  "#f5bc7d": {
+   "index": "gIIIos",
+   "px": 929078,
+   "direct_frac": 0.691
+  },
+  "#a771aa": {
+   "index": "PREQ",
+   "px": 8152,
+   "direct_frac": 0.51
+  },
+  "#ecfefe": {
+   "index": "WATER",
+   "px": 63490,
+   "direct_frac": 0.888
+  }
+ },
+ "confusable_pairs": [],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 30
+}

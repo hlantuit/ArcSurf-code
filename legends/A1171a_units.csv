@@ -1,0 +1,5 @@
+x,y,w,index,description_ru,hclass,hclass2,texture,note
+384,1182,180,3,"Fluviatile deposits: silt, sand and gravel (3a terraces, 3b modern flood plains, 3c alluvial fans, 3d silt and clay of fluvial or glaciolacustrine origin with thermokarst depressions)",F,,mixed,
+384,1512,180,2,"Glacio-fluvial deposits: sand, gravel, minor silt (2a terrace and pitted terrace, kame terrace and outwash delta; 2b hummocky or ridged deposits; 2c esker complex deposits)",GF,,gravel,
+384,1812,180,1,"Glacial deposits: silt, minor sand and gravel (1a terminal and recessional moraine; 1b ground moraine; 1c dead-ice deposits with hummocky or knob-and-kettle form)",T,,diamicton,
+1800,6300,180,PAPER,"uncoloured map area (not designated by a unit; uplands)",,,,paper tint sampled in the margin

@@ -1,0 +1,343 @@
+{
+ "sheet": "P-55-XVI",
+ "source": "raster scan",
+ "projection": "tmerc",
+ "rms_m": 0.6846916031900414,
+ "max_res_m": 0.6922540998129989,
+ "m_per_px": 16.92379180687744,
+ "corner_residuals_m": [
+  0.7,
+  0.7,
+  0.7,
+  0.7
+ ],
+ "corners": [
+  {
+   "approx": [
+    3806.0,
+    838.0
+   ],
+   "snapped": [
+    3806.0,
+    838.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    6833.0,
+    838.0
+   ],
+   "snapped": [
+    6833.0,
+    838.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    6867.0,
+    5226.0
+   ],
+   "snapped": [
+    6867.0,
+    5226.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    3772.0,
+    5226.0
+   ],
+   "snapped": [
+    3772.0,
+    5226.0
+   ],
+   "ok": false
+  }
+ ],
+ "unassigned_before_fill": 0.104,
+ "area_km2": 3847.004171087027,
+ "neatline_km2": 3850.7353567063747,
+ "cover_frac": 0.9990310459500029,
+ "n_polygons": 4301,
+ "units": {
+  "#ffa389": {
+   "index": "d,sH",
+   "px": 1714894,
+   "direct_frac": 0.844
+  },
+  "#fbface": {
+   "index": "acnH",
+   "px": 1278388,
+   "direct_frac": 0.681
+  },
+  "#f6ebb6": {
+   "index": "a,pH",
+   "px": 2067,
+   "direct_frac": 0.248
+  },
+  "#e19bd9": {
+   "index": "eH",
+   "px": 10793,
+   "direct_frac": 0.808
+  },
+  "#f7a5b4": {
+   "index": "e,sH",
+   "px": 8015712,
+   "direct_frac": 0.849
+  },
+  "#fab0a0": {
+   "index": "dr,sH",
+   "px": 5869,
+   "direct_frac": 0.576
+  },
+  "#b8c2c7": {
+   "index": "tH2",
+   "px": 239889,
+   "direct_frac": 0.495
+  },
+  "#f7fbd9": {
+   "index": "ainH2",
+   "px": 17031,
+   "direct_frac": 0.135
+  },
+  "#f1f8c3": {
+   "index": "aprH2",
+   "px": 17709,
+   "direct_frac": 0.855
+  },
+  "#e9f1be": {
+   "index": "a1H1",
+   "px": 66779,
+   "direct_frac": 0.341
+  },
+  "#f1d7a6": {
+   "index": "d,aIII-H",
+   "px": 1019149,
+   "direct_frac": 0.788
+  },
+  "#e7f0b1": {
+   "index": "aIII",
+   "px": 18309,
+   "direct_frac": 0.375
+  },
+  "#e8f6b6": {
+   "index": "a2IIIht",
+   "px": 551464,
+   "direct_frac": 0.768
+  },
+  "#ccc190": {
+   "index": "fIIIht",
+   "px": 70546,
+   "direct_frac": 0.349
+  },
+  "#dcac82": {
+   "index": "gIIIht",
+   "px": 25449,
+   "direct_frac": 0.507
+  },
+  "#ccdd98": {
+   "index": "a4IIIjg",
+   "px": 124413,
+   "direct_frac": 0.499
+  },
+  "#c7966a": {
+   "index": "gIIIjg",
+   "px": 125798,
+   "direct_frac": 0.384
+  },
+  "#d8f3a5": {
+   "index": "aII",
+   "px": 3429,
+   "direct_frac": 0.862
+  },
+  "#cce89e": {
+   "index": "a6II",
+   "px": 73184,
+   "direct_frac": 0.829
+  },
+  "#c0e086": {
+   "index": "aE-I",
+   "px": 1624,
+   "direct_frac": 0.654
+  },
+  "#b2de86": {
+   "index": "aN2-2",
+   "px": 36595,
+   "direct_frac": 0.795
+  },
+  "#c27bd4": {
+   "index": "PREQ",
+   "px": 12577,
+   "direct_frac": 0.607
+  }
+ },
+ "confusable_pairs": [
+  [
+   "acnH",
+   "a,pH",
+   7.8
+  ],
+  [
+   "acnH",
+   "ainH2",
+   5.4
+  ],
+  [
+   "acnH",
+   "aprH2",
+   5.6
+  ],
+  [
+   "acnH",
+   "a1H1",
+   6.3
+  ],
+  [
+   "a,pH",
+   "aprH2",
+   7.6
+  ],
+  [
+   "a,pH",
+   "a1H1",
+   7.5
+  ],
+  [
+   "aprH2",
+   "a1H1",
+   2.7
+  ],
+  [
+   "aprH2",
+   "aIII",
+   6.1
+  ],
+  [
+   "aprH2",
+   "a2IIIht",
+   6.3
+  ],
+  [
+   "a1H1",
+   "aIII",
+   6.1
+  ],
+  [
+   "a1H1",
+   "a2IIIht",
+   6.9
+  ],
+  [
+   "aIII",
+   "a2IIIht",
+   2.6
+  ],
+  [
+   "aIII",
+   "a3IIIkb",
+   8.0
+  ],
+  [
+   "aIII",
+   "a5IIIvc",
+   7.2
+  ],
+  [
+   "a2IIIht",
+   "a3IIIkb",
+   7.2
+  ],
+  [
+   "a2IIIht",
+   "a5IIIvc",
+   7.2
+  ],
+  [
+   "a3IIIkb",
+   "a5IIIvc",
+   3.9
+  ],
+  [
+   "a3IIIkb",
+   "aII",
+   3.9
+  ],
+  [
+   "a3IIIkb",
+   "a6II",
+   6.7
+  ],
+  [
+   "a4IIIjg",
+   "a5IIIvc",
+   4.9
+  ],
+  [
+   "a4IIIjg",
+   "a6II",
+   5.6
+  ],
+  [
+   "a5IIIvc",
+   "aII",
+   4.5
+  ],
+  [
+   "a5IIIvc",
+   "a6II",
+   4.1
+  ],
+  [
+   "aII",
+   "a6II",
+   4.2
+  ],
+  [
+   "a7E-I",
+   "aE-I",
+   5.4
+  ],
+  [
+   "a7E-I",
+   "a8,9N2-2",
+   4.9
+  ],
+  [
+   "aE-I",
+   "a8,9N2-2",
+   5.9
+  ],
+  [
+   "aE-I",
+   "aN2-2",
+   4.9
+  ],
+  [
+   "a8,9N2-2",
+   "aN2-2",
+   5.1
+  ],
+  [
+   "a8,9N2-2",
+   "a10N2-1",
+   5.9
+  ],
+  [
+   "aN2-2",
+   "a10N2-1",
+   6.4
+  ],
+  [
+   "aN2-1",
+   "a11-13N1-N2",
+   7.8
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

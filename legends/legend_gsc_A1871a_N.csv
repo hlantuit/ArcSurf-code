@@ -1,0 +1,10 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#709543,T1,Till veneer < 2 m; includes patches of bedrock and till blanket,T,R,diamicton,veneer,"Legend-less half; fills calibrated across the seam against the extracted A1871a_2 (k-means k=24 on print colours 40-110 m inside, units 250 m across); cluster n=1625, purity 0.65"
+1,#69853d,T1,Till veneer < 2 m; includes patches of bedrock and till blanket,T,R,diamicton,veneer,"SEAM-CALIBRATED against A1871a_2: cluster n=1187, purity 0.68"
+2,#d97792,R3,Bedrock: granitoid rocks,R,,,,"SEAM-CALIBRATED against A1871a_2: cluster n=671, purity 0.62"
+3,#789354,T1,Till veneer < 2 m; includes patches of bedrock and till blanket,T,R,diamicton,veneer,"SEAM-CALIBRATED against A1871a_2: cluster n=589, purity 0.66"
+4,#6a7b48,T1,Till veneer < 2 m; includes patches of bedrock and till blanket,T,R,diamicton,veneer,"SEAM-CALIBRATED against A1871a_2: cluster n=508, purity 0.63"
+5,#475c25,T1,Till veneer < 2 m; includes patches of bedrock and till blanket,T,R,diamicton,veneer,"SEAM-CALIBRATED against A1871a_2: cluster n=380, purity 0.69"
+6,#20300e,T1,Till veneer < 2 m; includes patches of bedrock and till blanket,T,R,diamicton,veneer,"SEAM-CALIBRATED against A1871a_2: cluster n=217, purity 0.76"
+7,#4a4b2a,T1,Till veneer < 2 m; includes patches of bedrock and till blanket,T,R,diamicton,veneer,"SEAM-CALIBRATED against A1871a_2: cluster n=170, purity 0.64"
+8,#8caa97,T1,Till veneer < 2 m; includes patches of bedrock and till blanket,T,R,diamicton,veneer,"SEAM-CALIBRATED against A1871a_2: cluster n=115, purity 0.6"

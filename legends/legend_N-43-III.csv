@@ -1,0 +1,9 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#f6fddb,alQIV,"Современные отложения. Аллювиальные отложения пойменных террас. Пески, суглинки, реже супеси",F,,mixed,,"GGK-200 N-43-III (Geologicheskaya karta SSSR, 1st edition, approved 1966, printed 1971; Irtysh-Om interfluve, 74-75E 55d20m-56dN), Quaternary map; RASTER = geokniga 2000x2388 px PREVIEW (~34 m/px); vertical lithology ruling removed before classification (work/r200d/prep_vlines.py); tints calibrated on the map (preview_tint_calib.py); el+dQIII (subaerial cover loams) coded E (PI decision 2026-10-04); PREQ (aQ) dropped (not on the face; its tint took line/label specks); sa+lQI-IIfd appears only on sections; frame = 4 corners (paper edge and ridge filter agree) + interior 15x10 min graticule crossings as ties"
+1,#dce6c9,l+hQIV,Современные отложения. Озерно-болотные отложения. Суглинки иловатые,L,O,fines,,
+2,#c6cda2,d+plQIII-IV,Верхнечетвертичные-современные отложения. Делювиально-пролювиальные отложения. Суглинки,C,F,fines,,
+3,#fac8ac,el+dQIII,"Верхнечетвертичные отложения. Элювиально-делювиальные покровные отложения. Суглинки желто-бурые, карбонатные",E,W,fines,,"subaerial COVER loams (покровные): E per PI decision 2026-10-04, hclass2 W (legend genesis el+d)"
+4,#e8fdbe,alQIII1,"Верхнечетвертичные отложения. Аллювиальные отложения первых надпойменных террас рек Иртыш и Омь. Пески тонко-мелкозернистые, реже супеси и суглинки",F,,sand,,
+5,#d9fd9b,alQIII2,"Верхнечетвертичные отложения. Аллювиальные отложения вторых надпойменных террас рек Иртыш и Омь. Пески мелко и разнозернистые, реже супеси и суглинки",F,,sand,,
+6,#c6fd97,alQII-III3,"Средне-верхнечетвертичные отложения. Аллювиальные отложения третьей надпойменной террасы реки Иртыш. Суглинки и мелкозернистые пески, реже глины",F,,mixed,,
+7,#caf4d0,al+lQII-IIIkrs,Средне-верхнечетвертичные отложения. Карасукская свита. Аллювиально-озерные отложения. Суглинки и пески мелкозернистые,L,F,fines,,

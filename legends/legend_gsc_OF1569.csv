@@ -1,0 +1,14 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#ffffcc,A,Fluvial deposits: gravel sand boulders 1-5 m,F,,gravel,,"GSC OF1569 Baffin 1:100k surficial series (Dredge et al. 2003), common legend; fills sampled on this print"
+1,#819afe,Lb,Glaciolacustrine blanket,GL,,sand,,
+2,#b4b4ff,Lv,Glaciolacustrine veneer,GL,T,sand,,
+3,#fee67f,Gp,Glaciofluvial outwash,GF,,gravel,,
+4,#fe9900,Gr,Glaciofluvial ice-contact,GF,,gravel,,
+5,#28e767,Tm,Massive end moraines,T,,diamicton,,
+6,#81fe80,Th,Hummocky till,T,,diamicton,,
+7,#b4ff27,Tb,Till blanket,T,,diamicton,,
+8,#e7ff67,Tv,Till veneer,T,R,diamicton,,
+9,#e79ab4,RA,Bedrock: Astarte River formation,R,,,,
+10,#fecdfe,RL,Bedrock: clastic metasedimentary rocks,R,,,,
+11,#fe28fe,RB,Bedrock: mafic and ultramafic rocks,R,,,,
+12,#fe9afe,RG,Bedrock: granite and gneiss,R,,,,

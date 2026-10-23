@@ -1,0 +1,10 @@
+label,hclass,hclass2,texture,description
+A,F,,mixed,"Alluvium: generally mixed coarse and fine grained sediments; floodplains, low terraces and fans"
+Cx,C,,mixed,"Colluvial complex: unstratified gravel, sand, silt and clay; colluvial blankets, small fans, slope deposits"
+Eo,E,,sand,"Eolian deposits: mainly medium to fine sand, generally duned blankets"
+To,GF,F,gravel,"High terraces and outwash trains: dominantly gravel and sand, flat stream-scrolled surfaces 10+ ft above base level"
+Tk,GF,,gravel,"Kettled terraces and outwash trains: dominantly gravel and sand, pocked with kettle holes"
+H,GF,,gravel,"Hummocky gravel: generally gravel and sand, hummocky ice-contact stratified drift"
+Mt,T,GF,diamicton,"Hummocky terrain: dominantly glacial till, locally ice-contact stratified drift; morainal hummocks"
+Mx,T,GF,diamicton,"Morainal complex: dominantly glacial till, locally ice-contact stratified drift; morainal ridges and hummocks"
+RT,T,R,diamicton,"No unit symbol: 'largely rock, near surface rock or till plains' (legend note); till plain or rock, undivided"

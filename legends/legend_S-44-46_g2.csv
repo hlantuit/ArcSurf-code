@@ -1,0 +1,28 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#be88d1,eIII-IV,eluvium,W,,bouldery,,"GGK-1000/3 S-44-46 Ust-Tareya 2000 (new series), Quaternary map, RASTER (geokniga JPG 8395x10745), MATRIX legend; fan frame 78-96E 72-76N; eluvium"
+1,#ffff9d,aIV,Holocene alluvium,F,,mixed,,Holocene alluvium
+2,#b5cc7a,aIIIsr,Sartan alluvium,F,,mixed,,Sartan alluvium
+3,#b3d8ff,lIV,Holocene lacustrine,L,,fines,,Holocene lacustrine
+4,#8fc1fe,lIIIsr,Sartan lacustrine,L,,fines,,Sartan lacustrine
+5,#609efe,lIIIkr,Karga lacustrine,L,,fines,,Karga lacustrine
+6,#d68c6b,gIIImr,Muruktin till,T,,bouldery,,Muruktin till
+7,#b7684a,gIIs-t,Samarovo-Taz till,T,,bouldery,,Samarovo-Taz till
+8,#bcc978,fIIImr,Muruktin glaciofluvial,GF,,gravel,,Muruktin glaciofluvial
+9,#ccad9d,gmIIImr,Muruktin glacial-ice-marine,GM,,mixed,,Muruktin glacial-ice-marine
+10,#9b7764,gmE-II,Eopleistocene-middle glacial-ice-marine,GM,,mixed,,Eopleistocene-middle glacial-ice-marine
+11,#bccdfe,mIV,Holocene marine,M,,sand,,Holocene marine
+12,#a1b3fc,mIIIkz-kr,Kazantsevo-Karga marine,M,,mixed,,Kazantsevo-Karga marine
+13,#8ea7fe,mIIIkr,Karga marine,M,,mixed,,Karga marine
+14,#728cf1,mIIIkz,Kazantsevo marine,M,,mixed,,Kazantsevo marine
+15,#5973dd,mN2-E?,Pliocene-Eopleistocene marine,M,,mixed,,Pliocene-Eopleistocene marine
+16,#68a1cf,lgIIImr,glaciolacustrine,GL,,fines,,glaciolacustrine
+17,#b0d4e1,laIIIsr,lake-alluvial,L,F,fines,,lake-alluvial
+18,#85b7c6,laIIIkr,lake-alluvial,L,F,fines,,lake-alluvial
+19,#8db7fc,lmIIIkz-kr,lagoonal,M,L,fines,,lagoonal
+20,#fd9ecf,edIII-IV,eluvial-deluvial,W,C,bouldery,,eluvial-deluvial
+21,#eb6f60,dcIII-IV,deluvial-colluvial,C,,bouldery,,deluvial-colluvial
+22,#fd9891,dsIII-IV,deluvial-solifluxion,C,,mixed,,deluvial-solifluxion
+23,#c7e2ff,s:m1IV,shelf wave/beach (offshore),M,,sand,,shelf wave/beach (offshore)
+24,#beddf5,s:m2IV,shelf (offshore),M,,fines,,shelf (offshore)
+25,#9c6bbc,PREQ,pre-Late-Cenozoic rocks,R,,,,
+26,#c69eeb,"PREQ,c",pre-Late-Cenozoic rocks with colluvium,R,C,bouldery,,

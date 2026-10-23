@@ -1,0 +1,16 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#fbdbc1,"e,d",eluvial and deluvial rubbly loams with blocks,W,C,bouldery,,"GGK-200/2 Q-54-XXVII,XXVIII (Uglovoy), Verkhoyansk series, RASTER (geokniga JPG 13470x8015); swatches sampled from the column (legend tool found none)"
+1,#fbbe85,"c,d",colluvial and deluvial rubble with loams,C,,bouldery,,
+2,#fcaa59,c,colluvial rubbly loams with blocks,C,,bouldery,,
+3,#fbd0a7,s,solifluxion rubbly loams,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+4,#faa46e,"d,s",deluvial and solifluxion rubbly loams,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+5,#b9c3c8,tH2,technogenic: dredge tailings and dumps,X,,mixed,,
+6,#e9ee73,aH2,channel and floodplain alluvium,F,,gravel,,
+7,#d6e043,a1III4-H1,1st terrace alluvium,F,,gravel,,
+8,#ebd8be,gIII4,Late Pleistocene till (4th step),T,,bouldery,,
+9,#f4ee97,a2III3-4,2nd terrace alluvium,F,,gravel,,
+10,#e8d240,fIII2,glaciofluvial with buried ice lenses,GF,,gravel,yes,
+11,#cba265,gIII2,till (2nd step),T,,bouldery,,
+12,#dddc2e,a3III1-2,3rd terrace alluvium,F,,gravel,,
+13,#d4d718,a4II2-3,4th terrace alluvium,F,,gravel,,
+14,#c27bd4,PREQ,pre-Quaternary outcrops under thin eluvium,R,,,,

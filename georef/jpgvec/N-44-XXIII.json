@@ -1,0 +1,133 @@
+{
+ "sheet": "N-44-XXIII",
+ "source": "raster scan",
+ "projection": "tmerc_utm",
+ "rms_m": 61.48590164684252,
+ "max_res_m": 132.40284073142027,
+ "m_per_px": 35.47836090499488,
+ "corner_residuals_m": [
+  124.4,
+  67.0,
+  132.4,
+  49.2,
+  59.8,
+  14.7,
+  3.9,
+  14.1,
+  25.8,
+  16.8,
+  19.0,
+  31.3,
+  54.0
+ ],
+ "n_ties": 9,
+ "corners": [
+  {
+   "approx": [
+    67.5,
+    115.5
+   ],
+   "snapped": [
+    67.5,
+    115.5
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1914.8,
+    102.1
+   ],
+   "snapped": [
+    1914.8,
+    102.1
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1938.5,
+    2208.3
+   ],
+   "snapped": [
+    1938.5,
+    2208.3
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    61.6,
+    2211.4
+   ],
+   "snapped": [
+    61.6,
+    2211.4
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.269,
+ "area_km2": 4899.9691945506265,
+ "neatline_km2": 4904.649655252071,
+ "cover_frac": 0.9990457094735742,
+ "n_polygons": 3312,
+ "units": {
+  "#bac4a2": {
+   "index": "lhIV",
+   "px": 104193,
+   "direct_frac": 0.527
+  },
+  "#edf5c3": {
+   "index": "alIV(2)|alIV(1)|alII-IIIks",
+   "px": 700799,
+   "direct_frac": 0.713
+  },
+  "#fefd93": {
+   "index": "eolIII-IV",
+   "px": 833111,
+   "direct_frac": 0.851
+  },
+  "#f9edc0": {
+   "index": "d+plIII-IV",
+   "px": 145061,
+   "direct_frac": 0.568
+  },
+  "#ddfca5": {
+   "index": "alIII1",
+   "px": 271149,
+   "direct_frac": 0.455
+  },
+  "#cafcae": {
+   "index": "alIII2|alII-III3",
+   "px": 272963,
+   "direct_frac": 0.613
+  },
+  "#9bf85e": {
+   "index": "alII4",
+   "px": 304494,
+   "direct_frac": 0.51
+  },
+  "#f9f196": {
+   "index": "salI-IIkrd",
+   "px": 1156714,
+   "direct_frac": 0.768
+  },
+  "#d5f4e9": {
+   "index": "WATER",
+   "px": 123956,
+   "direct_frac": 0.643
+  }
+ },
+ "confusable_pairs": [
+  [
+   "eolIII-IV",
+   "salI-IIkrd",
+   8.0
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 30
+}

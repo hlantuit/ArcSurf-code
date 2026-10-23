@@ -1,0 +1,11 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#fffe02,A,Alluvial deposits: sand and gravel 1-15 m; floodplains terraces deltas,F,,sand,,"GSC Map 1620A Cartwright (Fulton 1986), 1:500k TM; legend outside frame; organic terrain = red grid overprint (primary O over the underlying unit); 15-50% organic diagonal hatch NOT captured (falls to the base unit); tints from A1621a (same series), re-checked on this print"
+1,#4e93e7,gW,Marine littoral deposits: gravel and sand 1-4 m; beaches,M,,gravel,,
+2,#8ebcf1,W,Marine sublittoral deposits: silt and clay; may exceed 100 m,M,,fines,,
+3,#864e8a,L,Lacustrine deposits: silt and fine sand,L,,fines,,
+4,#8d89c1,LW,Lacustrine or marine deposits: silt clay fine sand,L,M,fines,,
+5,#f78b46,G,Glaciofluvial deposits: sand and gravel 1-15 m; eskers kames outwash deltas,GF,,gravel,,
+6,#cad81a,Mx,Till with sand and gravel; ridges and hummocks; ribbed moraine,T,GF,diamicton,,
+7,#8fb054,M,Till generally 1-5 m; ground moraine,T,,diamicton,,
+8,#c6d983,Mv,Till generally < 1 m with scattered outcrop (veneer),T,R,diamicton,veneer,
+9,#f1a1ca,R,Rock: rock thinly covered by drift colluvium and vegetation,R,,,,

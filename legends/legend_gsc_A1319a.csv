@@ -1,0 +1,13 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#fa9d4f,Qml,"Hummocky or ridged moraine, Laurentide glaciation; till, in part with cover of silt and/or organic deposits; locally glaciofluvial",T,,diamicton,,"GSC Map 1319A Northern Yukon and NW District of Mackenzie (Hughes et al. 1971), 1:500k, raster scan on CREAM paper"
+1,#fff635,Qmm,"Hummocky or ridged moraine, mountain glaciation; till, in part with cover of silt and/or organic deposits",T,,diamicton,,
+2,#f7a29f,Qgf,"Glaciofluvial deposits; sand and gravel; in part with cover of silt and/or organic deposits",GF,,mixed,,
+3,#dfea8b,Qfp,"Fluviatile deposits of modern floodplains and low terraces; incl. modern Mackenzie Delta; silt, sand, gravel",F,,mixed,,
+4,#e2e937,Qff,"Fluviatile deposits of fans and fan aprons; silt, sand, gravel",F,,mixed,,swatch sampled by hand
+5,#aed138,Qft,"Fluviatile deposits of terraces; sand, gravel, in part with cover of silty and/or organic deposits",F,,mixed,,swatch sampled by hand
+6,#b3d982,Qf,"Fluviatile deposits undifferentiated; silt, sand, gravel, in part with cover of organic deposits",F,,mixed,,
+7,#a4d3cb,Ql,"Lacustrine deposits and minor fluviatile deposits; clay, silt, sand, gravel, mostly with cover of organic deposits",L,,fines,,"swatch sampled by hand; Old Crow / Bluefish / Bell basins = glacial lake Old Crow deposits, legend says lacustrine only"
+8,#fff981,Qe,"Marine and estuarine deposits; mainly silt, sand; includes gravel of spits and offshore bars",M,,mixed,,
+9,#a39696,B,"Pediment surfaces; bedrock, gravel, mostly with thin cover of colluvium and/or organic deposits",R,C,,veneer,
+10,#ffce78,A,"Bedrock; differentiated near Campbell Lake (SE of Inuvik) only",R,,,,swatch sampled by hand
+11,#e9e3cf,U,"Surficial deposits and/or bedrock, undifferentiated: discontinuous till / felsenmeer / colluvium over bedrock with extensive organic cover",Q,,,,"undifferentiated unit, deliberately Q: a finer source should replace it"

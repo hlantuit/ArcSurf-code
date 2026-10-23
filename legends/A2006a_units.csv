@@ -1,0 +1,10 @@
+x,y,w,index,description_ru,hclass,hclass2,texture,note
+7424,767,180,O,"Dépôts organiques: tourbe 0,5-3 m",O,,organic,
+7424,926,180,Co,Dépôts colluviaux: éboulis,C,,bouldery,
+7424,1189,180,Ap,"Alluvions récentes: sable, gravier, silt 1-3 m",F,,sand,
+7424,1577,180,Go,Épandage proglaciaire subaérien: sable et gravier,GF,,gravel,
+7424,1735,180,Gs,Épandage proglaciaire subaquatique: sable silteux,GF,GL,sand,
+7424,1929,180,Gx,"Juxtaglaciaires: eskers, moraines, kames",GF,,gravel,
+7424,2234,180,Tb,Till en couverture continue (>0.5 m),T,,mixed,
+7424,2393,180,Tv,Till en couverture discontinue (<0.5 m),T,R,mixed,veneer
+7424,2845,180,R,Roches archéennes,R,,,

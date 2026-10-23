@@ -1,0 +1,13 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#d6cecc,tH,"technogenic deposits: pebbles, boulders, blocks, sand, sandy loam, loam (up to 15 m)",X,,mixed,,"2026-10-20 QA: legend RE-TRANSCRIBED from the O-53-XII scan (Uchur-Maya series, 2016; geokniga maps/17028); the previous legend was that of another sheet (Aldan series, O-52-XXVII) and coded 90 % of the sheet as Muruktin till; swatch colours sampled from the printed legend boxes"
+1,#f9f9cd,aH,"floodplain alluvium: pebbles, gravel, sand, loam, rarely boulders (up to 20 m); gold placers",F,,gravel,,
+2,#ffd4b0,"e,dIII-H","eluvial and deluvial deposits: rubble, grus, blocks, sand (0.5-2 m)",W,C,bouldery,,
+3,#ffc4a7,"d,cIII-H","deluvial and colluvial deposits: blocks, rubble, grus, sand (1-5 m)",C,,bouldery,,
+4,#f5c1a7,"d,drIII-H","deluvial and desersion deposits: loam, sandy loam, rubble (0.5-3 m)",C,,fines,,
+5,#ffc0aa,"d,sIII-H","deluvial and solifluction deposits: loam, sandy loam, rubble (3-7 m)",C,,fines,,
+6,#f7d9ae,"p,dIII-H","proluvial and deluvial deposits: loam, sandy loam, rubble, gravel (up to 10 m)",C,F,fines,,
+7,#ddf5b6,a1III3-4,"alluvium of the first terrace, 5-12 m: pebbles, boulders, gravel, clay, sandy loam (up to 20 m)",F,,gravel,,
+8,#d5f2a4,a2III1-2,"alluvium of the second terrace, 10-15 m: pebbles, boulders, gravel, clay, sandy loam (up to 24 m)",F,,gravel,,
+9,#c9f0a3,a3II,"alluvium of the third terrace, 20-25 m: pebbles, boulders, gravel, sand, loam, sandy loam",F,,gravel,,
+10,#87d969,iN2-I,"influvial loams and block-sandy loam deposits, Pliocene to Lower Neopleistocene (up to 30 m)",Q,,mixed,,
+11,#c17bd5,PREQ,pre-Pliocene formations (on the correlation scheme only),R,,,,

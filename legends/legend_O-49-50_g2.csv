@@ -1,0 +1,40 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#e7e0cd,aIV,Аллювиальный низкой и высокой пойм,F,,mixed,,"GGK-1000/2 O-49,(50) Bodaybo 1984 (new series), Quaternary map, RASTER (geokniga JPG 9648 px); Holocene floodplain alluvium"
+1,#dbcc77,apIII-IV,Аллювиально-пролювиальный,F,,gravel,,alluvial-proluvial
+2,#d7c577,dpIII-IV,Делювиально-пролювиальный,C,F,mixed,,deluvial-proluvial
+3,#e1643c,dcIII-IV,Делювиально-коллювиальный,C,,bouldery,,deluvial-colluvial
+4,#dc7c6c,cIII-IV,Коллювиальный,C,,bouldery,,colluvium
+5,#e2ce6f,vIII-IV,Эоловый,E,,sand,,eolian
+6,#b4bbb4,lbIII-IV,Озерно-болотный,L,O,organic,,lacustrine-palustrine
+7,#e3dcbb,aIII4,Аллювиальный I надпойменной террасы,F,,mixed,,1st terrace alluvium
+8,#e0d0b2,gIII4,Ледниковый,T,,bouldery,,glacial (Sartan)
+9,#e0d496,aIII3,Аллювиальный II надпойменной террасы,F,,mixed,,2nd terrace alluvium
+10,#b78d63,gIII2,Ледниковый,T,,bouldery,,glacial (Zyryanka)
+11,#e1d8af,fIII2,Флювиогляциальный,GF,,gravel,,glaciofluvial
+12,#dbcd76,aIII1-2,Аллювиальный III надпойменной террасы,F,,mixed,,3rd terrace alluvium
+13,#c1c373,aIII1,Аллювиальный,F,,mixed,,alluvium
+14,#d6d8c3,laIII1,Озерно-аллювиальный,L,F,fines,,lake-alluvial
+15,#9fab62,aIII,Аллювиальный надпойменных террас (I-II) комплекса,F,,mixed,,terrace alluvium
+16,#e4bab0,dsII-III,Делювиально-солифлюкционный,C,,mixed,,deluvial-solifluxion
+17,#e15e29,dcII-III,Делювиально-коллювиальный,C,,bouldery,,deluvial-colluvial
+18,#dd8486,csII-III,Коллювиально-солифлюкционный,C,,bouldery,,colluvial-solifluxion
+19,#c83e3c,cII-III,Коллювиальный,C,,bouldery,,colluvium
+20,#abab5f,fII-III,Флювиогляциальный,GF,,gravel,,glaciofluvial
+21,#bbc173,aII2-4,Аллювиальный IV надпойменной террасы,F,,mixed,,4th terrace alluvium
+22,#8ba5a3,laII2-4,Озерно-аллювиальный IV надпойменной террасы,L,F,fines,,lake-alluvial
+23,#949d50,fII2-4,Флювиогляциальный,GF,,gravel,,glaciofluvial
+24,#aa724e,gII2-4,Ледниковый,T,,bouldery,,glacial (middle Pleistocene)
+25,#94a768,aII,Аллювиальный IV и V надпойменных террас,F,,mixed,,4th-5th terrace alluvium
+26,#7ca059,aI-II1,Аллювиальный,F,,mixed,,alluvium
+27,#7da09d,laI-II1,Озерно-аллювиальный,L,F,fines,,lake-alluvial
+28,#53844f,aI,Аллювиальный VI надпойменной террасы,F,,mixed,,6th terrace alluvium
+29,#41825e,aN2-Q1,Аллювиальный,F,,mixed,,Pliocene-Eopleistocene alluvium
+30,#e6b8b3,e,Элювиальный,W,,bouldery,,eluvium
+31,#e57b4a,"e,d","Элювиальный, делювиальный",W,C,bouldery,,eluvium and deluvium
+32,#e26920,d,Делювиальный,C,,mixed,,deluvium
+33,#e69292,ds,Делювиально-солифлюкционный,C,,mixed,,deluvial-solifluxion
+34,#e25b19,dc,Делювиально-коллювиальный,C,,bouldery,,deluvial-colluvial
+35,#c4342d,c,Коллювиальный,C,,bouldery,,colluvium
+36,#80a19e,lb,Озерно-болотный,L,O,organic,,lacustrine-palustrine
+37,#8b7794,PREQ,Дочетвертичные образования,R,,,,pre-Quaternary
+38,#8d2a50,"PREQ,c",Дочетвертичные породы с участием коллювия,R,C,bouldery,,pre-Quaternary with colluvium

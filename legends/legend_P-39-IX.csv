@@ -1,0 +1,12 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#aaaeaf,pIV,"Болотные отложения. Торф, илы, пески",O,,organic,,"GGK-200 P-39-IX, Mezen series, Quaternary map (approved NRS VSEGEI 17.03.1987; signed for print 17.12.1997, VSEGEI cartographic factory, 150 copies; authors Oparenkov, Tomilova), RASTER: geokniga FULL-SHEET scan JPG 4576x5489 (200 dpi, ~25 m/px) with legend; corners measured on a map-only crop (r200d_tools corners) + 7 interior 15x10 graticule crossings; fills = map tints calibrated from the legend swatches (preview_tint_calib.py); LaIIcr only on the section/scheme (omitted)"
+1,#d0e198,aIV2,"Аллювиальные отложения пойм. Галечники, гравий, пески, супеси",F,,sand,,
+2,#c2d47f,aIV1,"Аллювиальные отложения первых надпойменных террас. Гравий, пески, супеси, суглинки и глины",F,,sand,,
+3,#8ca859,aIII,Верхнее звено. Аллювиальные отложения. Пески и супеси с гравием и галькой,F,,sand,,"tint 5-6 dE from the ruled L,a,fII-III and dotted fIIvc greens: restricted to a +-3.8 km corridor along the Vym (--restrict); first run without it put 415 km2 of aIII into the L,a,fII-III plain (17.7 % vs P-39_g3)"
+4,#88a560,"L,a,fII-III","Среднее - верхнее звено. Озерные, аллювиальные и флювиогляциальные отложения. Пески и супеси с гравием и галькой, суглинки",L,F,sand,,
+5,#96b35a,fIIvc,"Вычегодский горизонт. Флювиогляциальные отложения. Галечники, гравий, пески",GF,,gravel,,
+6,#dda471,gIIvc,Вычегодский горизонт. Ледниковые отложения. Валунные суглинки,T,,diamicton,,
+7,#94bec2,LaIIrd,"Родионовский горизонт. Озерно-аллювиальные отложения. Пески, супеси с гравием и галькой",L,F,sand,,too few flat map pixels to calibrate: legend swatch tint
+8,#d89971,gIIpc,Печорский горизонт. Ледниковые отложения. Валунные суглинки,T,,diamicton,,
+9,#6198b2,LgIIpc,Печорский горизонт. Озерно-ледниковые отложения. Ленточные глины,GL,,fines,,too few flat map pixels to calibrate: legend swatch tint
+10,#794598,PREQ,Дочетвертичные породы,R,,,,"legend swatch tint, pinned"

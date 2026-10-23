@@ -1,0 +1,37 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#e5d8ae,aIV,Аллювиальные отложения низкой и высокой пойм (современные),F,,,,"GGK-1000 new series P-46,47 (Baykit), Quaternary map, VSEGEI 1977 (eds. Kovrigina & Rudenko); RASTER = geokniga 2000x1466 px PREVIEW (~0.4 km/px, labels illegible); tints calibrated on the map (legend-seeded flat-pixel medians, drift <= 15); hatched II-IV and III-IV variants sampled as hatch+white means; scheme-only units (a,laIIsr, a,laIItb, ald-aIItb, pre-Quaternary) omitted; lithology symbols and the glaciation-limit lines not read"
+1,#d49b89,cIII-IV,Коллювиальные (верхнечетвертичные-современные),C,,bouldery,,
+2,#e1e9e6,lhIII-IV,Озерно-болотные (верхнечетвертичные-современные),L,O,organic,,
+3,#c88481,dsIII-IV,Делювиально-солифлюкционные и коллювиально-солифлюкционные (III-IV),C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+4,#eac7a2,"e,dIII-IV",Элювиальные и делювиальные (III-IV),W,C,,,
+5,#eaffa1,aIII-IV,Аллювиальные I надпойменной террасы,F,,,,
+6,#d7daa0,aIIIkr-sr,Каргинский-сартанский горизонты. Аллювиальные II надпойменной террасы,F,,,,
+7,#a2b1a2,lgIIIz,Зырянский горизонт. Озерно-ледниковые,GL,,fines,,
+8,#c4b68b,fIIIz,Зырянский горизонт. Водно-ледниковые,GF,,gravel,,
+9,#bea789,gIIIz,Зырянский горизонт. Ледниковые,T,,diamicton,,
+10,#d0cda6,aIIIkz-z,Казанцевский-зырянский горизонты. Аллювиальные III надпойменной террасы,F,,,,
+11,#e48d90,cII-IV,Коллювиальные (II-IV),C,,bouldery,,
+12,#d56378,csII-IV,Коллювиально-солифлюкционные (II-IV),C,,bouldery,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+13,#f1ac94,dsII-IV,Делювиально-солифлюкционные (II-IV),C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+14,#eebd92,"e,dII-IV",Элювиальные и делювиальные (II-IV),W,C,,,
+15,#bfcabc,lhII-IV,Озерно-болотные (II-IV),L,O,organic,,
+16,#c8fce8,laIIt,Тазовский горизонт. Озерно-аллювиальные,L,F,,,
+17,#b58868,"g,fIIt",Тазовский горизонт. Ледниковые и водно-ледниковые,T,GF,diamicton,,
+18,#a2d2ba,lgIIt,Тазовский горизонт. Озерно-ледниковые,GL,,fines,,
+19,#d8cb97,fIIt,Тазовский горизонт. Водно-ледниковые,GF,,gravel,,
+20,#cba384,gIIt,Тазовский горизонт. Ледниковые,T,,diamicton,,
+21,#c9ffa0,aIIsr-t,Ширтинский-тазовский горизонты. Аллювиальные IV надпойменной террасы,F,,,,
+22,#8ac9ac,laIIs,Самаровский горизонт. Озерно-аллювиальные,L,F,,,
+23,#919c8e,lgIIs,Самаровский горизонт. Озерно-ледниковые,GL,,fines,,
+24,#a18e52,fIIs,Самаровский горизонт. Водно-ледниковые,GF,,gravel,,
+25,#a0694a,gIIs,Самаровский горизонт. Ледниковые,T,,diamicton,,
+26,#acf796,aIItb-s,Тобольский-самаровский горизонты. Аллювиальные V надпойменной террасы,F,,,,
+27,#dd84b0,e,Элювиальные (нерасчлененные),W,,bouldery,,
+28,#f09d70,"e,d",Элювиальные и делювиальные (нерасчлененные),W,C,,,
+29,#cb3c42,c,Коллювиальные (нерасчлененные),C,,bouldery,,
+30,#d3432b,dc,Делювиально-коллювиальные (нерасчлененные),C,,bouldery,,
+31,#e16432,d,Делювиальные (нерасчлененные),C,,,,
+32,#e79683,ds,Делювиально-солифлюкционные (нерасчлененные),C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+33,#d33e5c,cs,Коллювиально-солифлюкционные (нерасчлененные),C,,bouldery,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+34,#dec455,ad,Аллювиально-делювиальные (нерасчлененные),F,C,,,
+35,#b7b6ad,lh,Озерно-болотные (нерасчлененные),L,O,organic,,

@@ -1,0 +1,187 @@
+{
+ "sheet": "Q-41-VI",
+ "source": "raster scan",
+ "projection": "tmerc_utm",
+ "rms_m": 25.55978482787247,
+ "max_res_m": 63.19440427974087,
+ "m_per_px": 33.780687904398974,
+ "corner_residuals_m": [
+  41.1,
+  21.4,
+  34.0,
+  63.2,
+  40.8,
+  5.6,
+  26.6,
+  24.0,
+  16.3,
+  37.1,
+  25.2,
+  17.6,
+  41.8,
+  11.2,
+  8.0,
+  9.6,
+  1.1,
+  11.8,
+  5.8,
+  17.5,
+  28.0,
+  21.4,
+  16.0,
+  7.5,
+  23.4,
+  3.1,
+  23.4,
+  3.5,
+  25.7,
+  9.3,
+  15.4,
+  34.6,
+  46.1,
+  14.7,
+  36.1,
+  29.0,
+  17.3,
+  12.9,
+  4.5,
+  27.7,
+  24.7,
+  19.3,
+  12.4,
+  32.1,
+  35.7
+ ],
+ "n_ties": 41,
+ "corners": [
+  {
+   "approx": [
+    77.7,
+    109.0
+   ],
+   "snapped": [
+    77.7,
+    109.0
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1314.1,
+    109.2
+   ],
+   "snapped": [
+    1314.1,
+    109.2
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1328.9,
+    2321.3
+   ],
+   "snapped": [
+    1328.9,
+    2321.3
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    56.4,
+    2319.2
+   ],
+   "snapped": [
+    56.4,
+    2319.2
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.272,
+ "area_km2": 3153.740859782592,
+ "neatline_km2": 3154.3780278989875,
+ "cover_frac": 0.9997980051500612,
+ "n_polygons": 3614,
+ "units": {
+  "#faf9d2": {
+   "index": "aIV|pIV|aIII-IV|fIII4",
+   "px": 162254,
+   "direct_frac": 0.821
+  },
+  "#fff4e8": {
+   "index": "gIV",
+   "px": 4220,
+   "direct_frac": 0.677
+  },
+  "#e4fcd8": {
+   "index": "lpIII-IV|laIII4|laIII2|la,fII-III",
+   "px": 155185,
+   "direct_frac": 0.698
+  },
+  "#d5c891": {
+   "index": "pIII-IV",
+   "px": 55341,
+   "direct_frac": 0.474
+  },
+  "#fdb8b0": {
+   "index": "dcIII-IV",
+   "px": 84141,
+   "direct_frac": 0.289
+  },
+  "#fca7b1": {
+   "index": "edIII-IV",
+   "px": 947293,
+   "direct_frac": 0.563
+  },
+  "#e5ff9c": {
+   "index": "aIII4|aIII3-4",
+   "px": 30032,
+   "direct_frac": 0.641
+  },
+  "#f2d8c8": {
+   "index": "gIII4",
+   "px": 249974,
+   "direct_frac": 0.761
+  },
+  "#ccc69f": {
+   "index": "fIII2",
+   "px": 375674,
+   "direct_frac": 0.555
+  },
+  "#e7b9a6": {
+   "index": "gIII2",
+   "px": 597644,
+   "direct_frac": 0.661
+  },
+  "#defbe9": {
+   "index": "gmII2-4",
+   "px": 37417,
+   "direct_frac": 0.473
+  },
+  "#ffd8f7": {
+   "index": "PREQ",
+   "px": 73554,
+   "direct_frac": 0.803
+  },
+  "#8bbbc8": {
+   "index": "ICE",
+   "px": 5897,
+   "direct_frac": 0.641
+  }
+ },
+ "confusable_pairs": [],
+ "overprint": [
+  {
+   "name": "hummocky",
+   "kind": "grid",
+   "regions": 7,
+   "km2": 255.4,
+   "frac_of_face": 0.081
+  }
+ ],
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

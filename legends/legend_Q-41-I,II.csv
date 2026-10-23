@@ -1,0 +1,22 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#f3f792,vH,aeolian sands,E,,sand,,"GGK-200/2 Q-41-I,II (Vatyarty lake), Polar Ural series, Paleogene-Quaternary map, RASTER (geokniga JPG 9787x13430; file name says III); Paleogene units are loose sediments at surface"
+1,#c9c896,plH,palustrine peat,O,,organic,,
+2,#d7eda7,a3-apIII-H,channel floodplain and 1st-3rd terrace alluvium,F,,sand,,
+3,#abd9e3,lIII-H,limnic sands silts and varved clays,L,,fines,,
+4,#bdbc80,plIII-H,palustrine peat over peaty loams,O,L,organic,,
+5,#fa977f,dsII-H,deluvial solifluxion loams,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+6,#cdeaa7,a2IIIsj,Syryakha 2nd terrace alluvium,F,,sand,,
+7,#c3e896,a3IIIsd,Sedlovoi 3rd terrace alluvium,F,,sand,,
+8,#a0d1d5,"l,am4IIIcl",Chulei limnic and alluvial-marine,L,M,mixed,,
+9,#73cca4,la4IIIjk,Yakshin limnoalluvium,L,F,mixed,,
+10,#58c095,laIIcr,Chirva limnoalluvium,L,F,sand,,
+11,#6ec2a5,"am,ml-IIvs",Vashutkin alluvial-marine and marine,M,F,mixed,,
+12,#ca8c57,gmE-Irg,Rogovaya glaciomarine loams,GM,,diamicton,,
+13,#76cdad,"la,aEpm",Pymvashor limnoalluvium (sections only),L,F,gravel,,
+14,#8099c3,"m,gmN2pd",Padimei marine and glaciomarine,M,GM,mixed,,
+15,#84ce55,aN2km,Kamenka alluvium,F,,gravel,,
+16,#6b9ac6,mN2kl,Kolva marine clays,M,,fines,,
+17,#8ac9cc,"l,amP3vt",Vatyarta limnic and alluvial-marine,L,M,fines,,
+18,#71bdc3,"l,amP3hd",Khosedayu limnic and alluvial-marine,L,M,fines,,
+19,#54afb8,"l,amP1hs",Khasyrei limnic and alluvial-marine (sections only),L,M,sand,,
+20,#6f91c1,mP2sr,Sarod marine opoka clays,M,,fines,,

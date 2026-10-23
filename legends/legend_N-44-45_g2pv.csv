@@ -1,0 +1,35 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#f6f9c0,aIV,Современное звено. Аллювиальные,F,,,,"GGK-1000 new series N-(44),45 (Novosibirsk), Quaternary map, SNIIGGiMS 1983 (authors Gess, Martynov, Nikolaev, Shatsky; ed. S.B. Shatsky; printed 1987); RASTER = geokniga 2000x1556 px PREVIEW (record 37325; ~0.32 km/px, labels illegible), frame 81-90E 52-56N, eqdc 47/62N; tints calibrated on the map (legend-seeded, flat pixels); the two hatch OVERPRINTS (red = cover loams and sandy loams, locally loess-like, over deposits of any genesis; green = peat) are detected by texture (work/n4445/prep_n4445.py) and carried as composites pk/<base>, tf/<base> (hclass of the overprint, hclass2 of the base group); cover loams coded E by the project rule - the neighbouring 3rd-generation sheets code loessoids Y; lithology symbols not read per polygon; DROPPED after validation on the N-44 half against N-44_g3 and on the N-45 1:200k sheets (their pixels go to the nearest other tint): fII and fII-III (glaciofluvial; 0 % agreement on both, tints within 6-9 dE of terrace alluvium and eolian sand, as fIIs on P-48,49 - GF is under-represented) and laIII (0.6 % / 0.4 % agreement, 3.5-5 dE from aIV/dpIII, sat 79 % on floodplain aH); glacial gII, gII-III only in the Kuznetsk Alatau zone with dE<=8 and a 2-px opening (brown line mixtures); "
+1,#cca386,dIV,Современное звено. Делювиальные,C,,,,tint sampled beside a dIV label
+2,#daa988,dsIII-IV,Верхнее-современное звенья. Делювиально-солифлюкционные,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+3,#e17a93,csIII-IV,Верхнее-современное звенья. Коллювиально-солифлюкционные,C,,bouldery,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+4,#e4e5bd,laIII-IV,Верхнее-современное звенья. Озерно-аллювиальные,L,F,,,
+5,#fcfa94,vIII-IV,Верхнее-современное звенья. Эоловые,E,,sand,,
+6,#f1f7ab,a1III,Верхнее звено. Аллювий I надпойменной террасы,F,,,,
+7,#e9f599,a2III,Верхнее звено. Аллювий II надпойменной террасы,F,,,,
+8,#e2f88f,a3III,Верхнее звено. Аллювий III надпойменной террасы,F,,,,
+9,#f5ebbf,dpIII,Верхнее звено. Делювиально-пролювиальные,C,F,,,"only in the NE (Chulym-Yenisei) zone, where its label is read; on the plain its tint (5 dE from aIV) sat 92 % on Holocene floodplain aH of N-44_g3"
+10,#c4da84,a4II-III,Среднее-верхнее звенья. Аллювий IV надпойменной террасы,F,,,,
+11,#c6dba2,laII-III,Среднее-верхнее звенья. Озерно-аллювиальные,L,F,,,
+12,#dd9d7c,dII-III,Среднее-верхнее звенья. Делювиальные,C,,,,tint sampled on the map (Kuznetsk basin)
+13,#b6b28e,gII-III,Среднее-верхнее звенья. Ледниковые,T,,diamicton,,only in the Kuznetsk Alatau zone; dE<=8 and >=5 px thick (brown line mixtures look alike)
+14,#efaeaf,sII-III,Среднее-верхнее звенья. Солифлюкционные,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+15,#f0e0b3,dpII-III,Среднее-верхнее звенья. Делювиально-пролювиальные,C,F,fines,,"texture: vertical-dash loam symbols (суглинки, местами супеси) across the unit"
+16,#8fce88,a5II,Среднее звено. Аллювий V надпойменной террасы,F,,,,legend tint
+17,#ae9c78,gII,Среднее звено. Ледниковые,T,,diamicton,,only in the Kuznetsk Alatau zone; dE<=8 and >=5 px thick
+18,#cbefae,laI-II,Нижнее-среднее звенья. Озерно-аллювиальные,L,F,,,
+19,#e5a17c,dI,Нижнее звено. Делювиальные,C,,,,
+20,#bd9748,ad,Нерасчлененные. Аллювиально-делювиальные,F,C,,,tint sampled on the map
+21,#dc8a73,"e,d",Нерасчлененные. Элювиальные и делювиальные,W,C,,,
+22,#ee683b,d,Нерасчлененные. Делювиальные,C,,,,
+23,#da5142,c,Нерасчлененные. Коллювиальные,C,,bouldery,,triangle (rubble/grus) symbols across the unit
+24,#eb4e3e,dc,Нерасчлененные. Делювиально-коллювиальные,C,,bouldery,,
+25,#e49e8f,cs,Нерасчлененные. Коллювиально-солифлюкционные,C,,bouldery,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+26,#99779e,PREQ,Дочетвертичные образования,R,,,,tint sampled on the map
+27,#00c8ff,pk/la,"Покровные суглинки и супеси, местами лёссовидные, на озерно-аллювиальных отложениях (laI-II и др.)",E,L,fines,,OVERPRINT composite (red hatch on a lake-alluvial base); synthetic fill painted by prep_n4445.py
+28,#0060ff,pk/a,"Покровные суглинки и супеси, местами лёссовидные, на аллювии надпойменных террас",E,F,fines,,OVERPRINT composite (red hatch on a terrace-alluvium base); synthetic fill
+29,#ff00ff,pk/d,"Покровные суглинки и супеси, местами лёссовидные, на делювиальных отложениях",E,C,fines,,OVERPRINT composite (red hatch on a deluvial base); synthetic fill
+30,#9000ff,pk/ed,"Покровные суглинки и супеси, местами лёссовидные, на элювиально-делювиальных отложениях",E,W,fines,,"OVERPRINT composite (red hatch on an e,d base); synthetic fill"
+31,#00ff70,tf/la,"Торфяники, залегающие на озерно-аллювиальных отложениях",O,L,organic,,OVERPRINT composite (green hatch = peat on a lake-alluvial base); synthetic fill
+32,#00a050,tf/a,"Торфяники, залегающие на аллювии террас",O,F,organic,,OVERPRINT composite (green hatch = peat on a terrace base); synthetic fill
+33,#e4fbef,WATER,"водоемы (Обское водохранилище, озера)",H,,,,tint sampled on the map

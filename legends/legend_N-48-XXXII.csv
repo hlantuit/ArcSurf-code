@@ -1,0 +1,19 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#bfbfb2,tH,technogenic (moved and fill ground),X,,mixed,,"GGK-200/2 N-48-XXXII (Angarsk), East Sayan series, Neogene-Quaternary map, 2nd ed. (electronic edition 2012; compiled Irkutskgeologiya 2000), vector PDF (geokniga); no closed neatline ring: frame = outline of the unit fills (work/r200c/job_N48.sh); thin loess-like loam cover (#ca6c18 hatch, lithology legend) and lithology symbols are overprints, not captured"
+1,#d7e7aa,aH,channel and floodplain alluvium,F,,gravel,,
+2,#fff398,vH,aeolian sands,E,,sand,,
+3,#c0ba95,bH,biogenic (peat 0.2-7 m),O,,organic,,
+4,#c887b0,eIII-H,eluvium,W,,bouldery,,
+5,#fcbc86,dIII-H,"deluvium (sandy loams, loams, sands, grus)",C,,fines,,
+6,#fab383,edIII-H,"eluvial-deluvial loams, sandy loams",W,C,fines,,
+7,#e88e72,cIII-H,colluvium,C,,bouldery,,
+8,#f2d490,pIII-H,"proluvium (sandy loams, loams, rubble)",F,,fines,,
+9,#f69780,dsIII-H,deluvial-solifluxion loams,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+10,#c4df9b,a1IIIkr-sr,Karga-Sartan 1st terrace alluvium,F,,gravel,,
+11,#b9d989,a2IIIkz-mr,Kazantsevo-Murukta 2nd terrace alluvium,F,,gravel,,
+12,#aad48a,a3IIsr-tz,Shirta-Taz 3rd terrace alluvium,F,,fines,,
+13,#9acd74,a4IItb-sm,Tobolsk-Samarovo 4th terrace alluvium,F,,mixed,,
+14,#6ec05d,aN2-Ekt,"Kitoi alluvial gravels (Pliocene-Eopleistocene, section and scheme only)",F,,gravel,,
+15,#00b08d,laN2ks,"Kashtak suite clays, sands (Pliocene: Neogene -> R)",R,,,,
+16,#00bff3,lN1gl,Golouset suite lacustrine clays (Miocene: Neogene -> R),R,,,,
+17,#a677b4,PREQ,pre-Neogene formations (section and scheme only),R,,,,

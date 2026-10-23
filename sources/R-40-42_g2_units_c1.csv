@@ -1,0 +1,45 @@
+yc,xoff,index,description_ru,hclass,hclass2,texture,note
+460,0,d,Делювиальный,C,,fines,deluvium
+577,0,"e,d",Элювиальный и делювиальный,W,C,mixed,eluvium and deluvium
+695,0,dc,Делювиально-коллювиальный,C,,bouldery,deluvial-colluvial
+812,0,cd,Коллювиально-делювиальный,C,,bouldery,colluvial-deluvial
+930,0,ds,Делювиально-солифлюкционный,C,,fines,deluvial-solifluxion
+1048,0,"c,s",Коллювиальный и солифлюкционный,C,,bouldery,colluvium and solifluxion
+1167,0,pd,Пролювиально-делювиальный,F,C,mixed,proluvial-deluvial
+1285,0,aIV,Аллювиальный (пойменные террасы),F,,sand,Holocene floodplain alluvium
+1403,0,gIV,Ледниковый (морены современных каровых ледников),T,,bouldery,modern cirque moraines
+1520,0,mIV,"Морской (лайды, ватты, пляжи)",M,,sand,"Holocene marine: laidas, tidal flats, beaches"
+1640,0,amIV,Аллювиально-морской (приустьевые участки речных долин),F,M,sand,Holocene alluvial-marine
+1760,0,lbIV,Озерно-болотный,L,O,organic,Holocene lacustrine-palustrine
+1877,0,a1III-IV,Аллювиальный (первая терраса),F,,sand,first terrace alluvium
+1995,0,lIII-IV,Озерный,L,,fines,lacustrine
+2113,0,m1III-IV,Морской (первая терраса),M,,sand,first marine terrace
+2232,0,am1III-IV,Аллювиально-морской (первая терраса),F,M,sand,first terrace alluvial-marine
+2355,0,gIII4,Ледниковый (горно-долинного оледенения),T,,bouldery,Polar Urals horizon mountain-valley glacial
+2480,0,a2III,Аллювиальный (вторая терраса),F,,sand,Karginsky second terrace alluvium
+2598,0,m2III,Морской (вторая терраса),M,,sand,Karginsky second marine terrace
+2715,0,la2III,Озерно-аллювиальный (вторая терраса),L,F,fines,Karginsky second terrace lake-alluvium
+2833,0,am2III,Аллювиально-морской (вторая терраса),F,M,sand,Karginsky second terrace alluvial-marine
+2950,0,gIII2,Ледниковый (горно-покровного оледенения),T,,bouldery,Khanmei horizon glacial
+3067,0,fIII2,Флювиогляциальный (горно-покровного оледенения),GF,,gravel,Khanmei glaciofluvial
+3185,0,"la,fIII2",Озерно-аллювиальный и флювиогляциальный,L,GF,sand,lake-alluvial and glaciofluvial
+3302,0,m3III,Морской (третья терраса),M,,sand,third marine terrace
+3420,0,la3III,Озерно-аллювиальный (третья терраса),L,F,fines,third terrace lake-alluvium
+3538,0,m4III,Морской (четвертая терраса),M,,fines,Kazantsevo fourth marine terrace
+3655,0,la4III,Озерно-аллювиальный (четвертая терраса),L,F,fines,fourth terrace lake-alluvium
+3775,0,"a,amII",Аллювиальный и аллювиально-морской,F,M,sand,middle Neopleistocene
+3892,0,"m,gmII","Морской, ледово- и ледниково-морской",M,GM,fines,middle Neopleistocene marine and glaciomarine
+4010,0,"m,laI-II",Морской и озерно-аллювиальный,M,L,fines,lower-middle Neopleistocene
+4127,0,aI,Аллювиальный,F,,sand,lower Neopleistocene alluvium
+4243,0,"a,amI",Аллювиальный и аллювиально-морской,F,M,sand,lower Neopleistocene
+4362,0,"m,gmI","Морской, ледово- и ледниково-морской",M,GM,fines,lower Neopleistocene marine and glaciomarine
+4480,0,mE,Морской,M,,fines,Eopleistocene marine
+4598,0,gmE,Ледово- и ледниково-морской,GM,,fines,Eopleistocene glaciomarine
+4720,0,"lm,mN23",Озерно-морской и морской,M,L,fines,upper Pliocene
+4838,0,"gm,mN23",Ледово-ледниково-морской и морской,GM,M,fines,upper Pliocene
+4955,0,"la,amN23",Озерно-аллювиальный и аллювиально-морской,L,F,sand,upper Pliocene
+5073,0,"gm,amN23",Ледово-морской и аллювиально-морской,GM,F,fines,upper Pliocene
+5193,0,aN2,Аллювиальный,F,,sand,Pliocene alluvium
+5308,0,"a,gmN2",Аллювиальный и ледово-морской,F,GM,mixed,Pliocene alluvial and glaciomarine
+5425,0,"m,gmN2","Морской, ледово- и ледниково-морской",M,GM,fines,Pliocene marine and glaciomarine
+5542,-42,PREQ,Доплиоценовые породы,R,,,pre-Pliocene rocks

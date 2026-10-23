@@ -1,0 +1,149 @@
+{
+ "sheet": "O-41-42_g2pv",
+ "source": "raster scan",
+ "projection": "given",
+ "rms_m": 159.21700563638854,
+ "max_res_m": 379.7037588331605,
+ "m_per_px": 290.5455350406782,
+ "envelope": {
+  "top": {
+   "kept": 0.974,
+   "rms_px": 0.88
+  },
+  "bottom": {
+   "kept": 1.0,
+   "rms_px": 0.87
+  },
+  "left": {
+   "kept": 1.0,
+   "rms_px": 1.03
+  },
+  "right": {
+   "kept": 1.0,
+   "rms_px": 0.93
+  }
+ },
+ "unassigned_before_fill": 0.034,
+ "area_km2": 158072.2360752871,
+ "neatline_km2": 158038.61038983802,
+ "cover_frac": 1.0002127687997644,
+ "n_polygons": 2862,
+ "units": {
+  "#d9dfc1": {
+   "index": "aIV",
+   "px": 290073,
+   "direct_frac": 0.865
+  },
+  "#d2e4b9": {
+   "index": "aIII-IV",
+   "px": 108064,
+   "direct_frac": 0.929
+  },
+  "#b7d792": {
+   "index": "aIIIkr-s",
+   "px": 26643,
+   "direct_frac": 0.896
+  },
+  "#9dbc7b": {
+   "index": "aIIIkz-e",
+   "px": 25024,
+   "direct_frac": 0.852
+  },
+  "#97af7d": {
+   "index": "aII",
+   "px": 35496,
+   "direct_frac": 0.75
+  },
+  "#cee1c5": {
+   "index": "laIIIkr-s",
+   "px": 220956,
+   "direct_frac": 0.937
+  },
+  "#bcd2b7": {
+   "index": "laIIIkz-e",
+   "px": 262197,
+   "direct_frac": 0.882
+  },
+  "#b1d4b5": {
+   "index": "laIIsz",
+   "px": 305636,
+   "direct_frac": 0.952
+  },
+  "#f4e3a0": {
+   "index": "sa",
+   "px": 277920,
+   "direct_frac": 0.936
+  },
+  "#f3e7b1": {
+   "index": "vIV",
+   "px": 165784,
+   "direct_frac": 0.86
+  },
+  "#d27341": {
+   "index": "d",
+   "px": 49038,
+   "direct_frac": 0.602
+  },
+  "#daebef": {
+   "index": "WATER",
+   "px": 18321,
+   "direct_frac": 0.916
+  },
+  "#ff00ff": {
+   "index": "pk/la",
+   "px": 599205,
+   "direct_frac": 0.967
+  },
+  "#9000ff": {
+   "index": "pk/a",
+   "px": 2678,
+   "direct_frac": 0.939
+  },
+  "#ff0080": {
+   "index": "pk/sa",
+   "px": 845,
+   "direct_frac": 0.844
+  },
+  "#00c8ff": {
+   "index": "tf/la",
+   "px": 387789,
+   "direct_frac": 0.983
+  },
+  "#0060ff": {
+   "index": "tf/a",
+   "px": 11135,
+   "direct_frac": 0.97
+  }
+ },
+ "confusable_pairs": [
+  [
+   "aIV",
+   "laIIIkr-s",
+   4.9
+  ],
+  [
+   "aIII-IV",
+   "laIIIkr-s",
+   7.8
+  ],
+  [
+   "laIIIkr-s",
+   "laIIIkz-e",
+   5.7
+  ],
+  [
+   "laIIIkz-e",
+   "laIIsz",
+   5.2
+  ],
+  [
+   "sa",
+   "vIV",
+   7.2
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 25
+}

@@ -1,0 +1,160 @@
+{
+ "sheet": "O-57-V,VI",
+ "source": "raster scan",
+ "projection": "tmerc_utm",
+ "rms_m": 21.59255311929995,
+ "max_res_m": 21.81612733093264,
+ "m_per_px": 59.65930328831303,
+ "corner_residuals_m": [
+  21.8,
+  21.8,
+  21.4,
+  21.4
+ ],
+ "corners": [
+  {
+   "approx": [
+    68.5,
+    94.6
+   ],
+   "snapped": [
+    68.5,
+    94.6
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1939.0,
+    91.1
+   ],
+   "snapped": [
+    1939.0,
+    91.1
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1958.9,
+    1340.5
+   ],
+   "snapped": [
+    1958.9,
+    1340.5
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    51.6,
+    1342.4
+   ],
+   "snapped": [
+    51.6,
+    1342.4
+   ],
+   "ok": "measured"
+  }
+ ],
+ "frame_sag_px": 7.2,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/O-57-V,VI/o-57-vvi-g-chankolyap-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-fed_1.jpg O-57-V,VI ../sources/legend_O-57-V,VI.csv ../work/facefix/O-57-V,VI.gpkg --datum 4284 --corners '68.5,94.6;1939.0,91.1;1958.9,1340.5;51.6,1342.4' --mmu 60 --no-snap",
+ "unassigned_before_fill": 0.077,
+ "area_km2": 8370.259972371468,
+ "neatline_km2": 8372.106740446596,
+ "cover_frac": 0.9997794141746658,
+ "n_polygons": 2192,
+ "units": {
+  "#edb4dd": {
+   "index": "eH",
+   "px": 72821,
+   "direct_frac": 0.742
+  },
+  "#fed5b9": {
+   "index": "e,dH",
+   "px": 72490,
+   "direct_frac": 0.79
+  },
+  "#fc9698": {
+   "index": "dH|dlH",
+   "px": 124819,
+   "direct_frac": 0.722
+  },
+  "#f8b3aa": {
+   "index": "d,sH|cH",
+   "px": 408872,
+   "direct_frac": 0.694
+  },
+  "#fbc0b4": {
+   "index": "c,dH",
+   "px": 219528,
+   "direct_frac": 0.776
+  },
+  "#edf8b1": {
+   "index": "aH",
+   "px": 35852,
+   "direct_frac": 0.756
+  },
+  "#eddf9a": {
+   "index": "pH|a,pH",
+   "px": 37201,
+   "direct_frac": 0.751
+  },
+  "#fad991": {
+   "index": "p,dH",
+   "px": 7936,
+   "direct_frac": 0.789
+  },
+  "#ccddf8": {
+   "index": "mH",
+   "px": 1043579,
+   "direct_frac": 0.987
+  },
+  "#ace6db": {
+   "index": "amH",
+   "px": 4426,
+   "direct_frac": 0.629
+  },
+  "#eebc8c": {
+   "index": "gH|gIII4",
+   "px": 85061,
+   "direct_frac": 0.722
+  },
+  "#c5d17b": {
+   "index": "fIII4",
+   "px": 38689,
+   "direct_frac": 0.638
+  },
+  "#ddf29b": {
+   "index": "aIII3",
+   "px": 8412,
+   "direct_frac": 0.781
+  },
+  "#e2a17b": {
+   "index": "gIII2",
+   "px": 63068,
+   "direct_frac": 0.694
+  },
+  "#b6c55b": {
+   "index": "fIII2",
+   "px": 93686,
+   "direct_frac": 0.715
+  },
+  "#c784be": {
+   "index": "PREQ",
+   "px": 51009,
+   "direct_frac": 0.598
+  }
+ },
+ "confusable_pairs": [
+  [
+   "d,sH|cH",
+   "c,dH",
+   5.7
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

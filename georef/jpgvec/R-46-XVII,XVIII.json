@@ -1,0 +1,159 @@
+{
+ "sheet": "R-46-XVII,XVIII",
+ "source": "raster scan",
+ "projection": "eqdc",
+ "rms_m": 39.48813054379696,
+ "max_res_m": 55.93571745704806,
+ "m_per_px": 40.46582011497562,
+ "corner_residuals_m": [
+  19.2,
+  17.7,
+  55.9,
+  51.8,
+  11.8,
+  50.1,
+  23.9,
+  29.5,
+  47.3,
+  32.6,
+  54.5,
+  41.2,
+  41.6
+ ],
+ "n_ties": 9,
+ "corners": [
+  {
+   "approx": [
+    88.0,
+    124.6
+   ],
+   "snapped": [
+    88.0,
+    124.6
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1914.6,
+    120.8
+   ],
+   "snapped": [
+    1914.6,
+    120.8
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1946.2,
+    1958.0
+   ],
+   "snapped": [
+    1946.2,
+    1958.0
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    60.7,
+    1961.9
+   ],
+   "snapped": [
+    60.7,
+    1961.9
+   ],
+   "ok": "measured"
+  }
+ ],
+ "frame_sag_px": 8.2,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/R-46-XVII,_XVIII/r-46-xvii-xviii-geologicheskaya-karta-rossiyskoy-federacii-izdanie-vtoroe-k.jpg R-46-XVII,XVIII ../sources/legend_R-46-XVII,XVIII.csv ../work/facefix/R-46-XVII,XVIII.gpkg --datum 4284 --corners '88.0,124.6;1914.6,120.8;1946.2,1958.0;60.7,1961.9' --mmu 60 --no-snap --ties '94.500000,70.166667,534.8,1508.5;94.500000,70.333333,537.7,1049.9;94.500000,70.500000,540.8,589.0;95.000000,70.166667,1002.4,1509.6;95.000000,70.333333,1001.6,1050.5;95.000000,70.500000,1001.4,589.5;95.500000,70.166667,1472.3,1506.8;95.500000,70.333333,1467.6,1047.3;95.500000,70.500000,1463.4,587.3' --mmu 30 --restrict 'gIIImr_grid@60,100;1960,100;1960,720;60,720|cH@60,560;1960,560;1960,1970;60,1970'",
+ "unassigned_before_fill": 0.114,
+ "area_km2": 5590.015633234178,
+ "neatline_km2": 5589.790427710363,
+ "cover_frac": 1.0000402887240099,
+ "n_polygons": 4669,
+ "units": {
+  "#c07aa1": {
+   "index": "eIII-H",
+   "px": 296547,
+   "direct_frac": 0.874
+  },
+  "#95557f": {
+   "index": "PREQ",
+   "px": 587454,
+   "direct_frac": 0.825
+  },
+  "#eda17f": {
+   "index": "edIII-H",
+   "px": 440528,
+   "direct_frac": 0.846
+  },
+  "#f1b78c": {
+   "index": "ddrIII-H",
+   "px": 508345,
+   "direct_frac": 0.837
+  },
+  "#dd7665": {
+   "index": "cH",
+   "px": 205472,
+   "direct_frac": 0.818
+  },
+  "#cb8765": {
+   "index": "gIIImr",
+   "px": 484827,
+   "direct_frac": 0.792
+  },
+  "#be6555": {
+   "index": "gIIImr_grid",
+   "px": 124461,
+   "direct_frac": 0.66
+  },
+  "#8fb984": {
+   "index": "a2IIIsr2",
+   "px": 136053,
+   "direct_frac": 0.712
+  },
+  "#bcd4a6": {
+   "index": "a1H1",
+   "px": 103494,
+   "direct_frac": 0.837
+  },
+  "#a8ba92": {
+   "index": "aH2",
+   "px": 98876,
+   "direct_frac": 0.657
+  },
+  "#589892": {
+   "index": "laIIIkz|laIIIkr",
+   "px": 182799,
+   "direct_frac": 0.849
+  },
+  "#69acdf": {
+   "index": "lIIIkr",
+   "px": 63658,
+   "direct_frac": 0.818
+  },
+  "#7fb5d3": {
+   "index": "l,plH",
+   "px": 77793,
+   "direct_frac": 0.81
+  },
+  "#e3c594": {
+   "index": "pH",
+   "px": 32741,
+   "direct_frac": 0.718
+  },
+  "#cbe6f5": {
+   "index": "WATER",
+   "px": 79402,
+   "direct_frac": 0.765
+  }
+ },
+ "confusable_pairs": [],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 30
+}

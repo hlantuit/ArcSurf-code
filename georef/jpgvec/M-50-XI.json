@@ -1,0 +1,149 @@
+{
+ "sheet": "M-50-XI",
+ "source": "raster scan",
+ "projection": "eqdc",
+ "rms_m": 16.70161466440342,
+ "max_res_m": 41.64956823003974,
+ "m_per_px": 38.00117210476022,
+ "corner_residuals_m": [
+  6.1,
+  18.3,
+  16.0,
+  20.6,
+  2.1,
+  14.3,
+  41.6,
+  11.9,
+  19.0,
+  13.3,
+  13.4,
+  27.8,
+  15.4,
+  20.6,
+  5.0,
+  10.9,
+  9.9,
+  8.9,
+  17.8,
+  8.6,
+  15.6,
+  16.1,
+  7.7,
+  11.6
+ ],
+ "n_ties": 20,
+ "corners": [
+  {
+   "approx": [
+    73.7,
+    140.4
+   ],
+   "snapped": [
+    73.7,
+    140.4
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1907.2,
+    135.6
+   ],
+   "snapped": [
+    1907.2,
+    135.6
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1926.7,
+    2094.1
+   ],
+   "snapped": [
+    1926.7,
+    2094.1
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    66.4,
+    2099.1
+   ],
+   "snapped": [
+    66.4,
+    2099.1
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.128,
+ "area_km2": 5199.657798268203,
+ "neatline_km2": 5206.447703452159,
+ "cover_frac": 0.9986958660548048,
+ "n_polygons": 4275,
+ "units": {
+  "#e298db": {
+   "index": "e",
+   "px": 78460,
+   "direct_frac": 0.808
+  },
+  "#fcc1bb": {
+   "index": "d",
+   "px": 830197,
+   "direct_frac": 0.775
+  },
+  "#f9bead": {
+   "index": "e,d",
+   "px": 102685,
+   "direct_frac": 0.652
+  },
+  "#f6929b": {
+   "index": "c",
+   "px": 835530,
+   "direct_frac": 0.872
+  },
+  "#f68c8d": {
+   "index": "c,d",
+   "px": 878067,
+   "direct_frac": 0.823
+  },
+  "#f48299": {
+   "index": "d,s",
+   "px": 226717,
+   "direct_frac": 0.883
+  },
+  "#e8f1bc": {
+   "index": "aH|a,pH|a1III4",
+   "px": 528673,
+   "direct_frac": 0.789
+  },
+  "#f5d7ad": {
+   "index": "p,dIII-H",
+   "px": 53480,
+   "direct_frac": 0.807
+  },
+  "#d3e99b": {
+   "index": "a2III3",
+   "px": 83530,
+   "direct_frac": 0.829
+  }
+ },
+ "confusable_pairs": [
+  [
+   "d",
+   "e,d",
+   5.9
+  ],
+  [
+   "c",
+   "c,d",
+   6.0
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 30
+}

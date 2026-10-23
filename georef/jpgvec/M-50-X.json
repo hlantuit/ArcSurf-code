@@ -1,0 +1,165 @@
+{
+ "sheet": "M-50-X",
+ "source": "raster scan",
+ "projection": "tmerc",
+ "rms_m": 12.185142961310868,
+ "max_res_m": 24.731224946969338,
+ "m_per_px": 16.95080779408385,
+ "corner_residuals_m": [
+  19.9,
+  23.6,
+  16.0,
+  12.3,
+  8.3,
+  13.4,
+  4.5,
+  12.6,
+  24.7,
+  11.3,
+  6.8,
+  14.5,
+  1.4,
+  3.2,
+  7.8,
+  9.9,
+  2.4,
+  5.4,
+  14.4,
+  7.3,
+  5.3,
+  5.3,
+  13.6,
+  8.8,
+  12.0
+ ],
+ "n_ties": 21,
+ "corners": [
+  {
+   "approx": [
+    2101.5,
+    823.3
+   ],
+   "snapped": [
+    2101.5,
+    823.3
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    6211.4,
+    816.3
+   ],
+   "snapped": [
+    6211.4,
+    816.3
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    6246.2,
+    5206.3
+   ],
+   "snapped": [
+    6246.2,
+    5206.3
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    2077.0,
+    5213.4
+   ],
+   "snapped": [
+    2077.0,
+    5213.4
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.053,
+ "area_km2": 5200.152693180931,
+ "neatline_km2": 5206.448517220033,
+ "cover_frac": 0.9987907641805582,
+ "n_polygons": 6022,
+ "units": {
+  "#bc85a4": {
+   "index": "e",
+   "px": 468801,
+   "direct_frac": 0.897
+  },
+  "#f2ae87": {
+   "index": "d",
+   "px": 3612807,
+   "direct_frac": 0.91
+  },
+  "#f3b881": {
+   "index": "ed",
+   "px": 1760494,
+   "direct_frac": 0.902
+  },
+  "#f0966e": {
+   "index": "c|ds",
+   "px": 2991493,
+   "direct_frac": 0.829
+  },
+  "#ed9f71": {
+   "index": "cd",
+   "px": 3847827,
+   "direct_frac": 0.854
+  },
+  "#f18677": {
+   "index": "s",
+   "px": 933725,
+   "direct_frac": 0.892
+  },
+  "#eb947e": {
+   "index": "cs",
+   "px": 793765,
+   "direct_frac": 0.704
+  },
+  "#e8eaad": {
+   "index": "aH|apH|a1III-H|aIII",
+   "px": 1845328,
+   "direct_frac": 0.861
+  },
+  "#f0d496": {
+   "index": "pH|pdIII-H",
+   "px": 1075331,
+   "direct_frac": 0.89
+  },
+  "#c8d387": {
+   "index": "a1III4|a2III3",
+   "px": 573077,
+   "direct_frac": 0.678
+  },
+  "#dbd363": {
+   "index": "apII",
+   "px": 64830,
+   "direct_frac": 0.822
+  },
+  "#ab7d9d": {
+   "index": "e",
+   "px": 205399,
+   "direct_frac": 0.821
+  }
+ },
+ "confusable_pairs": [
+  [
+   "e",
+   "e",
+   5.3
+  ],
+  [
+   "c|ds",
+   "cd",
+   6.0
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 120
+}

@@ -1,0 +1,166 @@
+{
+ "sheet": "O-43-XXVII",
+ "source": "raster scan",
+ "projection": "tmerc",
+ "rms_m": 43.44673966660929,
+ "max_res_m": 90.48026565829572,
+ "m_per_px": 33.8937019183546,
+ "corner_residuals_m": [
+  82.3,
+  14.6,
+  90.5,
+  55.4,
+  38.9,
+  27.0,
+  12.4,
+  42.8,
+  27.6,
+  15.4,
+  31.1,
+  32.8,
+  26.9,
+  58.6,
+  19.9,
+  12.2
+ ],
+ "n_ties": 12,
+ "corners": [
+  {
+   "approx": [
+    73.9,
+    109.8
+   ],
+   "snapped": [
+    73.9,
+    109.8
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1850.3,
+    109.2
+   ],
+   "snapped": [
+    1850.3,
+    109.2
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1863.9,
+    2315.7
+   ],
+   "snapped": [
+    1863.9,
+    2315.7
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    55.5,
+    2310.5
+   ],
+   "snapped": [
+    55.5,
+    2310.5
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.186,
+ "area_km2": 4507.655718497715,
+ "neatline_km2": 4511.880754473743,
+ "cover_frac": 0.9990635754342934,
+ "n_polygons": 4174,
+ "units": {
+  "#f0f1b9": {
+   "index": "alQ4(2)",
+   "px": 184537,
+   "direct_frac": 0.591
+  },
+  "#dba03d": {
+   "index": "d+klQ3-4",
+   "px": 164498,
+   "direct_frac": 0.545
+  },
+  "#c7e0d8": {
+   "index": "l+hQ3-4",
+   "px": 632587,
+   "direct_frac": 0.733
+  },
+  "#f7f2c0": {
+   "index": "eolQ3-4",
+   "px": 686334,
+   "direct_frac": 0.739
+  },
+  "#faf1a0": {
+   "index": "saQ3",
+   "px": 894164,
+   "direct_frac": 0.854
+  },
+  "#e0d660": {
+   "index": "eol?Q3",
+   "px": 32975,
+   "direct_frac": 0.413
+  },
+  "#e5fb99": {
+   "index": "alQ3II|alQ4(1)|alQ3I",
+   "px": 558552,
+   "direct_frac": 0.778
+  },
+  "#f4facb": {
+   "index": "alQ4(2)",
+   "px": 184391,
+   "direct_frac": 0.899
+  },
+  "#f0fcaf": {
+   "index": "alQ3II|alQ4(1)|alQ3I",
+   "px": 228138,
+   "direct_frac": 0.642
+  },
+  "#fcf9c9": {
+   "index": "eolQ3-4",
+   "px": 383448,
+   "direct_frac": 0.953
+  }
+ },
+ "confusable_pairs": [
+  [
+   "alQ4(2)",
+   "eolQ3-4",
+   3.9
+  ],
+  [
+   "alQ4(2)",
+   "alQ4(2)",
+   5.9
+  ],
+  [
+   "alQ4(2)",
+   "eolQ3-4",
+   5.5
+  ],
+  [
+   "eolQ3-4",
+   "alQ4(2)",
+   5.0
+  ],
+  [
+   "eolQ3-4",
+   "eolQ3-4",
+   2.7
+  ],
+  [
+   "alQ4(2)",
+   "eolQ3-4",
+   3.4
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 30
+}

@@ -1,0 +1,7 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#e1d89d,prQ2-3,"cover loams (old notation 'pr' = pokrovnye), Middle-Late Pleistocene, of the interfluves (tan with vertical ruling)",E,,,,"GGK-200 (1st generation) O-45-XXVI 'Karta chetvertichnyh otlozheniy SSSR', Ketskaya series (geokniga record 11415, 1962: record year, the preview carries no imprint); PREVIEW 1926x2386 px (~33 m/px), map face only: no legend image on geokniga; units read from the indices printed on the map (old notation: al alluvial, lal lacustrine-alluvial, l-lh lacustrine and lake-bog, d deluvial, pr cover); vertical lithology ruling removed by a horizontal median (as r200d prep_vlines); cover loams coded E (PI rule: subaerial cover = E)"
+1,#ddf598,alQ2-3III,alluvium of the 3rd terrace (Middle-Late Pleistocene; yellow-green with dots and dashes),F,,,,
+2,#dff367,alQ3II,alluvium of the 2nd terrace (Late Pleistocene; bright yellow-green),F,,,,
+3,#ebf1cd,alQ4,floodplain alluvium (Holocene),F,,,,
+4,#e5edd6,l-lhQ4,lacustrine and lake-bog deposits (Holocene; grey-white with dash symbol),L,O,,,
+5,#9fc6a2,lalQ2,lacustrine-alluvial deposits (Middle Pleistocene; teal hatched valley-head tongues),L,F,,,

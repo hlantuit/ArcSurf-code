@@ -1,0 +1,17 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#ffc08c,ed,eluvium-deluvium,W,C,bouldery,,"GGK-200/2 P-54-VIII, Yudoma series, Quaternary map, RASTER (geokniga JPG); legend read on P-54-XIV"
+1,#f29a7b,c,colluvium,C,,bouldery,,
+2,#ffaa81,cd,colluvial-deluvial,C,,bouldery,,
+3,#ffb39b,ds,deluvial-solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+4,#fbface,aH,"channel floodplain and terrace alluvium, peat",F,,gravel,,
+5,#f8e6ba,pH,proluvial fans,F,,bouldery,,
+6,#eab68a,gIII4,Late Pleistocene till,T,,bouldery,,
+7,#e8f6b7,aIII4,alluvium (scheme only),F,,gravel,,
+8,#e3f4a5,aIII3+4,alluvium,F,,gravel,,
+9,#dcf090,aIII3,alluvium,F,,gravel,,
+10,#e4a774,gIII2,early Late Pleistocene till,T,,bouldery,,
+11,#cbd782,fIII2,glaciofluvial,GF,,mixed,,
+12,#e8c57d,"a,gIII1-2","alluvial and glacial, undivided",F,T,bouldery,,
+13,#cdee8e,aIII1,alluvium (scheme only),F,,gravel,,
+14,#dc9358,gII,Middle Pleistocene till,T,,bouldery,,
+15,#c27bd4,PREQ,pre-Quaternary,R,,,,

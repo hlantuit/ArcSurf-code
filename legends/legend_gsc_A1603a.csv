@@ -1,0 +1,13 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#fffe2d,A,"Alluvial deposits: gravel, sand and silt, 1-10 m; terraces and plains of former floodplains and deltas (Nelson and Hayes rivers)",F,,mixed,,North-central Manitoba 1:500k (Klassen & Netterville 1985); 
+1,#4a8de8,Wr,"Marine shoreline deposits (Tyrrell Sea): sand and gravel, 1-3 m; beaches and bars from till and glaciofluvial materials",M,,gravel,,
+2,#99c5f9,W,"Marine nearshore and intertidal deposits: silt, sand and clay, 1-3 m, upward-coarsening offlap; commonly over till",M,T,mixed,,veneer
+3,#9384be,L,"Glaciolacustrine basin deposits (glacial Lake Agassiz): clay and silt, 2-15 m; nearly unbroken blanket in low relief areas",GL,,fines,,
+4,#8f63a0,Lr,"Glaciolacustrine shoreline deposits: sand, gravel and rock rubble, up to 3 m; beach ridges, bars, spits",GL,,gravel,,
+5,#f59c57,G,"Glaciofluvial ice-contact deposits: sand and gravel, 15-90 m; kame moraines, interlobate moraines, kames, eskers",GF,,gravel,,
+6,#fdc850,Gt,"Glaciofluvial channel deposits: well sorted sand and gravel, 1-15 m; plains and terraces in valleys",GF,,gravel,,
+7,#7fab6d,M,"Ground moraine: sandy and silty till, 1-8 m; nearly flat blanket, locally under a glaciolacustrine veneer",T,,sand,,
+8,#a6c45f,Mv,"Till veneer: till and minor clay, silt, sand, gravel, up to 2 m, over rock with abundant outcrops",T,R,sand,,veneer
+9,#60947a,Mh,"Hummocky moraine: till 5-30 m; ridges, knolls, hummocks; with glaciofluvial ice-contact deposits",T,GF,mixed,,
+10,#bdb1d8,LM-LR,"LM / LR (same colour; told apart by labels only): glaciolacustrine discontinuous veneer, 1-2 m, largely over till with areas of till and rock (LM) or largely over rock with abundant outcrops (LR)",GL,,fines,,veneer over till or rock
+11,#ed9ec4,R-Rc,"Rc / R (same colour; told apart by labels only): rock outcrop and rock thinly covered by drift; Rc dolomite, calcareous shale and limestone; R igneous and crystalline metamorphic rock (Precambrian Shield)",R,,,,

@@ -1,0 +1,11 @@
+x,y,w,index,description_ru,hclass,hclass2,texture,note
+6620,1251,180,O,"Dépôts organiques: tourbe 0,5-3 m",O,,organic,
+6620,1691,180,Ap,"Alluvions récentes: sable, gravier, silt 1-5 m",F,,sand,
+6620,2562,180,Md,Marins: sédiments deltaïques (Mer d'Iberville),M,F,sand,
+6620,2773,180,Mb,Marins: littoraux et intertidaux,M,,gravel,
+6620,3079,180,Go,Épandage proglaciaire subaérien,GF,,gravel,
+6620,3255,180,Gs,Épandage proglaciaire subaquatique,GF,GL,sand,
+6620,3466,180,Gx,"Juxtaglaciaires: eskers, moraines, kames",GF,,gravel,
+6620,3771,180,Tb,Till en couverture continue (>0.5 m),T,,mixed,
+6620,3982,180,Tv,Till en couverture discontinue (<0.5 m),T,R,mixed,veneer
+6620,4433,180,R,Roches archéennes (Province du Supérieur),R,,,

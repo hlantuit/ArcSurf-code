@@ -1,0 +1,8 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#e5e1bb,bH,Голоцен: болотные отложения (торф),O,,organic,,"GGK-200 (2nd ed.) P-37-VII,VIII (Sergievo), Quaternary map, RASTER: geokniga map-only PREVIEW JPG 2000x1504 (double sheet, ~53 m/px); NO legend and NO imprint image (print year unknown): legend reconstructed from the indexes printed on the face (gIIIos, fIIIos, lgIIIos, aH, bH, edH) + purple pre-Quaternary outcrops; hclass from the genetic index; fills = map tints (preview_tint_calib.py); red grid = overprint on gIIIos; aH (valley alluvium, 2-4 px strips) DROPPED after validation: its pinned tint sits within 3 dE of bH for 47 % of its pixels and it agreed 9.7 % with P-37_g3 (189 km2, mostly bog / till / glaciofluvial areas)"
+1,#f8d7ba,edH,Голоцен: элювиальные и делювиальные отложения,W,C,bouldery,,map-sampled tint pinned (free calibration drifted onto bH)
+2,#9ad8c7,lgIIIos,Верхний неоплейстоцен. Осташковский горизонт: озерно-ледниковые отложения,GL,,sand,,
+3,#d4e281,fIIIos,Верхний неоплейстоцен. Осташковский горизонт: флювиогляциальные отложения,GF,,sand,,
+4,#f5bc7d,gIIIos,Верхний неоплейстоцен. Осташковский горизонт: ледниковые отложения (морена),T,,diamicton,,
+5,#a771aa,PREQ,Дочетвертичные образования (выходы коренных пород),R,,,,purple outcrop patches inside the edH fields; tint pinned
+6,#ecfefe,WATER,вода (озера),H,,,,"white lake tint, pinned"

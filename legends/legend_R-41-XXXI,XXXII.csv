@@ -1,0 +1,15 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#cce6ce,lQ4^3,"Озерно-болотные отложения. Супеси, глины, торфяники",L,O,organic,,"GGK-200/1 R-41-XXXI,XXXII, Severo-Uralskaya series, Quaternary map 1st ed., author V.S. Enokyan (Komi-Nenets geological survey), approved 1959, signed for print 11.II.1961 (imprint qinf); RASTER: geokniga 11776 map image JPG 2000x1855 (~44 m/px) + separate legend image r-41-xxxixxxiiql.jpg (brighter than the map), so fills are MAP tints (k-means of the 5x5-median face + labelled polygons; legend swatch colours in the notes); legend swatch #dbf7e6"
+1,#dbf2e1,lQ4^3,"Озерно-болотные отложения. Супеси, глины, торфяники",L,O,organic,,second map tint
+2,#c6d7ae,aQ4^2-3,"Аллювиальные отложения поймы, I и II надпойменных террас. Песок, супесь, галечники",F,,sand,,map tint of the hatched valley band (legend swatch #d9f7b5)
+3,#d7e9be,aQ4^2-3,"Аллювиальные отложения поймы, I и II надпойменных террас. Песок, супесь, галечники",F,,sand,,second map tint
+4,#dfe5ea,m(Q3^2-Q4^1-3),"Морские отложения позднеледниковой трансгрессии. Горизонтальнослоистые пески, супеси с прослоями галечников (I терраса mQ4^3, II терраса mQ4^2, III терраса m(Q3^2-Q4^1))",M,,sand,,legend swatch #bdc6de
+5,#c2c7c8,m(Q3^2-Q4^1-3),"Морские отложения позднеледниковой трансгрессии. Горизонтальнослоистые пески, супеси с прослоями галечников",M,,sand,,second map tint (darker dotted parts)
+6,#b7c1db,mQ3^1,"Морские отложения межледниковой трансгрессии. Средне- и мелкозернистые горизонтальнослоистые пески с прослоями супеси и глины, реже галечника (с фауной)",M,,sand,,legend swatch #8a9fdc
+7,#93d08f,lglQ3^2,Озерно-ледниковые отложения последнего покровного оледенения. Серые и буровато-серые супеси и суглинки с отчетливой ленточной слоистостью,GL,,fines,,legend swatch #9bde82
+8,#d2d98a,fglQ3^2,"Водно-ледниковые отложения последнего покровного оледенения. Пески, галечники и супеси тонкозернистые, часто глинистые",GF,,sand,,legend swatch #cfdf7d
+9,#f9d391,glQ3^2,"Ледниковые отложения (морена последнего покровного оледенения). В верхней части пески с галькой и валунами, в нижней - суглинок с валунами, галькой и линзами песка",T,,diamicton,,legend swatch #fbc771
+10,#d3b173,glQ3^2,"Ледниковые отложения (морена последнего покровного оледенения)",T,,diamicton,,second map tint (circle symbols / darker print)
+11,#ef9a7b,glQ3^2,"Ледниковые отложения (морена последнего покровного оледенения)",T,,diamicton,,"red overprint 'Холмисто-моренный ландшафт' (hummocky-moraine landscape) on glQ3^2"
+12,#e08362,glQ3^2,"Ледниковые отложения (морена последнего покровного оледенения)",T,,diamicton,,"red cross-hatch overprint 'Камы' (kames) on glQ3^2: relief symbol, base unit kept (kame deposits themselves would be GF)"
+13,#af8326,glQ2^2,"Ледниковые отложения (морена предпоследнего оледенения). Суглинки с хорошо окатанными валунами, галькой и линзами песка",T,,diamicton,,"legend swatch #ae6903; narrow valley-side strips; --class-dE glQ2^2=10"

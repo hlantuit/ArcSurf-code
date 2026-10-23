@@ -1,0 +1,17 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+13,E,,sand,,,flygsand (wind-blown sand)
+50,GF,,,,,isälvssediment (glaciofluvial)
+66,W,,bouldery,,,"blockmark (boulder field) - usually frost-shattered in situ; texture stated"
+75,O,,,,,torv (peat)
+81,C,,,,,talus (rasmassor)
+84,Q,,,,,"postglacial sand-grus - texture-only unit; genesis not stated (wave-washed or fluvial)"
+86,Q,,fines,,,"lera-silt - texture-only unit; typically glaciolacustrine/marine, not stated"
+91,H,,,,,vatten (water)
+92,Q,,bouldery,,,"sten-block (stone-boulder) - texture-only unit"
+100,T,,,,,morän (till)
+200,X,,,,,fyllning (fill)
+849,R,T,,,,"rösberg - wave-washed till surface, bedrock/boulder lag; kept R with T as second"
+888,R,,,,,berg (bedrock)
+2372,C,,,,,flytjord eller skredjord (solifluction or landslide soil)
+8809,F,,sand,,,"älvsediment, sand"
+9191,I,,,,,glaciär (glacier)

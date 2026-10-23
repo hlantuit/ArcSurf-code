@@ -1,0 +1,210 @@
+{
+ "sheet": "S-39-40_pq",
+ "source": "raster scan",
+ "projection": "tmerc_utm",
+ "rms_m": 87.52392148301769,
+ "max_res_m": 97.50964120264062,
+ "m_per_px": 84.66511126304022,
+ "corner_residuals_m": [
+  97.4,
+  97.5,
+  76.4,
+  76.3
+ ],
+ "corners": [
+  {
+   "approx": [
+    951.0,
+    1037.0
+   ],
+   "snapped": [
+    951.0,
+    1037.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    4774.0,
+    1040.0
+   ],
+   "snapped": [
+    4774.0,
+    1040.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    5301.0,
+    6285.0
+   ],
+   "snapped": [
+    5301.0,
+    6285.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    420.0,
+    6290.0
+   ],
+   "snapped": [
+    420.0,
+    6290.0
+   ],
+   "ok": false
+  }
+ ],
+ "frame_sag_px": 121.8,
+ "argv": "jpg_to_polygons.py extract ../work/gk1m_leg/S-39-40_pq_render.png S-39-40_pq ../sources/legend_S-39-40_pq.csv ../work/facefix/S-39-40_pq.gpkg --lonlat 48,72,60,76 --datum 4284 --corners '951,1037;4774,1040;5301,6285;420,6290' --dE 8",
+ "unassigned_before_fill": 0.349,
+ "area_km2": 164852.2175495929,
+ "neatline_km2": 164859.17585232112,
+ "cover_frac": 0.9999577924450231,
+ "n_polygons": 3599,
+ "units": {
+  "#ccdff3": {
+   "index": "mH",
+   "px": 5279681,
+   "direct_frac": 0.746
+  },
+  "#edf0aa": {
+   "index": "aH",
+   "px": 215153,
+   "direct_frac": 0.626
+  },
+  "#bbc793": {
+   "index": "fHnz",
+   "px": 491493,
+   "direct_frac": 0.663
+  },
+  "#d8a984": {
+   "index": "gHnz",
+   "px": 120477,
+   "direct_frac": 0.361
+  },
+  "#f8a691": {
+   "index": "d,sIII-H",
+   "px": 62077,
+   "direct_frac": 0.762
+  },
+  "#fdc797": {
+   "index": "dIII-H",
+   "px": 70438,
+   "direct_frac": 0.678
+  },
+  "#f1bed4": {
+   "index": "e,drIII-H",
+   "px": 649050,
+   "direct_frac": 0.633
+  },
+  "#f8a07c": {
+   "index": "c,dIII-H",
+   "px": 408552,
+   "direct_frac": 0.738
+  },
+  "#f58466": {
+   "index": "cIII-H",
+   "px": 195567,
+   "direct_frac": 0.497
+  },
+  "#99cbc4": {
+   "index": "l,plIII4-Hab",
+   "px": 349415,
+   "direct_frac": 0.71
+  },
+  "#d8b788": {
+   "index": "g,fIIIlt",
+   "px": 83757,
+   "direct_frac": 0.197
+  },
+  "#a0c3e7": {
+   "index": "mIIIkj",
+   "px": 1331854,
+   "direct_frac": 0.905
+  },
+  "#d0a979": {
+   "index": "g,fIIIdl",
+   "px": 142414,
+   "direct_frac": 0.608
+  },
+  "#8ab3db": {
+   "index": "mII-IIIkm",
+   "px": 5222346,
+   "direct_frac": 0.723
+  },
+  "#bb8660": {
+   "index": "gIIbn",
+   "px": 498297,
+   "direct_frac": 0.015
+  },
+  "#659ad2": {
+   "index": "mIls",
+   "px": 1476344,
+   "direct_frac": 0.042
+  },
+  "#fcbc86": {
+   "index": "dII-H",
+   "px": 65547,
+   "direct_frac": 0.793
+  },
+  "#fab383": {
+   "index": "e,dI-H",
+   "px": 514933,
+   "direct_frac": 0.802
+  },
+  "#fdbc5f": {
+   "index": "d,cE-H",
+   "px": 623131,
+   "direct_frac": 0.594
+  },
+  "#f26c4f": {
+   "index": "cN-H",
+   "px": 410026,
+   "direct_frac": 0.496
+  },
+  "#4b83c3": {
+   "index": "mN2er",
+   "px": 197854,
+   "direct_frac": 0.032
+  },
+  "#8e73b4": {
+   "index": "PREQ",
+   "px": 4841072,
+   "direct_frac": 0.656
+  }
+ },
+ "confusable_pairs": [
+  [
+   "gHnz",
+   "g,fIIIdl",
+   6.4
+  ],
+  [
+   "dIII-H",
+   "dII-H",
+   6.8
+  ],
+  [
+   "g,fIIIlt",
+   "g,fIIIdl",
+   5.5
+  ],
+  [
+   "mIIIkj",
+   "mII-IIIkm",
+   6.7
+  ],
+  [
+   "dII-H",
+   "e,dI-H",
+   4.6
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 8.0,
+ "mmu_px": 120
+}

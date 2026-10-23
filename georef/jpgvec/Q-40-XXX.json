@@ -1,0 +1,218 @@
+{
+ "sheet": "Q-40-XXX",
+ "source": "raster scan",
+ "projection": "tmerc",
+ "rms_m": 14.43563598686045,
+ "max_res_m": 14.60566130494044,
+ "m_per_px": 16.932347553235434,
+ "corner_residuals_m": [
+  14.6,
+  14.6,
+  14.3,
+  14.3
+ ],
+ "corners": [
+  {
+   "approx": [
+    3090.0,
+    818.0
+   ],
+   "snapped": [
+    3090.0,
+    818.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    5842.0,
+    818.0
+   ],
+   "snapped": [
+    5842.0,
+    818.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    5875.0,
+    5209.0
+   ],
+   "snapped": [
+    5875.0,
+    5209.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    3057.0,
+    5209.0
+   ],
+   "snapped": [
+    3057.0,
+    5209.0
+   ],
+   "ok": false
+  }
+ ],
+ "unassigned_before_fill": 0.198,
+ "area_km2": 3503.4880289047337,
+ "neatline_km2": 3506.583341285188,
+ "cover_frac": 0.999117285380327,
+ "n_polygons": 6392,
+ "units": {
+  "#cdeda7": {
+   "index": "aH",
+   "px": 277997,
+   "direct_frac": 0.578
+  },
+  "#a2d9e6": {
+   "index": "lplIII-H",
+   "px": 115626,
+   "direct_frac": 0.709
+  },
+  "#feab68": {
+   "index": "edII-H",
+   "px": 316857,
+   "direct_frac": 0.738
+  },
+  "#c5eca7": {
+   "index": "a1IIIpu",
+   "px": 316606,
+   "direct_frac": 0.648
+  },
+  "#b7e696": {
+   "index": "a2IIIld",
+   "px": 45688,
+   "direct_frac": 0.659
+  },
+  "#a8e082": {
+   "index": "a3IIIpg",
+   "px": 1666,
+   "direct_frac": 0.618
+  },
+  "#f1944c": {
+   "index": "gIIvn",
+   "px": 732146,
+   "direct_frac": 0.722
+  },
+  "#92c241": {
+   "index": "fIIvn",
+   "px": 899204,
+   "direct_frac": 0.801
+  },
+  "#47b696": {
+   "index": "am,gmN2-II",
+   "px": 496816,
+   "direct_frac": 0.817
+  },
+  "#b970b9": {
+   "index": "PREQ",
+   "px": 204014,
+   "direct_frac": 0.663
+  },
+  "#f5c894": {
+   "index": "gH",
+   "px": 164924,
+   "direct_frac": 0.667
+  },
+  "#b7dd85": {
+   "index": "fH",
+   "px": 66632,
+   "direct_frac": 0.623
+  },
+  "#f48b62": {
+   "index": "c,drII-H",
+   "px": 2751868,
+   "direct_frac": 0.74
+  },
+  "#f1bc7f": {
+   "index": "gIIIpu",
+   "px": 1174589,
+   "direct_frac": 0.716
+  },
+  "#b1d574": {
+   "index": "fIIIpu",
+   "px": 711997,
+   "direct_frac": 0.694
+  },
+  "#add960": {
+   "index": "faIIIhn",
+   "px": 240975,
+   "direct_frac": 0.774
+  },
+  "#f2a667": {
+   "index": "gIIIhn",
+   "px": 1645191,
+   "direct_frac": 0.761
+  },
+  "#a2cb5b": {
+   "index": "fIIIhn",
+   "px": 264669,
+   "direct_frac": 0.649
+  },
+  "#ff984c": {
+   "index": "edN-Q",
+   "px": 1666625,
+   "direct_frac": 0.8
+  },
+  "#d15baf": {
+   "index": "eN-Q",
+   "px": 134845,
+   "direct_frac": 0.71
+  }
+ },
+ "confusable_pairs": [
+  [
+   "aH",
+   "a1IIIpu",
+   2.7
+  ],
+  [
+   "edII-H",
+   "gIIIhn",
+   4.4
+  ],
+  [
+   "a1IIIpu",
+   "a2IIIld",
+   7.1
+  ],
+  [
+   "a2IIIld",
+   "fH",
+   6.0
+  ],
+  [
+   "a3IIIpg",
+   "fH",
+   7.3
+  ],
+  [
+   "gIIvn",
+   "edN-Q",
+   5.6
+  ],
+  [
+   "gH",
+   "gIIIpu",
+   7.5
+  ],
+  [
+   "fH",
+   "fIIIpu",
+   5.5
+  ],
+  [
+   "faIIIhn",
+   "fIIIhn",
+   6.1
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

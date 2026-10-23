@@ -1,0 +1,360 @@
+{
+ "sheet": "P-60_g2",
+ "source": "raster scan",
+ "projection": "eqdc",
+ "rms_m": 192.37238893946034,
+ "max_res_m": 204.44463172802892,
+ "m_per_px": 85.72053714808146,
+ "corner_residuals_m": [
+  204.4,
+  204.3,
+  179.5,
+  179.7
+ ],
+ "corners": [
+  {
+   "approx": [
+    490.0,
+    920.0
+   ],
+   "snapped": [
+    490.0,
+    920.0
+   ],
+   "ok": "rejected (moved > 15 px)"
+  },
+  {
+   "approx": [
+    3919.0,
+    905.0
+   ],
+   "snapped": [
+    3919.0,
+    905.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    4198.0,
+    6190.0
+   ],
+   "snapped": [
+    4198.0,
+    6190.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    296.0,
+    6202.0
+   ],
+   "snapped": [
+    296.0,
+    6202.0
+   ],
+   "ok": false
+  }
+ ],
+ "frame_sag_px": 45.9,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga_1m/P-60_g2/p-60-mnavarin-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federacii-nova.jpg P-60_g2 ../sources/legend_P-60_g2.csv ../work/facefix/P-60_g2.gpkg --lonlat 174,60,180,64 --datum 4284 --corners '490,920;3919,905;4198,6190;296,6202'",
+ "unassigned_before_fill": 0.21,
+ "area_km2": 140121.4365642024,
+ "neatline_km2": 140122.74825339924,
+ "cover_frac": 0.9999906389989263,
+ "n_polygons": 7948,
+ "units": {
+  "#fc3545": {
+   "index": "c",
+   "px": 257260,
+   "direct_frac": 0.799
+  },
+  "#fc3555": {
+   "index": "s",
+   "px": 148712,
+   "direct_frac": 0.683
+  },
+  "#fffecd": {
+   "index": "aIV",
+   "px": 8454,
+   "direct_frac": 0.469
+  },
+  "#c7ec7e": {
+   "index": "a1III4-IV1",
+   "px": 5983,
+   "direct_frac": 0.586
+  },
+  "#b8ed8e": {
+   "index": "a2III3",
+   "px": 16815,
+   "direct_frac": 0.321
+  },
+  "#8ecd63": {
+   "index": "a3III1",
+   "px": 139157,
+   "direct_frac": 0.531
+  },
+  "#477e3e": {
+   "index": "aI",
+   "px": 381926,
+   "direct_frac": 0.178
+  },
+  "#b3e9fa": {
+   "index": "lIV",
+   "px": 131857,
+   "direct_frac": 0.755
+  },
+  "#54acf9": {
+   "index": "lIII3",
+   "px": 323555,
+   "direct_frac": 0.69
+  },
+  "#2a6ffc": {
+   "index": "lIII1",
+   "px": 4536,
+   "direct_frac": 0.599
+  },
+  "#f6c4a7": {
+   "index": "gIII4",
+   "px": 3764,
+   "direct_frac": 0.446
+  },
+  "#f29c85": {
+   "index": "gIII2",
+   "px": 771411,
+   "direct_frac": 0.469
+  },
+  "#ed6958": {
+   "index": "gII2",
+   "px": 287629,
+   "direct_frac": 0.369
+  },
+  "#cae977": {
+   "index": "fIII4",
+   "px": 3962,
+   "direct_frac": 0.471
+  },
+  "#acd15e": {
+   "index": "fIII2",
+   "px": 385449,
+   "direct_frac": 0.454
+  },
+  "#f68c3e": {
+   "index": "g,fII2",
+   "px": 259553,
+   "direct_frac": 0.312
+  },
+  "#4a8ddb": {
+   "index": "lgIII2",
+   "px": 42404,
+   "direct_frac": 0.411
+  },
+  "#2a6ec7": {
+   "index": "lgII2",
+   "px": 122283,
+   "direct_frac": 0.299
+  },
+  "#dda7a2": {
+   "index": "gmII2",
+   "px": 90777,
+   "direct_frac": 0.462
+  },
+  "#7c9bf3": {
+   "index": "m2III3",
+   "px": 136785,
+   "direct_frac": 0.598
+  },
+  "#5770f1": {
+   "index": "m3III1",
+   "px": 146180,
+   "direct_frac": 0.59
+  },
+  "#9ed8ed": {
+   "index": "laIII4-IV1",
+   "px": 130859,
+   "direct_frac": 0.554
+  },
+  "#87d7f1": {
+   "index": "laIII3",
+   "px": 83165,
+   "direct_frac": 0.761
+  },
+  "#4a8ab4": {
+   "index": "laIII1",
+   "px": 137720,
+   "direct_frac": 0.345
+  },
+  "#fefe9d": {
+   "index": "apIV",
+   "px": 13170,
+   "direct_frac": 0.46
+  },
+  "#bff1f8": {
+   "index": "amIV2",
+   "px": 42790,
+   "direct_frac": 0.802
+  },
+  "#cbb4a0": {
+   "index": "lbIV",
+   "px": 93309,
+   "direct_frac": 0.38
+  },
+  "#f5c86c": {
+   "index": "dpIII-IV",
+   "px": 22019,
+   "direct_frac": 0.284
+  },
+  "#f94a3d": {
+   "index": "e,d",
+   "px": 487694,
+   "direct_frac": 0.446
+  },
+  "#fc3d39": {
+   "index": "dc",
+   "px": 326565,
+   "direct_frac": 0.823
+  },
+  "#f94954": {
+   "index": "ds",
+   "px": 2043563,
+   "direct_frac": 0.517
+  },
+  "#91c4fa": {
+   "index": "s:m1IV",
+   "px": 598162,
+   "direct_frac": 0.747
+  },
+  "#a2dbf8": {
+   "index": "s:m3IV",
+   "px": 556643,
+   "direct_frac": 0.76
+  },
+  "#ebc2f9": {
+   "index": "s:m4IV",
+   "px": 6098741,
+   "direct_frac": 0.85
+  },
+  "#f3b6cd": {
+   "index": "s:mbIV",
+   "px": 1029482,
+   "direct_frac": 0.944
+  },
+  "#753d92": {
+   "index": "PREQ",
+   "px": 6805,
+   "direct_frac": 0.227
+  },
+  "#c180e7": {
+   "index": "PREQ,c",
+   "px": 27185,
+   "direct_frac": 0.552
+  },
+  "#7ec2fb": {
+   "index": "s:m2'IV",
+   "px": 1116009,
+   "direct_frac": 0.831
+  },
+  "#99d6fa": {
+   "index": "s:m2''IV",
+   "px": 1546028,
+   "direct_frac": 0.803
+  },
+  "#eaf9a9": {
+   "index": "aIV2",
+   "px": 454245,
+   "direct_frac": 0.335
+  },
+  "#f6fcdc": {
+   "index": "aIV3",
+   "px": 43275,
+   "direct_frac": 0.555
+  },
+  "#f8fec7": {
+   "index": "aIV2-3",
+   "px": 126436,
+   "direct_frac": 0.432
+  },
+  "#d6e6f9": {
+   "index": "mIV",
+   "px": 221968,
+   "direct_frac": 0.55
+  },
+  "#d4f8fc": {
+   "index": "s:amIV",
+   "px": 613088,
+   "direct_frac": 0.868
+  }
+ },
+ "confusable_pairs": [
+  [
+   "c",
+   "dc",
+   7.8
+  ],
+  [
+   "s",
+   "ds",
+   7.6
+  ],
+  [
+   "aIV",
+   "aIV2-3",
+   4.0
+  ],
+  [
+   "a1III4-IV1",
+   "fIII4",
+   3.2
+  ],
+  [
+   "lIV",
+   "laIII4-IV1",
+   6.6
+  ],
+  [
+   "lIV",
+   "amIV2",
+   6.0
+  ],
+  [
+   "laIII4-IV1",
+   "laIII3",
+   6.2
+  ],
+  [
+   "laIII4-IV1",
+   "s:m3IV",
+   4.6
+  ],
+  [
+   "laIII3",
+   "s:m3IV",
+   7.1
+  ],
+  [
+   "amIV2",
+   "s:amIV",
+   5.6
+  ],
+  [
+   "e,d",
+   "dc",
+   5.2
+  ],
+  [
+   "s:m1IV",
+   "s:m2'IV",
+   4.5
+  ],
+  [
+   "s:m3IV",
+   "s:m2''IV",
+   4.2
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 120
+}

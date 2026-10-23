@@ -1,0 +1,26 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#e995a3,"e,s",eluvium and solifluxion,W,C,bouldery,,"GGK-200/2 N-45-XXIV, Kuznetsk Alatau, Quaternary map, vector PDF (geokniga); 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)"
+1,#e995aa,DR,colluvial-desertion-solifluxion,C,,bouldery,,
+2,#f58466,c,colluvium,C,,bouldery,,
+3,#eea497,"c,s",colluvium and solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+4,#f69788,"c,dr",colluvium and desertion,C,,bouldery,,
+5,#ea9081,"dr,s",desertion and solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+6,#f8a07c,"c,d",colluvium and deluvium,C,,mixed,,
+7,#ec9d7d,"d,dr",deluvium and desertion,C,,mixed,,
+8,#f69780,"d,s",deluvium and solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+9,#eebb72,"p,d",proluvium and deluvium,F,C,mixed,,
+10,#f4847e,s,solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+11,#e5c78d,da,deluvial-alluvial,C,F,mixed,,
+12,#ebdd8b,ap,alluvial-proluvial,F,,mixed,,
+13,#bec0c2,tH,technogenic,X,,mixed,,
+14,#f1f3c3,aH,channel and floodplain alluvium,F,,sand,,
+15,#d2ccb2,plH,bog,O,,organic,,
+16,#daaf8d,gH,Holocene till,T,,bouldery,,
+17,#c6d69e,fIII-H,glaciofluvial,GF,,mixed,,
+18,#c4df9b,a1III4ak,Akkem 1st terrace alluvium,F,,gravel,,
+19,#e3a378,gIII4ak,Akkem till,T,,bouldery,,
+20,#aad48a,a2III3bl,Beltir 2nd terrace alluvium,F,,gravel,,
+21,#d08e66,gIII2cb,Chibit till,T,,bouldery,,
+22,#9acf8b,aI,buried alluvium,F,,gravel,,
+23,#b28abf,PREQ,pre-Quaternary,R,,,,
+24,#f19281,"dr,s/d,s","slope desertion/deluvium-solifluxion (map tint between dr,s and d,s swatches, labels read on map)",C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)

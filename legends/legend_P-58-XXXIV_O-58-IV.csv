@@ -1,0 +1,22 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#a9b8c1,tH,technogenic (Korf coal pit),X,,mixed,,"GGK-200/2 P-58-XXXIV + O-58-IV (Korf), Koryak coast, Quaternary map, vector PDF (geokniga); combined two-sheet frame"
+1,#fcbf94,edH,eluvium-deluvium,W,C,mixed,,
+2,#f69679,cddH,colluvium (deruption-dispersion),C,,bouldery,,
+3,#f69780,"cd,svH",colluvium and solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+4,#f8a79e,stH,solifluxion (tardofluxion),C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+5,#fecf8d,dlH,landslide deposits,C,,bouldery,,
+6,#8fb9e3,mH,marine spits and bars,M,,gravel,,
+7,#92d3c9,amH,deltaic and estuarine alluvial-marine,M,F,mixed,,
+8,#60a3d9,mvprH,"beach wave deposits (shelf, shared fill)",M,,gravel,,
+9,#60a3d9,mvprH2,nearshore wave deposits,M,,gravel,,
+10,#60a3d9,mlH,lagoonal deposits,M,,sand,,
+11,#60a3d9,mzH,stagnant-basin silts,M,,fines,,
+12,#c4df9b,aH,channel and floodplain alluvium,F,,gravel,,
+13,#9acd74,a2III4,2nd terrace alluvium,F,,gravel,,
+14,#efb480,gIII4,end and ground moraine,T,,bouldery,,
+15,#87c875,a3III3,3rd terrace alluvium,F,,gravel,,
+16,#eba66c,gIII2,ground moraine,T,,bouldery,,
+17,#c3d481,fIII2,sandur glaciofluvial,GF,,gravel,,
+18,#5bc4bf,lgIII2,intermontane glaciolacustrine,GL,,fines,,
+19,#0289cc,mN2+E,high marine terraces,M,,gravel,,
+20,#a678b4,PREQ,pre-Quaternary,R,,,,

@@ -1,0 +1,9 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#a6b2a6,lpIV,"Озерно-болотные отложения. Торф, глины, супеси, пески",L,O,organic,,"GGK-200/1 Q-41-III, Severo-Uralskaya series, Quaternary map 1st ed. 1962 (printed 1964, author K.K. Vollosovich), RASTER (geokniga 4448, JPG 4404x4740, 200 dpi, ~25 m/px); fill = map tint (legend swatch #bac0ab); lakes print in a grey-teal 10-14 dE from lpIV, so no WATER row (lakes read as lpIV); classified: map units only. Omitted: lalIII1 and lgII4 (swatch #dea369 / #ddc09b; on the face only a few small valley polygons, and their tints sit 6-9 dE from the glIII2zr hatch and the red hummocky-moraine grid mixture, which they captured in the dry run), and the section-only units m?III1, lalII3, m-glmI-II, glmI-II and pre-Quaternary. Red overprints (hummocky-moraine grid, kame cross-hatch, eskers) are not separate units: the base colour between the lines is classified"
+1,#a9ae7a,alIV,"Аллювиальные отложения поймы и первой надпойменной террасы. Пески, супеси, гравий, галечники",F,,sand,,fill = map tint (legend swatch #b8c381)
+2,#728286,mIII-IV,"Морские отложения. Пески, супеси",M,,sand,,"fill = map tint of the hatched strip at the N edge (legend swatch #a7ada9); allowed only in that strip (--restrict), elsewhere the tint is linework"
+3,#bdc365,fgl-lalIII-IV,"Водно-ледниковые и озерно-аллювиальные отложения. Пески, гравий, реже супеси и суглинки",GF,L,sand,,
+4,#b8b058,fglIII2zr,"Зырянский горизонт: водно-ледниковые отложения. Пески, гравий, галечники с валунами",GF,,gravel,,
+5,#e7b27d,glIII2zr,"Зырянский горизонт: ледниковые отложения (верхняя морена). Валунные суглинки и супеси",T,,diamicton,,
+6,#db935a,glII4,Ледниковые отложения (средняя морена). Валунные суглинки,T,,diamicton,,"thin valley-side strips; --class-dE glII4=6 (the red-grid and kame mixtures are 9-12 dE away)"
+7,#4d6691,mII3,Морские отложения. Пески с бореальной фауной,M,,sand,,thin valley-side strips

@@ -1,0 +1,12 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+BEDROCK,R,,,,,"all lithostratigraphic units; G250 does not separate regolith, talus or weathered mantle from bedrock"
+1010,T,,,,,moraine - unconsolidated (Holocene)
+1020,M,,,,,marine deposit - unconsolidated (Holocene)
+1030,GF,,,,,glaci-fluvial deposit - unconsolidated (Holocene)
+1090,Q,,,,,other unconsolidated deposit (Holocene)
+1110,V,,,,,Quaternary volcanic (Sverrefjellet / Halvdanpiggen)
+1113,V,,,,,Sigurdfjellet Eruptive Centre (Quaternary basalt)
+GLACIER,I,,,,,g250_Glacier_polygon
+MORAINE_ON_ICE,I,T,,,,"g250_Moraine_on_ice - debris-covered ice; surface is till, body is ice"
+TIDAL_FLAT,M,,,,,g250_Tidal_flats
+LAKE,H,,,,,g250_Lake_polygon

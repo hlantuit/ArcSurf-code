@@ -1,0 +1,148 @@
+{
+ "sheet": "N-44-XXII",
+ "source": "raster scan",
+ "projection": "tmerc_utm",
+ "rms_m": 79.89921742659894,
+ "max_res_m": 152.47273846745097,
+ "m_per_px": 35.31168316666442,
+ "corner_residuals_m": [
+  101.9,
+  85.1,
+  152.5,
+  77.1,
+  50.5,
+  45.8,
+  72.0,
+  24.6,
+  30.6,
+  128.1,
+  31.5,
+  51.2,
+  69.2
+ ],
+ "n_ties": 9,
+ "corners": [
+  {
+   "approx": [
+    74.5,
+    110.3
+   ],
+   "snapped": [
+    74.5,
+    110.3
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1930.9,
+    106.9
+   ],
+   "snapped": [
+    1930.9,
+    106.9
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1943.5,
+    2219.9
+   ],
+   "snapped": [
+    1943.5,
+    2219.9
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    57.9,
+    2211.9
+   ],
+   "snapped": [
+    57.9,
+    2211.9
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.238,
+ "area_km2": 4895.679057420693,
+ "neatline_km2": 4904.648973664292,
+ "cover_frac": 0.9981711400159803,
+ "n_polygons": 2638,
+ "units": {
+  "#e5f3b8": {
+   "index": "alIV",
+   "px": 491811,
+   "direct_frac": 0.684
+  },
+  "#cfe0ba": {
+   "index": "lIV|lhIV",
+   "px": 93135,
+   "direct_frac": 0.343
+  },
+  "#c0b797": {
+   "index": "hIV",
+   "px": 60135,
+   "direct_frac": 0.608
+  },
+  "#d0c788": {
+   "index": "eolIV",
+   "px": 93658,
+   "direct_frac": 0.561
+  },
+  "#fdfc97": {
+   "index": "eolIII-IV",
+   "px": 241156,
+   "direct_frac": 0.72
+  },
+  "#fbf5b0": {
+   "index": "saIII-IV",
+   "px": 1947503,
+   "direct_frac": 0.802
+  },
+  "#fbf1d2": {
+   "index": "d+plIII-IV",
+   "px": 297312,
+   "direct_frac": 0.72
+  },
+  "#d4fc8a": {
+   "index": "alIII1|alIII2",
+   "px": 359072,
+   "direct_frac": 0.714
+  },
+  "#c7fd72": {
+   "index": "alII-III3",
+   "px": 52433,
+   "direct_frac": 0.675
+  },
+  "#9af054": {
+   "index": "alII-IIIks|alII4",
+   "px": 142415,
+   "direct_frac": 0.671
+  },
+  "#d6efc8": {
+   "index": "WATER",
+   "px": 69446,
+   "direct_frac": 0.775
+  },
+  "#f4faeb": {
+   "index": "WATER",
+   "px": 94609,
+   "direct_frac": 0.886
+  }
+ },
+ "confusable_pairs": [
+  [
+   "lIV|lhIV",
+   "WATER",
+   5.5
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 30
+}

@@ -1,0 +1,11 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#f5bb9e,"e,dH",eluvial and deluvial deposits (Holocene),C,W,,,"GGK-200/2 P-58-XXIX, Koryak series, 2nd ed. (geokniga record 42865, 2002: record year, the preview carries no imprint); PREVIEW 1749x2509 px (~34 m/px), map face only: no legend image on geokniga; units read from the indices printed on the map, wording after the index letters and the legend of the neighbouring P-58-XXVIII (same series, vector PDF) ; pink slope tints within 4-7 dE on the preview (62-89 % coin-toss pixels in the dry run): merged with d,sH/dr,sH into one class, coded C/W (two of three units are deluvial-solifluction / deserption-solifluction; e,dH alone would be W/C)"
+1,#f5bb9e,"d,sH",deluvial and solifluction deposits (Holocene),C,W,,,"pink slope tints within 4-7 dE on the preview (62-89 % coin-toss pixels in the dry run): merged with e,dH/dr,sH into one class, coded C/W (two of three units are deluvial-solifluction / deserption-solifluction; e,dH alone would be W/C)"
+2,#f5bb9e,"dr,sH",deserptional and solifluction deposits (Holocene),C,W,,,"pink slope tints within 4-7 dE on the preview (62-89 % coin-toss pixels in the dry run): merged with e,dH/d,sH into one class, coded C/W (two of three units are deluvial-solifluction / deserption-solifluction; e,dH alone would be W/C)"
+3,#ac7892,PREQ,pre-Quaternary rocks (unlabelled purple ribbons on the ridges),R,,,,
+4,#ebf2c0,aH2+3,channel and floodplain alluvium (Holocene),F,,,,
+5,#d5dc9e,a1H1,alluvium of the 1st terrace (Holocene),F,,,,
+6,#f1eaa6,"a,p1H1+pH",alluvial-proluvial deposits of the 1st terrace and proluvial fans (Holocene),F,,,,
+7,#b5c880,a3III3,alluvium of the 3rd terrace (Late Pleistocene; a2III4 strips print alike),F,,,,
+8,#bfc78b,fIII2,Late Pleistocene glaciofluvial deposits,GF,,,,
+9,#eaf2ed,WATER,water (lakes),H,,,,

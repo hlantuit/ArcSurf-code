@@ -1,0 +1,16 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+L11:Till Veneer,T,R,diamicton,veneer,,till <2 m over bedrock
+L11:Thick Till,T,,diamicton,blanket,,
+L11:Hummocky Till,T,,diamicton,,,
+L11:Lineated Till,T,,diamicton,,,
+L11:Organics,O,,organic,,,
+L11:Rock Concealed,R,T,,veneer,,bedrock under a discontinuous drift veneer
+L11:Rock,R,,,,,
+L11:Glaciofluvial,GF,,gravel,,,
+L11:Fluvial,F,,sand,,,
+L11:Marine,M,,,,,raised marine / glaciomarine incl. beaches
+L11:Colluvium,C,,bouldery,,,
+L11:Lacustrine,L,,fines,,,
+L11:Aeolian,E,,sand,,,
+L11:Active or Abandoned Mine,X,,,,,
+L11:Municipality,X,,mixed,,,built-up area (municipality) - appears in the domain extension

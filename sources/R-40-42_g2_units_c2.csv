@@ -1,0 +1,12 @@
+yc,xoff,index,description_ru,hclass,hclass2,texture,note
+465,-42,s:m1IV,Волновой нерасчлененный (шельф),M,,sand,offshore Holocene wave
+465,42,s:m1''IV,Волновой прибрежный (шельф),M,,sand,offshore Holocene nearshore wave
+585,0,s:m2IV,Бассейновый (шельф),M,,fines,offshore Holocene basin
+702,0,s:m3IV,Потоковый (шельф),M,,sand,offshore Holocene current
+820,0,s:mIII4-IV,Волновой (шельф),M,,sand,offshore wave
+938,0,s:mIII,Бассейновый (шельф),M,,fines,offshore basin
+1055,0,s:m1III,Волновой (шельф),M,,sand,offshore wave
+1258,0,s:amIII-IV,Аллювиально-морской затопленный (шельф),F,M,sand,submerged alluvial-marine
+1375,0,s:gmI-III,Ледниково-морской затопленный (шельф),GM,,fines,submerged glaciomarine
+1490,0,s:gmI-II,Ледниково-морской затопленный (шельф),GM,,fines,submerged glaciomarine
+1613,0,s:PREQ,Дочетвертичные породы (шельф),R,,,offshore pre-Quaternary

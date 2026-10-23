@@ -1,0 +1,10 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#d6d2ca,pIV,Современный отдел: болотные отложения (торф),O,,organic,,"Geological map of the USSR 1:200 000 (1st ed.) P-37-IV, Quaternary map, RASTER: geokniga map-only PREVIEW JPG 1603x2330 (~33.7 m/px); NO legend and NO imprint image (print year unknown): legend reconstructed from the indexes printed on the face (gIIIvd3, fIIIvd3, LgIIIvd3, LaIII-IV, aIV, LIV, pIV; same series as P-37-V), hclass from the genetic index; fills = map tints (preview_tint_calib.py); red grid and purple ruling are overprints on the base units; lakes are labelled LIV (no WATER row)"
+1,#c7e8f3,LIV,Современный отдел: озерные отложения,L,,sand,,
+2,#e2edbd,aIV,Современный отдел: аллювиальные отложения,F,,sand,,same base tint as fIIIvd3 (3.7 dE; fIIIvd3 only adds dots): aIV restricted to the Onega / lower Kodina valley strip (--restrict); elsewhere valley alluvium reads as fIIIvd3
+3,#c5e2d0,LaIII-IV,Верхний и современный отделы: озерно-аллювиальные отложения,L,F,sand,,
+4,#c4e3df,LgIIIvd3,Верхний отдел. Валдайский горизонт: озерно-ледниковые отложения,GL,,sand,,
+5,#dee8b2,fIIIvd3,Верхний отдел. Валдайский горизонт: флювиогляциальные отложения,GF,,sand,,
+6,#f0c4a4,gIIIvd3,Верхний отдел. Валдайский горизонт: ледниковые отложения (морена),T,,diamicton,,
+7,#ecba95,gIIIvd3,Верхний отдел. Валдайский горизонт: ледниковые отложения (морена),T,,diamicton,,"second fill: gIIIvd3 under the red grid overprint (hummocky moraine relief), calibrated on the map"
+8,#a87e9c,PREQ,Дочетвертичные породы (выходы),R,,,,violet outcrop spots; tint pinned

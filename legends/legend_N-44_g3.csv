@@ -1,0 +1,41 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#a9b8c1,tH,technogenic deposits,X,,mixed,,"GGK-1000/3 N-44 (Novosibirsk), West Siberian series, Quaternary map, vector PDF (geokniga)"
+1,#f1f3c3,aH,floodplain alluvium with marl and peat,F,,sand,,
+2,#aee2fa,lH,"limnium, silts, sapropel",L,,fines,,
+3,#b4dfd3,laH,"lake-alluvium, lake deltas",L,F,fines,,
+4,#a9dbf3,"l,plH","limnium and palustrium, peat",L,O,organic,,
+5,#f9a25a,dH,"deluvium, loams",C,,fines,,
+6,#ecd6ac,daH,deluvial-alluvial,C,F,fines,,
+7,#fff5b6,vH,eolium,E,,sand,,
+8,#fff398,vIII-H,eolium,E,,sand,,
+9,#ffe0ad,LIII-H,"loessoid deposits, cryogenic textures, buried soils",E,,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+10,#87d6f7,lIII4-H,limnium,L,,fines,,
+11,#f5833c,dIII4-H,deluvium,C,,fines,,
+12,#ffef83,vIII4,eolian ridges,E,,sand,,
+13,#ddebb7,a1III4,first-terrace alluvium,F,,sand,,
+14,#cde4aa,a2III3-4,second-terrace alluvium,F,,sand,,
+15,#c5dba4,a2(e)III3-4,"second (Yenisei) terrace alluvium, Ob valley",F,,sand,,
+16,#93d2c1,laIII3kr,Krasnobrodsk suite lake-alluvium,L,F,sand,,
+17,#c4df9b,a3III1-2,third-terrace alluvium,F,,sand,,
+18,#7fcbae,laII-IIIkr,Karasuk suite lake-alluvium,L,F,fines,,
+19,#b7da9b,aII-IIIks,Kasmala suite alluvium,F,,sand,,
+20,#ffd38e,"L,epII-IIIbc",Bachat suite loessoid and eluvium,E,W,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+21,#aad48a,a4II,fourth-terrace alluvium,F,,sand,,
+22,#f5d9a0,"L,laI-IIfd",Fedosovo suite loessoid and lake-alluvium,E,L,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+23,#ffd69d,"L,lI-IIkd",Krasnodubrovsk suite loessoid and limnium,E,L,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+24,#dbbc73,"L,laI-IIbz",Bezmenovo suite loessoid and lake-alluvium,E,L,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+25,#ebb059,"L,lI-IItg",Taiga suite loessoid and limnium,E,L,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+26,#5cb897,laI-IIkdr,Kedrovka suite lake-alluvium,L,F,fines,,
+27,#64c296,"a,lI-IImn",Monastyrka suite alluvium and limnium,F,L,sand,,
+28,#9acf8b,a5I-II,fifth-terrace alluvium,F,,sand,,
+29,#5cb897,laE2-IIIoc,Ob-Chumysh series lake-alluvium with loessoids,L,F,fines,,
+30,#ecb75a,"L,epE2-Isr",Sergeevka suite loessoid and eluvium,E,W,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+31,#52babe,"a,lE2kc",Kochki suite alluvium and limnium,F,L,fines,,
+32,#55b4e6,lE2kc2,upper Kochki limnium,L,,fines,,
+33,#14a0d4,lE2ub,Ubinsk suite limnium,L,,fines,,
+34,#87c875,aE2kc1,lower Kochki alluvium,F,,sand,,
+35,#71c276,aE2kg,Kargat suite alluvium,F,,sand,,
+36,#59bd77,aE2br,Barnaul suite alluvium,F,,sand,,
+37,#57af90,laE2sg,Sagarlyk suite lake-alluvium,L,F,fines,,
+38,#26a37f,laN2-E1kl,Kulunda suite lake-alluvium,L,F,sand,,
+39,#a678b4,PREQ,pre-Quaternary,R,,,,

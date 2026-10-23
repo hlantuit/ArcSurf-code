@@ -1,0 +1,22 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#f1f3c3,aH2,floodplain alluvium,F,,gravel,,"GGK-200/2 P-55-XXVI, Okhotsk-Kolyma divide, Quaternary map, vector PDF (geokniga)"
+1,#e2eec3,a1H1,1st terrace alluvium,F,,gravel,,
+2,#f7e3bb,pH,proluvium,F,,bouldery,,
+3,#d2ccb2,gH,Holocene till (cirque glaciers),T,,bouldery,,
+4,#d9aed1,eIII-H,eluvium,W,,bouldery,,
+5,#fcc9a4,"e,dIII-H",eluvium and deluvium,W,C,mixed,,
+6,#eea092,"c,drIII-H",colluvium and desertion,C,,bouldery,,
+7,#edb3c1,drIII-H,desertion,C,,bouldery,,
+8,#f0b79d,"d,drIII-H",deluvium and desertion,C,,bouldery,,
+9,#f9b5ac,sIII-H,solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+10,#f5d4a6,"p,dIII-H",proluvium and deluvium,F,C,bouldery,,
+11,#cde4aa,a2III4,2nd terrace alluvium,F,,gravel,,
+12,#cbd89e,fIII4,Late Pleistocene glaciofluvial,GF,,gravel,,
+13,#ecb693,gIII4,Late Pleistocene till,T,,bouldery,,
+14,#b7da9b,a3III3,Kulabakh 3rd terrace alluvium,F,,gravel,,
+15,#7fcbae,laIII3,Kulabakh lake-alluvial,L,F,gravel,,
+16,#c1d18d,fIII2,Yugler glaciofluvial,GF,,gravel,,
+17,#e4ac7b,gIII2,Yugler till,T,,bouldery,,
+18,#cf9d70,gII,Middle Pleistocene till (section only),T,,diamicton,,
+19,#8aca8b,aI,Early Pleistocene alluvium,F,,gravel,,
+20,#a677b4,PREQ,pre-Quaternary,R,,,,

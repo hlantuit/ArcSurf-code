@@ -1,0 +1,21 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#b583b4,e,eluvium,W,,bouldery,,"GGK-200/2 M-48-V (Kamensk), Selenga series, Paleogene-Quaternary map, RASTER (geokniga JPG 7412x13157); Lake Baikal in NW corner"
+1,#e29b65,d,deluvium,C,,mixed,,
+2,#dd8e63,"e,d",eluvium and deluvium,W,C,mixed,,
+3,#da826c,c,colluvium,C,,bouldery,,
+4,#ce7591,dr,desertion,C,,mixed,,
+5,#ca8d9f,"dr,s",desertion and solifluxion,C,,bouldery,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+6,#cfdda8,aH2,low floodplain alluvium,F,,gravel,,
+7,#c7d99a,aH,floodplain and channel alluvium,F,,gravel,,
+8,#92c8ea,lH,lacustrine,L,,fines,,
+9,#98c7b3,laH,lake-alluvial,L,F,gravel,,
+10,#a7a479,plH,bog peat,O,,organic,,
+11,#b3d08c,a1III4-H,1st terrace alluvium,F,,gravel,,
+12,#e3d477,"a,pIII-H",alluvial and proluvial,F,,gravel,,
+13,#e1b572,"p,dIII-H",proluvial and deluvial,F,C,mixed,,
+14,#e3d572,"a,pIII",alluvial and proluvial,F,,gravel,,
+15,#f7ec93,vII-III,aeolian sands,E,,sand,,
+16,#8ac2a9,laII1-2kj,Krivoyar lake-alluvial,L,F,sand,,
+17,#7dba9b,laE,Eopleistocene lake-alluvial,L,F,gravel,,
+18,#75b198,"l,laP3-N1tn",Tankhoi lacustrine and lake-alluvial,L,F,fines,,
+19,#9a7eb1,PREQ,pre-Cenozoic (section only),R,,,,

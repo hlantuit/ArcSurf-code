@@ -1,0 +1,165 @@
+{
+ "sheet": "R-53-IX,X",
+ "source": "raster scan",
+ "projection": "eqdc",
+ "rms_m": 1.164108405125869,
+ "max_res_m": 2.4927808305443913,
+ "m_per_px": 16.928373555473144,
+ "envelope": {
+  "top": {
+   "kept": 1.0,
+   "rms_px": 0.62
+  },
+  "bottom": {
+   "kept": 1.0,
+   "rms_px": 0.65
+  },
+  "left": {
+   "kept": 1.0,
+   "rms_px": 0.58
+  },
+  "right": {
+   "kept": 1.0,
+   "rms_px": 0.71
+  }
+ },
+ "unassigned_before_fill": 0.149,
+ "area_km2": 5407.521211855583,
+ "neatline_km2": 5407.937228423003,
+ "cover_frac": 0.9999230729666695,
+ "n_polygons": 3175,
+ "units": {
+  "#e19bd9": {
+   "index": "eH",
+   "px": 28376,
+   "direct_frac": 0.819
+  },
+  "#fac69c": {
+   "index": "e,dH",
+   "px": 473670,
+   "direct_frac": 0.897
+  },
+  "#faf1ad": {
+   "index": "aH",
+   "px": 508931,
+   "direct_frac": 0.756
+  },
+  "#6fb9d7": {
+   "index": "l,plH",
+   "px": 1935489,
+   "direct_frac": 0.88
+  },
+  "#eaf2bf": {
+   "index": "aH2",
+   "px": 1675227,
+   "direct_frac": 0.667
+  },
+  "#c8c3c2": {
+   "index": "tH2",
+   "px": 272279,
+   "direct_frac": 0.413
+  },
+  "#a2d0e6": {
+   "index": "l,plH2",
+   "px": 842957,
+   "direct_frac": 0.568
+  },
+  "#e8f0b2": {
+   "index": "aH1",
+   "px": 4028983,
+   "direct_frac": 0.696
+  },
+  "#e0efb2": {
+   "index": "a1III-H",
+   "px": 546183,
+   "direct_frac": 0.596
+  },
+  "#f7ad90": {
+   "index": "d,sIII-H",
+   "px": 808869,
+   "direct_frac": 0.937
+  },
+  "#d9efb2": {
+   "index": "a2IIIhr",
+   "px": 2675883,
+   "direct_frac": 0.876
+  },
+  "#b7efda": {
+   "index": "LlaIIImh",
+   "px": 3325378,
+   "direct_frac": 0.833
+  },
+  "#c2e69e": {
+   "index": "a4II",
+   "px": 313520,
+   "direct_frac": 0.889
+  },
+  "#89e0c4": {
+   "index": "laIIkm",
+   "px": 1303408,
+   "direct_frac": 0.93
+  },
+  "#16c09c": {
+   "index": "laEII-Ibt",
+   "px": 4586,
+   "direct_frac": 0.747
+  },
+  "#c48ed2": {
+   "index": "PREQ-a",
+   "px": 13507,
+   "direct_frac": 0.779
+  },
+  "#b25db6": {
+   "index": "PREQ-b",
+   "px": 113361,
+   "direct_frac": 0.803
+  }
+ },
+ "confusable_pairs": [
+  [
+   "aH",
+   "aH1",
+   7.5
+  ],
+  [
+   "aH2",
+   "aH1",
+   5.7
+  ],
+  [
+   "aH2",
+   "a1III-H",
+   6.0
+  ],
+  [
+   "aH2",
+   "a2IIIhr",
+   7.6
+  ],
+  [
+   "aH1",
+   "a1III-H",
+   2.8
+  ],
+  [
+   "aH1",
+   "a2IIIhr",
+   5.5
+  ],
+  [
+   "a1III-H",
+   "a2IIIhr",
+   2.7
+  ]
+ ],
+ "overprint": {
+  "name": "ice",
+  "dots": 2381,
+  "components": 2557,
+  "regions": 23,
+  "km2": 866.9
+ },
+ "datum": "EPSG:4284 assumed",
+ "dE": 14.0,
+ "mmu_px": 120
+}

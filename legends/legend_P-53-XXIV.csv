@@ -1,0 +1,15 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#fab383,ed,eluvium-deluvium,W,C,bouldery,,"GGK-200/2 P-53-XXIV, Verkhoyansk-Kolyma, Quaternary map, vector PDF (geokniga)"
+1,#f58466,c,colluvium,C,,bouldery,,
+2,#ec9d7d,cd,colluvium-deluvium,C,,bouldery,,
+3,#f9b4a6,ds,deluvium-solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+4,#e7efc3,aH,channel alluvium,F,,gravel,,
+5,#efe29d,apH,alluvial-proluvial,F,,gravel,,
+6,#bec0c2,tH,technogenic (mine dumps),X,,mixed,,
+7,#ddebb7,aIII-H,terrace alluvium 4-10 m,F,,gravel,,
+8,#f5d9a0,pIII-H,proluvium,F,,bouldery,,
+9,#cb9168,gIII,till,T,,bouldery,,
+10,#c3d481,fIII,glaciofluvial,GF,,gravel,,
+11,#b7da9b,aII,20-40 m terrace alluvium,F,,gravel,,
+12,#9fc882,aI,50-60 m terrace alluvium,F,,gravel,,
+13,#a677b4,PREQ,pre-Quaternary,R,,,,

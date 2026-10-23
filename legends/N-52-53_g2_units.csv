@@ -1,0 +1,33 @@
+yc,xoff,index,description_ru,hclass,hclass2,texture,note
+1265,0,e,Элювиальные,W,,bouldery,eluvium
+1370,0,"e,d",Элювиальные и делювиальные,W,C,bouldery,eluvium and deluvium
+1475,0,c,Коллювиальные,C,,bouldery,colluvium
+1583,0,dc,Делювиально-коллювиальные,C,,bouldery,deluvial-colluvial
+1690,0,"e,c",Элювиальные и коллювиальные,W,C,bouldery,eluvium and colluvium
+1795,0,s,Солифлюкционные,C,,mixed,solifluxion
+1905,0,ds,Делювиально-солифлюкционные,C,,mixed,deluvial-solifluxion
+2010,0,"e,s",Элювиальные и солифлюкционные,W,C,bouldery,eluvium and solifluxion
+2115,0,aIV2,Аллювиальные,F,,mixed,Holocene floodplain alluvium (upper)
+2220,0,aIV1,Аллювиальные,F,,mixed,Holocene alluvium (lower)
+2328,0,aIV,Аллювиальные,F,,mixed,Holocene alluvium
+2435,0,lIV,Озерные,L,,fines,Holocene lacustrine
+2542,0,bIV,Биогенные,O,,organic,Holocene biogenic (peat)
+2647,0,"e,dIV",Элювиальные и делювиальные,W,C,fines,Holocene eluvium and deluvium
+2752,0,cIV,Коллювиальные,C,,bouldery,Holocene colluvium
+2860,0,aIII-IV,Аллювиальные,F,,mixed,alluvium
+2967,0,adIII-IV,Аллювиально-делювиальные,F,C,mixed,alluvial-deluvial
+3072,0,apIII-IV,Аллювиально-пролювиальные,F,,gravel,alluvial-proluvial
+3178,0,aIII3-4,Аллювиальные,F,,mixed,terrace alluvium
+3285,0,aIII1-2,Аллювиальные,F,,mixed,terrace alluvium
+3390,0,aIII,Аллювиальные,F,,mixed,terrace alluvium
+3495,0,laIII,Озерно-аллювиальные,L,F,fines,lake-alluvial
+3600,0,adIII,Аллювиально-делювиальные,F,C,mixed,alluvial-deluvial
+3708,0,gIII,Ледниковые,T,,bouldery,glacial
+3818,0,fIII,Флювиогляциальные,GF,,gravel,glaciofluvial
+3922,0,aII-III,Аллювиальные,F,,mixed,alluvium
+4028,0,aII,Аллювиальные,F,,mixed,alluvium
+4135,0,apII,Аллювиально-пролювиальные,F,,gravel,alluvial-proluvial
+4240,0,aI,Аллювиальные,F,,mixed,alluvium
+4348,0,laN2-Q1,Озерно-аллювиальные,L,F,fines,Pliocene-Eopleistocene lake-alluvial
+4490,-45,PREQ,Дочетвертичные породы,R,,,pre-Quaternary
+4490,45,"PREQ,c",Дочетвертичные породы с участками коллювия,R,C,bouldery,pre-Quaternary with patches of colluvium

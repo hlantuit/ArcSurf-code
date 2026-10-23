@@ -1,0 +1,293 @@
+{
+ "sheet": "M-48-X,XVI",
+ "source": "raster scan",
+ "projection": "eqdc",
+ "rms_m": 12.240197663278314,
+ "max_res_m": 12.366058335101116,
+ "m_per_px": 16.934744078263847,
+ "corner_residuals_m": [
+  12.4,
+  12.4,
+  12.1,
+  12.1
+ ],
+ "corners": [
+  {
+   "approx": [
+    289.0,
+    935.0
+   ],
+   "snapped": [
+    289.0,
+    935.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    4406.0,
+    935.0
+   ],
+   "snapped": [
+    4406.0,
+    935.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    4449.0,
+    7501.0
+   ],
+   "snapped": [
+    4449.0,
+    7501.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    246.0,
+    7501.0
+   ],
+   "snapped": [
+    246.0,
+    7501.0
+   ],
+   "ok": false
+  }
+ ],
+ "unassigned_before_fill": 0.154,
+ "area_km2": 7829.118095352536,
+ "neatline_km2": 7837.354088866807,
+ "cover_frac": 0.9989491359684808,
+ "n_polygons": 15404,
+ "units": {
+  "#bf80af": {
+   "index": "e",
+   "px": 921310,
+   "direct_frac": 0.77
+  },
+  "#f0a47a": {
+   "index": "e,d",
+   "px": 3763736,
+   "direct_frac": 0.893
+  },
+  "#c28eb9": {
+   "index": "E",
+   "px": 949101,
+   "direct_frac": 0.842
+  },
+  "#f0a26b": {
+   "index": "d",
+   "px": 1923309,
+   "direct_frac": 0.874
+  },
+  "#eb8870": {
+   "index": "C",
+   "px": 2553097,
+   "direct_frac": 0.886
+  },
+  "#e4634b": {
+   "index": "c",
+   "px": 411769,
+   "direct_frac": 0.529
+  },
+  "#ec9173": {
+   "index": "c,d",
+   "px": 2918622,
+   "direct_frac": 0.87
+  },
+  "#ee9792": {
+   "index": "c,dr",
+   "px": 221267,
+   "direct_frac": 0.727
+  },
+  "#f6c481": {
+   "index": "v,d",
+   "px": 2236336,
+   "direct_frac": 0.886
+  },
+  "#e2efc2": {
+   "index": "aH2",
+   "px": 3082234,
+   "direct_frac": 0.123
+  },
+  "#d1e7b5": {
+   "index": "aH1",
+   "px": 363558,
+   "direct_frac": 0.729
+  },
+  "#bddfaa": {
+   "index": "aH",
+   "px": 604066,
+   "direct_frac": 0.694
+  },
+  "#87c7ec": {
+   "index": "lbH",
+   "px": 280222,
+   "direct_frac": 0.797
+  },
+  "#fef487": {
+   "index": "vH",
+   "px": 57344,
+   "direct_frac": 0.883
+  },
+  "#d6bb82": {
+   "index": "a,dIII-H",
+   "px": 118432,
+   "direct_frac": 0.69
+  },
+  "#ecc68d": {
+   "index": "p,dIII-H",
+   "px": 1069008,
+   "direct_frac": 0.857
+  },
+  "#e6df8f": {
+   "index": "a,pIII-H",
+   "px": 1098179,
+   "direct_frac": 0.884
+  },
+  "#ed9786": {
+   "index": "d,sIII-H",
+   "px": 833077,
+   "direct_frac": 0.835
+  },
+  "#a7d59d": {
+   "index": "a1IIIos-H",
+   "px": 194592,
+   "direct_frac": 0.833
+  },
+  "#ab896e": {
+   "index": "gIIIos",
+   "px": 204966,
+   "direct_frac": 0.753
+  },
+  "#8bc990": {
+   "index": "a2IIIst-os",
+   "px": 80612,
+   "direct_frac": 0.768
+  },
+  "#9f7a5c": {
+   "index": "gIIItm",
+   "px": 276705,
+   "direct_frac": 0.561
+  },
+  "#79c280": {
+   "index": "a3IIIsv-tm",
+   "px": 44427,
+   "direct_frac": 0.785
+  },
+  "#f5bb70": {
+   "index": "v,pdII-III",
+   "px": 2649301,
+   "direct_frac": 0.901
+  },
+  "#64ba6d": {
+   "index": "a5II1-3kj",
+   "px": 41569,
+   "direct_frac": 0.829
+  },
+  "#009f80": {
+   "index": "laE-II?",
+   "px": 124567,
+   "direct_frac": 0.872
+  },
+  "#009d59": {
+   "index": "aPgl-E?",
+   "px": 25347,
+   "direct_frac": 0.82
+  },
+  "#e4b26c": {
+   "index": "pdPgltl",
+   "px": 165589,
+   "direct_frac": 0.621
+  },
+  "#996aa2": {
+   "index": "PREQ",
+   "px": 102218,
+   "direct_frac": 0.527
+  }
+ },
+ "confusable_pairs": [
+  [
+   "e",
+   "E",
+   6.3
+  ],
+  [
+   "e,d",
+   "d",
+   7.1
+  ],
+  [
+   "C",
+   "c,d",
+   4.7
+  ],
+  [
+   "c,dr",
+   "d,sIII-H",
+   6.3
+  ],
+  [
+   "v,d",
+   "p,dIII-H",
+   7.7
+  ],
+  [
+   "v,d",
+   "v,pdII-III",
+   6.6
+  ],
+  [
+   "v,d",
+   "pdPgltl",
+   6.8
+  ],
+  [
+   "aH2",
+   "aH1",
+   5.6
+  ],
+  [
+   "aH1",
+   "aH",
+   6.1
+  ],
+  [
+   "aH",
+   "a1IIIos-H",
+   6.5
+  ],
+  [
+   "a,dIII-H",
+   "p,dIII-H",
+   6.6
+  ],
+  [
+   "a1IIIos-H",
+   "a2IIIst-os",
+   7.8
+  ],
+  [
+   "gIIIos",
+   "gIIItm",
+   6.2
+  ],
+  [
+   "a2IIIst-os",
+   "a3IIIsv-tm",
+   7.2
+  ],
+  [
+   "v,pdII-III",
+   "pdPgltl",
+   5.7
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

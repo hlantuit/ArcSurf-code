@@ -1,0 +1,11 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#dcf5be,aIV,"Современные отложения. Отложения пойменных террас рек. Суглинки, пески, супеси",F,,mixed,,"GGK-200 N-43-V (Geologicheskaya karta SSSR, 1st edition, approved 1975, printed 1977; Baraba lowland, Om river, 76-77E 55d20m-56dN), Quaternary map; RASTER = geokniga 1998x2386 px PREVIEW (~34 m/px); vertical lithology ruling removed before classification (work/r200d/prep_vlines.py); tints calibrated on the map (preview_tint_calib.py); peat oIV pinned to its map tint and required to be within 8 dE and >= 5 px thick (dark line mixtures look alike); lakes = WATER row, only 5 dE from the low lake terraces lIV (partly confused); subaerial (saIII) and eolian (vIII) cover loams coded E (PI decision 2026-10-04); L,aII-IIIkrs appears only on sections, PREQ not on the face; frame = 4 corners (frame line) + interior 15x10 min graticule crossings as ties"
+1,#b8d4bc,lbIV,"Современные отложения. Озерно-болотные отложения. Переслаивание илов, суглинков, супесей с торфом",L,O,organic,,
+2,#b0a880,oIV,Современные отложения. Органогенные отложения рямов. Торф,O,,organic,,map tint of a hatched peat (ryam) patch after de-ruling (the legend swatch #dbe0bf drifted onto the lake-bog unit)
+3,#c8e5ce,lIV,"Современные отложения. Отложения низких озерных террас. Илы, минеральные грязи, торфосапропели и пески",L,,fines,,
+4,#fdfbae,vIII,"Верхнечетвертичные отложения. Эоловые покровные отложения. Суглинки, супеси, реже пески",E,,fines,,
+5,#fde8b7,saIII,"Верхнечетвертичные отложения. Субаэральные покровные отложения. Суглинки, супеси, реже пески",E,,fines,,subaerial COVER loams: E per PI decision 2026-10-04
+6,#bff68b,a1III,"Верхнечетвертичные отложения. Аллювиальные отложения первых надпойменных террас. Суглинки, пески, супеси",F,,mixed,,
+7,#baf6dc,lIII,"Верхнечетвертичные отложения. Отложения озерных террас. Суглинки, пески, мергели",L,,fines,,
+8,#edbede,PREQ,Дочетвертичные породы,R,,,,
+9,#e3f8e6,WATER,озера (бледно-голубая заливка на карте),H,,,,

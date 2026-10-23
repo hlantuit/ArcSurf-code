@@ -1,0 +1,345 @@
+{
+ "sheet": "O-53-54_g2",
+ "source": "raster scan",
+ "projection": "given",
+ "rms_m": 120.86643034894318,
+ "max_res_m": 127.1291348108025,
+ "m_per_px": 84.77641389443315,
+ "corner_residuals_m": [
+  127.1,
+  127.1,
+  114.3,
+  114.3
+ ],
+ "corners": [
+  {
+   "approx": [
+    600.0,
+    1102.0
+   ],
+   "snapped": [
+    600.0,
+    1102.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    6497.0,
+    1110.0
+   ],
+   "snapped": [
+    6497.0,
+    1110.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    6821.0,
+    6372.0
+   ],
+   "snapped": [
+    6821.0,
+    6372.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    260.0,
+    6363.0
+   ],
+   "snapped": [
+    260.0,
+    6363.0
+   ],
+   "ok": "rejected (moved > 15 px)"
+  }
+ ],
+ "frame_sag_px": 105.0,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga_1m/O-_53_,54_g2/o-5354-ohotsk-gosudarstvennaya-geologicheskaya-karta-sssr-novaya-seriya-karta-che.jpg O-53-54_g2 ../sources/legend_O-53-54_g2.csv ../work/facefix/O-53-54_g2.gpkg --lonlat 135,56,144,60 --datum 4284 --corners '600,1102;6497,1110;6821,6372;260,6363' --thin-units gI,gII2,gII4,gIII2,gIII4,PREQ:3 --proj '+proj=eqdc +lat_1=47 +lat_2=62 +lon_0=139.5'",
+ "unassigned_before_fill": 0.221,
+ "area_km2": 237052.42787700603,
+ "neatline_km2": 237057.37213363036,
+ "cover_frac": 0.999979143206643,
+ "n_polygons": 12523,
+ "units": {
+  "#e68f7c": {
+   "index": "cIV",
+   "px": 809271,
+   "direct_frac": 0.387
+  },
+  "#f0f5a6": {
+   "index": "aIV",
+   "px": 259538,
+   "direct_frac": 0.616
+  },
+  "#cbd6d3": {
+   "index": "mIV",
+   "px": 76777,
+   "direct_frac": 0.337
+  },
+  "#e9f48b": {
+   "index": "aIII+IV",
+   "px": 102197,
+   "direct_frac": 0.511
+  },
+  "#ecbf53": {
+   "index": "adIII+IV",
+   "px": 368431,
+   "direct_frac": 0.455
+  },
+  "#dccda3": {
+   "index": "dpIII+IV",
+   "px": 257835,
+   "direct_frac": 0.628
+  },
+  "#ddf485": {
+   "index": "aIII",
+   "px": 14093,
+   "direct_frac": 0.596
+  },
+  "#e1f388": {
+   "index": "aIII4",
+   "px": 5638,
+   "direct_frac": 0.546
+  },
+  "#b9e27c": {
+   "index": "aIII2",
+   "px": 7747,
+   "direct_frac": 0.315
+  },
+  "#b6e070": {
+   "index": "aIII1",
+   "px": 10070,
+   "direct_frac": 0.204
+  },
+  "#b4875c": {
+   "index": "gIII4",
+   "px": 2130,
+   "direct_frac": 0.418
+  },
+  "#a67245": {
+   "index": "gIII2",
+   "px": 6199,
+   "direct_frac": 0.365
+  },
+  "#c8bc6c": {
+   "index": "fIII2",
+   "px": 1117050,
+   "direct_frac": 0.36
+  },
+  "#87a7b6": {
+   "index": "mIII",
+   "px": 47641,
+   "direct_frac": 0.34
+  },
+  "#7ec089": {
+   "index": "laIII",
+   "px": 63993,
+   "direct_frac": 0.577
+  },
+  "#a8854a": {
+   "index": "g,fII+III",
+   "px": 1271483,
+   "direct_frac": 0.268
+  },
+  "#a4d962": {
+   "index": "aII",
+   "px": 119333,
+   "direct_frac": 0.307
+  },
+  "#c5e96b": {
+   "index": "aII3",
+   "px": 120252,
+   "direct_frac": 0.498
+  },
+  "#b0dc56": {
+   "index": "aII1",
+   "px": 29978,
+   "direct_frac": 0.276
+  },
+  "#955f30": {
+   "index": "gII4",
+   "px": 22038,
+   "direct_frac": 0.111
+  },
+  "#97643d": {
+   "index": "gII2",
+   "px": 1494,
+   "direct_frac": 0.454
+  },
+  "#c0b256": {
+   "index": "fII4",
+   "px": 916070,
+   "direct_frac": 0.414
+  },
+  "#739eb4": {
+   "index": "mII",
+   "px": 11603,
+   "direct_frac": 0.348
+  },
+  "#a5c092": {
+   "index": "lgII4",
+   "px": 117971,
+   "direct_frac": 0.497
+  },
+  "#aee16b": {
+   "index": "aI",
+   "px": 492,
+   "direct_frac": 0.819
+  },
+  "#8c5320": {
+   "index": "gI",
+   "px": 136,
+   "direct_frac": 0.581
+  },
+  "#cdec5c": {
+   "index": "aN2-Q1",
+   "px": 12912,
+   "direct_frac": 0.533
+  },
+  "#f1b7c9": {
+   "index": "e",
+   "px": 224484,
+   "direct_frac": 0.574
+  },
+  "#f38d40": {
+   "index": "e,d",
+   "px": 739201,
+   "direct_frac": 0.604
+  },
+  "#ce4335": {
+   "index": "c",
+   "px": 4054043,
+   "direct_frac": 0.623
+  },
+  "#a2d74b": {
+   "index": "a",
+   "px": 4149,
+   "direct_frac": 0.549
+  },
+  "#f38054": {
+   "index": "dc",
+   "px": 8837716,
+   "direct_frac": 0.667
+  },
+  "#f3b0a5": {
+   "index": "ds",
+   "px": 888971,
+   "direct_frac": 0.628
+  },
+  "#ab7ecc": {
+   "index": "PREQ",
+   "px": 1280,
+   "direct_frac": 0.234
+  },
+  "#eaf8e2": {
+   "index": "WATER",
+   "px": 12711362,
+   "direct_frac": 0.975
+  }
+ },
+ "confusable_pairs": [
+  [
+   "aIII+IV",
+   "aIII",
+   5.5
+  ],
+  [
+   "aIII+IV",
+   "aIII4",
+   3.0
+  ],
+  [
+   "aIII",
+   "aIII4",
+   2.6
+  ],
+  [
+   "aIII2",
+   "aIII1",
+   4.9
+  ],
+  [
+   "aIII1",
+   "aII",
+   6.3
+  ],
+  [
+   "aIII1",
+   "aII3",
+   7.4
+  ],
+  [
+   "aIII1",
+   "aI",
+   4.4
+  ],
+  [
+   "gIII2",
+   "gII4",
+   7.8
+  ],
+  [
+   "gIII2",
+   "gII2",
+   6.1
+  ],
+  [
+   "fIII2",
+   "fII4",
+   7.3
+  ],
+  [
+   "mIII",
+   "mII",
+   6.3
+  ],
+  [
+   "aII",
+   "aII1",
+   7.6
+  ],
+  [
+   "aII",
+   "aI",
+   3.1
+  ],
+  [
+   "aII3",
+   "aII1",
+   7.0
+  ],
+  [
+   "aII3",
+   "aI",
+   7.7
+  ],
+  [
+   "aII1",
+   "aI",
+   7.9
+  ],
+  [
+   "aII1",
+   "a",
+   4.8
+  ],
+  [
+   "gII4",
+   "gII2",
+   5.4
+  ],
+  [
+   "gII4",
+   "gI",
+   5.7
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 120
+}

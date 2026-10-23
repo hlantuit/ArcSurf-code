@@ -1,0 +1,153 @@
+{
+ "sheet": "O-42-XV",
+ "source": "raster scan",
+ "projection": "tmerc",
+ "rms_m": 199.95132861065616,
+ "max_res_m": 203.23515890204462,
+ "m_per_px": 17.125515888414444,
+ "corner_residuals_m": [
+  203.2,
+  203.1,
+  196.6,
+  196.7
+ ],
+ "corners": [
+  {
+   "approx": [
+    1133.0,
+    372.0
+   ],
+   "snapped": [
+    1145.5,
+    375.5
+   ],
+   "ok": true
+  },
+  {
+   "approx": [
+    4509.0,
+    377.0
+   ],
+   "snapped": [
+    4509.0,
+    377.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    4569.0,
+    4848.0
+   ],
+   "snapped": [
+    4569.0,
+    4848.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    1104.0,
+    4842.0
+   ],
+   "snapped": [
+    1094.5,
+    4843.5
+   ],
+   "ok": true
+  }
+ ],
+ "unassigned_before_fill": 0.235,
+ "area_km2": 4345.228141255449,
+ "neatline_km2": 4350.223406849835,
+ "cover_frac": 0.9988517220548904,
+ "n_polygons": 8278,
+ "units": {
+  "#dbdbd0": {
+   "index": "hIV",
+   "px": 1092319,
+   "direct_frac": 0.745
+  },
+  "#fcfabe": {
+   "index": "eolIV",
+   "px": 45269,
+   "direct_frac": 0.248
+  },
+  "#ebf7d3": {
+   "index": "alIV2",
+   "px": 1318657,
+   "direct_frac": 0.571
+  },
+  "#dff7c3": {
+   "index": "alIV1",
+   "px": 1430907,
+   "direct_frac": 0.688
+  },
+  "#f5e9ca": {
+   "index": "d+plIII-IV",
+   "px": 453121,
+   "direct_frac": 0.407
+  },
+  "#c1c9c0": {
+   "index": "l+hIII-IV",
+   "px": 3539938,
+   "direct_frac": 0.577
+  },
+  "#d5faba": {
+   "index": "alIII1",
+   "px": 1219103,
+   "direct_frac": 0.816
+  },
+  "#fbe694": {
+   "index": "prIII",
+   "px": 5800602,
+   "direct_frac": 0.784
+  },
+  "#e1f0d6": {
+   "index": "lalIII",
+   "px": 237686,
+   "direct_frac": 0.565
+  },
+  "#cee4cb": {
+   "index": "lalIIsm",
+   "px": 52797,
+   "direct_frac": 0.439
+  },
+  "#acddb8": {
+   "index": "alIItb",
+   "px": 77153,
+   "direct_frac": 0.335
+  },
+  "#dfb9ce": {
+   "index": "PREQ",
+   "px": 13470,
+   "direct_frac": 0.288
+  }
+ },
+ "confusable_pairs": [
+  [
+   "hIV",
+   "l+hIII-IV",
+   7.7
+  ],
+  [
+   "alIV2",
+   "lalIII",
+   5.7
+  ],
+  [
+   "alIV1",
+   "alIII1",
+   7.7
+  ],
+  [
+   "lalIII",
+   "lalIIsm",
+   5.3
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

@@ -1,0 +1,28 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#d9b37b,"p,d",proluvium and deluvium,F,C,mixed,,"GGK-200/2 M-50-VII (Aginskoe), Argun series, Quaternary map, RASTER (geokniga JPG 12637x8387); 12 near-identical pink slope tints (all C/W); hard-rock fill guessed (patterned swatch)"
+1,#db7187,"dr,s",desertion and solifluxion,C,,bouldery,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+2,#ec8979,"d,s",deluvium and solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+3,#e9796e,"c,dr",colluvium and desertion,C,,bouldery,,
+4,#df868c,"d,dr",deluvium and desertion,C,,mixed,,
+5,#de84aa,"e,dr",eluvium and desertion,W,C,bouldery,,
+6,#ef996a,"c,d",colluvium and deluvium,C,,bouldery,,
+7,#ee9b77,"e,d",eluvium and deluvium,W,C,bouldery,,
+8,#e87877,s,solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+9,#cd818e,dr,desertion,C,,bouldery,,
+10,#e7785f,c,colluvium,C,,bouldery,,
+11,#efa36a,d,deluvium,C,,mixed,,
+12,#b472a2,e,eluvium,W,,bouldery,,
+13,#aeadab,tH,technogenic,X,,mixed,,
+14,#e9e29e,"a,pH",alluvium and proluvium of valley floors,F,,sand,,
+15,#98d3f5,lH,lacustrine beach and basin deposits,L,,sand,,
+16,#f0dfae,pH,proluvium,F,,gravel,,
+17,#d1e7b7,aH,floodplain and channel alluvium,F,,gravel,,
+18,#d1a86a,"p,dIIIos-H",Oshurkovo-Holocene proluvium and deluvium,F,C,fines,,
+19,#cbe4ab,a2IIIst-os,2nd terrace alluvium,F,,gravel,,
+20,#8dca91,a4IIIsv-tm,4th terrace alluvium,F,,gravel,,
+21,#68bd81,a5II5-6br,Borzhigantai 5th terrace alluvium,F,,gravel,,
+22,#67b27a,a6II3-5hb,Kholbon 6th terrace alluvium,F,,sand,,
+23,#31b3ec,lPgl-Ecs,Tsasuchei lacustrine (buried),L,,fines,,
+24,#4cb36e,aPgl-Ecs,Tsasuchei alluvium (buried),F,,gravel,,
+25,#9a5a9e,PREQ,hard rocks (patterned),R,,,,
+26,#c09fc4,PREQ,soft and loose pre-Quaternary rocks,R,,,,

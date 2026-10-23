@@ -1,0 +1,14 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#fcf0a4,kvIIs-IIIsr,"cover formation 'kv' (index letters: k + v, v = eolian; read as cryogenic-eolian cover), Middle (Samarovo) - Late (Sartan) Pleistocene; pale yellow with rows of black vertical hatch",E,,,,"GGK-200 (1st generation, 'Geologicheskaya karta SSSR') P-52-XXVII, Quaternary map (geokniga record 'karta chetvertichnyh obrazovaniy', Amga area); PREVIEW 1752x2386 px (~35 m/px), map face only: no legend, no imprint (print year unknown); units read from the indices printed on the map, genetic wording after the index letters; cover/base fractions (kv over alluvium) printed as two-tint vertical stripes, flattened to marker colours (work/r200f/prep_stripes.py) -> composite rows, hclass = cover, hclass2 = base"
+1,#00ffff,kvIIs-IIIsr/aN2-Q1,"kv cover (Samarovo-Sartan) over Neogene-Early Pleistocene alluvium (Tustakh aN2-Q1ts, Cherendey aN2-Q1cr; also aIpl, aIpk under the cover): green/yellow stripes",E,F,,,composite (stripes)
+2,#8bc488,laII-IIIel,lacustrine-alluvial deposits (Middle-Late Pleistocene) without cover (Lena valley side),L,F,,,
+3,#e3f496,aIIIsr-IV,alluvium of the low terraces (Sartan - Holocene); aIIIkr-sr (Karga-Sartan) strips print alike,F,,,,
+4,#f2faab,aIV,Holocene floodplain alluvium (dotted),F,,,,
+5,#e8fbff,WATER,water (Lena channel),H,,,,
+6,#b56bb0,e,eluvium,W,,,,
+7,#fa9b49,ed,eluvial-deluvial deposits,W,C,,,
+8,#fa9e29,d,deluvial deposits,C,,,,
+9,#f7803c,dc,deluvial-colluvial deposits,C,,,,
+10,#fb9a6f,ds,deluvial-solifluction deposits,C,,,,
+11,#dfc262,ad,alluvial-deluvial deposits (small valleys),F,C,,,
+12,#a0709a,PREQ,pre-Quaternary rocks (unlabelled dark-purple band on the Lena and Buotama valley scarps),R,,,,

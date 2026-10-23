@@ -1,0 +1,162 @@
+{
+ "sheet": "N-42-XI",
+ "source": "raster scan",
+ "projection": "tmerc_utm",
+ "rms_m": 63.64991215962385,
+ "max_res_m": 182.220821404868,
+ "m_per_px": 34.47152026460349,
+ "corner_residuals_m": [
+  32.2,
+  20.4,
+  63.6,
+  30.8,
+  69.1,
+  61.7,
+  87.3,
+  182.2,
+  5.0,
+  83.3,
+  23.6,
+  12.6,
+  36.9,
+  12.3,
+  6.4,
+  12.0,
+  26.0,
+  61.7,
+  17.2,
+  33.4,
+  132.4,
+  21.6
+ ],
+ "n_ties": 18,
+ "corners": [
+  {
+   "approx": [
+    80.6,
+    122.7
+   ],
+   "snapped": [
+    80.6,
+    122.7
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1919.6,
+    122.9
+   ],
+   "snapped": [
+    1919.6,
+    122.9
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1936.0,
+    2290.4
+   ],
+   "snapped": [
+    1936.0,
+    2290.4
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    65.7,
+    2292.1
+   ],
+   "snapped": [
+    65.7,
+    2292.1
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.149,
+ "area_km2": 4741.407431081842,
+ "neatline_km2": 4749.535318363057,
+ "cover_frac": 0.9982886984228142,
+ "n_polygons": 1054,
+ "units": {
+  "#fcfdab": {
+   "index": "aIV",
+   "px": 26041,
+   "direct_frac": 0.713
+  },
+  "#e2fbed": {
+   "index": "LIV",
+   "px": 78909,
+   "direct_frac": 0.815
+  },
+  "#f0eecf": {
+   "index": "LbIV",
+   "px": 162877,
+   "direct_frac": 0.785
+  },
+  "#fff7b0": {
+   "index": "daIV",
+   "px": 9618,
+   "direct_frac": 0.523
+  },
+  "#fbae75": {
+   "index": "dIII-IV",
+   "px": 166164,
+   "direct_frac": 0.762
+  },
+  "#f3fc99": {
+   "index": "aIII",
+   "px": 71366,
+   "direct_frac": 0.641
+  },
+  "#dcfcc2": {
+   "index": "LaIII",
+   "px": 68899,
+   "direct_frac": 0.688
+  },
+  "#b6fa78": {
+   "index": "LaII-III",
+   "px": 216304,
+   "direct_frac": 0.727
+  },
+  "#fef189": {
+   "index": "saI-III",
+   "px": 16547,
+   "direct_frac": 0.814
+  },
+  "#a7f6be": {
+   "index": "aI-II",
+   "px": 2578621,
+   "direct_frac": 0.867
+  },
+  "#fddff9": {
+   "index": "PREQ",
+   "px": 536563,
+   "direct_frac": 0.855
+  },
+  "#f0fef6": {
+   "index": "WATER",
+   "px": 89539,
+   "direct_frac": 0.924
+  }
+ },
+ "confusable_pairs": [
+  [
+   "aIV",
+   "daIV",
+   6.3
+  ],
+  [
+   "LIV",
+   "WATER",
+   5.3
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 30
+}

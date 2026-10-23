@@ -1,0 +1,10 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#adabb1,O,Organic deposits: peat and muck up to 2 m; permafrost common with palsas and ice-wedge polygons,O,,organic,yes,"GSC Map 1870A Lac de Gras (Ward et al. 1997), 1:125k UTM, whole sheet (mn01 scan, lighter of two scans); A and L are blank outline swatches on this print (not distinguishable by colour)"
+1,#ffc84a,G2,Glaciofluvial outwash: rounded gravel and sand < 5 m,GF,,gravel,,
+2,#fffe18,G1,Glaciofluvial esker sediments 1-40 m,GF,,gravel,,
+3,#52897b,T3,Hummocky till 5-30 m,T,,diamicton,,
+4,#76a593,T2,Till blanket 2-10 m,T,,diamicton,blanket,
+5,#9cbb51,T1,Till veneer < 2 m with bedrock patches,T,R,diamicton,veneer,
+6,#f5a1cb,R3,Bedrock: granitoid rocks,R,,,,
+7,#fdcee7,R2,Bedrock: metasedimentary rocks,R,,,,
+8,#ee80b4,R1,Bedrock: volcanic rocks,R,,,,

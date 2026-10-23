@@ -1,0 +1,252 @@
+{
+ "sheet": "N-46-47_g2pv",
+ "source": "raster scan",
+ "projection": "given",
+ "rms_m": 75.41519988638149,
+ "max_res_m": 128.81461497903734,
+ "m_per_px": 320.72806280867593,
+ "envelope": {
+  "top": {
+   "kept": 0.988,
+   "rms_px": 1.13
+  },
+  "bottom": {
+   "kept": 1.0,
+   "rms_px": 1.05
+  },
+  "left": {
+   "kept": 1.0,
+   "rms_px": 1.19
+  },
+  "right": {
+   "kept": 0.988,
+   "rms_px": 1.05
+  }
+ },
+ "unassigned_before_fill": 0.155,
+ "area_km2": 262603.13012910343,
+ "neatline_km2": 262717.1329352759,
+ "cover_frac": 0.9995660625369243,
+ "n_polygons": 10850,
+ "units": {
+  "#f1cdc0": {
+   "index": "ds?IV",
+   "px": 773,
+   "direct_frac": 0.646
+  },
+  "#ebb1a0": {
+   "index": "dsIII-IV",
+   "px": 1188,
+   "direct_frac": 0.759
+  },
+  "#ced5b4": {
+   "index": "aIII-IV",
+   "px": 22542,
+   "direct_frac": 0.711
+  },
+  "#f1d072": {
+   "index": "adIII-IV",
+   "px": 273,
+   "direct_frac": 0.744
+  },
+  "#bcc184": {
+   "index": "apIII-IV",
+   "px": 156,
+   "direct_frac": 0.641
+  },
+  "#a5c2c5": {
+   "index": "lIII-IV",
+   "px": 9330,
+   "direct_frac": 0.558
+  },
+  "#a5d5b3": {
+   "index": "laIII-IV",
+   "px": 309,
+   "direct_frac": 0.696
+  },
+  "#e8d8b5": {
+   "index": "vIII-IV",
+   "px": 10890,
+   "direct_frac": 0.672
+  },
+  "#bac39e": {
+   "index": "aIII",
+   "px": 108155,
+   "direct_frac": 0.507
+  },
+  "#a49751": {
+   "index": "apIII",
+   "px": 1552,
+   "direct_frac": 0.746
+  },
+  "#e5b37a": {
+   "index": "dpIII",
+   "px": 67334,
+   "direct_frac": 0.726
+  },
+  "#85c6cb": {
+   "index": "lIII",
+   "px": 210,
+   "direct_frac": 0.69
+  },
+  "#79b99d": {
+   "index": "laIII",
+   "px": 2051,
+   "direct_frac": 0.477
+  },
+  "#c2a495": {
+   "index": "gIII",
+   "px": 108162,
+   "direct_frac": 0.593
+  },
+  "#9ab0ae": {
+   "index": "lgIII",
+   "px": 3352,
+   "direct_frac": 0.621
+  },
+  "#e1a66d": {
+   "index": "dpII-III",
+   "px": 57377,
+   "direct_frac": 0.704
+  },
+  "#c69d6b": {
+   "index": "dpII-III",
+   "px": 276003,
+   "direct_frac": 0.613
+  },
+  "#aeca84": {
+   "index": "aII",
+   "px": 2906,
+   "direct_frac": 0.631
+  },
+  "#a48e59": {
+   "index": "apII",
+   "px": 32648,
+   "direct_frac": 0.524
+  },
+  "#8f9c9b": {
+   "index": "lgII",
+   "px": 11166,
+   "direct_frac": 0.475
+  },
+  "#b25e85": {
+   "index": "βI-II",
+   "px": 18220,
+   "direct_frac": 0.706
+  },
+  "#eda86a": {
+   "index": "d",
+   "px": 24578,
+   "direct_frac": 0.825
+  },
+  "#b06c6d": {
+   "index": "e,d",
+   "px": 490253,
+   "direct_frac": 0.597
+  },
+  "#b24f69": {
+   "index": "c",
+   "px": 333418,
+   "direct_frac": 0.775
+  },
+  "#e76c75": {
+   "index": "dc",
+   "px": 348577,
+   "direct_frac": 0.818
+  },
+  "#d5727c": {
+   "index": "s",
+   "px": 133878,
+   "direct_frac": 0.761
+  },
+  "#d8587f": {
+   "index": "cs",
+   "px": 184131,
+   "direct_frac": 0.898
+  },
+  "#72af76": {
+   "index": "aN2-Q1",
+   "px": 518,
+   "direct_frac": 0.151
+  },
+  "#be89ba": {
+   "index": "PREQ",
+   "px": 97323,
+   "direct_frac": 0.601
+  },
+  "#9000ff": {
+   "index": "pk/ed",
+   "px": 45497,
+   "direct_frac": 0.879
+  },
+  "#ff00ff": {
+   "index": "pk/d",
+   "px": 66317,
+   "direct_frac": 0.783
+  },
+  "#0060ff": {
+   "index": "pk/a",
+   "px": 2345,
+   "direct_frac": 0.748
+  },
+  "#00c8ff": {
+   "index": "pk/la",
+   "px": 277,
+   "direct_frac": 0.787
+  },
+  "#00a050": {
+   "index": "tf/a",
+   "px": 2716,
+   "direct_frac": 0.837
+  },
+  "#00ff70": {
+   "index": "tf/la",
+   "px": 101,
+   "direct_frac": 0.762
+  },
+  "#00ffff": {
+   "index": "km",
+   "px": 85288,
+   "direct_frac": 0.861
+  },
+  "#cfdee1": {
+   "index": "WATER",
+   "px": 26766,
+   "direct_frac": 0.756
+  }
+ },
+ "confusable_pairs": [
+  [
+   "aIII-IV",
+   "aIII",
+   7.2
+  ],
+  [
+   "lIII-IV",
+   "lgIII",
+   7.2
+  ],
+  [
+   "dpIII",
+   "dpII-III",
+   5.9
+  ],
+  [
+   "lgIII",
+   "lgII",
+   7.5
+  ],
+  [
+   "dpII-III",
+   "d",
+   5.6
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 25,
+ "fixes": [
+  "WATER inside lon/lat box 98.5,52.0,99.0,52.25 removed (65.0 km2): blank paper read as WATER"
+ ]
+}

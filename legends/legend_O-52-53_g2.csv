@@ -1,0 +1,49 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#eeefa1,aIV,floodplain alluvium,F,,mixed,,"GGK-1000/2 O-52,(53) Tommot 1981 (new series), Quaternary map, RASTER (geokniga JPG 9370x8601); frame 126-135E; descriptions translated; floodplain alluvium"
+1,#c8dbc7,lIV,lacustrine,L,,fines,,lacustrine
+2,#d6ceaa,hbIV,chemogenic-biogenic (bogs),O,,organic,,chemogenic-biogenic (bogs)
+3,#edde96,adIII-IV,alluvial-deluvial,F,C,mixed,,alluvial-deluvial
+4,#e8ed83,aIII4,1st terrace upper alluvium,F,,mixed,,1st terrace upper alluvium
+5,#e2eb6d,aIII3-4,1st terrace alluvium,F,,mixed,,1st terrace alluvium
+6,#e4ec8b,aIII3,1st terrace lower alluvium,F,,mixed,,1st terrace lower alluvium
+7,#e0ec93,aIII1-3,1st-2nd terrace alluvium,F,,mixed,,1st-2nd terrace alluvium
+8,#dded8b,aIII2,2nd terrace upper alluvium,F,,mixed,,2nd terrace upper alluvium
+9,#d6eb7f,aIII1-2,2nd terrace alluvium,F,,mixed,,2nd terrace alluvium
+10,#d4eb82,aIII1,2nd terrace lower alluvium,F,,mixed,,2nd terrace lower alluvium
+11,#b1cfc1,lIII1,lacustrine,L,,fines,,lacustrine
+12,#dcc095,gIII4,till,T,,bouldery,,till
+13,#d3ad7a,gIII2,till,T,,bouldery,,till
+14,#d3d096,fIII2,glaciofluvial,GF,,gravel,,glaciofluvial
+15,#edcfba,dsIII2-3,deluvial-solifluxion,C,,mixed,,deluvial-solifluxion
+16,#eec5b4,dsIII1,deluvial-solifluxion,C,,mixed,,deluvial-solifluxion
+17,#ee7a6d,cIII,colluvium,C,,bouldery,,colluvium
+18,#ea8765,dcIII,deluvial-colluvial,C,,bouldery,,deluvial-colluvial
+19,#e594b0,csIII,colluvial-solifluxion,C,,bouldery,,colluvial-solifluxion
+20,#efb3a5,dsIII,deluvial-solifluxion,C,,mixed,,deluvial-solifluxion
+21,#d3eb7a,aIII,alluvium,F,,mixed,,alluvium
+22,#f0df91,adIII,alluvial-deluvial,F,C,mixed,,alluvial-deluvial
+23,#dacf7c,dpIII,deluvial-proluvial,C,F,mixed,,deluvial-proluvial
+24,#d9e5c2,laIII,lake-alluvial,L,F,fines,,lake-alluvial
+25,#c89354,gIII,till,T,,bouldery,,till
+26,#c7c481,fIII,glaciofluvial,GF,,gravel,,glaciofluvial
+27,#cde871,aII2,4th terrace upper alluvium,F,,mixed,,4th terrace upper alluvium
+28,#c4e367,aII1-2,4th terrace alluvium,F,,mixed,,4th terrace alluvium
+29,#d1e3bc,laII2,lake-alluvial,L,F,fines,,lake-alluvial
+30,#b2d3a7,laII1-2,lake-alluvial,L,F,fines,,lake-alluvial
+31,#9bc496,laII1,lake-alluvial,L,F,fines,,lake-alluvial
+32,#ba864a,gII2,till,T,,bouldery,,till
+33,#b6b45e,fII2,glaciofluvial,GF,,gravel,,glaciofluvial
+34,#ceec7d,aII,alluvium,F,,mixed,,alluvium
+35,#b68044,gII,till,T,,bouldery,,till
+36,#9fac5d,fII,glaciofluvial,GF,,gravel,,glaciofluvial
+37,#c9f262,aI,lower Pleistocene alluvium,F,,mixed,,lower Pleistocene alluvium
+38,#a9d29e,laI,lake-alluvial,L,F,fines,,lake-alluvial
+39,#e7b9c3,e,eluvium,W,,bouldery,,eluvium
+40,#fb9245,"e,d",eluvium and deluvium,W,C,bouldery,,eluvium and deluvium
+41,#f76860,c,colluvium,C,,bouldery,,colluvium
+42,#f36c45,dc,deluvial-colluvial,C,,bouldery,,deluvial-colluvial
+43,#e473b6,cs,colluvial-solifluxion,C,,bouldery,,colluvial-solifluxion
+44,#f9ae9b,ds,deluvial-solifluxion,C,,mixed,,deluvial-solifluxion
+45,#f8de78,ad,alluvial-deluvial,F,C,mixed,,alluvial-deluvial
+46,#c6b88b,hb,chemogenic-biogenic,O,,organic,,chemogenic-biogenic
+47,#ad89c2,PREQ,pre-Quaternary,R,,,,pre-Quaternary

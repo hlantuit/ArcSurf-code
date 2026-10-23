@@ -1,0 +1,24 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#e1c7e0,e,"eluvium (rubble, grus, rubbly loams)",W,,bouldery,,"GGK-200/2 M-50-XIII (Novyi Durulgui), Daurian series, Neogene (Pliocene)-Quaternary map, 2nd ed. (electronic edition 2019; compiled Chitageolsyomka 2010), vector PDF (geokniga); Mongolian part of the frame unmapped (white)"
+1,#fed7b5,d,"deluvium (grussy sands, sandy loams)",C,,sand,,
+2,#fab49b,c,colluvium,C,,bouldery,,
+3,#f1bfc9,dr,desertion (rubble with sandy loam),C,,bouldery,,
+4,#fac1b8,s,"solifluxion (rubbly loams, clays)",C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+5,#fdd2b2,"e,d",eluvium and deluvium,W,C,mixed,,
+6,#fbc6ad,"c,d",colluvium and deluvium,C,,mixed,,
+7,#f9b4a6,"c,dr",colluvium and desertion,C,,bouldery,,
+8,#f2beb3,"c,s",colluvium and solifluxion,C,,bouldery,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+9,#fac0af,"d,s",deluvium and solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+10,#f2bdc3,"dr,s",desertion and solifluxion,C,,bouldery,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+11,#e8f1cf,aH,Holocene alluvium,F,,gravel,,
+12,#bee7fb,lH,"Holocene limnium (loams, silty clays)",L,,fines,,
+13,#f4e0af,pH,proluvium,F,,gravel,,
+14,#fff5b6,vIII-H,aeolian sands and loess-like loams,E,,sand,,
+15,#d3e7b7,a2-4III,2nd-4th terrace alluvium,F,,gravel,,
+16,#9cdcf9,lIII,"limnium (gravels, sands, loams)",L,,gravel,,
+17,#c4df9b,aIIbr,Borzhigantai alluvium,F,,sand,,
+18,#acd373,aIIhb,Kholbon suite alluvium,F,,gravel,,
+19,#e7d676,"a,pIIhb",Kholbon suite alluvium and proluvium (section and scheme only),F,,mixed,,
+20,#ddc839,"a,pIhl",Kholui suite alluvium and proluvium,F,,sand,,
+21,#71c276,aN2-Ecs,"Tsasuchei suite alluvium (Pliocene-Eopleistocene, surficial: classed by genesis)",F,,sand,,
+22,#a677b4,PREQ,"pre-Quaternary soft/loose and hard rocks (two patterned swatches, same fill)",R,,,,

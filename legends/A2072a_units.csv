@@ -1,0 +1,9 @@
+x,y,w,index,description_ru,hclass,hclass2,texture,note
+6620,1251,180,O,"Dépôts organiques: tourbe 0,5-3 m",O,,organic,
+6620,1691,180,Ap,"Alluvions récentes: sable, gravier, silt 1-5 m",F,,sand,
+6620,1867,180,At,Alluvions de terrasses fluviales,F,,gravel,
+6620,2256,180,Ld,Glaciolacustres: sédiments deltaïques (lac Chavigny),GL,F,sand,
+6620,3078,180,Go,Épandage proglaciaire subaérien,GF,,gravel,
+6620,3771,180,Tb,Till en couverture continue (>0.5 m),T,,mixed,
+6620,3982,180,Tv,Till en couverture discontinue (<0.5 m),T,R,mixed,veneer
+6620,4433,180,R,Roches archéennes (Province du Supérieur),R,,,

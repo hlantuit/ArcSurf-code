@@ -1,0 +1,21 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+0,DROP,,,,,"blank code (4.8 km2) - dropped so a coarser source can fill it"
+19511,DROP,,,,,"truncated/unknown code (0.03 km2) - dropped"
+195111,R,Q,,veneer,,kalliomaa (bedrock with thin soil cover)
+195112,W,,bouldery,,,rakka (boulder field / block field)
+195113,W,,,,,rapakallio (weathered bedrock) - in-situ weathering
+195214,T,,diamicton,,,"hiekkamoreeni (Mr, sandy till) - moreeni = till"
+195311,Q,,bouldery,,,lohkareita (boulders) - texture-only unit
+195312,Q,,bouldery,,,kiviä (stones) - texture-only unit
+195313,Q,,gravel,,,"sora (gravel) - texture-only; mostly glaciofluvial, genesis not stated (as 200k)"
+195314,Q,,sand,,,hiekka (sand) - texture-only unit
+195315,Q,,sand,,,karkea hieta (coarse fine-sand) - texture-only unit
+195411,Q,,fines,,,hieno hieta (fine fine-sand/silt) - texture-only unit
+195412,Q,,fines,,,hiesu (silt) - texture-only unit
+195413,Q,,fines,,,savi (clay) - texture-only unit
+195511,L,,organic,,,"lieju (gyttja/mud) - lacustrine by definition"
+195512,O,,organic,,,saraturve (sedge peat)
+195513,O,,organic,,,rahkaturve (sphagnum peat)
+195601,X,,,,,täytemaa (fill)
+195602,DROP,,,,,"kartoittamaton (unmapped) - dropped so a coarser source can fill it"
+195603,H,,,,,vesi (water)

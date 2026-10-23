@@ -1,0 +1,96 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+Alluvial,F,,,,,
+"Terrestrial, Alluvial deposits",F,,,,,
+"Submerged terrestrial quaternary deposits, Alluvial",F,,,,,offshore unit; removed by land clip where submerged
+"Submerged Terrestrial Formation, Alluvial",F,,,,,offshore unit
+Proluvial,F,,,,,proluvial = alluvial fan / torrent deposits
+Alluvial-proluvial,F,,,,,
+Alluvial-deluvial,F,C,,,,
+Alluvial-deluvial deposits,F,C,,,,
+Alluvial-marine,F,M,,,,deltaic / estuarine
+Alluvial-marine (deltoid),F,M,,,,deltaic
+"Sediment genesis, Alluvial-marine",F,M,,,,deltaic / estuarine
+"Submerged Terrestrial Formation, Alluvial-marine (deltoid)",F,M,,,,offshore delta
+"Shallow Shelves, Alluvial-marine (delta)",F,M,,,,offshore delta
+"Marine deposits on shallow shelves, Alluvial-marine (fore delta)",M,F,,,,offshore
+"Marine deposits on shallow shelves, Alluvial-marine (deltaic)",M,F,,,,offshore
+Lacustrine-alluvial,L,F,,,,ice-complex host in Yakutia; promoted to Y only where the source Yedoma flag is set
+Lacustrin-alluvial,L,F,,,,typo variant of Lacustrine-alluvial
+"Sediment genesis, Lacustrine-alluvial",L,F,,,,
+"Submerged Terrestrial Formation, Lacustrine-alluvial",L,F,,,,offshore unit
+Cryogenic lacustrine-alluvial,L,F,,,,"'cryogenic' qualifier; ice content not stated -> ice_rich from source flags only"
+"Submerged terrestrial quaternary deposits, Cryogenic lacustrine-alluvial",L,F,,,,offshore unit
+Lacustrine,L,,,,,
+Lacustrine-deluvial,L,C,,,,
+Lacustrine-boggy,L,O,,,,
+Lacustrine and lacustrine-boggy,L,O,,,,
+Lacustrine-bog,L,O,,,,
+"Sediment genesis, Lacustrine-bog",L,O,,,,
+"Lacustrine bog, eluvial and solifluction-related",L,O,,,,
+"Loess-like, Lacustrine-boggy, Lacustrine-alluvial",L,E,,,,composite unit
+Lacustrine and cryogenic - eolian (loessial),L,E,,,,
+Biogenic,O,,organic,,,biogenic = peat / organic deposits
+Deluvial,C,,,,,deluvial = slope-wash colluvium
+Deluvial-colluvial,C,,,,,
+"Sediment genesis, Deluvial-colluvial",C,,,,,
+Deluvial-solifluction-related,C,,,,,
+Deluvial-Solifluction-related,C,,,,,
+Deluvial-solifluction,C,,,,,
+"Sediment genesis, Deluvial-solifluction",C,,,,,
+"Sediment genesis, Deluvial-proluvial",C,F,,,,
+Colluvial,C,,,,,
+"Terrestrial, Colluvial",C,,,,,
+Colluvial-solifluction-related,C,,,,,
+"Deluvial, Loess (cryogenic-eolian deposits)",C,E,,,,
+"Sediment genesis, Loess deluvial-solifluction",C,E,,,,
+Eluvial,W,,,,,eluvium = in-situ weathering products
+"Terrestrial, Eluvial",W,,,,,
+Eluvial-deluvial,W,C,,,,
+Eluvial and Deluvial,W,C,,,,
+"Eluvial, Deluvial",W,C,,,,
+Eluvial and Deluvial-solifluction-related,W,C,,,,
+Pre-Quaternary rocks,R,,,,,
+"Marine deposits on shallow shelves, Pre-quaternary",R,,,,,offshore unit
+Loess  (cryogenic-eolian deposits),E,,fines,,,"cryogenic-eolian silt; in Russian usage often the ice-complex hypothesis, but ice not stated here -> ice from source flags only"
+Loess (cryogenic-eolian type for IIImr and IIIsr),E,,fines,,,see cryogenic-eolian note
+Loess (cryogenic-eolian and usual types),E,,fines,,,see cryogenic-eolian note
+"Cryogenic-eolian, shallow ice deposits",E,,fines,,,"legend says 'ice deposits' but gives no content; ice_rich not asserted"
+Loess,E,,fines,,,
+Loess-like deposits,E,,fines,,,
+"Sediment genesis, Loess lacustrine-alluvial",E,L,fines,,,
+"Submerged terrestrial, Loess lacustrin-alluvial deposits",E,L,fines,,,offshore unit
+Eolian,E,,,,,
+"Terrestrial, Eolian deposits",E,,,,,
+Glacial,T,,,,,
+Glacial (morainic),T,,,,,
+Glacial (boundary morainic),T,,,,,end moraine
+Glacial (main morainic),T,,,,,
+"Glacial, Fluvioglacial",T,GF,,,,
+Eluvioglacial,T,W,,,,weathered till
+Fluvioglacial,GF,,,,,
+Fluvioglacial (periglacial),GF,,,,,outwash
+Fluvioglacial (intraglacial),GF,,,,,ice-contact
+Glacio-lacustrine,GL,,,,,
+Glacial-marine,GM,,,,,
+Marine deposits on shore,M,,,,,
+"Terrestrial, Marine deposits",M,,,,,
+Marine Deposits,M,,,,,
+"Marine Wave-related (beach, coastal)",M,,,,,beach / littoral
+"Marine deposits on shallow shelves, Wave-related: coast",M,,,,,littoral; offshore where submerged
+"Marine deposits on shallow shelves, Wave-related (coast)",M,,,,,littoral
+"Marine deposits on shallow shelves, Wave-related: beach",M,,,,,beach
+"Shallow Shelves, Wave-generated, coast",M,,,,,littoral
+"Shallow Shelves, Wave-generated, beach",M,,,,,beach
+"Marine deposits on shallow shelves, Basin-related (lagoons)",M,,,,,lagoonal
+"Marine deposits on shallow shelves, Basin-related: lagoon",M,,,,,lagoonal
+Marine Basin-related (lagoons),M,,,,,lagoonal
+"Marine deposits on shallow shelves, Basin-related: stillwater",M,,,,,offshore basin
+"Marine deposits on shallow shelves, Basin stillwater deposits",M,,,,,offshore basin
+Marine Stream (underwater-fluvial),M,,,,,offshore
+Cryogenic difficult orgin,Q,,,,,"'cryogenic, complex origin' - genesis unresolved by the source"
+Pliocene-lower division quaternary deposits,Q,,,,,
+Ice and firn of mountain glaciers,I,,,,,
+"Glaciers, firn",I,,,,,
+Glacier,I,,,,,
+Volcanic,V,,,,,
+Water,H,,,,,"water body kept: OSM land includes lakes/channels, so dropping it would turn them into U"

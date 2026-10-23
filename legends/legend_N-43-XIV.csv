@@ -1,0 +1,11 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#d7f9b3,alQIV,"Современные отложения. Аллювиальные отложения пойменной террасы реки Иртыша. Пески тонкозернистые, супеси, суглинки, реже глины",F,,mixed,,"GGK-200 N-43-XIV (Geologicheskaya karta SSSR, 1st edition, approved 1966, printed 1971; Irtysh-Ishim interfluve south of Omsk, 73-74E 54d-54d40mN), Quaternary map; RASTER = geokniga 2000x2322 px PREVIEW (~35 m/px); vertical lithology ruling removed (work/r200d/prep_vlines.py); tints calibrated on the map (preview_tint_calib.py); the blue ovals are lake deposits (lQIV rings, l+hQIV cores: dry lake basins, not open water): lQIV+l+hQIV merged at their map tint (L, hclass2 O); the Irtysh = WATER; saQIII (subaerial cover loams) and eolQIII coded E (PI decision 2026-10-04); frame = 4 corners (checked at 10x) + 9 interior 15x10 min graticule crossings as ties (checked at 6x)"
+1,#b3d5c3,lQIV,"Современные отложения. Озерные отложения. Суглинки, глины, пески",L,O,fines,,hand-sampled swatch ; same printed colour as l+hQIV: one class ; map tint of the lake-deposit ovals
+2,#b3d5c3,l+hQIV,"Современные отложения. Озерно-болотные отложения. Суглинки, глины, пески, илы",L,O,fines,,hand-sampled swatch ; same printed colour as lQIV: one class
+3,#cef094,alQIII1,"Верхнечетвертичные отложения. Аллювиальные отложения первой надпойменной террасы реки Иртыша. Пески тонкозернистые, супеси, суглинки иногда иловатые, реже глины",F,,mixed,,
+4,#ebe7a5,eolQIII,Верхнечетвертичные отложения. Эоловые покровные отложения. Пески тонко-мелкозернистые и супеси пылеватые,E,,sand,,
+5,#fefdc5,saQIII,"Верхнечетвертичные отложения. Субаэральные покровные отложения. Суглинки желто-бурые, редко супеси и пески тонкозернистые",E,,fines,,subaerial COVER loams: E per PI decision 2026-10-04
+6,#d7fa87,alQIII2,"Верхнечетвертичные отложения. Аллювиальные отложения второй надпойменной террасы реки Иртыша. Пески, супеси, суглинки, реже алевриты",F,,mixed,,
+7,#91db6d,alQII-III3,"Средне-верхнечетвертичные отложения. Аллювиальные отложения третьей надпойменной террасы реки Иртыша. Пески тонкозернистые, реже суглинки и супеси",F,,sand,,
+8,#f7bae6,aQ,Дочетвертичные отложения,R,,,,
+9,#b2d3aa,WATER,р. Иртыш,H,,,,river tint sampled on the map

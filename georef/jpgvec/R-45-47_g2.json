@@ -1,0 +1,235 @@
+{
+ "sheet": "R-45-47_g2",
+ "source": "raster scan",
+ "projection": "given",
+ "rms_m": 321.2320362496717,
+ "max_res_m": 346.2068099840889,
+ "m_per_px": 84.02717757512953,
+ "corner_residuals_m": [
+  345.3,
+  346.2,
+  295.1,
+  294.2
+ ],
+ "corners": [
+  {
+   "approx": [
+    973.0,
+    888.0
+   ],
+   "snapped": [
+    973.0,
+    888.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    7492.0,
+    912.0
+   ],
+   "snapped": [
+    7492.0,
+    912.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    8034.0,
+    6152.0
+   ],
+   "snapped": [
+    8034.0,
+    6152.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    385.0,
+    6140.0
+   ],
+   "snapped": [
+    385.0,
+    6140.0
+   ],
+   "ok": false
+  }
+ ],
+ "frame_sag_px": 202.0,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga_1m/R-_45_-47_g2/r-45-47-norilsk-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federacii-n.jpg R-45-47_g2 ../sources/legend_R-45-47_g2.csv ../work/facefix/R-45-47_g2.gpkg --lonlat 87,68,102,72 --datum 4284 --corners '973,888;7492,912;8034,6152;385,6140' --proj '+proj=eqdc +lat_1=47 +lat_2=62 +lon_0=94.5'",
+ "unassigned_before_fill": 0.367,
+ "area_km2": 255569.72268917348,
+ "neatline_km2": 255564.15781776063,
+ "cover_frac": 1.0000217748508256,
+ "n_polygons": 27271,
+ "units": {
+  "#fefe7d": {
+   "index": "aIV",
+   "px": 272653,
+   "direct_frac": 0.535
+  },
+  "#fae585": {
+   "index": "pIV",
+   "px": 136821,
+   "direct_frac": 0.19
+  },
+  "#a9f4fc": {
+   "index": "lIV",
+   "px": 783494,
+   "direct_frac": 0.304
+  },
+  "#525d5b": {
+   "index": "tIV",
+   "px": 660962,
+   "direct_frac": 0.025
+  },
+  "#d3f68f": {
+   "index": "a1IIIsr-IV",
+   "px": 470482,
+   "direct_frac": 0.596
+  },
+  "#68c2f8": {
+   "index": "lIIIsr-IV",
+   "px": 213877,
+   "direct_frac": 0.681
+  },
+  "#fcfd77": {
+   "index": "vIIIsr-IV",
+   "px": 2075745,
+   "direct_frac": 0.628
+  },
+  "#bc50bc": {
+   "index": "eIII-IV",
+   "px": 1040476,
+   "direct_frac": 0.582
+  },
+  "#fb9040": {
+   "index": "dIII-IV",
+   "px": 5109208,
+   "direct_frac": 0.463
+  },
+  "#f45fa9": {
+   "index": "e,dIII-IV",
+   "px": 3498863,
+   "direct_frac": 0.724
+  },
+  "#fb102c": {
+   "index": "cIII-IV",
+   "px": 256653,
+   "direct_frac": 0.853
+  },
+  "#f9323e": {
+   "index": "dcIII-IV",
+   "px": 3115783,
+   "direct_frac": 0.779
+  },
+  "#f7626c": {
+   "index": "dsIII-IV",
+   "px": 452146,
+   "direct_frac": 0.685
+  },
+  "#aae05c": {
+   "index": "a2IIIsr",
+   "px": 335156,
+   "direct_frac": 0.825
+  },
+  "#b0c960": {
+   "index": "fIIIsr",
+   "px": 1138192,
+   "direct_frac": 0.408
+  },
+  "#f79a7f": {
+   "index": "gIIIsr2",
+   "px": 402266,
+   "direct_frac": 0.262
+  },
+  "#70c8db": {
+   "index": "lgIIIsr2",
+   "px": 521580,
+   "direct_frac": 0.613
+  },
+  "#f7846b": {
+   "index": "gIIIsr1",
+   "px": 1691278,
+   "direct_frac": 0.616
+  },
+  "#50b8da": {
+   "index": "lgIIIsr1",
+   "px": 1675690,
+   "direct_frac": 0.722
+  },
+  "#6fbc48": {
+   "index": "aIIIkr",
+   "px": 255197,
+   "direct_frac": 0.632
+  },
+  "#31a2fb": {
+   "index": "lIIIkr",
+   "px": 158045,
+   "direct_frac": 0.668
+  },
+  "#dc5849": {
+   "index": "gIIImr",
+   "px": 4585211,
+   "direct_frac": 0.509
+  },
+  "#a2c756": {
+   "index": "fIIImr",
+   "px": 772163,
+   "direct_frac": 0.719
+  },
+  "#47b8e0": {
+   "index": "lgIIImr",
+   "px": 1020768,
+   "direct_frac": 0.601
+  },
+  "#45a73b": {
+   "index": "aIIIkz",
+   "px": 147030,
+   "direct_frac": 0.498
+  },
+  "#6b8df8": {
+   "index": "mIIIkz",
+   "px": 224412,
+   "direct_frac": 0.365
+  },
+  "#c73735": {
+   "index": "gIIs+t",
+   "px": 4953785,
+   "direct_frac": 0.424
+  },
+  "#0d748b": {
+   "index": "lgIIs+t",
+   "px": 2164814,
+   "direct_frac": 0.451
+  },
+  "#7d2fa3": {
+   "index": "PREQ",
+   "px": 61182,
+   "direct_frac": 0.172
+  }
+ },
+ "confusable_pairs": [
+  [
+   "aIV",
+   "vIIIsr-IV",
+   2.3
+  ],
+  [
+   "fIIIsr",
+   "fIIImr",
+   6.2
+  ],
+  [
+   "lgIIIsr1",
+   "lgIIImr",
+   3.4
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 120
+}

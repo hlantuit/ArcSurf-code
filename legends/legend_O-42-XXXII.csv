@@ -1,0 +1,8 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#d5efdc,lbIV,"Современные отложения. Озерно-болотные отложения. Глины, торф, илы, супеси",L,O,organic,,"GGK-200 O-42-XXXII (Geologicheskaya karta SSSR, 1st edition, Ishim series; approved 1975, printed 1977; 67-68E 56d-56d40mN), Quaternary map; RASTER = geokniga 1972x2389 px PREVIEW (~34 m/px); vertical lithology ruling removed (work/r200d/prep_vlines.py); tints calibrated on the map (preview_tint_calib.py); e,dIII (subaerial cover loams, partly loess-like) coded E, hclass2 W (PI decision 2026-10-04); frame = 4 corners (paper edge and ridge filter agree) + 4 mid-side graticule lines + 9 interior 15x10 min graticule crossings as ties"
+1,#fcfc87,vIII-IV,Верхнечетвертичные-современные отложения. Эоловые отложения. Боровые пески,E,,sand,,
+2,#f7f2c7,"d,plIII-IV","Верхнечетвертичные-современные отложения. Делювиальные и пролювиальные отложения. Супеси, суглинки",C,F,fines,,
+3,#fdcb9c,"e,dIII","Верхнечетвертичные отложения. Элювиальные и делювиальные покровные отложения. Суглинки, лёссовидные суглинки",E,W,fines,,"subaerial COVER loams (покровные; partly loess-like): coded E per PI decision 2026-10-04 (loess / loess-like / subaerial cover = E), hclass2 W = the legend genesis e,d"
+4,#ebf5be,a2III,"Верхнечетвертичные отложения. Аллювиальные отложения второй надпойменной террасы. Пески, супеси, суглинки",F,,mixed,,
+5,#d5f4b9,LaII2sm,"Среднечетвертичные отложения. Самаровская свита. Отложения озерно-аллювиальной равнины верхнего уровня. Глины, пески разнозернистые с гравием",L,F,mixed,,
+6,#ffd3f1,PREQ,Дочетвертичные породы,R,,,,

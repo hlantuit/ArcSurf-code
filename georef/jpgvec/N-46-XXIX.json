@@ -1,0 +1,147 @@
+{
+ "sheet": "N-46-XXIX",
+ "source": "raster scan",
+ "projection": "tmerc_utm",
+ "rms_m": 23.674664405412916,
+ "max_res_m": 45.61077205583611,
+ "m_per_px": 36.183385337339736,
+ "corner_residuals_m": [
+  27.8,
+  28.0,
+  45.6,
+  7.1,
+  8.7,
+  11.0,
+  15.4,
+  1.9,
+  23.2,
+  23.5,
+  14.9,
+  35.5,
+  24.2
+ ],
+ "n_ties": 9,
+ "corners": [
+  {
+   "approx": [
+    81.1,
+    148.5
+   ],
+   "snapped": [
+    81.1,
+    148.5
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1921.9,
+    150.6
+   ],
+   "snapped": [
+    1921.9,
+    150.6
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1934.7,
+    2198.1
+   ],
+   "snapped": [
+    1934.7,
+    2198.1
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    66.9,
+    2196.3
+   ],
+   "snapped": [
+    66.9,
+    2196.3
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.102,
+ "area_km2": 4973.752186073055,
+ "neatline_km2": 4981.162689338271,
+ "cover_frac": 0.9985122944727187,
+ "n_polygons": 3020,
+ "units": {
+  "#b67eaf": {
+   "index": "e,s",
+   "px": 569896,
+   "direct_frac": 0.784
+  },
+  "#f4824e": {
+   "index": "c",
+   "px": 110460,
+   "direct_frac": 0.832
+  },
+  "#f8a480": {
+   "index": "ds",
+   "px": 927763,
+   "direct_frac": 0.874
+  },
+  "#f9b398": {
+   "index": "drs",
+   "px": 1490239,
+   "direct_frac": 0.898
+  },
+  "#b4b19d": {
+   "index": "tH",
+   "px": 7442,
+   "direct_frac": 0.418
+  },
+  "#97d234": {
+   "index": "aIIIak-H",
+   "px": 15017,
+   "direct_frac": 0.648
+  },
+  "#8bc08a": {
+   "index": "a,dsIIIak-H|a2,laIIIbl",
+   "px": 42949,
+   "direct_frac": 0.624
+  },
+  "#b6db7c": {
+   "index": "aIIIbl-H|aIIIkh-bl|aIIIkh",
+   "px": 174765,
+   "direct_frac": 0.697
+  },
+  "#ece787": {
+   "index": "apIII-H",
+   "px": 6575,
+   "direct_frac": 0.87
+  },
+  "#f4d07b": {
+   "index": "dpIII-H",
+   "px": 42360,
+   "direct_frac": 0.892
+  },
+  "#dea35b": {
+   "index": "gIIIak|gIIIcb",
+   "px": 65580,
+   "direct_frac": 0.784
+  },
+  "#d58d47": {
+   "index": "gIIcs",
+   "px": 143048,
+   "direct_frac": 0.823
+  },
+  "#9a6ba7": {
+   "index": "PREQ",
+   "px": 200831,
+   "direct_frac": 0.799
+  }
+ },
+ "confusable_pairs": [],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 30
+}

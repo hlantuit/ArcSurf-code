@@ -1,0 +1,27 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#fdd2b2,"e,d",eluvium and deluvium,W,C,mixed,,"GGK-200/2 M-49-XI, Western Transbaikalia (Selenga), Quaternary map, vector PDF (geokniga)"
+1,#fbc6ad,"c,d",colluvium and deluvium,C,,mixed,,
+2,#f9b4a6,"c,dr",colluvium and desertion,C,,bouldery,,
+3,#f2beb3,"c,s",colluvium and solifluxion,C,,bouldery,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+4,#fac0af,"d,s",deluvium and solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+5,#f2bdc3,"dr,s",desertion and solifluxion,C,,bouldery,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+6,#fae3c3,"p,d",proluvium and deluvium,F,C,fines,,
+7,#e1c7e0,e,eluvium,W,,mixed,,
+8,#fed7b5,d,deluvium,C,,sand,,
+9,#fab49b,c,colluvium,C,,bouldery,,
+10,#f1bfc9,dr,desertion,C,,bouldery,,
+11,#fac1b8,s,solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+12,#e2eec3,aH,floodplain and channel alluvium,F,,gravel,,
+13,#f4e0af,pH,proluvial fans,F,,bouldery,,
+14,#9cdcf9,lH,lacustrine,L,,fines,,
+15,#f4ce98,"p,dIIIos-H",proluvium and deluvium,F,C,fines,,
+16,#d7e7aa,a1IIIos-H,1st terrace alluvium,F,,gravel,,
+17,#d1e39b,aIII,alluvium,F,,gravel,,
+18,#c4df9b,a2IIIst-os,2nd terrace alluvium,F,,gravel,,
+19,#b7da9b,a3IIItm,Tompa 3rd terrace alluvium,F,,gravel,,
+20,#9acf8b,a4IIIsv-tm,4th terrace alluvium,F,,sand,,
+21,#8aca8b,a5IItn-br,5th terrace alluvium,F,,sand,,
+22,#60c3aa,laII3-5kr,Krivoyar lake-alluvial,L,F,gravel,,
+23,#87c875,aQgl-Ecs,Tsasuchei alluvium (scheme only),F,,gravel,,
+24,#a677b4,PREQ,soft pre-Quaternary rocks,R,,,,
+25,#a677b4,PREQ,hard pre-Quaternary rocks,R,,,,

@@ -1,0 +1,150 @@
+{
+ "sheet": "N-51-XXIV",
+ "source": "raster scan",
+ "projection": "lcc",
+ "rms_m": 4.460684250239496,
+ "max_res_m": 8.902987626331175,
+ "m_per_px": 16.933851976075793,
+ "corner_residuals_m": [
+  4.5,
+  4.3,
+  2.6,
+  3.1,
+  4.3,
+  1.9,
+  1.5,
+  8.2,
+  7.0,
+  4.3,
+  3.4,
+  5.6,
+  0.3,
+  1.5,
+  0.5,
+  8.9,
+  6.8,
+  7.4,
+  3.7,
+  1.1,
+  2.3,
+  0.6,
+  4.1,
+  1.4,
+  4.1
+ ],
+ "n_ties": 21,
+ "corners": [
+  {
+   "approx": [
+    3835.9,
+    834.9
+   ],
+   "snapped": [
+    3835.9,
+    834.9
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    7708.0,
+    834.9
+   ],
+   "snapped": [
+    7708.0,
+    834.9
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    7739.1,
+    5216.8
+   ],
+   "snapped": [
+    7739.1,
+    5216.8
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    3804.7,
+    5216.8
+   ],
+   "snapped": [
+    3804.7,
+    5216.8
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.073,
+ "area_km2": 4898.202492078529,
+ "neatline_km2": 4904.6421241612525,
+ "cover_frac": 0.9986870332391836,
+ "n_polygons": 2013,
+ "units": {
+  "#b7c0c6": {
+   "index": "tH",
+   "px": 130762,
+   "direct_frac": 0.576
+  },
+  "#edf6b5": {
+   "index": "aIII4+H",
+   "px": 822608,
+   "direct_frac": 0.74
+  },
+  "#ffb6ae": {
+   "index": "sIII3-H",
+   "px": 4197030,
+   "direct_frac": 0.909
+  },
+  "#feb794": {
+   "index": "c,dIII3-H",
+   "px": 946733,
+   "direct_frac": 0.868
+  },
+  "#ffb199": {
+   "index": "dsIII3-H",
+   "px": 6936692,
+   "direct_frac": 0.904
+  },
+  "#e1f3a5": {
+   "index": "aIII2",
+   "px": 103806,
+   "direct_frac": 0.773
+  },
+  "#bbea8b": {
+   "index": "aI-II1",
+   "px": 364610,
+   "direct_frac": 0.857
+  },
+  "#ffaf72": {
+   "index": "edN2-H",
+   "px": 3276019,
+   "direct_frac": 0.915
+  },
+  "#5cd1a4": {
+   "index": "laN1sz",
+   "px": 321851,
+   "direct_frac": 0.86
+  }
+ },
+ "confusable_pairs": [
+  [
+   "aIII4+H",
+   "aIII2",
+   7.6
+  ],
+  [
+   "c,dIII3-H",
+   "dsIII3-H",
+   6.0
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

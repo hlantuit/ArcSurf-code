@@ -1,0 +1,15 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#b787bd,e,eluvium: rock fragments and rubble,W,,bouldery,,"GGK-1000/3 P-49 (Mirny), Quaternary map, RASTER (geokniga JPG 9094 px, ~80 m/px), legend sampled from the raster; reservoir hatch (97152) left to linework/water"
+1,#efccc2,"e,dr",eluvium and desertion,W,C,bouldery,,
+2,#ff9997,"c,dr",colluvium and desertion,C,,bouldery,,
+3,#f8b696,"d,s",deluvium and solifluxion: loams with rubble,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+4,#cea7f6,E,eluvium desertion and solifluxion,W,C,mixed,,
+5,#f4ffc7,aH,high and low floodplain alluvium,F,,sand,,
+6,#9fbaba,tH,technogenic: dredge tailings and dumps,X,,mixed,,
+7,#ceff85,a1III4-H,1st terrace alluvium,F,,gravel,,
+8,#9ed5d2,"l,plIII-H",lacustrine and palustrine: peat and silts,L,O,organic,,
+9,#f1a6e6,SIII-H,deluvium desertion and solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+10,#a8ff52,a2III3-4,2nd terrace alluvium,F,,gravel,,
+11,#86ff53,a3III1-2,3rd terrace alluvium,F,,gravel,,
+12,#5cff36,aII5-6,4th terrace alluvium,F,,sand,,
+13,#895ba8,PREQ,pre-Quaternary (correlation scheme only),R,,,,

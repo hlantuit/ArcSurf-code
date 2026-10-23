@@ -1,0 +1,24 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#418bec,"Wr,Wp","MARINE DEPOSITS: sand, gravel, silt, clay, minor peat; at or near present sea level. Wr beaches, bars and spits; Wp intertidal plains and salt marshes",M,,mixed,,"GSC Map 1647A Tuktoyaktuk Coastlands (Rampton 1987), raster scan. NB this legend uses W = marine and M = MORAINAL"
+1,#ffff6d,Ap,"ALLUVIAL: floodplains and deltas: silt, clay, fine sand, minor gravel; includes Aklavik Formation (Mackenzie Delta)",F,,fines,,
+2,#ffff2c,At,"ALLUVIAL: terraces: sand, gravel, silt, minor peat; generally more than 5 m thick",F,,mixed,,
+3,#ffcc6b,Af,"ALLUVIAL: fans: silt, clay, fine sand, some coarse sand, gravel",F,,mixed,,
+4,#975654,C,"COLLUVIAL DEPOSITS: clay, silt, sand, rubble; 0.5-3 m; blankets and veneers on slopes",C,,mixed,,
+5,#c8939c,E,"EOLIAN DEPOSITS: sand, silty sand; 1.5-3 m; dunes and blanket on glaciofluvial deposits",E,,sand,,
+6,#c5b3e1,L,"LACUSTRINE DEPOSITS (Parsons Lake Formation): silt, sand, some peat; 2-8 m; deposited mainly in thermokarst basins",K,L,fines,,thermokarst-basin lacustrine
+7,#c2bfc7,O,"ORGANIC DEPOSITS: bogs, fens, swamps; peat, muck; 1-3 m",O,,organic,,
+8,#9581bb,L^S,"Sitidgi stade: LACUSTRINE DEPOSITS (Eskimo Lakes Member): silt, sand, some gravel, peat; deposited mainly through thermokarst during high water phase of Eskimo Lakes",L,K,fines,,
+9,#ff9e5f,Gp^S,"Sitidgi stade: GLACIOFLUVIAL outwash plains and valley trains; 3-20 m; Portage Point Sands, Kugaluk River Outwash",GF,,sand,,
+10,#e03c51,Gx^S,"Sitidgi stade: GLACIOFLUVIAL ice-contact deposits: eskers, kames, kame and kettle complexes; 5-30 m",GF,,mixed,,
+11,#82ac7d,Mm^S,"Sitidgi stade: MORAINAL hummocky and rolling moraine; 4-10 m",T,,diamicton,,
+12,#a5c379,Mb^S,"Sitidgi stade: MORAINAL blanket; generally 2-5 m",T,,diamicton,,
+13,#735a96,L^T,"Toker Point stade: LACUSTRINE DEPOSITS",L,,fines,,second legend column read from symbols and headings (text partly off-crop)
+14,#ff8258,"Gp^T,F","Toker Point / Franklin Bay stades: GLACIOFLUVIAL outwash",GF,,sand,,
+15,#ea4e66,Gx^T,"Toker Point stade: GLACIOFLUVIAL ice-contact deposits",GF,,mixed,,
+16,#7cadcb,"Mm^T,F,B","MORAINAL: rolling moraine; generally 4-12 m",T,,diamicton,,
+17,#a4c8ce,"Mb^T,B Mv^T","MORAINAL: Mb blanket 1-10 m; Mv veneer < 1 m",T,,diamicton,,
+18,#ff7f60,G,"Wisconsinan GLACIOFLUVIAL DEPOSITS: sand and gravel; 3-30 m; proglacial valley train",GF,,mixed,,"colour close to Gp^T,F and G^M (all GF)"
+19,#fd6b4f,G^M,"Mason River glaciation: GLACIOFLUVIAL DEPOSITS: sand, minor silt and gravel; 1-4 m; valley train",GF,,sand,,
+20,#d8e379,M^M,"Mason River glaciation: MORAINAL DEPOSITS: till and associated gravel and sand; veneer < 1 m",T,,diamicton,,
+21,#bc679f,A.W^L,"Liverpool Bay interglaciation and earlier: PERIMARINE DEPOSITS: sand, silt, clay, minor gravel; alluvial and marine coastal plain; Ikpisugyuk Fm, Stanton Sediments, Baillie Clay",F,M,mixed,,
+22,#f6aad1,R,"ROCK: mountain ridges and peaks, glacially scoured surfaces; surface generally weathered",R,,,,

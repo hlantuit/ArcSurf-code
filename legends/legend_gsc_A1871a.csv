@@ -1,0 +1,12 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#cdcecc,O,Organic deposits: peat and muck up to 2 m; bogs; permafrost common with palsas and ice-wedge polygons,O,,organic,yes,"GSC Map 1871A Winter Lake (Kerr et al. 1996), 1:125k UTM, two halves (north = mg1 without legend, south = mn02 with legend); tints per half checked with tint_check"
+1,#ffe07c,A,Alluvial deposits: gravel to silt 1-5 m; floodplains,F,,mixed,,
+2,#8d669d,L,Glaciolacustrine deposits: silt and sand 1-8 m,GL,,fines,,
+3,#ffc22e,G2,Glaciofluvial outwash: rounded gravel and sand < 5 m; braided fans,GF,,gravel,,
+4,#ffff00,G1,Glaciofluvial esker sediments: sand silt gravel 1-40 m; ridges mounds aprons,GF,,gravel,,
+5,#568771,T3,Hummocky till 5-30 m,T,,diamicton,,
+6,#7aa790,T2,Till blanket 2-10 m,T,,diamicton,blanket,
+7,#a1bf3a,T1,Till veneer < 2 m; includes patches of bedrock and till blanket,T,R,diamicton,veneer,
+8,#f79dc7,R3,Bedrock: granitoid rocks,R,,,,
+9,#fec8e2,R2,Bedrock: metasedimentary rocks,R,,,,
+10,#f07aae,R1,Bedrock: volcanic rocks,R,,,,

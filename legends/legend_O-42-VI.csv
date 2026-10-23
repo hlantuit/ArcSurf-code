@@ -1,0 +1,16 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#fffeb4,dIV,"Holocene deluvium (same tint as a1III-IV, dE~2)",C,,fines,,"GGK-200 O-42-VI (1st edition, 1980s), West Siberian series, Quaternary map, RASTER (geokniga JPG 5597x8450, ~14.8 m/px, slightly rotated: 4 corners read); peat shown only as T symbols -> not captured; patterned subaerial cover variants fall to neighbours"
+1,#ffffc6,aIV,floodplain alluvium,F,,sand,,
+2,#fffeac,a1III-IV,1st terrace alluvium,F,,sand,,
+3,#ffe689,dIII-IV,deluvium loams,C,,fines,,
+4,#fbff99,a2III,2nd terrace alluvium,F,,sand,,
+5,#bef7e0,la3III,3rd terrace lake-alluvial,L,F,sand,,
+6,#e7fe79,a3III,3rd terrace alluvium,F,,sand,,
+7,#fe847b,saIII,subaerial cover loams,E,,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+8,#a0dec3,la4II-III,"4th terrace lake-alluvial, peat lenses",L,F,sand,,
+9,#fe4b54,saII-III,subaerial cover loams and sands,E,,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+10,#6fb78b,laIIsz,Suzgun lake-alluvial,L,F,fines,,
+11,#afe35e,aIItb,Tobolsk alluvium,F,,sand,,
+12,#6db7b6,lgIsmk,Semeikino glaciolacustrine varved clays,GL,,fines,,
+13,#84c04d,aItl,Talagaika alluvium (section only),F,,sand,,
+14,#9e54af,PREQ,pre-Quaternary,R,,,,

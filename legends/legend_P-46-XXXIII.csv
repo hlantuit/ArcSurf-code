@@ -1,0 +1,17 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#cb90bf,e,eluvium,W,,mixed,,"GGK-200/2 P-46-XXXIII, Tunguska (Yenisei Ridge), Quaternary map, vector PDF (geokniga); main legend = 40x20 column (auto pick was the geomorph inset)"
+1,#f26c4f,c,colluvium,C,,bouldery,,
+2,#eca5b5,dr,desertion,C,,bouldery,,
+3,#f6978f,s,solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+4,#e9919f,"dr,s",desertion and solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+5,#ea9488,"c,s",colluvium and solifluxion,C,,bouldery,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+6,#f19281,"d,s",deluvium and solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+7,#c6d1d7,tH,technogenic (placer workings),X,,mixed,,
+8,#f1f3c3,aH,floodplain alluvium,F,,gravel,,
+9,#d2ccb2,plH,bog peat,O,,organic,,
+10,#d7e7aa,a1IIIsr,Sartan 1st terrace alluvium,F,,gravel,,
+11,#cde4aa,a2IIIkr-sr,Karginsky-Sartan 2nd terrace alluvium,F,,gravel,,
+12,#b7da9b,a3IIIkz-mr,Kazantsevo-Muruktin 3rd terrace alluvium,F,,gravel,,
+13,#aad48a,a4IIsr-tz,Shirta-Taz 4th terrace alluvium,F,,gravel,,
+14,#87c875,a5IItb-sm,Tobolsk-Samarovo 5th terrace alluvium,F,,gravel,,
+15,#a677b4,PREQ,pre-Quaternary (scheme only),R,,,,

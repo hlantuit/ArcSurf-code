@@ -1,0 +1,185 @@
+{
+ "sheet": "Q-54-XIX,XX",
+ "source": "raster scan",
+ "projection": "tmerc",
+ "rms_m": 4.9981246234345775,
+ "max_res_m": 9.52819157852659,
+ "m_per_px": 16.928810139071068,
+ "corner_residuals_m": [
+  3.7,
+  4.0,
+  3.7,
+  2.3,
+  2.7,
+  1.3,
+  3.1,
+  9.5,
+  8.2
+ ],
+ "n_ties": 5,
+ "corners": [
+  {
+   "approx": [
+    194.5,
+    858.4
+   ],
+   "snapped": [
+    194.5,
+    858.4
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    5556.3,
+    858.4
+   ],
+   "snapped": [
+    5556.3,
+    858.4
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    5626.0,
+    5246.9
+   ],
+   "snapped": [
+    5626.0,
+    5246.9
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    124.6,
+    5246.9
+   ],
+   "snapped": [
+    124.6,
+    5246.9
+   ],
+   "ok": "measured"
+  }
+ ],
+ "frame_sag_px": 22.0,
+ "argv": "jpg_to_polygons.py extract /albedo/work/user/hlantuit/arctic_surficial/work/r200f/Q-54-XIX,XX/rgb.png Q-54-XIX,XX ../sources/legend_Q-54-XIX,XX.csv ../work/facefix/Q-54-XIX,XX.gpkg --datum 4284 --corners '194.5,858.4;5556.3,858.4;5626.0,5246.9;124.6,5246.9' --mmu 60 --no-snap --ties '138.500000,65.500000,1508.5,4166.3;138.500000,65.666667,1517.3,3069.1;139.000000,65.666667,2875.3,3074.3;139.000000,65.833333,2875.3,1977.8;139.500000,65.500000,4242.5,4166.5'",
+ "unassigned_before_fill": 0.069,
+ "area_km2": 6838.117382008156,
+ "neatline_km2": 6838.521610385444,
+ "cover_frac": 0.9999408895079495,
+ "n_polygons": 6036,
+ "units": {
+  "#ed6251": {
+   "index": "c",
+   "px": 984662,
+   "direct_frac": 0.851
+  },
+  "#f99487": {
+   "index": "c,d",
+   "px": 3418106,
+   "direct_frac": 0.868
+  },
+  "#e378b3": {
+   "index": "c,dr",
+   "px": 3798913,
+   "direct_frac": 0.871
+  },
+  "#f4c4d5": {
+   "index": "dr",
+   "px": 2941574,
+   "direct_frac": 0.865
+  },
+  "#ffa767": {
+   "index": "dr,s",
+   "px": 1613648,
+   "direct_frac": 0.904
+  },
+  "#ffbd69": {
+   "index": "s",
+   "px": 488881,
+   "direct_frac": 0.926
+  },
+  "#d174c5": {
+   "index": "e,d",
+   "px": 64468,
+   "direct_frac": 0.852
+  },
+  "#c2843e": {
+   "index": "gII2",
+   "px": 1836705,
+   "direct_frac": 0.956
+  },
+  "#d6ab74": {
+   "index": "gIII2",
+   "px": 2378812,
+   "direct_frac": 0.914
+  },
+  "#d5bc42": {
+   "index": "fII2",
+   "px": 1259874,
+   "direct_frac": 0.95
+  },
+  "#e8d575": {
+   "index": "fIII2",
+   "px": 533672,
+   "direct_frac": 0.94
+  },
+  "#d2ebb3": {
+   "index": "aH",
+   "px": 1940737,
+   "direct_frac": 0.889
+  },
+  "#b7dd86": {
+   "index": "a1III-H",
+   "px": 44473,
+   "direct_frac": 0.864
+  },
+  "#90c752": {
+   "index": "a2III3",
+   "px": 500961,
+   "direct_frac": 0.937
+  },
+  "#5abc11": {
+   "index": "a3III1|aI",
+   "px": 44148,
+   "direct_frac": 0.877
+  },
+  "#25b620": {
+   "index": "aE-Iad",
+   "px": 71694,
+   "direct_frac": 0.898
+  },
+  "#f6eba3": {
+   "index": "a,pIII-H",
+   "px": 491003,
+   "direct_frac": 0.942
+  },
+  "#c8e7f7": {
+   "index": "laIII1",
+   "px": 776098,
+   "direct_frac": 0.955
+  },
+  "#e7efed": {
+   "index": "l,plH2",
+   "px": 225818,
+   "direct_frac": 0.935
+  },
+  "#8431b0": {
+   "index": "PREQ",
+   "px": 395952,
+   "direct_frac": 0.648
+  },
+  "#8c58b7": {
+   "index": "PREQd",
+   "px": 109861,
+   "direct_frac": 0.811
+  }
+ },
+ "confusable_pairs": [],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

@@ -1,0 +1,17 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#c07aa1,eIII-H,eluvium (index e; blocks symbol),W,,,,"GGK-200/2 R-46-XVII,XVIII, Maimecha-Kotuy series, 2nd ed. (geokniga record 32559, 2006: record year, the preview carries no imprint); PREVIEW 2000x2078 px (~40 m/px), map face only: no legend image on geokniga; units read from the indices printed on the map, genetic wording after the index letters and the R-46_g3 legend; red-grid overprint on gIIImr (hummocky-moraine relief) painted as its own row gIIImr_grid (T)"
+1,#95557f,PREQ,pre-Quaternary rocks: dark-violet bands without index or symbols on the steep trap escarpments (bedrock ledges with talus),R,C,,,"unlabelled colour read as bedrock (no index, no symbol, steep-slope bands between plateau eluvium and valley colluvium); both 1:1M sheets (R-46_g3, R-45-47_g2) show slope deposits there (generalisation) -> hclass2 C"
+2,#eda17f,edIII-H,eluvial and deluvial deposits,W,C,,,
+3,#f1b78c,ddrIII-H,deluvial and deserptional (creep) slope deposits,C,,,,
+4,#dd7665,cH,colluvial (gravitational) deposits,C,,,,
+5,#cb8765,gIIImr,Murukta till,T,,,,
+6,#be6555,gIIImr_grid,"Murukta till under the red square-grid overprint (moraine relief symbol), mixture tint",T,,,,overprint composite: same unit as gIIImr; restricted to the northern lowland zone
+7,#8fb984,a2IIIsr2,alluvium of the 2nd terrace (Sartan),F,,,,
+8,#bcd4a6,a1H1,alluvium of the 1st terrace (Holocene),F,,,,
+9,#a8ba92,aH2,floodplain alluvium (Holocene),F,,,,
+10,#589892,laIIIkz,lacustrine-alluvial deposits (Kazantsevo),L,F,,,same printed colour as laIIIkr: one class
+11,#589892,laIIIkr,lacustrine-alluvial deposits (Karga),L,F,,,same printed colour as laIIIkz: one class
+12,#69acdf,lIIIkr,lacustrine deposits (Karga),L,,,,
+13,#7fb5d3,"l,plH",lacustrine and paludal deposits with peat (Holocene),L,O,,,
+14,#e3c594,pH,proluvial deposits (Holocene),F,,,,
+15,#cbe6f5,WATER,"water (lakes, rivers)",H,,,,

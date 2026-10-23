@@ -1,0 +1,441 @@
+{
+ "sheet": "P-58-59_g2pv",
+ "source": "raster scan",
+ "projection": "given",
+ "rms_m": 303.2055853887053,
+ "max_res_m": 679.4358573661405,
+ "m_per_px": 346.25498930144374,
+ "corner_residuals_m": [
+  347.1,
+  679.4,
+  652.4,
+  95.3,
+  108.3,
+  131.6,
+  279.1,
+  370.4,
+  399.1,
+  400.0,
+  338.2,
+  249.5,
+  113.4,
+  166.4,
+  421.7,
+  285.5,
+  247.9,
+  212.9,
+  180.3,
+  158.0,
+  110.6,
+  134.7,
+  144.8,
+  160.4,
+  109.8,
+  39.9,
+  150.2,
+  335.1,
+  358.9,
+  436.8,
+  438.4,
+  109.6,
+  283.9,
+  204.1,
+  94.5,
+  456.1
+ ],
+ "n_ties": 32,
+ "corners": [
+  {
+   "approx": [
+    145.1,
+    53.0
+   ],
+   "snapped": [
+    145.1,
+    53.0
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1850.4,
+    50.0
+   ],
+   "snapped": [
+    1850.4,
+    50.0
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1960.5,
+    1333.5
+   ],
+   "snapped": [
+    1960.5,
+    1333.5
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    39.5,
+    1337.5
+   ],
+   "snapped": [
+    39.5,
+    1337.5
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.176,
+ "area_km2": 140204.03300783955,
+ "neatline_km2": 140123.04529403744,
+ "cover_frac": 1.0005779756900957,
+ "n_polygons": 8892,
+ "units": {
+  "#c0c19e": {
+   "index": "aIV",
+   "px": 46258,
+   "direct_frac": 0.479
+  },
+  "#8b976e": {
+   "index": "aIII",
+   "px": 72660,
+   "direct_frac": 0.465
+  },
+  "#97af7a": {
+   "index": "aIII",
+   "px": 19235,
+   "direct_frac": 0.738
+  },
+  "#968b50": {
+   "index": "apIII-IV",
+   "px": 21820,
+   "direct_frac": 0.517
+  },
+  "#97b8a4": {
+   "index": "laIII",
+   "px": 38653,
+   "direct_frac": 0.745
+  },
+  "#8fa68f": {
+   "index": "laIII",
+   "px": 37929,
+   "direct_frac": 0.626
+  },
+  "#93a499": {
+   "index": "laIII",
+   "px": 33043,
+   "direct_frac": 0.576
+  },
+  "#809180": {
+   "index": "laIII",
+   "px": 30349,
+   "direct_frac": 0.561
+  },
+  "#a9b6b9": {
+   "index": "mIII",
+   "px": 16847,
+   "direct_frac": 0.647
+  },
+  "#6f8394": {
+   "index": "mIV",
+   "px": 8802,
+   "direct_frac": 0.642
+  },
+  "#deedf5": {
+   "index": "WATER",
+   "px": 384195,
+   "direct_frac": 0.954
+  },
+  "#c9d2cd": {
+   "index": "WATER",
+   "px": 23652,
+   "direct_frac": 0.726
+  },
+  "#a37759": {
+   "index": "gIII",
+   "px": 55460,
+   "direct_frac": 0.468
+  },
+  "#b18769": {
+   "index": "gIII",
+   "px": 74767,
+   "direct_frac": 0.506
+  },
+  "#9f674b": {
+   "index": "gIII",
+   "px": 27779,
+   "direct_frac": 0.471
+  },
+  "#8c6c53": {
+   "index": "gIII",
+   "px": 37695,
+   "direct_frac": 0.43
+  },
+  "#b99d85": {
+   "index": "gIII",
+   "px": 34234,
+   "direct_frac": 0.487
+  },
+  "#a59c79": {
+   "index": "fIII",
+   "px": 51225,
+   "direct_frac": 0.42
+  },
+  "#acac82": {
+   "index": "fIII",
+   "px": 27206,
+   "direct_frac": 0.479
+  },
+  "#65795c": {
+   "index": "vQ",
+   "px": 42274,
+   "direct_frac": 0.653
+  },
+  "#c65f48": {
+   "index": "e,d",
+   "px": 55355,
+   "direct_frac": 0.56
+  },
+  "#b85f48": {
+   "index": "e,d",
+   "px": 43725,
+   "direct_frac": 0.503
+  },
+  "#d05e46": {
+   "index": "e,d",
+   "px": 35394,
+   "direct_frac": 0.643
+  },
+  "#af4e39": {
+   "index": "e,d",
+   "px": 21910,
+   "direct_frac": 0.525
+  },
+  "#a0543e": {
+   "index": "e,d",
+   "px": 78090,
+   "direct_frac": 0.385
+  },
+  "#c46a47": {
+   "index": "e,d",
+   "px": 44911,
+   "direct_frac": 0.54
+  },
+  "#da8054": {
+   "index": "d",
+   "px": 55681,
+   "direct_frac": 0.63
+  },
+  "#cb7a54": {
+   "index": "d",
+   "px": 68789,
+   "direct_frac": 0.542
+  },
+  "#dc764b": {
+   "index": "d",
+   "px": 39916,
+   "direct_frac": 0.614
+  },
+  "#b46b4a": {
+   "index": "d",
+   "px": 50122,
+   "direct_frac": 0.459
+  },
+  "#c1996d": {
+   "index": "ds",
+   "px": 70518,
+   "direct_frac": 0.55
+  },
+  "#b67e58": {
+   "index": "ds",
+   "px": 83730,
+   "direct_frac": 0.444
+  },
+  "#ce3b35": {
+   "index": "c",
+   "px": 56001,
+   "direct_frac": 0.693
+  },
+  "#bd372e": {
+   "index": "c",
+   "px": 69246,
+   "direct_frac": 0.635
+  },
+  "#b33b32": {
+   "index": "c",
+   "px": 95141,
+   "direct_frac": 0.538
+  },
+  "#aa3e38": {
+   "index": "c",
+   "px": 77607,
+   "direct_frac": 0.477
+  },
+  "#d8808e": {
+   "index": "cIV",
+   "px": 51221,
+   "direct_frac": 0.728
+  },
+  "#c97179": {
+   "index": "cIV",
+   "px": 48324,
+   "direct_frac": 0.641
+  },
+  "#c57c82": {
+   "index": "cIV",
+   "px": 61988,
+   "direct_frac": 0.547
+  },
+  "#a26268": {
+   "index": "cIV",
+   "px": 60079,
+   "direct_frac": 0.536
+  },
+  "#b96c61": {
+   "index": "cIV",
+   "px": 51135,
+   "direct_frac": 0.477
+  },
+  "#e07886": {
+   "index": "s",
+   "px": 19329,
+   "direct_frac": 0.716
+  },
+  "#796378": {
+   "index": "PREQ",
+   "px": 29364,
+   "direct_frac": 0.592
+  }
+ },
+ "confusable_pairs": [
+  [
+   "laIII",
+   "laIII",
+   7.2
+  ],
+  [
+   "laIII",
+   "laIII",
+   7.1
+  ],
+  [
+   "gIII",
+   "gIII",
+   6.1
+  ],
+  [
+   "gIII",
+   "gIII",
+   7.8
+  ],
+  [
+   "fIII",
+   "fIII",
+   7.2
+  ],
+  [
+   "e,d",
+   "e,d",
+   6.6
+  ],
+  [
+   "e,d",
+   "e,d",
+   5.3
+  ],
+  [
+   "e,d",
+   "e,d",
+   7.3
+  ],
+  [
+   "e,d",
+   "e,d",
+   7.4
+  ],
+  [
+   "e,d",
+   "e,d",
+   7.0
+  ],
+  [
+   "e,d",
+   "e,d",
+   7.9
+  ],
+  [
+   "e,d",
+   "e,d",
+   7.2
+  ],
+  [
+   "e,d",
+   "d",
+   6.8
+  ],
+  [
+   "d",
+   "d",
+   6.2
+  ],
+  [
+   "d",
+   "d",
+   6.3
+  ],
+  [
+   "d",
+   "d",
+   7.6
+  ],
+  [
+   "c",
+   "c",
+   5.8
+  ],
+  [
+   "c",
+   "c",
+   6.4
+  ],
+  [
+   "c",
+   "c",
+   6.7
+  ],
+  [
+   "cIV",
+   "cIV",
+   6.8
+  ],
+  [
+   "cIV",
+   "cIV",
+   7.5
+  ],
+  [
+   "cIV",
+   "s",
+   7.1
+  ],
+  [
+   "cIV",
+   "cIV",
+   7.1
+  ],
+  [
+   "cIV",
+   "s",
+   7.9
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 25
+}

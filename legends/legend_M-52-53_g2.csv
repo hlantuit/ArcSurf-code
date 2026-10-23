@@ -1,0 +1,54 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#7ec78a,aN2-Q1,Аллювиальный,F,,mixed,,"GGK-1000/2 M-52,(53) Blagoveshchensk 1995 (new series), Quaternary map, RASTER (geokniga JPG 8570x10888), MATRIX legend (age x genesis); Pliocene-lower Neopleistocene alluvium"
+1,#c0f45b,aI,Аллювиальный,F,,mixed,,lower Neopleistocene alluvium
+2,#c9f765,aI-II,Аллювиальный,F,,mixed,,lower-middle Neopleistocene alluvium
+3,#d6fc7a,aII1,Аллювиальный,F,,mixed,,middle Neopleistocene alluvium (1st horizon)
+4,#ddfe85,aII2,Аллювиальный,F,,mixed,,middle Neopleistocene alluvium (2nd horizon)
+5,#d2fa8a,aII,Аллювиальный,F,,mixed,,middle Neopleistocene alluvium
+6,#e0fe8a,aII-III,Аллювиальный,F,,mixed,,middle-upper Neopleistocene alluvium
+7,#eafda7,aIII1,Аллювиальный,F,,mixed,,upper Neopleistocene alluvium (1st horizon)
+8,#eefeb4,aIII2,Аллювиальный,F,,mixed,,upper Neopleistocene alluvium (2nd horizon)
+9,#f1fe8a,aIII,Аллювиальный,F,,mixed,,upper Neopleistocene alluvium
+10,#fafeca,aIII-IV,Аллювиальный,F,,mixed,,upper Neopleistocene-Holocene alluvium
+11,#f9fcc7,aIV,Аллювиальный,F,,mixed,,Holocene alluvium
+12,#f2fbbd,aIV1,Аллювиальный,F,,mixed,,Holocene alluvium (lower)
+13,#f8facb,aIV2,Аллювиальный,F,,mixed,,Holocene alluvium (upper)
+14,#9ddad7,lN2-Q1,Озерный,L,,fines,,Pliocene-lower Neopleistocene lacustrine
+15,#d6f4e2,lI,Озерный,L,,fines,,lower Neopleistocene lacustrine
+16,#fffe8d,vI,Эоловый,E,,sand,,lower Neopleistocene eolian
+17,#b28b5b,gII,Ледниковый (морена),T,,bouldery,,middle Neopleistocene moraine
+18,#cc986c,gIII,Ледниковый (морена),T,,bouldery,,upper Neopleistocene moraine
+19,#fde0b5,dIII-IV,Делювиальный,C,,fines,,deluvium
+20,#fdd1ce,cIV,Коллювиальный,C,,bouldery,,Holocene colluvium
+21,#faeece,pIV,Пролювиальный,F,,gravel,,Holocene proluvium
+22,#fee5c0,dIV,Делювиальный,C,,fines,,Holocene deluvium
+23,#fffddc,vIV,Эоловый,E,,sand,,Holocene eolian
+24,#c9ae8e,bIV,Биогенный,O,,organic,,Holocene biogenic (peat)
+25,#febef2,e,Элювиальный,W,,bouldery,,eluvium
+26,#fc5754,c,Коллювиальный,C,,bouldery,,colluvium
+27,#f36d37,s,Солифлюкционный,C,,mixed,,solifluxion
+28,#d9b948,p,Пролювиальный,F,,gravel,,proluvium
+29,#ffb548,d,Делювиальный,C,,fines,,deluvium
+30,#ace5e8,l,Озерный,L,,fines,,lacustrine
+31,#91cf89,βN2-Q1,Вулканогенный,V,,,,Pliocene-lower Neopleistocene basalts
+32,#beeec6,laN2-Q1,Озерно-аллювиальный,L,F,fines,,Pliocene-lower Neopleistocene lake-alluvial
+33,#bceeb6,laI,Озерно-аллювиальный,L,F,fines,,lower Neopleistocene lake-alluvial
+34,#dff9d5,laII,Озерно-аллювиальный,L,F,fines,,middle Neopleistocene lake-alluvial
+35,#eefbe4,laII-III,Озерно-аллювиальный,L,F,fines,,middle-upper Neopleistocene lake-alluvial
+36,#f2e39b,N2-Q1pr,Приамурская свита,F,L,sand,,Priamurskaya suite (Pliocene-Eopleistocene alluvial-lacustrine)
+37,#fbcaa6,edIII-IV,"Элювиальный, делювиальный",W,C,mixed,,eluvium and deluvium
+38,#f9f9be,apIII-IV,Аллювиально-пролювиальный,F,,gravel,,alluvial-proluvial
+39,#fbf4de,dpIII-IV,Делювиально-пролювиальный,C,F,mixed,,deluvial-proluvial
+40,#fbd5c6,dcIII-IV,Делювиально-коллювиальный,C,,bouldery,,deluvial-colluvial
+41,#d0bda0,t,Техногенный,X,,mixed,,technogenic
+42,#c9f4bb,la,Озерно-аллювиальный,L,F,fines,,lake-alluvial
+43,#f89c44,"e,d","Элювиальный, делювиальный",W,C,bouldery,,eluvium and deluvium
+44,#f8cda1,"e,dβ","Элювиальный, делювиальный на вулканогенных породах",W,C,bouldery,,eluvium and deluvium on volcanics
+45,#e36f38,"a,c","Аллювиальный, коллювиальный",F,C,mixed,,alluvium and colluvium
+46,#ffe364,ad,Аллювиально-делювиальный,F,C,mixed,,alluvial-deluvial
+47,#f1f173,ap,Аллювиально-пролювиальный,F,,gravel,,alluvial-proluvial
+48,#f6e1b8,dp,Делювиально-пролювиальный,C,F,mixed,,deluvial-proluvial
+49,#ff8139,dc,Делювиально-коллювиальный,C,,bouldery,,deluvial-colluvial
+50,#feb495,ds,Делювиально-солифлюкционный,C,,mixed,,deluvial-solifluxion
+51,#efa0ff,PREQ,Дочетвертичные породы,R,,,,pre-Quaternary
+52,#f4c3fa,"PREQ,c",Дочетвертичные породы местами с коллювием,R,C,bouldery,,pre-Quaternary with colluvium

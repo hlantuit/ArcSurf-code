@@ -1,0 +1,14 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#909f8e,lpIV,lake-bog loams clays and peat,L,O,organic,,"GGK-200/1 Q-40-XXIV, North Ural series, 1965 (first edition), RASTER (geokniga JPG 6205x7089, yellowed paper, hatched swatches sampled as medians); alIV and lgIII2 print nearly the same green (dE~2) and cannot be separated"
+1,#7eab6c,alIV,floodplain and 1st terrace alluvium,F,,sand,,
+2,#d6a072,"e,dIV",eluvium-deluvium on bedrock outcrops,W,C,bouldery,,
+3,#d4bd93,gIV,cirque moraine,T,,bouldery,,
+4,#d0743e,cIII-IV,colluvial block fields,C,,bouldery,,
+5,#8ea33e,"lal,fgIII3-4",lake-alluvial and glaciofluvial,L,GF,sand,,
+6,#b4c753,fgIII2,Zyryan glaciofluvial,GF,,sand,,
+7,#cfae80,glIII2,Zyryan moraine,T,,diamicton,,
+8,#7ead70,lgIII2,glaciolacustrine varved clays (same tint as alIV),GL,F,fines,,
+9,#abaf73,lalIII1,Mikulino-Kazantsevo lake-alluvial,L,F,sand,,
+10,#788874,"m,glmI-II",Early-Middle Pleistocene marine and glaciomarine,M,GM,fines,,
+11,#bd6bad,PREQ,bedrock outcrops,R,,,,
+12,#5f6f57,"m,glmI-II",Early-Middle Pleistocene marine and glaciomarine (dark map tint),M,GM,fines,,

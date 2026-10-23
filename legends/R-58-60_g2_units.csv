@@ -1,0 +1,43 @@
+x,y,w,index,description_ru,hclass,hclass2,texture,note
+962,9483,150,aN2-Q1,Аллювиальный,F,,mixed,upper Pliocene-lower Neopleistocene alluvium
+1260,9480,150,aI,Аллювиальный,F,,mixed,lower Neopleistocene alluvium
+1557,9478,150,aI-II,Аллювиальный,F,,mixed,lower-middle Neopleistocene alluvium
+1855,9476,150,aII1,Аллювиальный,F,,mixed,middle Neopleistocene interglacial alluvium
+2151,9474,150,aII2,Аллювиальный,F,,mixed,middle Neopleistocene glacial-stage alluvium
+2740,9470,150,aIII1-2,Аллювиальный,F,,mixed,Elveneiveem-Kitepsky alluvium
+3332,9465,150,aIII3-4,Аллювиальный,F,,mixed,Longovsky-Iskatensky alluvium
+3929,9463,150,aIII,Аллювиальный,F,,mixed,upper Neopleistocene alluvium
+5116,9456,150,aIV,Аллювиальный,F,,mixed,Holocene alluvium
+2450,9848,150,LII-III,Лёссы,Y,,fines,middle-upper Neopleistocene loess (ice complex)
+3933,9840,150,LIII,Лёссы,Y,,fines,upper Neopleistocene loess (ice complex)
+4224,9270,150,eIII-IV,Элювиальный,W,,bouldery,eluvium
+4224,9367,150,sIII-IV,Солифлюкционный,C,,mixed,solifluxion
+4226,9555,150,pIII-IV,Пролювиальный,F,,gravel,proluvium
+4226,9648,150,lIII-IV,Озерный,L,,fines,lacustrine
+4226,9743,150,vIII-IV,Эоловый,E,,sand,eolian
+5117,9640,150,lIV,Озерный,L,,fines,Holocene lacustrine
+2154,9943,150,gII2,Ледниковый (морена),T,,bouldery,middle Neopleistocene moraine
+2155,10037,150,fII2,Флювиогляциальный,GF,,gravel,middle Neopleistocene glaciofluvial
+1566,10347,150,amI-II,Аллювиально-морской,F,M,sand,lower-middle Neopleistocene alluvial-marine
+3038,9937,150,gIII2,Ледниковый (морена),T,,bouldery,Kitepsky moraine
+3038,10031,150,fIII2,Флювиогляциальный,GF,,gravel,Kitepsky glaciofluvial
+3634,9935,150,gIII4,Ледниковый (морена),T,,bouldery,Iskatensky moraine
+3635,10029,150,fIII4,Флювиогляциальный,GF,,gravel,Iskatensky glaciofluvial
+2745,10126,150,mIII1-2,Морские отложения,M,,mixed,Elveneiveem-Kitepsky marine
+3337,10122,150,mIII3-4,Морские отложения,M,,mixed,Longovsky-Iskatensky marine
+3339,10334,150,amIII3-4,Аллювиально-морской,F,M,sand,Longovsky-Iskatensky alluvial-marine
+3935,9932,150,gIII,Ледниковый (морена),T,,bouldery,upper Neopleistocene moraine
+3936,10027,150,fIII,Флювиогляциальный,GF,,gravel,upper Neopleistocene glaciofluvial
+3936,10120,150,mIII,Морские отложения,M,,mixed,upper Neopleistocene marine
+3937,10239,150,apIII,Аллювиально-пролювиальный,F,,gravel,alluvial-proluvial
+3939,10423,150,psIII,Пролювиально-солифлюкционный,C,F,mixed,proluvial-solifluxion
+4235,10515,150,"e,dIII-IV",Элювиальный и делювиальный,W,C,bouldery,eluvium and deluvium
+4235,10607,150,dcIII-IV,Делювиально-коллювиальный,C,,bouldery,deluvial-colluvial
+4236,10700,150,dsIII-IV,Делювиально-солифлюкционный,C,,mixed,deluvial-solifluxion
+4527,10115,150,mIV1-2,Морские отложения,M,,mixed,Amguema horizon marine
+4824,10113,150,mIV3,Морские отложения,M,,mixed,Ekugsky horizon marine
+5122,10111,150,mIV,Морские отложения,M,,mixed,Holocene marine
+5127,10851,150,m1IV,Волновой (шельф),M,,sand,shallow shelf wave (offshore)
+5128,10949,150,m2IV,Бассейновый лагунный (шельф),M,,fines,shallow shelf basin/lagoon (offshore)
+5088,11045,60,PREQ,Дочетвертичные породы кайнозойские,R,,,pre-Quaternary Cenozoic
+5165,11045,60,"PREQ,b",Дочетвертичные породы докайнозойские,R,,,pre-Cenozoic rocks

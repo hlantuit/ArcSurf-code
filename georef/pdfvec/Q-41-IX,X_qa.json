@@ -1,0 +1,54 @@
+{
+ "sheet": "Q-41-IX,X",
+ "projection": "eqdc",
+ "rms_m": 2.193222628651964,
+ "max_res_m": 3.5615431806735645,
+ "m_per_pt": 70.56087751036813,
+ "frame_hausdorff_after_snap_m": 1.538123425138205,
+ "n_polygons": 957,
+ "area_km2": 6485.102082872994,
+ "neatline_km2": 6486.277024956812,
+ "gap_frac": 0.00017182861042580605,
+ "area_by_index": {
+  "PREQ": 12.6,
+  "a1IIIjr": 118.9,
+  "a2IIIsr": 68.1,
+  "a3IIIsd": 119.3,
+  "a4IIIjk": 2.0,
+  "aH": 218.9,
+  "aIII-H": 219.1,
+  "am4IIIcl": 77.0,
+  "c,drIII-H": 12.3,
+  "d,drIII-H": 1.0,
+  "d,sIII-H": 6.0,
+  "e,dIII-H": 85.3,
+  "f,aIIIsg": 52.0,
+  "fIIIhn": 757.5,
+  "fIIpc": 7.7,
+  "gIIIhn": 242.0,
+  "gIIpc": 3476.0,
+  "gmE-Irg": 205.7,
+  "l,plIII-H": 781.5,
+  "la,aIIsl": 21.7,
+  "m,gmQglpd": 0.4
+ },
+ "non_legend_colours": [
+  [
+   "#231f20",
+   1025.8595851883292
+  ],
+  [
+   "#ffffff",
+   628.5331062972546
+  ],
+  [
+   "#d29fc9",
+   227.91080433130264
+  ],
+  [
+   "#8b9414",
+   55.296304643154144
+  ]
+ ],
+ "datum": "EPSG:4284 assumed"
+}

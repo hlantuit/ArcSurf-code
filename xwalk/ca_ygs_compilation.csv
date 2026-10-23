@@ -1,0 +1,23 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+C|,C,,,,,colluvium (Terrain Classification System MATERIAL_A)
+C|I,C,,,,,"colluvium, inactive"
+M|,T,,,,,morainal (till)
+R|,R,,,,,bedrock
+F|,F,,,,,fluvial
+F|A,F,,,,,"fluvial, active"
+F|G,GF,,,,,glaciofluvial
+O|,O,,,,,organic
+L|,L,,,,,lacustrine
+L|G,GL,,,,,glaciolacustrine
+E|,E,,,,,eolian
+E|A,E,,,,,"eolian, active"
+I|,I,,,,,ice
+S|,I,,,,,snow (perennial)
+H|,H,,,,,water
+D|,W,,,,,weathered bedrock
+U|,Q,,,,,undifferentiated
+U|G,Q,T,,,,"undifferentiated, glacial"
+V|,V,,,,,volcanic
+A|,X,,,,,anthropogenic
+W|A,M,,,,,"marine, active"
+|,DROP,,,,,no material coded - dropped so a coarser source can fill it

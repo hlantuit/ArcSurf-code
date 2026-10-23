@@ -1,0 +1,9 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#d0a57b,d+hIV,"Современные отложения. Делювиальные и болотные отложения. Суглинки, торф",C,O,fines,,"GGK-200 N-44-VIII (Geologicheskaya karta SSSR, 1st edition, approved 1967, printed 1973; Baraba, Kargat area, 79-80E 54d40m-55d20mN), Quaternary map; RASTER = geokniga 2000x2343 px PREVIEW (~34 m/px); vertical lithology ruling removed before classification (work/r200d/prep_vlines.py); tints calibrated on the map (preview_tint_calib.py; saIII seeded with its map tint, orIV pinned to its legend tint); alIV+alIII1 merged (6 dE); saIII (subaerial cover loams) and eol?III coded E (PI decision 2026-10-04); LaII-IIIkrs, LaI-IIfd and pre-Quaternary rocks appear only on sections; frame = 4 corners (BR read at 14x: frame line at the colour edge, not the darker ruling line 3 px inside) + interior 15x10 min graticule crossings as ties ; hatched swatch: 5x5-median sample"
+1,#f1fad5,orIV,Современные отложения. Органогенные отложения. Торф,O,,organic,,
+2,#b9c8b5,lhIV,"Современные отложения. Озерно-болотные отложения. Суглинки, торф, илы, сапропель",L,O,organic,,hatched swatch: 5x5-median sample
+3,#ddfaa7,alIV,Современные отложения. Аллювиальные отложения. Суглинки с прослоями илов,F,,mixed,,same printed colour as alIII1: one class
+4,#b3dcc8,lIII1,"Верхнечетвертичные отложения. Озерные отложения. Суглинки, пески, супеси",L,,mixed,,
+5,#ddfaa7,alIII1,"Верхнечетвертичные отложения. Аллювиальные отложения первых надпойменных террас. Суглинки, пески, супеси",F,,mixed,,same printed colour as alIV: one class
+6,#fceaab,saIII,Верхнечетвертичные отложения. Субаэральные покровные отложения. Суглинки,E,,fines,,seed = map tint (the legend swatch #f9da75 is more orange); subaerial COVER loams: E per PI decision 2026-10-04
+7,#f8fd6f,eol?III,"Верхнечетвертичные отложения. Эоловые отложения, слагающие гривы. Супеси с прослоями песков",E,,sand,,

@@ -1,0 +1,56 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#ffb0f5,e,eluvium,W,,bouldery,,"GGK-1000/2 M-(53),54,(55) Khabarovsk 1990s (new series), Quaternary map, RASTER (geokniga JPG 9147x11511), MATRIX legend; registered on the 135-144E rectangle only (stepped SE extension to Sakhalin not used); eluvium"
+1,#db4235,c,colluvium,C,,bouldery,,colluvium
+2,#f47772,cIV,Holocene colluvium,C,,bouldery,,Holocene colluvium
+3,#e3473d,cIII-IV,colluvium,C,,bouldery,,colluvium
+4,#cefc67,a,alluvium,F,,mixed,,alluvium
+5,#e6fe8b,aIII4,alluvium,F,,mixed,,alluvium
+6,#e0ff74,aIII,alluvium,F,,mixed,,alluvium
+7,#d9fe85,aIII3,alluvium,F,,mixed,,alluvium
+8,#cafd59,aII-III,alluvium,F,,mixed,,alluvium
+9,#c9f981,aII,alluvium,F,,mixed,,alluvium
+10,#aef53e,aI,alluvium,F,,mixed,,alluvium
+11,#feaa67,d,deluvium,C,,mixed,,deluvium
+12,#c8f6e1,lI,lacustrine,L,,fines,,lacustrine
+13,#994b0e,gIII,glacial,T,,bouldery,,glacial
+14,#34774a,bN2-Q1,Pliocene-Eopleistocene basalts,V,,,,Pliocene-Eopleistocene basalts
+15,#8d7573,piIV,mud-volcanic,V,,fines,,mud-volcanic
+16,#75a0e0,mIII,marine,M,,mixed,,marine
+17,#a6e9a1,la,lake-alluvial,L,F,fines,,lake-alluvial
+18,#c5f8b9,laIII,lake-alluvial,L,F,fines,,lake-alluvial
+19,#caf7c0,laIII1,lake-alluvial,L,F,fines,,lake-alluvial
+20,#bbf1b2,laII,lake-alluvial,L,F,fines,,lake-alluvial
+21,#bda836,ap,alluvial-proluvial,F,,gravel,,alluvial-proluvial
+22,#fec045,ad,alluvial-deluvial,F,C,mixed,,alluvial-deluvial
+23,#f5d5a4,dp,deluvial-proluvial,C,F,mixed,,deluvial-proluvial
+24,#fe8b59,dc,deluvial-colluvial,C,,bouldery,,deluvial-colluvial
+25,#fca476,dcIII-IV,deluvial-colluvial,C,,bouldery,,deluvial-colluvial
+26,#fcac9e,ds,deluvial-solifluxion,C,,mixed,,deluvial-solifluxion
+27,#f8b3a6,dsIII-IV,deluvial-solifluxion,C,,mixed,,deluvial-solifluxion
+28,#fea1b4,"e,d",eluvium and deluvium,W,C,bouldery,,eluvium and deluvium
+29,#fe8bd2,cs,colluvial-solifluxion,C,,bouldery,,colluvial-solifluxion
+30,#e6fdef,lII1,lacustrine,L,,fines,,lacustrine
+31,#dffcec,lII2,lacustrine,L,,fines,,lacustrine
+32,#d9fbe9,lII,lacustrine,L,,fines,,lacustrine
+33,#f2fef4,lIII,lacustrine,L,,fines,,lacustrine
+34,#fdf4e1,dIII-IV,deluvium,C,,fines,,deluvium
+35,#f1ff77,aIV,Holocene alluvium,F,,mixed,,Holocene alluvium
+36,#f2fea5,aIV1,alluvium,F,,mixed,,alluvium
+37,#f5fd97,aIV2,alluvium,F,,mixed,,alluvium
+38,#f9fff7,lIV,lacustrine,L,,fines,,lacustrine
+39,#fef05b,vIV,eolian,E,,sand,,eolian
+40,#fced64,vIV2,eolian,E,,sand,,eolian
+41,#aea895,bIV,biogenic (peat),O,,organic,,biogenic (peat)
+42,#85a9e2,mIV,Holocene marine,M,,sand,,Holocene marine
+43,#9ab7e4,mIV1,marine,M,,sand,,marine
+44,#cedced,mIV2,marine,M,,sand,,marine
+45,#e8fdde,laIII-IV,lake-alluvial,L,F,fines,,lake-alluvial
+46,#c9ba4d,apIII-IV,alluvial-proluvial,F,,gravel,,alluvial-proluvial
+47,#fcd064,adIII-IV,alluvial-deluvial,F,C,mixed,,alluvial-deluvial
+48,#dbf0b5,amIV1,alluvial-marine,F,M,sand,,alluvial-marine
+49,#e2f1dc,amIV2,alluvial-marine,F,M,sand,,alluvial-marine
+50,#fae9c9,dpIII-IV,deluvial-proluvial,C,F,mixed,,deluvial-proluvial
+51,#d7face,laIII2,lake-alluvial,L,F,fines,,lake-alluvial
+52,#e1fcd8,laIII3,lake-alluvial,L,F,fines,,lake-alluvial
+53,#6843a5,PREQ,pre-Quaternary,R,,,,pre-Quaternary
+54,#f4fdf5,WATER,море,H,,,,Tatar Strait tint sampled on the map

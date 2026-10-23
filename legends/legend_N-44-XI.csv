@@ -1,0 +1,12 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#e7e0b5,alQIV,"Современные отложения. Аллювиальные отложения пойменной террасы р. Оби и ее притоков. Пески, супеси, суглинки, торф",F,,mixed,,"GGK-200 N-44-XI (Geologicheskaya karta SSSR, 1st edition, approved 1965, printed 1968; Novosibirsk, Ob valley, 82-83E 54d40m-55d20mN), Quaternary map; RASTER = geokniga 2000x2356 px PREVIEW (~34 m/px); vertical lithology ruling removed (work/r200d/prep_vlines.py); tints calibrated on the map (preview_tint_calib.py), d+hQIV pinned to its legend tint; alQIII-I+alQIII-II merged (6.8 dE); the Ob, the Novosibirsk reservoir and lakes = WATER; saQIII (subaerial cover loams) and eolQIII-IV coded E (PI decision 2026-10-04); the built-up hatch of Novosibirsk city is not a geological sign (falls to the underlying units); alQII-IV?, lalQIIfd, saQIIkrd and the Kochkovo units appear only on sections; frame = 4 corners (BR checked) + interior 15x10 min graticule crossings as ties"
+1,#efb2b0,dQIV,Современные отложения. Делювиальные отложения. Суглинки,C,,fines,,
+2,#f8d5d3,d+hQIV,"Современные отложения. Делювиальные и болотные отложения. Суглинки, торф",C,O,fines,,pinned to the legend tint (the calibration drifted onto line mixtures)
+3,#cde8df,lhQIV,"Современные отложения. Озерно-болотные отложения. Пески, супеси, суглинки, торф",L,O,mixed,,
+4,#f7f5ad,eolQIII-IV,Верхнечетвертичные-современные эоловые отложения. Пески,E,,sand,,
+5,#fbf9d4,saQIII,"Верхнечетвертичные отложения. Субаэральные покровные отложения. Суглинки, супеси, пески",E,,fines,,subaerial COVER loams: E per PI decision 2026-10-04
+6,#c8ee9c,alQIII-I,"Верхнечетвертичные отложения. Аллювиальные отложения первой надпойменной террасы р. Оби и ее притоков. Пески, супеси, суглинки, гравий и галька",F,,mixed,,same printed colour as alQIII-II: one class
+7,#c8ee9c,alQIII-II,"Верхнечетвертичные отложения. Аллювиальные отложения второй надпойменной террасы р. Оби и ее притоков. Пески, суглинки, супеси",F,,mixed,,same printed colour as alQIII-I: one class
+8,#f3e9a5,alQII-III-III,"Средне-верхнечетвертичные отложения. Аллювиальные отложения третьей надпойменной террасы р. Оби. Пески, суглинки, гравий и галька, реже супеси и глины",F,,mixed,,
+9,#f7cbef,aQ,Дочетвертичные образования,R,,,,
+10,#eefbf3,WATER,"водоемы (Новосибирское водохранилище, р. Обь, озера)",H,,,,

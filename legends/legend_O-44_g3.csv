@@ -1,0 +1,18 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#f1f3c3,aH,"floodplain alluvium, sand with gravel, silt, clay",F,,mixed,,"GGK-1000/3 O-44 (Krasnoyarsk), West Siberian series, Quaternary map, vector PDF (geokniga)"
+1,#ffef83,vIII4-H,eolium,E,,sand,,
+2,#e2edb7,a1IIIsr,Sartan first-terrace alluvium with peat,F,O,sand,,
+3,#d7e7aa,a2IIIkr-sr,"Karginsky-Sartan second-terrace alluvium, buried peat",F,,sand,,
+4,#d1e39b,a3IIIer,"Ermakovo third-terrace alluvium, buried peat",F,,sand,,
+5,#c4df9b,a4IIIkz,Kazantsevo fourth-terrace alluvium,F,,sand,,
+6,#c3e5da,laII-IIIkr,Karasuk suite lake-alluvium,L,F,sand,,
+7,#aad48a,aII-IIIpd,Paidugina suite alluvium,F,,sand,,
+8,#ffda9e,"L,pl,a,lIIsz","Suzgun suite loessoid, palustrium, alluvium, limnium, buried soils",E,F,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+9,#9acd74,aIItb,Tobol suite alluvium,F,,sand,,
+10,#fecc7a,"L,laI-IIfd","Fedosovo suite loessoid and lake-alluvium, buried soils",E,L,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+11,#93d2c1,laIks,"Krivosheino suite lake-alluvium, clays",L,F,fines,,
+12,#87c4bb,"a,lE-Ism",Smirnovo suite alluvium and limnium,F,L,fines,,
+13,#71baaf,"a,lEkc",Kochki suite alluvium and limnium,F,L,sand,,
+14,#6dcff6,lEIIub,Ubinsk suite limnium,L,,fines,,
+15,#6ec05d,aElkg,Kargat suite alluvium,F,,sand,,
+16,#a678b4,PREQ,pre-Quaternary,R,,,,

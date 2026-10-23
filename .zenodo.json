@@ -1,0 +1,28 @@
+{
+  "title": "ArcSurf code: processing chain, crosswalk tables, legend transcriptions and georeferencing records of the harmonised surficial geology map of the Arctic",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "<p>Code and tables that produce ArcSurf version 1.0, a harmonised surficial geology map of the Arctic that merges geological and Quaternary maps at 1:5,000 to 1:5,000,000 into one genetic legend of 20 classes, using at every location the most detailed source available. The repository holds the ingest scripts of every source, the extraction of maps from vector PDFs, colour scans and line maps, the crosswalk tables from the native units to the harmonised classes, the legend transcriptions and georeferencing records of the Russian sheets, the precedence merge, the glacier and attribute steps, the dissolved release geometry with persistent polygon identifiers, the CryoGrid addendum, the release exports, and the figures, statistics and A0 wall map of the data paper. The scripts are licensed under the MIT licence, the tables and documents under CC BY 4.0 (LICENSE-TABLES.md).</p>",
+  "creators": [
+    {
+      "name": "Lantuit, Hugues",
+      "affiliation": "Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Potsdam, Germany"
+    },
+    {
+      "name": "Fritz, Michael",
+      "affiliation": "Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Potsdam, Germany"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "surficial geology",
+    "Quaternary geology",
+    "permafrost",
+    "Arctic",
+    "geological map",
+    "harmonised legend",
+    "map vectorisation",
+    "GIS"
+  ],
+  "language": "eng"
+}

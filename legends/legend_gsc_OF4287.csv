@@ -1,0 +1,15 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#fefecb,A,Fluvial deposits: gravel sand boulders 1-5 m,F,,gravel,,"GSC OF4287 Nadluardjuk Lake, Baffin 1:100k (Dredge 2002); 2002 edition of the Baffin series legend (GLv/GFp/GFc codes); "
+1,#65fefd,Mr,Marine beach sediments,M,,gravel,,
+2,#25b2fe,Md,Marine deltaic sediments,M,F,sand,,
+3,#99ffff,Mb,Marine blanket,M,,sand,,
+4,#ccfefe,Mv,Marine veneer over till or rock,M,T,mixed,,
+5,#b3b3ff,GLv,Glaciolacustrine veneer,GL,T,sand,,
+6,#fee666,GFp,Glaciofluvial outwash,GF,,gravel,,
+7,#e56500,GFc,Glaciofluvial ice-contact,GF,,gravel,,
+8,#26e666,Th,Hummocky till,T,,diamicton,,
+9,#b1fd26,Tb,Till blanket,T,,diamicton,,
+10,#e6ff65,Tv,Till veneer,T,R,diamicton,,
+11,#fdccfd,RL,Bedrock: clastic metasedimentary rocks,R,,,,
+12,#fe27fe,RB,Bedrock: mafic and ultramafic rocks,R,,,,
+13,#fd99fd,RG,Bedrock: granite and gneiss,R,,,,

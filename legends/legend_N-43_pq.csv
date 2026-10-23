@@ -1,0 +1,23 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#f1f3c3,aH,floodplain alluvium,F,,sand,,"GGK-1000/3 N-43 (Omsk), West Siberian series, Pliocene-Quaternary map, vector PDF (geokniga maps/32491); legend column at x~1325 pt (auto picker found symbol block)"
+1,#aee2fa,lH,"limnium, sapropel",L,,fines,,
+2,#fff5b6,vH,eolium,E,,sand,,
+3,#9cdcf9,lIIIsr-H,limnium,L,,fines,,
+4,#ddecc3,a1IIIsr,1st terrace alluvium,F,,sand,,
+5,#97cee7,lIIIsr,lake-terrace limnium,L,,fines,,
+6,#cce4b7,a2IIIkr-sr,2nd terrace alluvium,F,,fines,,
+7,#c3e0aa,a3IIIer,3rd terrace alluvium,F,,fines,,
+8,#94d2b8,laII-IIIkr,Karasuk lake-alluvium,L,F,fines,,
+9,#ffd38e,"Lpl,a,lIIsz",Suzgun loessoid-palustrium,E,L,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+10,#aad69c,aIItb,Tobol alluvium,F,,sand,,
+11,#e7c082,"L,laI-IIsv",Sladkovodsk loessoid and lake-alluvium,E,L,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+12,#dbbc73,"L,laI-IIfd",Fedosovo loessoid and lake-alluvium,E,L,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+13,#b9d989,aI-II,ancient valley alluvium,F,,sand,,
+14,#42c8f5,lEIIub,Ubinsk limnium,L,,fines,,
+15,#8aca8b,aEIInc,Novocherlak alluvium,F,,fines,,
+16,#52babe,"a,lEkc",Kochki alluvium and limnium,F,L,fines,,
+17,#acd372,aN2-Qcn,Chanov alluvium,F,,sand,,
+18,#71c276,aN2ol,Olkhov alluvium,F,,gravel,,
+19,#22ba9d,lN2,Pliocene limnium (assumed from next box),L,,fines,,
+20,#a678b4,PREQ,pre-Quaternary,R,,,,
+21,#ffe0ad,LIIIzr,Zyryanka loessoid (split box a/b,E,,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"

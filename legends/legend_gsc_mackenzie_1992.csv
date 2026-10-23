@@ -1,0 +1,22 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#bebdc2,"fO,pO,pO-k,pfO,fpO","Organic deposits: fen (woody sedge peat 2-3 m), peatland (sphagnum over sedge peat 2-4 m), pO-k with thermokarst",O,,organic,,"GSC Maps 1741A-1748A, 1784A (Duk-Rodkin, Hughes et al. 1992-93), Mackenzie Valley 1:250k, raster scans. Shared symbology; per-sheet tints re-sampled. Ground ice from the sheets' own lg01 table (e.g. pO up to 60 % segregated ice, Lp/Mp 10-25 %). Organic 10-50 % = red line overprint (grid / horizontal fen / vertical peat) -> o/<base>, hclass2 O; 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)"
+1,#fdfc5f,"Ap,Ap-k","Alluvial floodplain: coarse sand and gravel with silt and fine sand, 3-5 m; Ap-k with thermokarst (20-50 % segregated ice)",F,,mixed,,
+2,#fef900,"At,Atv","Alluvial terraces: sand and silt over gravel, 2-5 m (Atv 1-2 m)",F,,sand,,
+3,#fed80e,"Af,Ax","Alluvial fans and aprons (silt, sand, minor gravel, woody peat) and alluvial complexes",F,,mixed,,
+4,#c37352,"Cb,Ca,Cv","Colluvium and sheetwash: diamicton and rubble; Cb blanket > 3 m, Ca organic-rich silt and sand, Cv veneer 0-2 m",C,,diamicton,,
+5,#a05a55,Cz,Landslide deposits: rotational slumps and retrogressive thaw flows in glaciolacustrine sediments or shale,C,,diamicton,,
+6,#a36f50,Ct,Cryoplanation terrace deposits: colluvial rubble 1-3 m,C,R,bouldery,,
+7,#be5d58,Cy,Pediment deposits: silty gravel or colluvium 1-2 m under < 1 m silt; unglaciated mountains,C,,mixed,,
+8,#e1995b,Cx,"Slope complex: Cb, Cv, Ca, Cz and Af undivided",C,,diamicton,,
+9,#c899ce,"Lp,Lp-k,Lm,Lb","Glaciolacustrine plain, hummocks and blanket: silt and clay, minor sand; 2-15 m; Lp-k thermokarst (10-25 % segregated ice, up to 50 %)",GL,,fines,yes,
+10,#825b91,Ls,Glaciolacustrine littoral sediments: low ridges of sand and gravel,GL,,sand,,
+11,#c179b5,"Lx,Lx-k,Lv","Lacustrine complex (lacustrine under up to 3 m sand), Lx-k thermokarst; Lv veneer 0-2 m",GL,,mixed,,
+12,#fd9949,"Gp,Gt","Glaciofluvial outwash plain and terrace: sand and gravel, 2-30 m",GF,,gravel,no,
+13,#fb604b,"Gh,Gr","Ice-contact glaciofluvial hummocks and ridges: gravel and sand, 2-25 m",GF,,gravel,no,
+14,#fd7f58,Gx,"Glaciofluvial complex: Gh, Gr and kettled Gp, Gt undivided",GF,,gravel,no,
+15,#b0c73b,"Mp,Mb,Mpv","Moraine plain: till, Mp 3-20 m, Mb 3-6 m, Mpv 1-3 m (10-25 % segregated ice)",T,,diamicton,yes,
+16,#afc619,Md,"Drumlinoid till plain, 2-30 m",T,,diamicton,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+17,#d9e26c,"Mv,Mvd","Thin till and bedrock: till veneer 0-2 m, Mvd over streamlined bedrock",T,R,diamicton,,
+18,#9aba24,"Mh,Mr,Mm","Hummocky, ridged and rolling moraine: coarse till, up to 50-60 m",T,,diamicton,,
+19,#b0ca6b,Mx,"Glacial deposit complex: hummocky, ridged and rolling till undivided",T,,diamicton,,
+20,#fda19a,"R,Rt","Bedrock: shale, sandstone, limestone (Paleozoic-Mesozoic); Rt subhorizontal channel-floor surfaces",R,,,,

@@ -1,0 +1,17 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#ffc0a7,cH,"Голоцен. Коллювиальные отложения. Глыбы, щебень, дресва (5 м)",C,,bouldery,,"GGK-200/2 M-53-XVII (Amursk), Komsomolsk series, Pliocene-Quaternary map, 2nd ed. (compiled FGUGGP Khabarovskgeologiya, author N.A. Kremenetskaya, recommended NRS MPR RF 20 Dec 2001; electronic edition MF FGBU VSEGEI, (c) Rosnedra 2016); RASTER = geokniga full-sheet JPG 8657x7137 (CMYK, ICC; a rendering of the digital map, ~16.9 m/px); fills = legend swatches (jpg_to_polygons legend); a4I, laN2-Ipr and PREPL appear only on the correlation scheme (rows dropped); WATER row from the map tint; corners measured on the inner frame line (r200d_tools corners, paper edge and ridge agree)"
+1,#f9f6b4,aH,"Голоцен. Аллювиальные отложения поймы. Валунники, галечники, пески, супеси, глины, илы, суглинки (5-30 м)",F,,mixed,,
+2,#ffcca0,edIII-H,"Неоплейстоцен, верхнее звено - голоцен. Элювиально-делювиальные отложения. Глыбы, щебень, дресва, суглинки, супеси (1,5 м)",W,C,mixed,,
+3,#ffba97,"c,dIII-H","Неоплейстоцен, верхнее звено - голоцен. Коллювиальные и делювиальные отложения. Щебень с дресвой и суглинком, глыбы (2-10 м)",C,,bouldery,,
+4,#f7c3a9,ddrIII-H,"Неоплейстоцен, верхнее звено - голоцен. Делювиально-десерпционные отложения. Суглинки, супеси, щебень, глыбы (до 7 м)",C,,mixed,,
+5,#ffb39b,dsIII-H,"Неоплейстоцен, верхнее звено - голоцен. Делювиально-солифлюкционные отложения. Суглинки, супеси с дресвой и щебнем (до 5 м)",C,,fines,,solifluction; the legend states no ground ice
+6,#f4e7a7,apIII-H,"Неоплейстоцен, верхнее звено - голоцен. Аллювиально-пролювиальные отложения. Суглинки, пески, гравий, галечники, глины, щебень (до 10 м)",F,,mixed,,
+7,#fad9a4,"p,dIII-H","Неоплейстоцен, верхнее звено - голоцен. Пролювиальные и делювиальные отложения. Щебень, дресва, суглинки, супеси, глины (5-12 м)",F,C,mixed,,
+8,#e8f4a6,a1III2,"Неоплейстоцен, верхнее звено, верхняя часть. Аллювиальные отложения первой надпойменной террасы. Галечники, валунники, пески, гравий, суглинки, глины, супеси, торфяники (5-21 м)",F,,mixed,,same printed colour as a2III1: one class
+9,#b7efda,laIII2,"Неоплейстоцен, верхнее звено, верхняя часть. Озерно-аллювиальные отложения. Суглинки, супеси, пески, галечники, гравий, глины, торфяники",L,F,fines,,
+10,#e8f4a6,a2III1,"Неоплейстоцен, верхнее звено, нижняя часть. Аллювиальные отложения второй надпойменной террасы. Галечники, пески, суглинки, глины, супеси, гравий (15-23 м)",F,,mixed,,same printed colour as a1III2: one class
+11,#cded8e,a3II,"Неоплейстоцен, среднее звено. Аллювиальные отложения третьей надпойменной террасы. Валунники, галечники, гравийники, суглинки, пески, торфяники (до 20 м)",F,,gravel,,
+12,#ecda7b,apII,"Неоплейстоцен, среднее звено. Аллювиально-пролювиальные отложения. Галечники, гравийники, валунники, суглинки, супеси, пески, глины (до 24 м)",F,,gravel,,
+13,#87e0c4,laII,"Неоплейстоцен, среднее звено. Озерно-аллювиальные отложения. Супеси, глины, суглинки, пески, илы (8-12 м)",L,F,fines,,
+14,#afc764,vlN2-Isg,"Плиоцен - нижнее звено неоплейстоцена. Совгаванская свита. Вулканические образования. Трахибазальты, трахидолериты (300 м)",V,,,,"Pliocene-Lower Neopleistocene plateau lavas (Sovgavan formation), surficial volcanic unit, classed by genesis"
+15,#daeefa,WATER,"Водоемы (Амур, озера, протоки)",H,,,,"pale-blue water of the Amur, lakes and channels: map tint (water_tint.py), 21.8 dE from the nearest unit"

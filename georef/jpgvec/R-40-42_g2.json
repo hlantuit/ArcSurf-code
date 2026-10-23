@@ -1,0 +1,504 @@
+{
+ "sheet": "R-40-42_g2",
+ "source": "raster scan",
+ "projection": "eqdc",
+ "rms_m": 2204.1333906776317,
+ "max_res_m": 3170.056057828489,
+ "m_per_px": 83.10487045767783,
+ "corner_residuals_m": [
+  3170.1,
+  3091.5,
+  2663.2,
+  2590.4,
+  427.8,
+  638.6,
+  87.9
+ ],
+ "n_ties": 3,
+ "corners": [
+  {
+   "approx": [
+    911.0,
+    862.0
+   ],
+   "snapped": [
+    911.0,
+    862.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    7200.0,
+    813.0
+   ],
+   "snapped": [
+    7200.0,
+    813.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    7835.0,
+    6033.0
+   ],
+   "snapped": [
+    7835.0,
+    6033.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    366.0,
+    6104.0
+   ],
+   "snapped": [
+    366.0,
+    6104.0
+   ],
+   "ok": "rejected (moved > 15 px)"
+  }
+ ],
+ "frame_sag_px": 231.8,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga_1m/R-_40_-42_g2/r-40-42-o-vaygach-p-ov-yamal-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-f_0.jpg R-40-42_g2 ../sources/legend_R-40-42_g2.csv ../work/facefix/R-40-42_g2.gpkg --lonlat 57,68,72,72 --datum 4284 --corners '911,862;7200,813;7835,6033;366,6104' --ties '60,70,2013,3613;63,70,3394,3669;66,70,4768,3650'",
+ "unassigned_before_fill": 0.043,
+ "area_km2": 255573.18434116518,
+ "neatline_km2": 255563.46729650575,
+ "cover_frac": 1.0000380220411087,
+ "n_polygons": 22186,
+ "units": {
+  "#ff7a43": {
+   "index": "d",
+   "px": 130844,
+   "direct_frac": 0.773
+  },
+  "#fb866a": {
+   "index": "e,d",
+   "px": 173090,
+   "direct_frac": 0.644
+  },
+  "#fc605d": {
+   "index": "dc",
+   "px": 96695,
+   "direct_frac": 0.823
+  },
+  "#dc5956": {
+   "index": "cd",
+   "px": 520144,
+   "direct_frac": 0.633
+  },
+  "#9b5457": {
+   "index": "ds",
+   "px": 375910,
+   "direct_frac": 0.724
+  },
+  "#df616c": {
+   "index": "c,s",
+   "px": 49577,
+   "direct_frac": 0.806
+  },
+  "#ef8d4d": {
+   "index": "pd",
+   "px": 2460,
+   "direct_frac": 0.486
+  },
+  "#fdf898": {
+   "index": "aIV",
+   "px": 1039880,
+   "direct_frac": 0.758
+  },
+  "#fcb292": {
+   "index": "gIV",
+   "px": 3691,
+   "direct_frac": 0.198
+  },
+  "#c3c6fd": {
+   "index": "mIV",
+   "px": 767830,
+   "direct_frac": 0.699
+  },
+  "#bbd8e2": {
+   "index": "amIV",
+   "px": 341302,
+   "direct_frac": 0.718
+  },
+  "#a2bdda": {
+   "index": "lbIV",
+   "px": 102986,
+   "direct_frac": 0.628
+  },
+  "#d1d984": {
+   "index": "a1III-IV",
+   "px": 1459537,
+   "direct_frac": 0.469
+  },
+  "#a2c7fa": {
+   "index": "lIII-IV",
+   "px": 129982,
+   "direct_frac": 0.636
+  },
+  "#acb6fa": {
+   "index": "m1III-IV",
+   "px": 6515724,
+   "direct_frac": 0.791
+  },
+  "#a2c7d1": {
+   "index": "am1III-IV",
+   "px": 303662,
+   "direct_frac": 0.657
+  },
+  "#f49c80": {
+   "index": "gIII4",
+   "px": 2708,
+   "direct_frac": 0.689
+  },
+  "#def0a4": {
+   "index": "a2III",
+   "px": 531882,
+   "direct_frac": 0.595
+  },
+  "#abbdfc": {
+   "index": "m2III",
+   "px": 519772,
+   "direct_frac": 0.678
+  },
+  "#93bbc0": {
+   "index": "la2III",
+   "px": 203580,
+   "direct_frac": 0.632
+  },
+  "#7dadc2": {
+   "index": "am2III",
+   "px": 152705,
+   "direct_frac": 0.732
+  },
+  "#f08e77": {
+   "index": "gIII2",
+   "px": 82554,
+   "direct_frac": 0.731
+  },
+  "#ccd375": {
+   "index": "fIII2",
+   "px": 67135,
+   "direct_frac": 0.72
+  },
+  "#6b9ca6": {
+   "index": "la,fIII2",
+   "px": 367624,
+   "direct_frac": 0.754
+  },
+  "#8ca0fb": {
+   "index": "m3III",
+   "px": 1539757,
+   "direct_frac": 0.797
+  },
+  "#7aa9a9": {
+   "index": "la3III",
+   "px": 100887,
+   "direct_frac": 0.682
+  },
+  "#7186e6": {
+   "index": "m4III",
+   "px": 2515965,
+   "direct_frac": 0.767
+  },
+  "#649290": {
+   "index": "la4III",
+   "px": 133614,
+   "direct_frac": 0.8
+  },
+  "#87a3b9": {
+   "index": "a,amII",
+   "px": 71398,
+   "direct_frac": 0.573
+  },
+  "#6f7bd4": {
+   "index": "m,gmII",
+   "px": 1344922,
+   "direct_frac": 0.692
+  },
+  "#5f85a4": {
+   "index": "m,laI-II",
+   "px": 580553,
+   "direct_frac": 0.792
+  },
+  "#6c8c4c": {
+   "index": "aI",
+   "px": 5374,
+   "direct_frac": 0.357
+  },
+  "#648296": {
+   "index": "a,amI",
+   "px": 456874,
+   "direct_frac": 0.68
+  },
+  "#5c6ec1": {
+   "index": "m,gmI",
+   "px": 354034,
+   "direct_frac": 0.661
+  },
+  "#516aca": {
+   "index": "mE",
+   "px": 847116,
+   "direct_frac": 0.852
+  },
+  "#a47565": {
+   "index": "gmE",
+   "px": 1061832,
+   "direct_frac": 0.8
+  },
+  "#6e9294": {
+   "index": "lm,mN23",
+   "px": 91741,
+   "direct_frac": 0.577
+  },
+  "#927782": {
+   "index": "gm,mN23",
+   "px": 27335,
+   "direct_frac": 0.413
+  },
+  "#507770": {
+   "index": "la,amN23",
+   "px": 62309,
+   "direct_frac": 0.612
+  },
+  "#6a515b": {
+   "index": "gm,amN23",
+   "px": 125057,
+   "direct_frac": 0.502
+  },
+  "#597c4b": {
+   "index": "a,gmN2",
+   "px": 2950,
+   "direct_frac": 0.189
+  },
+  "#4e5caa": {
+   "index": "m,gmN2",
+   "px": 446315,
+   "direct_frac": 0.574
+  },
+  "#9e63a7": {
+   "index": "PREQ",
+   "px": 146956,
+   "direct_frac": 0.619
+  },
+  "#e2eafb": {
+   "index": "s:m1IV",
+   "px": 1528672,
+   "direct_frac": 0.821
+  },
+  "#dfe7fb": {
+   "index": "s:m1''IV",
+   "px": 248372,
+   "direct_frac": 0.698
+  },
+  "#c4d3fa": {
+   "index": "s:m2IV",
+   "px": 757618,
+   "direct_frac": 0.71
+  },
+  "#b0bafb": {
+   "index": "s:m3IV",
+   "px": 1476058,
+   "direct_frac": 0.74
+  },
+  "#a7b0f2": {
+   "index": "s:mIII4-IV",
+   "px": 1331837,
+   "direct_frac": 0.669
+  },
+  "#97a1e7": {
+   "index": "s:mIII",
+   "px": 1670653,
+   "direct_frac": 0.713
+  },
+  "#828ed3": {
+   "index": "s:m1III",
+   "px": 2332482,
+   "direct_frac": 0.644
+  },
+  "#e3e7fb": {
+   "index": "s:amIII-IV",
+   "px": 430385,
+   "direct_frac": 0.757
+  },
+  "#d8dafb": {
+   "index": "s:gmI-III",
+   "px": 2919349,
+   "direct_frac": 0.781
+  },
+  "#c7c6f7": {
+   "index": "s:gmI-II",
+   "px": 595521,
+   "direct_frac": 0.67
+  },
+  "#b397d6": {
+   "index": "s:PREQ",
+   "px": 1816,
+   "direct_frac": 0.499
+  }
+ },
+ "confusable_pairs": [
+  [
+   "mIV",
+   "m2III",
+   7.4
+  ],
+  [
+   "mIV",
+   "s:m3IV",
+   7.4
+  ],
+  [
+   "mIV",
+   "s:gmI-II",
+   3.4
+  ],
+  [
+   "amIV",
+   "am1III-IV",
+   7.1
+  ],
+  [
+   "a1III-IV",
+   "fIII2",
+   5.1
+  ],
+  [
+   "m1III-IV",
+   "m2III",
+   4.4
+  ],
+  [
+   "m1III-IV",
+   "s:m3IV",
+   2.2
+  ],
+  [
+   "m1III-IV",
+   "s:mIII4-IV",
+   2.4
+  ],
+  [
+   "m1III-IV",
+   "s:mIII",
+   7.9
+  ],
+  [
+   "am1III-IV",
+   "la2III",
+   5.6
+  ],
+  [
+   "gIII4",
+   "gIII2",
+   6.2
+  ],
+  [
+   "m2III",
+   "s:m3IV",
+   2.8
+  ],
+  [
+   "m2III",
+   "s:mIII4-IV",
+   5.4
+  ],
+  [
+   "am2III",
+   "a,amII",
+   6.7
+  ],
+  [
+   "la,fIII2",
+   "la3III",
+   7.4
+  ],
+  [
+   "la,fIII2",
+   "la4III",
+   8.0
+  ],
+  [
+   "la,fIII2",
+   "lm,mN23",
+   6.5
+  ],
+  [
+   "m4III",
+   "m,gmII",
+   5.5
+  ],
+  [
+   "la4III",
+   "lm,mN23",
+   4.3
+  ],
+  [
+   "m,gmII",
+   "m,gmI",
+   6.4
+  ],
+  [
+   "m,laI-II",
+   "a,amI",
+   6.6
+  ],
+  [
+   "aI",
+   "aN2",
+   6.2
+  ],
+  [
+   "m,gmI",
+   "mE",
+   7.9
+  ],
+  [
+   "m,gmI",
+   "m,gmN2",
+   7.4
+  ],
+  [
+   "s:m1IV",
+   "s:m1''IV",
+   1.9
+  ],
+  [
+   "s:m1IV",
+   "s:amIII-IV",
+   2.2
+  ],
+  [
+   "s:m1''IV",
+   "s:amIII-IV",
+   1.4
+  ],
+  [
+   "s:m2IV",
+   "s:gmI-III",
+   6.1
+  ],
+  [
+   "s:m3IV",
+   "s:mIII4-IV",
+   3.7
+  ],
+  [
+   "s:mIII4-IV",
+   "s:mIII",
+   6.1
+  ],
+  [
+   "s:mIII",
+   "s:m1III",
+   7.3
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 120
+}

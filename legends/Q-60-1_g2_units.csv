@@ -1,0 +1,71 @@
+x,y,w,index,description_ru,hclass,hclass2,texture,note
+9422,1026,130,cIII-IV,colluvium,C,,bouldery,colluvium
+10133,1015,130,cIV,Holocene colluvium,C,,bouldery,Holocene colluvium
+10312,1012,130,c,colluvium,C,,bouldery,colluvium
+10314,1106,130,s,solifluxion,C,,mixed,solifluxion
+10137,1203,130,aIV,Holocene alluvium,F,,mixed,Holocene alluvium
+9605,1212,130,a1IV1,lower Holocene 1st terrace alluvium,F,,mixed,lower Holocene 1st terrace alluvium
+9426,1215,130,a1III4-IV1,1st terrace alluvium,F,,mixed,1st terrace alluvium
+9070,1221,130,a2III3,2nd terrace alluvium,F,,mixed,2nd terrace alluvium
+8715,1227,130,a3III1,3rd terrace alluvium,F,,mixed,3rd terrace alluvium
+8358,1233,130,a4II3,4th terrace alluvium,F,,mixed,4th terrace alluvium
+10139,1298,130,pIV,Holocene proluvium,F,,gravel,Holocene proluvium
+10140,1393,130,lIV,Holocene lacustrine,L,,fines,Holocene lacustrine
+9889,1397,130,lIV2-3,mid-late Holocene lacustrine,L,,fines,mid-late Holocene lacustrine
+9429,1404,130,lIII4-IV1,lacustrine,L,,fines,lacustrine
+9072,1410,130,lIII3,lacustrine stage 3,L,,fines,lacustrine stage 3
+8895,1413,130,lIII2,lacustrine stage 2,L,,fines,lacustrine stage 2
+8718,1416,130,lIII1,lacustrine stage 1,L,,fines,lacustrine stage 1
+9252,1502,130,gIII4,stage 4 till,T,,bouldery,stage 4 till
+8896,1508,130,gIII2,stage 2 till,T,,bouldery,stage 2 till
+8541,1514,130,gII4,middle Pleistocene stage 4 till,T,,bouldery,middle Pleistocene stage 4 till
+8184,1520,130,gII2,middle Pleistocene stage 2 till,T,,bouldery,middle Pleistocene stage 2 till
+9254,1596,130,fIII4,glaciofluvial,GF,,gravel,glaciofluvial
+8898,1602,130,fIII2,glaciofluvial,GF,,gravel,glaciofluvial
+8543,1608,130,fII4,glaciofluvial,GF,,gravel,glaciofluvial
+8185,1614,130,fII2,glaciofluvial,GF,,gravel,glaciofluvial
+8187,1709,130,"g,fII2",till and glaciofluvial,T,GF,bouldery,till and glaciofluvial
+8901,1792,130,lgIII2,glaciolacustrine,GL,,fines,glaciolacustrine
+8188,1804,130,lgII2,glaciolacustrine,GL,,fines,glaciolacustrine
+8547,1892,130,gmII4,glaciomarine,GM,,mixed,glaciomarine
+8190,1899,130,gmII2,glaciomarine,GM,,mixed,glaciomarine
+7835,1905,130,gmI-II,glaciomarine,GM,,mixed,glaciomarine
+7658,1908,130,gmI,glaciomarine,GM,,mixed,glaciomarine
+10151,2056,130,tIV,technogenic,X,,mixed,technogenic
+10152,2151,130,mIV,Holocene marine on land,M,,sand,Holocene marine on land
+9620,2159,130,m1IV1,lower Holocene marine terrace,M,,sand,lower Holocene marine terrace
+9084,2168,130,m2III3,marine terrace,M,,sand,marine terrace
+8907,2171,130,m3III2,marine terrace,M,,sand,marine terrace
+8729,2174,130,m3III1,marine terrace,M,,sand,marine terrace
+8372,2181,130,m4II3,marine terrace,M,,mixed,marine terrace
+8016,2187,130,m5II1,marine terrace,M,,mixed,marine terrace
+7484,2196,130,m6I1,marine terrace,M,,mixed,marine terrace
+7304,2199,130,mE,Eopleistocene marine,M,,mixed,Eopleistocene marine
+9619,2325,130,laIV1,lake-alluvial,L,F,fines,lake-alluvial
+9442,2327,130,laIII4-IV1,lake-alluvial,L,F,fines,lake-alluvial
+9087,2333,130,laIII3,lake-alluvial,L,F,fines,lake-alluvial
+8909,2336,130,laIII2,lake-alluvial,L,F,fines,lake-alluvial
+8732,2339,130,laIII1,lake-alluvial,L,F,fines,lake-alluvial
+8375,2345,130,laII3,lake-alluvial,L,F,fines,lake-alluvial
+8019,2351,130,laII1,lake-alluvial,L,F,fines,lake-alluvial
+7410,2361,130,laEII-I1,Eopleistocene-lower Neopleistocene lake-alluvial,L,F,fines,Eopleistocene-lower Neopleistocene lake-alluvial
+10155,2407,130,apIV,alluvial-proluvial,F,,gravel,alluvial-proluvial
+9905,2509,130,amIV2-3,alluvial-marine,F,M,sand,alluvial-marine
+9088,2523,130,amIII3,alluvial-marine,F,M,sand,alluvial-marine
+8912,2525,130,amIII2,alluvial-marine,F,M,sand,alluvial-marine
+8735,2528,130,amIII1,alluvial-marine,F,M,sand,alluvial-marine
+10159,2598,130,"l,bIV",lacustrine and biogenic (peat),L,O,organic,lacustrine and biogenic (peat)
+9449,2705,130,dpIII-IV,deluvial-proluvial,C,F,mixed,deluvial-proluvial
+10340,2784,130,"e,d",eluvium and deluvium,W,C,bouldery,eluvium and deluvium
+10341,2879,130,dc,deluvial-colluvial,C,,bouldery,deluvial-colluvial
+10343,2973,130,ds,deluvial-solifluxion,C,,mixed,deluvial-solifluxion
+10166,3237,130,s:m1IV,shelf wave (offshore),M,,sand,shelf wave (offshore)
+10168,3426,130,s:m3IV,shelf current (offshore),M,,sand,shelf current (offshore)
+9463,3603,130,s:aIII-IV,submerged alluvium,F,M,sand,submerged alluvium
+10359,4154,130,s:PREQ,offshore pre-Quaternary,R,,,offshore pre-Quaternary
+10274,918,60,e',e',W,,bouldery,e'
+10348,918,60,e'',e'',W,,fines,e''
+10308,3069,60,PREQ,PREQ,R,,,PREQ
+10382,3069,60,"PREQ,b","PREQ,b",R,,,"PREQ,b"
+10131,3333,60,s:m2'IV,s:m2'IV,M,,fines,s:m2'IV
+10205,3333,60,s:m2''IV,s:m2''IV,M,,fines,s:m2''IV

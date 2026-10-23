@@ -1,0 +1,250 @@
+{
+ "sheet": "S-44-46_g2",
+ "source": "raster scan",
+ "projection": "lcc",
+ "rms_m": 5188.017284987267,
+ "max_res_m": 9790.47413463871,
+ "m_per_px": 78.23035894175784,
+ "corner_residuals_m": [
+  9407.4,
+  9790.5,
+  9695.2,
+  8379.2,
+  1904.0,
+  1374.2,
+  3418.2,
+  1350.0,
+  2783.3,
+  2204.0,
+  473.8,
+  3013.7,
+  2003.4,
+  798.9,
+  3096.8
+ ],
+ "n_ties": 11,
+ "corners": [
+  {
+   "approx": [
+    1001.0,
+    838.0
+   ],
+   "snapped": [
+    1001.0,
+    838.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    7418.0,
+    797.0
+   ],
+   "snapped": [
+    7418.0,
+    797.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    8082.0,
+    6066.0
+   ],
+   "snapped": [
+    8082.0,
+    6066.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    380.0,
+    6106.0
+   ],
+   "snapped": [
+    380.0,
+    6106.0
+   ],
+   "ok": false
+  }
+ ],
+ "unassigned_before_fill": 0.402,
+ "area_km2": 236216.74571285394,
+ "neatline_km2": 247289.5972046901,
+ "cover_frac": 0.9552231407345826,
+ "n_polygons": 14904,
+ "units": {
+  "#be88d1": {
+   "index": "eIII-IV",
+   "px": 908236,
+   "direct_frac": 0.385
+  },
+  "#ffff9d": {
+   "index": "aIV",
+   "px": 2254707,
+   "direct_frac": 0.685
+  },
+  "#b5cc7a": {
+   "index": "aIIIsr",
+   "px": 103948,
+   "direct_frac": 0.798
+  },
+  "#b3d8ff": {
+   "index": "lIV",
+   "px": 4002229,
+   "direct_frac": 0.857
+  },
+  "#8fc1fe": {
+   "index": "lIIIsr",
+   "px": 1520661,
+   "direct_frac": 0.816
+  },
+  "#609efe": {
+   "index": "lIIIkr",
+   "px": 654,
+   "direct_frac": 0.229
+  },
+  "#d68c6b": {
+   "index": "gIIImr",
+   "px": 86673,
+   "direct_frac": 0.606
+  },
+  "#b7684a": {
+   "index": "gIIs-t",
+   "px": 83128,
+   "direct_frac": 0.401
+  },
+  "#bcc978": {
+   "index": "fIIImr",
+   "px": 796074,
+   "direct_frac": 0.594
+  },
+  "#ccad9d": {
+   "index": "gmIIImr",
+   "px": 4391060,
+   "direct_frac": 0.132
+  },
+  "#9b7764": {
+   "index": "gmE-II",
+   "px": 724362,
+   "direct_frac": 0.451
+  },
+  "#bccdfe": {
+   "index": "mIV",
+   "px": 2282910,
+   "direct_frac": 0.388
+  },
+  "#a1b3fc": {
+   "index": "mIIIkz-kr",
+   "px": 3168309,
+   "direct_frac": 0.676
+  },
+  "#8ea7fe": {
+   "index": "mIIIkr",
+   "px": 1302014,
+   "direct_frac": 0.777
+  },
+  "#728cf1": {
+   "index": "mIIIkz",
+   "px": 994783,
+   "direct_frac": 0.645
+  },
+  "#5973dd": {
+   "index": "mN2-E?",
+   "px": 50635,
+   "direct_frac": 0.275
+  },
+  "#68a1cf": {
+   "index": "lgIIImr",
+   "px": 332379,
+   "direct_frac": 0.496
+  },
+  "#b0d4e1": {
+   "index": "laIIIsr",
+   "px": 2878225,
+   "direct_frac": 0.41
+  },
+  "#85b7c6": {
+   "index": "laIIIkr",
+   "px": 1231152,
+   "direct_frac": 0.66
+  },
+  "#8db7fc": {
+   "index": "lmIIIkz-kr",
+   "px": 172790,
+   "direct_frac": 0.744
+  },
+  "#fd9ecf": {
+   "index": "edIII-IV",
+   "px": 786169,
+   "direct_frac": 0.142
+  },
+  "#eb6f60": {
+   "index": "dcIII-IV",
+   "px": 3263978,
+   "direct_frac": 0.385
+  },
+  "#fd9891": {
+   "index": "dsIII-IV",
+   "px": 1563643,
+   "direct_frac": 0.536
+  },
+  "#c7e2ff": {
+   "index": "s:m1IV",
+   "px": 902921,
+   "direct_frac": 0.571
+  },
+  "#beddf5": {
+   "index": "s:m2IV",
+   "px": 2816369,
+   "direct_frac": 0.555
+  },
+  "#9c6bbc": {
+   "index": "PREQ",
+   "px": 520496,
+   "direct_frac": 0.141
+  },
+  "#c69eeb": {
+   "index": "PREQ,c",
+   "px": 55341,
+   "direct_frac": 0.033
+  }
+ },
+ "confusable_pairs": [
+  [
+   "aIIIsr",
+   "fIIImr",
+   4.0
+  ],
+  [
+   "lIV",
+   "s:m1IV",
+   7.1
+  ],
+  [
+   "lIIIsr",
+   "lmIIIkz-kr",
+   6.3
+  ],
+  [
+   "mIIIkz-kr",
+   "lmIIIkz-kr",
+   7.4
+  ],
+  [
+   "laIIIsr",
+   "s:m2IV",
+   7.3
+  ],
+  [
+   "s:m1IV",
+   "s:m2IV",
+   3.7
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 120
+}

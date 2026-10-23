@@ -1,0 +1,36 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#e68f7c,cIV,Holocene colluvium,C,,bouldery,,"GGK-1000/2 O-(53),54 Okhotsk 1982 (new series), Quaternary map, RASTER (geokniga JPG 8682x8927); frame 135-144E; descriptions translated; Holocene colluvium"
+1,#f0f5a6,aIV,Holocene alluvium,F,,mixed,,Holocene alluvium
+2,#cbd6d3,mIV,Holocene marine,M,,sand,,Holocene marine
+3,#e9f48b,aIII+IV,alluvium,F,,mixed,,alluvium
+4,#ecbf53,adIII+IV,alluvial-deluvial,F,C,mixed,,alluvial-deluvial
+5,#dccda3,dpIII+IV,deluvial-proluvial,C,F,mixed,,deluvial-proluvial
+6,#ddf485,aIII,alluvium,F,,mixed,,alluvium
+7,#e1f388,aIII4,alluvium 2nd glacial horizon,F,,mixed,,alluvium 2nd glacial horizon
+8,#b9e27c,aIII2,alluvium 1st glacial horizon,F,,mixed,,alluvium 1st glacial horizon
+9,#b6e070,aIII1,alluvium (scheme only),F,,mixed,,alluvium (scheme only)
+10,#b4875c,gIII4,till 2nd glacial horizon,T,,bouldery,,till 2nd glacial horizon
+11,#a67245,gIII2,till 1st glacial horizon,T,,bouldery,,till 1st glacial horizon
+12,#c8bc6c,fIII2,glaciofluvial,GF,,gravel,,glaciofluvial
+13,#87a7b6,mIII,marine,M,,mixed,,marine
+14,#7ec089,laIII,lake-alluvial,L,F,fines,,lake-alluvial
+15,#a8854a,"g,fII+III",till and glaciofluvial undivided,T,GF,bouldery,,till and glaciofluvial undivided
+16,#a4d962,aII,alluvium,F,,mixed,,alluvium
+17,#c5e96b,aII3,alluvium (scheme only),F,,mixed,,alluvium (scheme only)
+18,#b0dc56,aII1,alluvium (scheme only),F,,mixed,,alluvium (scheme only)
+19,#955f30,gII4,till,T,,bouldery,,till
+20,#97643d,gII2,till (scheme only),T,,bouldery,,till (scheme only)
+21,#c0b256,fII4,glaciofluvial,GF,,gravel,,glaciofluvial
+22,#739eb4,mII,marine,M,,mixed,,marine
+23,#a5c092,lgII4,glaciolacustrine,GL,,fines,,glaciolacustrine
+24,#aee16b,aI,alluvium,F,,mixed,,alluvium
+25,#8c5320,gI,till (scheme only),T,,bouldery,,till (scheme only)
+26,#cdec5c,aN2-Q1,socle terrace alluvium,F,,gravel,,socle terrace alluvium
+27,#f1b7c9,e,eluvium,W,,bouldery,,eluvium
+28,#f38d40,"e,d",eluvium and deluvium,W,C,bouldery,,eluvium and deluvium
+29,#ce4335,c,colluvium,C,,bouldery,,colluvium
+30,#a2d74b,a,alluvium,F,,mixed,,alluvium
+31,#f38054,dc,deluvial-colluvial,C,,bouldery,,deluvial-colluvial
+32,#f3b0a5,ds,deluvial-solifluxion and solifluxion,C,,mixed,,deluvial-solifluxion and solifluxion
+33,#ab7ecc,PREQ,pre-Quaternary,R,,,,pre-Quaternary
+34,#eaf8e2,WATER,море,H,,,,Sea of Okhotsk tint sampled on the map

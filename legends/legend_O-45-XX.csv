@@ -1,0 +1,6 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#fcfdc8,prQII-III,"cover loams (old notation 'pr' = pokrovnye), Middle-Late Pleistocene (pale yellow, sparse dots)",E,,,,"GGK-200 (1st generation) O-45-XX 'Karta chetvertichnyh obrazovaniy SSSR', Ketskaya series (geokniga record 11308, 1963: record year, the preview carries no imprint); PREVIEW 1906x2383 px (~33 m/px), map face only: no legend image on geokniga; units read from the indices printed on the map (old notation); vertical lithology ruling removed by a horizontal median (as r200d prep_vlines); cover loams and eolian sands coded E"
+1,#fdfd9e,eolQIII-IV,eolian sands (Late Pleistocene-Holocene; yellow with dense dots),E,,,,
+2,#dbfc93,alQIII2+3,"alluvium of the 2nd and 3rd terraces (Late Pleistocene; green, dotted or ruled: shades not separable on the preview)",F,,,,
+3,#f0fcd2,alQIV,floodplain alluvium (Holocene; whitish with ruling),F,,,,
+4,#d0dcac,l+lhQIII-IV,lacustrine and lake-bog deposits (Late Pleistocene-Holocene; grey hatched patches),L,O,,,

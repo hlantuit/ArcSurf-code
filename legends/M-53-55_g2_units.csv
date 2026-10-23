@@ -1,0 +1,55 @@
+x,y,w,index,description_ru,hclass,hclass2,texture,note
+4999,9485,130,e,eluvium,W,,bouldery,eluvium
+5000,9578,130,c,colluvium,C,,bouldery,colluvium
+4598,9580,130,cIV,Holocene colluvium,C,,bouldery,Holocene colluvium
+4190,9583,130,cIII-IV,colluvium,C,,bouldery,colluvium
+5001,9663,130,a,alluvium,F,,mixed,alluvium
+3647,9671,130,aIII4,alluvium,F,,mixed,alluvium
+3917,9671,130,aIII,alluvium,F,,mixed,alluvium
+3374,9672,130,aIII3,alluvium,F,,mixed,alluvium
+2562,9678,130,aII-III,alluvium,F,,mixed,alluvium
+2293,9680,130,aII,alluvium,F,,mixed,alluvium
+1481,9688,130,aI,alluvium,F,,mixed,alluvium
+5000,9757,130,d,deluvium,C,,mixed,deluvium
+1484,9868,130,lI,lacustrine,L,,fines,lacustrine
+3919,10033,130,gIII,glacial,T,,bouldery,glacial
+1213,10217,130,bN2-Q1,Pliocene-Eopleistocene basalts,V,,,Pliocene-Eopleistocene basalts
+4603,10282,130,piIV,mud-volcanic,V,,fines,mud-volcanic
+3924,10368,130,mIII,marine,M,,mixed,marine
+5006,10529,130,la,lake-alluvial,L,F,fines,lake-alluvial
+3923,10535,130,laIII,lake-alluvial,L,F,fines,lake-alluvial
+2838,10541,130,laIII1,lake-alluvial,L,F,fines,lake-alluvial
+2295,10544,130,laII,lake-alluvial,L,F,fines,lake-alluvial
+5006,10623,130,ap,alluvial-proluvial,F,,gravel,alluvial-proluvial
+5008,10710,130,ad,alluvial-deluvial,F,C,mixed,alluvial-deluvial
+5010,10891,130,dp,deluvial-proluvial,C,F,mixed,deluvial-proluvial
+5011,10978,130,dc,deluvial-colluvial,C,,bouldery,deluvial-colluvial
+4198,10981,130,dcIII-IV,deluvial-colluvial,C,,bouldery,deluvial-colluvial
+5012,11069,130,ds,deluvial-solifluxion,C,,mixed,deluvial-solifluxion
+4198,11072,130,dsIII-IV,deluvial-solifluxion,C,,mixed,deluvial-solifluxion
+5011,11157,130,"e,d",eluvium and deluvium,W,C,bouldery,eluvium and deluvium
+5011,11248,130,cs,colluvial-solifluxion,C,,bouldery,colluvial-solifluxion
+1750,9865,130,lII1,lacustrine,L,,fines,lacustrine
+2022,9862,130,lII2,lacustrine,L,,fines,lacustrine
+2292,9862,130,lII,lacustrine,L,,fines,lacustrine
+3921,9853,130,lIII,lacustrine,L,,fines,lacustrine
+4191,9762,130,dIII-IV,deluvium,C,,fines,deluvium
+4601,9645,250,aIV,Holocene alluvium,F,,mixed,Holocene alluvium
+4518,9696,100,aIV1,alluvium,F,,mixed,alluvium
+4681,9696,100,aIV2,alluvium,F,,mixed,alluvium
+4599,9848,130,lIV,lacustrine,L,,fines,lacustrine
+4560,9918,250,vIV,eolian,E,,sand,eolian
+4685,9964,100,vIV2,eolian,E,,sand,eolian
+4600,10106,130,bIV,biogenic (peat),O,,organic,biogenic (peat)
+4603,10347,250,mIV,Holocene marine,M,,sand,Holocene marine
+4523,10396,100,mIV1,marine,M,,sand,marine
+4688,10396,100,mIV2,marine,M,,sand,marine
+4194,10533,130,laIII-IV,lake-alluvial,L,F,fines,lake-alluvial
+4194,10626,130,apIII-IV,alluvial-proluvial,F,,gravel,alluvial-proluvial
+4194,10712,130,adIII-IV,alluvial-deluvial,F,C,mixed,alluvial-deluvial
+4523,10800,100,amIV1,alluvial-marine,F,M,sand,alluvial-marine
+4691,10800,100,amIV2,alluvial-marine,F,M,sand,alluvial-marine
+4194,10892,130,dpIII-IV,deluvial-proluvial,C,F,mixed,deluvial-proluvial
+3109,10539,130,laIII2,lake-alluvial,L,F,fines,lake-alluvial
+3377,10538,130,laIII3,lake-alluvial,L,F,fines,lake-alluvial
+5011,11340,130,PREQ,pre-Quaternary,R,,,pre-Quaternary

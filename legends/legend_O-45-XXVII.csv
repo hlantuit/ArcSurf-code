@@ -1,0 +1,10 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#f5efa6,prQ2-3,"cover loams (index 'pr' = pokrovnye, West-Siberian 1st-edition notation), Middle-Late Pleistocene, of the interfluve plain (pale yellow with vertical ruling)",E,,,,"GGK-200 (1st generation) O-45-XXVII 'Karta chetvertichnyh otlozheniy SSSR', Ketskaya series (geokniga record 11648, 1962: record year, the preview carries no imprint); PREVIEW 1933x2392 px (~31 m/px), map face only: no legend image on geokniga; units read from the indices printed on the map (old notation: al alluvial, lal lacustrine-alluvial, l+lh lacustrine and lake-bog, pr cover); vertical lithology ruling removed by a horizontal median (as r200d prep_vlines); cover loams coded E per the PI rule (subaerial cover = E)"
+1,#f5fcdb,alQ4,floodplain alluvium (Holocene),F,,,,
+2,#edfcae,alQ3I,alluvium of the 1st terrace (Late Pleistocene),F,,,,
+3,#e6fc83,alQ3II,alluvium of the 2nd terrace (Late Pleistocene),F,,,,same printed colour as alQ3III: one class ; same printed colour as alQ3III: one class
+4,#e6fc83,alQ3III,alluvium of the 3rd terrace (Late Pleistocene),F,,,,same printed colour as alQ3II: one class ; same printed colour as alQ3II: one class
+5,#bcde6c,alQ1,Early Pleistocene alluvium (hatched green strips),F,,,,
+6,#c8d6ac,lalQ2,lacustrine-alluvial deposits (Middle Pleistocene as printed; hatched pale tongues at valley heads),L,F,,,
+7,#e4efdf,l+lhQ4,lacustrine and lake-bog deposits (Holocene; horizontal-dash symbol),L,O,,,
+8,#c5e8e1,WATER,water (rivers),H,,,,

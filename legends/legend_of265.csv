@@ -1,0 +1,250 @@
+label,hclass,hclass2,texture,cover,description
+$CR,C,R,fines,,$CR: colluvium (>75 %) and rock/residual
+$Fp,F,,fines,,$Fp: fluvial plain
+$Fp+FdA,F,,fines,,$Fp: fluvial plain + FdA: fluvial delta
+$P,F,,fines,,$P: Pleistocene/Pliocene preglacial fluvial gravels
+$RC,R,C,fines,,$RC: rock/residual (75-25 %) and colluvium
+$Rm,R,M,fines,,$Rm: marine washed rock/residual
+$Rm&fsFd,R,F,fines,,$Rm: marine washed rock/residual + fsFd: fluvial delta
+$fFp,F,,fines,,$fFp: fluvial plain
+$frCR,C,R,fines,,$frCR: colluvium (>75 %) and rock/residual
+$gC,C,,fines,,$gC: colluvial deposits
+$gCR,C,R,fines,,$gCR: colluvium (>75 %) and rock/residual
+$gCR+M?,C,T,fines,,$gCR: colluvium (>75 %) and rock/residual + M: moraine
+$gFdA,F,,fines,,$gFdA: fluvial delta
+$gFt,F,,fines,,$gFt: fluvial terrace (inactive floodplain)
+$gM?/gsP,T,F,fines,veneer,$gM: moraine + gsP: Pleistocene/Pliocene preglacial fluvial gravels (underlying)
+$gRC&fgmv,R,M,fines,,$gRC: rock/residual (75-25 %) and colluvium + fgmv: marine veneer (<1 m)
+$gRm+C,R,C,fines,,$gRm: marine washed rock/residual + C: colluvial deposits
+$gbP+C,F,C,fines,,$gbP: Pleistocene/Pliocene preglacial fluvial gravels + C: colluvial deposits
+$gm+C,M,C,fines,,$gm: marine plain + C: colluvial deposits
+$gmv/R,M,R,fines,veneer,$gmv: marine veneer (<1 m) + R: rock/residual (underlying)
+$goRC,R,C,fines,,$goRC: rock/residual (75-25 %) and colluvium
+$grCR+m,C,M,fines,,$grCR: colluvium (>75 %) and rock/residual + m: marine plain
+$m,M,,fines,,$m: marine plain
+$m+mb,M,,fines,,$m: marine plain + mb: marine beaches
+$mk,M,,fines,,$mk: marine plain
+$mv/R,M,R,fines,veneer,$mv: marine veneer (<1 m) + R: rock/residual (underlying)
+$mv/R&srmb&pOv,M,R,fines,veneer,$mv: marine veneer (<1 m) + R: rock/residual (underlying) + srmb: marine beaches + pOv: organic veneer
+$mv/R&srmb&pOv~p,M,R,fines,veneer,$mv: marine veneer (<1 m) + R: rock/residual (underlying) + srmb: marine beaches + pOv~p: organic veneer
+$mv/R+C,M,R,fines,veneer,$mv: marine veneer (<1 m) + R: rock/residual (underlying) + C: colluvial deposits
+$oR,R,W,fines,,$oR: rock/residual
+$oRC,R,C,fines,,$oRC: rock/residual (75-25 %) and colluvium
+$oRC+Rm,R,C,fines,,$oRC: rock/residual (75-25 %) and colluvium + Rm: marine washed rock/residual
+$rC,C,,fines,,$rC: colluvial deposits
+$rCR,C,R,fines,,$rCR: colluvium (>75 %) and rock/residual
+$rCRp,C,R,fines,,$rCRp: colluvium (>75 %) and rock/residual
+$rFdA+Fp,F,,fines,,$rFdA: fluvial delta + Fp: fluvial plain
+$rFp,F,,fines,,$rFp: fluvial plain
+$rR,R,W,fines,,$rR: rock/residual
+$rRC,R,C,fines,,$rRC: rock/residual (75-25 %) and colluvium
+$rRC&fgmv,R,M,fines,,$rRC: rock/residual (75-25 %) and colluvium + fgmv: marine veneer (<1 m)
+$rbC+P,C,F,fines,,$rbC: colluvial deposits + P: Pleistocene/Pliocene preglacial fluvial gravels
+$rmb&pOv,M,O,fines,,$rmb: marine beaches + pOv: organic veneer
+$rmv/R+CR,M,R,fines,veneer,$rmv: marine veneer (<1 m) + R: rock/residual (underlying) + CR: colluvium (>75 %) and rock/residual
+$sC+Rm,C,R,fines,,$sC: colluvial deposits + Rm: marine washed rock/residual
+$sFdI,F,,fines,,$sFdI: fluvial delta
+$sRC+Rm,R,C,fines,,$sRC: rock/residual (75-25 %) and colluvium + Rm: marine washed rock/residual
+$smv/R,M,R,fines,veneer,$smv: marine veneer (<1 m) + R: rock/residual (underlying)
+$smv/R+C~p,M,R,fines,veneer,$smv: marine veneer (<1 m) + R: rock/residual (underlying) + C~p: colluvial deposits
+$soCR,C,R,fines,,$soCR: colluvium (>75 %) and rock/residual
+$soCR+m,C,M,fines,,$soCR: colluvium (>75 %) and rock/residual + m: marine plain
+C+Rm,C,R,unknown,,C: colluvial deposits + Rm: marine washed rock/residual
+CR,C,R,unknown,,CR: colluvium (>75 %) and rock/residual
+FdIA,F,,unknown,,FdIA: fluvial delta
+Fpt,F,,unknown,,Fpt: floodplain and terrace indivisible
+Ft,F,,unknown,,Ft: fluvial terrace (inactive floodplain)
+H,H,,unknown,,"H: lake (halftone water screen on the map, inside OSM land; finalize_labels.py)"
+I,I,,unknown,,I: perennial ice
+P,F,,gravel,,P: Pleistocene/Pliocene preglacial fluvial gravels
+RC,R,C,unknown,,RC: rock/residual (75-25 %) and colluvium
+RCp,R,C,unknown,,RCp: rock/residual (75-25 %) and colluvium
+Rp,R,W,unknown,,Rp: rock/residual
+bFpG,GF,F,bouldery,,"bFpG: fluvial plain, glacial (age superscript G)"
+bMp,T,,bouldery,,bMp: moraine
+csRC,R,C,fines,,csRC: rock/residual (75-25 %) and colluvium
+f$CR,C,R,fines,,f$CR: colluvium (>75 %) and rock/residual
+fC+m,C,M,fines,,fC: colluvial deposits + m: marine plain
+fCR,C,R,fines,,fCR: colluvium (>75 %) and rock/residual
+fCR+M?,C,T,fines,,fCR: colluvium (>75 %) and rock/residual + M: moraine
+fCR+mv,C,M,fines,,fCR: colluvium (>75 %) and rock/residual + mv: marine veneer (<1 m)
+fFf+C,F,C,fines,,fFf: fluvial/alluvial fan + C: colluvial deposits
+fRC,R,C,fines,,fRC: rock/residual (75-25 %) and colluvium
+fgC,C,,fines,,fgC: colluvial deposits
+fgC+Rm,C,R,fines,,fgC: colluvial deposits + Rm: marine washed rock/residual
+fgC+m,C,M,fines,,fgC: colluvial deposits + m: marine plain
+fgCR,C,R,fines,,fgCR: colluvium (>75 %) and rock/residual
+fgCR+P,C,F,fines,,fgCR: colluvium (>75 %) and rock/residual + P: Pleistocene/Pliocene preglacial fluvial gravels
+fgCR+m,C,M,fines,,fgCR: colluvium (>75 %) and rock/residual + m: marine plain
+fgFdI,F,,fines,,fgFdI: fluvial delta
+fgFf,F,,fines,,fgFf: fluvial/alluvial fan
+fgFpt,F,,fines,,fgFpt: floodplain and terrace indivisible
+fgRC,R,C,fines,,fgRC: rock/residual (75-25 %) and colluvium
+fgm,M,,fines,,fgm: marine plain
+fgm+C,M,C,fines,,fgm: marine plain + C: colluvial deposits
+fgmv/R,M,R,fines,veneer,fgmv: marine veneer (<1 m) + R: rock/residual (underlying)
+fgoRC,R,C,fines,,fgoRC: rock/residual (75-25 %) and colluvium
+fgsm,M,,fines,,fgsm: marine plain
+fm+C&gmb,M,C,fines,,fm: marine plain + C: colluvial deposits + gmb: marine beaches
+fmv,M,,fines,veneer,fmv: marine veneer (<1 m)
+fmv/R,M,R,fines,veneer,fmv: marine veneer (<1 m) + R: rock/residual (underlying)
+fmv/R+m,M,R,fines,veneer,fmv: marine veneer (<1 m) + R: rock/residual (underlying) + m: marine plain
+foRCp,R,C,fines,,foRCp: rock/residual (75-25 %) and colluvium
+frCR,C,R,fines,,frCR: colluvium (>75 %) and rock/residual
+frFp,F,,fines,,frFp: fluvial plain
+frRC,R,C,fines,,frRC: rock/residual (75-25 %) and colluvium
+frRC&fgmv,R,M,fines,,frRC: rock/residual (75-25 %) and colluvium + fgmv: marine veneer (<1 m)
+frRC+mv,R,M,fines,,frRC: rock/residual (75-25 %) and colluvium + mv: marine veneer (<1 m)
+frRC~p,R,C,fines,,frRC~p: rock/residual (75-25 %) and colluvium
+frRm,R,M,fines,,frRm: marine washed rock/residual
+frRm+mv/R,R,M,fines,,frRm: marine washed rock/residual + mv: marine veneer (<1 m) + R: rock/residual (underlying)
+frgRC,R,C,fines,,frgRC: rock/residual (75-25 %) and colluvium
+froRC,R,C,fines,,froRC: rock/residual (75-25 %) and colluvium
+fsCR,C,R,fines,,fsCR: colluvium (>75 %) and rock/residual
+fsgm,M,,fines,,fsgm: marine plain
+fsgmv/R,M,R,fines,veneer,fsgmv: marine veneer (<1 m) + R: rock/residual (underlying)
+fsm,M,,fines,,fsm: marine plain
+fsm+C,M,C,fines,,fsm: marine plain + C: colluvial deposits
+fsm+FdA,M,F,fines,,fsm: marine plain + FdA: fluvial delta
+fsrRC,R,C,fines,,fsrRC: rock/residual (75-25 %) and colluvium
+fsroCR,C,R,fines,,fsroCR: colluvium (>75 %) and rock/residual
+fsroRC,R,C,fines,,fsroRC: rock/residual (75-25 %) and colluvium
+g$Fp,F,,gravel,,g$Fp: fluvial plain
+g$Fpt,F,,gravel,,g$Fpt: floodplain and terrace indivisible
+g$Ft,F,,gravel,,g$Ft: fluvial terrace (inactive floodplain)
+g$P,F,,gravel,,g$P: Pleistocene/Pliocene preglacial fluvial gravels
+g$m,M,,gravel,,g$m: marine plain
+g$mb,M,,gravel,,g$mb: marine beaches
+gF,F,,gravel,,gF: fluvial
+gFd,F,,gravel,,gFd: fluvial delta
+gFdAI,F,,gravel,,gFdAI: fluvial delta
+gFdI,F,,gravel,,gFdI: fluvial delta
+gFdI+Ff&gfC,F,C,gravel,,gFdI: fluvial delta + Ff: fluvial/alluvial fan + gfC: colluvial deposits
+gFdIA,F,,gravel,,gFdIA: fluvial delta
+gFf,F,,gravel,,gFf: fluvial/alluvial fan
+gFp,F,,gravel,,gFp: fluvial plain
+gFpG,GF,F,gravel,,"gFpG: fluvial plain, glacial (age superscript G)"
+gFpt,F,,gravel,,gFpt: floodplain and terrace indivisible
+gFt,F,,gravel,,gFt: fluvial terrace (inactive floodplain)
+gFtp,F,,gravel,,gFtp: floodplain and terrace indivisible
+gM/P&fgCR,T,F,gravel,veneer,gM: moraine + P: Pleistocene/Pliocene preglacial fluvial gravels (underlying) + fgCR: colluvium (>75 %) and rock/residual
+gP,F,,gravel,,gP: Pleistocene/Pliocene preglacial fluvial gravels
+gP&$oRC,F,R,gravel,,gP: Pleistocene/Pliocene preglacial fluvial gravels + $oRC: rock/residual (75-25 %) and colluvium
+gb$P,F,,gravel,,gb$P: Pleistocene/Pliocene preglacial fluvial gravels
+gbFp,F,,gravel,,gbFp: fluvial plain
+gbFpt,F,,gravel,,gbFpt: floodplain and terrace indivisible
+gbFt,F,,gravel,,gbFt: fluvial terrace (inactive floodplain)
+gfC+Ff,C,F,gravel,,gfC: colluvial deposits + Ff: fluvial/alluvial fan
+gfCR,C,R,gravel,,gfCR: colluvium (>75 %) and rock/residual
+gfFd+C,F,C,gravel,,gfFd: fluvial delta + C: colluvial deposits
+gfFf,F,,gravel,,gfFf: fluvial/alluvial fan
+gfFp,F,,gravel,,gfFp: fluvial plain
+gfFt,F,,gravel,,gfFt: fluvial terrace (inactive floodplain)
+gfFt+m,F,M,gravel,,gfFt: fluvial terrace (inactive floodplain) + m: marine plain
+gfM,T,,gravel,,gfM: moraine
+gfM/P+CR,T,F,gravel,veneer,gfM: moraine + P: Pleistocene/Pliocene preglacial fluvial gravels (underlying) + CR: colluvium (>75 %) and rock/residual
+gfP,F,,gravel,,gfP: Pleistocene/Pliocene preglacial fluvial gravels
+gfm+F,M,F,gravel,,gfm: marine plain + F: fluvial
+gfmb,M,,gravel,,gfmb: marine beaches
+gm,M,,gravel,,gm: marine plain
+gmb,M,,gravel,,gmb: marine beaches
+gmb+FdI,M,F,gravel,,gmb: marine beaches + FdI: fluvial delta
+gmb+FdIA,M,F,gravel,,gmb: marine beaches + FdIA: fluvial delta
+grmb,M,,gravel,,grmb: marine beaches
+gsFdI,F,,gravel,,gsFdI: fluvial delta
+gsFdIA,F,,gravel,,gsFdIA: fluvial delta
+gsFf,F,,gravel,,gsFf: fluvial/alluvial fan
+gsFp,F,,gravel,,gsFp: fluvial plain
+gsFpt,F,,gravel,,gsFpt: floodplain and terrace indivisible
+gsFt,F,,gravel,,gsFt: fluvial terrace (inactive floodplain)
+gsP,F,,gravel,,gsP: Pleistocene/Pliocene preglacial fluvial gravels
+gsfCR&gsFf,C,F,gravel,,gsfCR: colluvium (>75 %) and rock/residual + gsFf: fluvial/alluvial fan
+gsfmb,M,,gravel,,gsfmb: marine beaches
+gsm,M,,gravel,,gsm: marine plain
+gsmb,M,,gravel,,gsmb: marine beaches
+m+C,M,C,unknown,,m: marine plain + C: colluvial deposits
+mv/Rp,M,R,unknown,veneer,mv: marine veneer (<1 m) + Rp: rock/residual (underlying)
+oRC,R,C,unknown,,oRC: rock/residual (75-25 %) and colluvium
+r$C,C,,mixed,,r$C: colluvial deposits
+r$CR,C,R,mixed,,r$CR: colluvium (>75 %) and rock/residual
+r$RC,R,C,mixed,,r$RC: rock/residual (75-25 %) and colluvium
+r$oCR,C,R,mixed,,r$oCR: colluvium (>75 %) and rock/residual
+r$oRC,R,C,mixed,,r$oRC: rock/residual (75-25 %) and colluvium
+rR,R,W,mixed,,rR: rock/residual
+rRC,R,C,mixed,,rRC: rock/residual (75-25 %) and colluvium
+rbR,R,W,mixed,,rbR: rock/residual
+rfCR,C,R,mixed,,rfCR: colluvium (>75 %) and rock/residual
+rfRC,R,C,mixed,,rfRC: rock/residual (75-25 %) and colluvium
+rfRC+Rm,R,C,mixed,,rfRC: rock/residual (75-25 %) and colluvium + Rm: marine washed rock/residual
+rfRCp,R,C,mixed,,rfRCp: rock/residual (75-25 %) and colluvium
+rfRC~p&fmv/R,R,M,mixed,,rfRC~p: rock/residual (75-25 %) and colluvium + fmv: marine veneer (<1 m) + R: rock/residual (underlying)
+rfgoRC,R,C,mixed,,rfgoRC: rock/residual (75-25 %) and colluvium
+rfoRC,R,C,mixed,,rfoRC: rock/residual (75-25 %) and colluvium
+rfoRC+M?,R,T,mixed,,rfoRC: rock/residual (75-25 %) and colluvium + M: moraine
+rgfRC+M?,R,T,mixed,,rgfRC: rock/residual (75-25 %) and colluvium + M: moraine
+rgmb+Ff,M,F,mixed,,rgmb: marine beaches + Ff: fluvial/alluvial fan
+rmb,M,,mixed,,rmb: marine beaches
+roR,R,W,mixed,,roR: rock/residual
+roRC,R,C,mixed,,roRC: rock/residual (75-25 %) and colluvium
+rsCR,C,R,mixed,,rsCR: colluvium (>75 %) and rock/residual
+rsRC,R,C,mixed,,rsRC: rock/residual (75-25 %) and colluvium
+rscRC,R,C,mixed,,rscRC: rock/residual (75-25 %) and colluvium
+rsoRC,R,C,mixed,,rsoRC: rock/residual (75-25 %) and colluvium
+s$CR,C,R,sand,,s$CR: colluvium (>75 %) and rock/residual
+s$Rm,R,M,sand,,s$Rm: marine washed rock/residual
+s$Rm+mv,R,M,sand,,s$Rm: marine washed rock/residual + mv: marine veneer (<1 m)
+s$mv/R,M,R,sand,veneer,s$mv: marine veneer (<1 m) + R: rock/residual (underlying)
+s$mv/R+Rm,M,R,sand,veneer,s$mv: marine veneer (<1 m) + R: rock/residual (underlying) + Rm: marine washed rock/residual
+s$oRC,R,C,sand,,s$oRC: rock/residual (75-25 %) and colluvium
+s$oRC+Rm,R,C,sand,,s$oRC: rock/residual (75-25 %) and colluvium + Rm: marine washed rock/residual
+s$roRC,R,C,sand,,s$roRC: rock/residual (75-25 %) and colluvium
+sCR,C,R,sand,,sCR: colluvium (>75 %) and rock/residual
+sFd,F,,sand,,sFd: fluvial delta
+sFdA,F,,sand,,sFdA: fluvial delta
+sFdAI,F,,sand,,sFdAI: fluvial delta
+sFdIA,F,,sand,,sFdIA: fluvial delta
+sFf,F,,sand,,sFf: fluvial/alluvial fan
+sFp,F,,sand,,sFp: fluvial plain
+sFpt,F,,sand,,sFpt: floodplain and terrace indivisible
+sFt,F,,sand,,sFt: fluvial terrace (inactive floodplain)
+sRC,R,C,sand,,sRC: rock/residual (75-25 %) and colluvium
+sRm,R,M,sand,,sRm: marine washed rock/residual
+sfC+m,C,M,sand,,sfC: colluvial deposits + m: marine plain
+sfFdI,F,,sand,,sfFdI: fluvial delta
+sfFf,F,,sand,,sfFf: fluvial/alluvial fan
+sfgFp+mb,F,M,sand,,sfgFp: fluvial plain + mb: marine beaches
+sfgM/sgP,T,F,sand,veneer,sfgM: moraine + sgP: Pleistocene/Pliocene preglacial fluvial gravels (underlying)
+sfm,M,,sand,,sfm: marine plain
+sfm+C,M,C,sand,,sfm: marine plain + C: colluvial deposits
+sfmk,M,,sand,,sfmk: marine plain
+sfmk&pOv/m,M,O,sand,,sfmk: marine plain + pOv: organic veneer + m: marine plain (underlying)
+sfmv/R,M,R,sand,veneer,sfmv: marine veneer (<1 m) + R: rock/residual (underlying)
+sfrCR,C,R,sand,,sfrCR: colluvium (>75 %) and rock/residual
+sgCR,C,R,sand,,sgCR: colluvium (>75 %) and rock/residual
+sgF,F,,sand,,sgF: fluvial
+sgFdA,F,,sand,,sgFdA: fluvial delta
+sgFf,F,,sand,,sgFf: fluvial/alluvial fan
+sgFfI,F,,sand,,sgFfI: fluvial/alluvial fan
+sgFpt,F,,sand,,sgFpt: floodplain and terrace indivisible
+sgFt+gsFp,F,,sand,,sgFt: fluvial terrace (inactive floodplain) + gsFp: fluvial plain
+sgP,F,,sand,,sgP: Pleistocene/Pliocene preglacial fluvial gravels
+sgRC,R,C,sand,,sgRC: rock/residual (75-25 %) and colluvium
+sgm+mb,M,,sand,,sgm: marine plain + mb: marine beaches
+sgmb,M,,sand,,sgmb: marine beaches
+sgmb&smk,M,,sand,,sgmb: marine beaches + smk: marine plain
+sgmb+m,M,,sand,,sgmb: marine beaches + m: marine plain
+siFd,F,,fines,,siFd: fluvial delta
+sm+mb,M,,sand,,sm: marine plain + mb: marine beaches
+smb,M,,sand,,smb: marine beaches
+smb+m,M,,sand,,smb: marine beaches + m: marine plain
+smb+mk,M,,sand,,smb: marine beaches + mk: marine plain
+smk,M,,sand,,smk: marine plain
+smk&sFpt&pOv/m,M,F,sand,,smk: marine plain + sFpt: floodplain and terrace indivisible + pOv: organic veneer + m: marine plain (underlying)
+smv&sgmb,M,,sand,veneer,smv: marine veneer (<1 m) + sgmb: marine beaches
+smv/Fd,M,F,sand,veneer,smv: marine veneer (<1 m) + Fd: fluvial delta (underlying)
+smv/R,M,R,sand,veneer,smv: marine veneer (<1 m) + R: rock/residual (underlying)
+smv/R&gsmb,M,R,sand,veneer,smv: marine veneer (<1 m) + R: rock/residual (underlying) + gsmb: marine beaches
+smv/R+m,M,R,sand,veneer,smv: marine veneer (<1 m) + R: rock/residual (underlying) + m: marine plain
+srCR,C,R,sand,,srCR: colluvium (>75 %) and rock/residual
+srRC,R,C,sand,,srRC: rock/residual (75-25 %) and colluvium
+sroRC,R,C,sand,,sroRC: rock/residual (75-25 %) and colluvium

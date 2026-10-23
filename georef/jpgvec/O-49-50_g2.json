@@ -1,0 +1,402 @@
+{
+ "sheet": "O-49-50_g2",
+ "source": "raster scan",
+ "projection": "tmerc_utm",
+ "rms_m": 594.6240644415199,
+ "max_res_m": 1131.0851673376671,
+ "m_per_px": 85.4562607114543,
+ "corner_residuals_m": [
+  1131.1,
+  378.3,
+  894.6,
+  488.4,
+  761.6,
+  173.9,
+  290.2,
+  302.9,
+  271.3,
+  463.2
+ ],
+ "n_ties": 6,
+ "corners": [
+  {
+   "approx": [
+    648.0,
+    1040.0
+   ],
+   "snapped": [
+    648.0,
+    1040.0
+   ],
+   "ok": "rejected (moved > 15 px)"
+  },
+  {
+   "approx": [
+    6532.0,
+    1009.0
+   ],
+   "snapped": [
+    6532.0,
+    1009.0
+   ],
+   "ok": "rejected (moved > 15 px)"
+  },
+  {
+   "approx": [
+    6879.0,
+    6270.0
+   ],
+   "snapped": [
+    6879.0,
+    6270.0
+   ],
+   "ok": "rejected (moved > 15 px)"
+  },
+  {
+   "approx": [
+    323.0,
+    6284.0
+   ],
+   "snapped": [
+    323.0,
+    6284.0
+   ],
+   "ok": "rejected (moved > 15 px)"
+  }
+ ],
+ "frame_sag_px": 106.1,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga_1m/O-49,_50__g2/o-4950-bodaybo-gosudarstvennaya-geologicheskaya-karta-sssr-novaya-seriya-karta-ch.jpg O-49-50_g2 ../sources/legend_O-49-50_g2.csv ../work/facefix/O-49-50_g2.gpkg --lonlat 108,56,117,60 --datum 4284 --corners '648,1040;6532,1009;6879,6270;323,6284' --ties '109,58,1179,3685;110,58,1867,3721;111,58,2561,3738;112,58,3254,3747;113,58,3943,3744;115,58,5329,3707' --thin-units fIII2,fII-III,fII2-4:2",
+ "unassigned_before_fill": 0.381,
+ "area_km2": 237058.70800715624,
+ "neatline_km2": 237058.5441546152,
+ "cover_frac": 1.0000006911901937,
+ "n_polygons": 32889,
+ "units": {
+  "#e7e0cd": {
+   "index": "aIV",
+   "px": 916834,
+   "direct_frac": 0.632
+  },
+  "#dbcc77": {
+   "index": "apIII-IV",
+   "px": 1486,
+   "direct_frac": 0.445
+  },
+  "#d7c577": {
+   "index": "dpIII-IV",
+   "px": 24500,
+   "direct_frac": 0.337
+  },
+  "#e1643c": {
+   "index": "dcIII-IV",
+   "px": 1440432,
+   "direct_frac": 0.376
+  },
+  "#dc7c6c": {
+   "index": "cIII-IV",
+   "px": 3254986,
+   "direct_frac": 0.567
+  },
+  "#e2ce6f": {
+   "index": "vIII-IV",
+   "px": 47721,
+   "direct_frac": 0.524
+  },
+  "#b4bbb4": {
+   "index": "lbIII-IV",
+   "px": 64663,
+   "direct_frac": 0.167
+  },
+  "#e3dcbb": {
+   "index": "aIII4",
+   "px": 377533,
+   "direct_frac": 0.301
+  },
+  "#e0d0b2": {
+   "index": "gIII4",
+   "px": 943025,
+   "direct_frac": 0.242
+  },
+  "#e0d496": {
+   "index": "aIII3",
+   "px": 195122,
+   "direct_frac": 0.293
+  },
+  "#b78d63": {
+   "index": "gIII2",
+   "px": 576847,
+   "direct_frac": 0.314
+  },
+  "#e1d8af": {
+   "index": "fIII2",
+   "px": 1764,
+   "direct_frac": 0.512
+  },
+  "#dbcd76": {
+   "index": "aIII1-2",
+   "px": 234,
+   "direct_frac": 0.782
+  },
+  "#c1c373": {
+   "index": "aIII1",
+   "px": 25506,
+   "direct_frac": 0.355
+  },
+  "#d6d8c3": {
+   "index": "laIII1",
+   "px": 1337,
+   "direct_frac": 0.447
+  },
+  "#9fab62": {
+   "index": "aIII",
+   "px": 12427,
+   "direct_frac": 0.162
+  },
+  "#e4bab0": {
+   "index": "dsII-III",
+   "px": 125000,
+   "direct_frac": 0.543
+  },
+  "#e15e29": {
+   "index": "dcII-III",
+   "px": 1172818,
+   "direct_frac": 0.47
+  },
+  "#dd8486": {
+   "index": "csII-III",
+   "px": 1885762,
+   "direct_frac": 0.244
+  },
+  "#c83e3c": {
+   "index": "cII-III",
+   "px": 6719046,
+   "direct_frac": 0.399
+  },
+  "#abab5f": {
+   "index": "fII-III",
+   "px": 41642,
+   "direct_frac": 0.377
+  },
+  "#bbc173": {
+   "index": "aII2-4",
+   "px": 23151,
+   "direct_frac": 0.344
+  },
+  "#8ba5a3": {
+   "index": "laII2-4",
+   "px": 76768,
+   "direct_frac": 0.446
+  },
+  "#949d50": {
+   "index": "fII2-4",
+   "px": 124404,
+   "direct_frac": 0.352
+  },
+  "#aa724e": {
+   "index": "gII2-4",
+   "px": 1851479,
+   "direct_frac": 0.387
+  },
+  "#94a768": {
+   "index": "aII",
+   "px": 185189,
+   "direct_frac": 0.138
+  },
+  "#7ca059": {
+   "index": "aI-II1",
+   "px": 333558,
+   "direct_frac": 0.479
+  },
+  "#7da09d": {
+   "index": "laI-II1",
+   "px": 413228,
+   "direct_frac": 0.339
+  },
+  "#53844f": {
+   "index": "aI",
+   "px": 249465,
+   "direct_frac": 0.292
+  },
+  "#41825e": {
+   "index": "aN2-Q1",
+   "px": 136187,
+   "direct_frac": 0.279
+  },
+  "#e6b8b3": {
+   "index": "e",
+   "px": 412929,
+   "direct_frac": 0.697
+  },
+  "#e57b4a": {
+   "index": "e,d",
+   "px": 1664824,
+   "direct_frac": 0.508
+  },
+  "#e26920": {
+   "index": "d",
+   "px": 505600,
+   "direct_frac": 0.607
+  },
+  "#e69292": {
+   "index": "ds",
+   "px": 3259818,
+   "direct_frac": 0.626
+  },
+  "#e25b19": {
+   "index": "dc",
+   "px": 1531582,
+   "direct_frac": 0.643
+  },
+  "#c4342d": {
+   "index": "c",
+   "px": 3208352,
+   "direct_frac": 0.435
+  },
+  "#80a19e": {
+   "index": "lb",
+   "px": 19622,
+   "direct_frac": 0.549
+  },
+  "#8b7794": {
+   "index": "PREQ",
+   "px": 842122,
+   "direct_frac": 0.389
+  },
+  "#8d2a50": {
+   "index": "PREQ,c",
+   "px": 488956,
+   "direct_frac": 0.062
+  }
+ },
+ "confusable_pairs": [
+  [
+   "aIV",
+   "aIII4",
+   7.5
+  ],
+  [
+   "aIV",
+   "laIII1",
+   5.0
+  ],
+  [
+   "apIII-IV",
+   "dpIII-IV",
+   4.0
+  ],
+  [
+   "apIII-IV",
+   "vIII-IV",
+   5.5
+  ],
+  [
+   "apIII-IV",
+   "aIII1-2",
+   1.0
+  ],
+  [
+   "dpIII-IV",
+   "aIII1-2",
+   5.0
+  ],
+  [
+   "vIII-IV",
+   "aIII1-2",
+   4.9
+  ],
+  [
+   "aIII4",
+   "gIII4",
+   5.1
+  ],
+  [
+   "aIII4",
+   "fIII2",
+   4.5
+  ],
+  [
+   "aIII4",
+   "laIII1",
+   7.3
+  ],
+  [
+   "gIII4",
+   "fIII2",
+   6.5
+  ],
+  [
+   "aIII1",
+   "aII2-4",
+   2.2
+  ],
+  [
+   "aIII",
+   "fII-III",
+   5.5
+  ],
+  [
+   "aIII",
+   "fII2-4",
+   5.8
+  ],
+  [
+   "aIII",
+   "aII",
+   6.2
+  ],
+  [
+   "dsII-III",
+   "e",
+   3.0
+  ],
+  [
+   "dcII-III",
+   "d",
+   7.8
+  ],
+  [
+   "dcII-III",
+   "dc",
+   6.1
+  ],
+  [
+   "csII-III",
+   "ds",
+   5.2
+  ],
+  [
+   "cII-III",
+   "c",
+   6.5
+  ],
+  [
+   "fII-III",
+   "fII2-4",
+   7.1
+  ],
+  [
+   "laII2-4",
+   "laI-II1",
+   4.1
+  ],
+  [
+   "laII2-4",
+   "lb",
+   3.2
+  ],
+  [
+   "laI-II1",
+   "lb",
+   0.9
+  ],
+  [
+   "d",
+   "dc",
+   7.0
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 120
+}

@@ -1,0 +1,22 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#debbd9,"e,dr",eluvium and desersion,W,C,fines,,"GGK-1000/3 O-45 (Tomsk), West Siberian series, Pliocene-Quaternary map, vector PDF (geokniga maps/32534); hatched loessoid/peat/eolian cover overprints not captured"
+1,#f9b4a6,"d,dr",deluvium and desersion,C,,bouldery,,
+2,#eff5d9,aH,floodplain and channel alluvium,F,,mixed,,
+3,#c8c3a4,plH,"palustrium, peat",O,,organic,,
+4,#fff5b6,vIII4-H,eolium,E,,sand,,
+5,#e8f1cf,a1IIIsr,Sartan 1st terrace alluvium,F,,mixed,,
+6,#ddecc3,a2IIIkr-sr,2nd terrace alluvium,F,,mixed,,
+7,#cce4b7,a3IIIer,Ermakovo 3rd terrace alluvium,F,,sand,,
+8,#b9dcaa,aII-IIIpd,Paidugina alluvium,F,,sand,,
+9,#ffda9e,"Lpl,a,lIIsz","Suzgun loessoid-palustrium, alluvium, limnium",E,L,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+10,#9dd29c,aIItb,Tobol alluvium,F,,sand,,
+11,#fecc7a,"L,laI-IIfd",Fedosovo loessoid and lake-alluvium,E,L,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+12,#e4d4b8,"Lpl,a,lI-IIpr",Petrovsk loessoid-palustrium,E,L,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+13,#a5d9cb,laIks,Krivosheino lake-alluvium,L,F,fines,,
+14,#97ccef,"l,aE-Ism",Smirnovo limnium and alluvium,L,F,fines,,
+15,#a3dad6,"a,lEkc",Kochki alluvium and limnium,F,L,mixed,,
+16,#edcea1,"p,dEks",Kirsanov proluvium and deluvium,F,C,fines,,
+17,#e6bd81,"p,dEIIks2",upper Kirsanov,F,C,fines,,
+18,#efe29d,"a,pEIks1",lower Kirsanov alluvium and proluvium,F,,gravel,,
+19,#75bee9,laN2-Pglbr,Burlin lake-alluvium,L,F,fines,,
+20,#a678b4,PREQ,pre-Quaternary,R,,,,

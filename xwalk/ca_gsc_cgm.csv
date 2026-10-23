@@ -1,0 +1,131 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+696,T,,,,,Glacial sediments - Till plain
+697,O,,organic,veneer,,Organic deposits - Veneer
+698,O,,organic,blanket,,Organic deposits - Blanket
+699,GL,,,,,Glaciolacustrine sediments - Hummocky sediments
+701,C,,,,,Colluvial - Apron or talus scree deposits
+702,C,,,,,Colluvial - Fan sediments
+703,C,,,,,Colluvial - Landslide deposits
+704,C,,,,,Colluvial - Rock glacier
+706,C,,,blanket,,Colluvial - Blanket
+707,C,,,veneer,,Colluvial - Veneer
+708,C,,,,,Colluvial - Undifferentiated
+709,O,,organic,,,Organic deposits - Fen
+710,O,,organic,,,Organic deposits - Bog
+711,O,M,organic,,,Organic deposits - Salt marsh (coastal)
+712,O,,organic,,,Organic deposits - Undifferentiated
+713,E,,,,,Eolian - Dunes
+714,E,,,,,Eolian - Loess
+715,E,,,blanket,,Eolian - Blanket (SDM 2.5; CGM466)
+716,E,,,veneer,,Eolian - Veneer
+717,E,,,,,Eolian - Undifferentiated
+718,F,,,,,Alluvial - Floodplain
+719,F,,,,,Alluvial - Fan
+721,F,,,,,Alluvial - Terraced
+722,F,,,blanket,,Alluvial - Blanket
+723,F,,,veneer,,Alluvial - Veneer
+724,F,,,,,Alluvial - Undifferentiated
+725,L,F,,,,Lacustrine - Deltaic
+726,L,,,,,Lacustrine - Beach
+727,L,,,,,Lacustrine - Littoral and nearshore
+729,L,,,veneer,,Lacustrine - Veneer
+730,L,,,,,Lacustrine - Undifferentiated
+731,M,,,,,Marine - Intertidal
+732,M,F,,,,Marine - Deltaic
+733,M,,,,,Marine - Beach
+734,M,,,,,Marine - Littoral and nearshore
+735,M,,,,,Marine - Terraced
+737,M,,,veneer,,Marine - Veneer
+738,M,,,,,Marine - Undifferentiated
+739,GF,,,,,Glaciofluvial - Outwash plain
+741,GF,,,,,Glaciofluvial - Terraced
+742,GF,,,,,Glaciofluvial - Esker
+744,GF,,,,,Glaciofluvial - Ice-contact
+745,GF,,,,,Glaciofluvial - Hummocky
+746,GF,,,blanket,,Glaciofluvial - Blanket
+747,GF,,,veneer,,Glaciofluvial - Veneer
+748,GF,,,,,Glaciofluvial - Undifferentiated
+749,GL,F,,,,Glaciolacustrine - Deltaic
+750,GL,,,,,Glaciolacustrine - Beach
+751,GL,,,,,Glaciolacustrine - Littoral and nearshore
+752,GL,T,,,,Glaciolacustrine - Subaqueous moraine complex
+753,GL,GF,,,,Glaciolacustrine - Subaqueous outwash fan
+755,GL,,,veneer,,Glaciolacustrine - Veneer
+756,GL,,,,,Glaciolacustrine - Undifferentiated
+757,GM,F,,,,Glaciomarine - Deltaic
+758,GM,,,,,Glaciomarine - Beach
+759,GM,,,,,Glaciomarine - Littoral and nearshore
+760,GM,T,,,,Glaciomarine - Submarine moraine complex
+761,GM,GF,,,,Glaciomarine - Submarine outwash fan
+763,GM,,,veneer,,Glaciomarine - Veneer
+764,GM,,,,,Glaciomarine - Undifferentiated
+767,T,,,,,Glacial - Ridged till; moraine
+768,T,,,,,Glacial - Moraine complex
+769,T,,,,,Glacial - Hummocky till
+770,T,,,,,Glacial - Streamlined till
+771,T,C,,,,Glacial - Rock-glacierized moraines
+772,T,,,blanket,,Glacial - Blanket
+773,T,,,veneer,,Glacial - Veneer
+774,T,,,,,Glacial - Undifferentiated
+778,Q,,,,,Undifferentiated deposits
+779,R,,,,,Bedrock - Undifferentiated
+780,X,,,,,Anthropogenic deposits
+781,I,,,,,Snowpack (perennial)
+782,I,,,,,"Glacier, icefield or icecap"
+783,R,,,,,Bedrock - Sedimentary
+784,R,,,,,Bedrock - Igneous
+785,R,,,,,Bedrock - Metamorphic
+793,DROP,,,,,"To be defined - no unit; dropped so a coarser source can fill it"
+794,DROP,,,,,"Unmapped Area (sea and unmapped land in the sheet frame) - dropped so coarser sources fill any land"
+795,F,M,,,,Alluvial - Intertidal or estuarine
+796,GM,,,,,Glaciomarine - Intertidal
+797,GF,,,,,Glaciofluvial - Kame terrace
+798,GF,,,,,Glaciofluvial - Outwash fan
+799,T,W,,,,Glacial - Weathered till
+910,M,,,,,Marine - Offshore sediments
+911,L,,,,,Lacustrine - Offshore sediments
+912,GM,,,,,Glaciomarine - Offshore sediments
+913,GL,,,,,Glaciolacustrine - Offshore sediments
+914,L,,,blanket,,Lacustrine - Blanket
+915,W,,,blanket,,Weathered bedrock or regolith - Blanket
+916,GL,,,blanket,,Glaciolacustrine - Blanket
+917,GM,,,blanket,,Glaciomarine - Blanket
+918,M,,,blanket,,Marine - Blanket
+919,W,,,veneer,,Weathered bedrock or regolith - Veneer
+920,W,,,,,Weathered bedrock or regolith - Undifferentiated
+921,V,,,,,Volcanic - Pyroclastic
+922,V,,,,,Volcanic - Undifferentiated
+WATER,H,,,,,water polygons (HYDRO or null unit with water flag)
+LBL:A,F,,,,,oldest-SDM sheets (CGM295/297/298): GSC terrain symbol A = alluvial
+LBL:C,C,,,,,oldest-SDM sheets: symbol C = colluvial
+LBL:G,GF,,,,,oldest-SDM sheets: symbol G = glaciofluvial
+LBL:L,L,,,,,oldest-SDM sheets: symbol L = lacustrine (GL would be written GL)
+LBL:R,R,,,,,oldest-SDM sheets: symbol R = bedrock
+LBL:T,T,,,,,oldest-SDM sheets: symbol T = till
+LBL:O,O,,organic,,,oldest-SDM sheets: symbol O = organic (lowercase prefix = texture qualifier)
+NULL,DROP,,,,,"polygon with no unit type and no label (1 polygon) - dropped so a coarser source fills it"
+SYM:01,C,,,,,"old CGM sheets: SDM symbol group 3.01.01 = colluvial and mass-wasting deposits"
+SYM:02,O,,organic,,,old CGM sheets: SDM symbol group 3.01.02 = organic deposits
+SYM:03,E,,sand,,,old CGM sheets: SDM symbol group 3.01.03 = eolian sediments
+SYM:04,F,,,,,old CGM sheets: SDM symbol group 3.01.04 = alluvial sediments
+SYM:05,L,,,,,old CGM sheets: SDM symbol group 3.01.05 = lacustrine sediments
+SYM:06,M,,,,,old CGM sheets: SDM symbol group 3.01.06 = marine sediments
+SYM:07,GF,,,,,old CGM sheets: SDM symbol group 3.01.07 = glaciofluvial sediments
+SYM:08,GL,,,,,old CGM sheets: SDM symbol group 3.01.08 = glaciolacustrine sediments
+SYM:09,GM,,,,,old CGM sheets: SDM symbol group 3.01.09 = glaciomarine sediments
+SYM:10,T,,diamicton,,,old CGM sheets: SDM symbol group 3.01.10 = glacial sediments (till)
+SYM:11,W,,,,,old CGM sheets: SDM symbol group 3.01.11 = weathered bedrock / regolith
+SYM:12,Q,,,,,old CGM sheets: SDM symbol group 3.01.12 = undifferentiated (label U)
+SYM:13,R,,,,,old CGM sheets: SDM symbol group 3.01.13 = bedrock
+SYM:14,X,,,,,old CGM sheets: SDM symbol group 3.01.14 = anthropogenic deposits (label H)
+SYM:15,I,,,,,old CGM sheets: SDM symbol group 3.01.15 = glacial ice or snowpack
+LBL:I,I,,,,,old CGM sheets: terrain symbol I = ice
+LBL:M,M,,,,,old CGM sheets: terrain symbol M = marine
+LBL:E,E,,sand,,,old CGM sheets: terrain symbol E = eolian
+LBL:GF,GF,,,,,old CGM sheets: terrain symbol GF = glaciofluvial
+LBL:GM,GM,,,,,old CGM sheets: terrain symbol GM = glaciomarine
+LBL:H,H,,,,,"CGM64 Iqaluit: label Hy = hydrography (water body)"
+LBL:W,H,,,,,"label W / 'Water' = water body (5 polygons)"
+LBL:N,DROP,,,,,"label 'None' (9 polygons) - dropped so a coarser source fills it"
+LBL:GL,GL,,fines,,,"terrain symbol GL (glaciolacustrine), predictive Landsat OF7108/7233 (UTYPE_DID holds the symbol)"
+LBL:U,DROP,,,,,"terrain symbol U (undifferentiated, predictive OFs) - dropped so a coarser source fills it"

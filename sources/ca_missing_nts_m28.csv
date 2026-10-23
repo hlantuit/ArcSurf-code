@@ -1,0 +1,229 @@
+nts,bbox,land_km2,coarse_km2,coarse_share,best_other,status,gsc_catalogue,group,block
+107A,128-132W 68-69N,18256.25,18250.0,1.0,1:125k-1:250k,"catalogued, not yet processed",A1647a 1:500k scan (processed); OF189 1:1000k scan,B,107
+097B,124-128W 68-69N,18256.25,18237.5,0.999,1:125k-1:250k,"catalogued, not yet processed",A1647a 1:500k scan (processed); OF189 1:1000k scan,B,097
+340A~,72-80W 80-81N,15281.25,15225.0,0.996,,"catalogued, not yet processed",A1192a 1:506k scan,B,340
+088A,112-116W 72-73N,13725.0,13693.75,0.998,1:125k-1:250k,"catalogued, not yet processed",OF577 1:125k scan,B,088
+340C~,80-88W 81-82N,13668.75,13593.75,0.995,,"catalogued, processed (not used here)",CGM392 1:125k vector (processed),E,340
+075D,110-112W 60-61N,12262.5,12156.25,0.991,<=1:100k,"catalogued, not yet processed",OF2018 1:50k scan,B,075
+560A~,88-96W 80-81N,12118.75,12081.25,0.997,,NO catalogued surficial product <= 1:1M,,A,560
+097C,124-128W 69-70N,12587.5,11962.5,0.95,1:500k-1:600k,"catalogued, not yet processed",A1647a 1:500k scan (processed); OF48 1:250k scan; OF117 1:250k scan,B,097
+075G,106-108W 61-62N,11875.0,11862.5,0.999,1:125k-1:250k,"catalogued, not yet processed",A1217a 1:1000k scan; OF7196 1:250k vector; OF2018 1:50k scan,B,075
+095F,124-126W 61-62N,11868.75,11850.0,0.998,<=1:100k,"catalogued, not yet processed",A1693a 1:500k scan (processed); OF189 1:1000k scan; OF158 1:125k scan; OF131 1:250k scan; OF132 1:250k scan,B,095
+095E,126-128W 61-62N,11856.25,11850.0,0.999,1:125k-1:250k,"catalogued, not yet processed",OF189 1:1000k scan; OF132 1:250k scan,B,095
+075H,104-106W 61-62N,11862.5,11762.5,0.992,1:125k-1:250k,"catalogued, not yet processed",A1217a 1:1000k scan; OF2018 1:50k scan,B,075
+075E,110-112W 61-62N,11843.75,11531.25,0.974,,"catalogued, not yet processed",OF7196 1:250k vector; OF2018 1:50k scan,B,075
+095L,126-128W 62-63N,11487.5,11487.5,1.0,,"catalogued, not yet processed",OF189 1:1000k scan; OF132 1:250k scan,B,095
+065E,102-104W 61-62N,11875.0,11400.0,0.96,1:125k-1:250k,"catalogued, not yet processed",A1217a 1:1000k scan; OF2018 1:50k scan,B,065
+095M,126-128W 63-64N,11100.0,11100.0,1.0,,"catalogued, not yet processed",OF189 1:1000k scan; OF132 1:250k scan,B,095
+105N,132-134W 63-64N,11106.25,11093.75,0.999,<=1:100k,"catalogued, not yet processed",OF189 1:1000k scan,B,105
+085F,116-118W 61-62N,11875.0,11075.0,0.933,1:125k-1:250k,NO catalogued surficial product <= 1:1M,,A,085
+094K,124-126W 58-59N,12331.25,11018.75,0.894,<=1:100k,NO catalogued surficial product <= 1:1M,,C,094
+027F,68-72W 70-71N,11037.5,10981.25,0.995,1:125k-1:250k,NO catalogued surficial product <= 1:1M,,A,027
+105P,128-130W 63-64N,11112.5,10762.5,0.969,<=1:100k,"catalogued, not yet processed",OF189 1:1000k scan; OF132 1:250k scan,B,105
+046C,84-86W 64-65N,10731.25,10731.25,1.0,,"catalogued, not yet processed",OF2018 1:50k scan,B,046
+106C,132-134W 64-65N,10731.25,10731.25,1.0,,"catalogued, not yet processed",OF189 1:1000k scan,B,106
+106B,130-132W 64-65N,10718.75,10712.5,0.999,1:125k-1:250k,"catalogued, not yet processed",OF189 1:1000k scan; OF26 1:125k scan; OF132 1:250k scan,B,106
+106A,128-130W 64-65N,10718.75,10706.25,0.999,1:125k-1:250k,"catalogued, not yet processed",OF155 1:125k scan; OF189 1:1000k scan; OF26 1:125k scan; OF132 1:250k scan,B,106
+076A,104-106W 64-65N,10725.0,10706.25,0.998,1:125k-1:250k,"catalogued, not yet processed",A1217a 1:1000k scan; OF2018 1:50k scan,B,076
+076B,106-108W 64-65N,10712.5,10637.5,0.993,1:125k-1:250k,"catalogued, not yet processed",A1217a 1:1000k scan; OF2018 1:50k scan,B,076
+094E,126-128W 57-58N,10393.75,10393.75,1.0,,NO catalogued surficial product <= 1:1M,,C,094
+096L,126-128W 66-67N,9937.5,9762.5,0.982,1:125k-1:250k,"catalogued, not yet processed",OF189 1:1000k scan; OF294 1:125k scan,B,096
+094L,126-128W 58-59N,9618.75,9618.75,1.0,,NO catalogued surficial product <= 1:1M,,C,094
+039F,76-80W 78-79N,9525.0,9525.0,1.0,,NO catalogued surficial product <= 1:1M,,A,039
+049D,80-84W 77-78N,9487.5,9487.5,1.0,,"catalogued, not yet processed",OF635 1:125k scan,B,049
+096O,122-124W 67-68N,9537.5,9456.25,0.991,1:125k-1:250k,"catalogued, not yet processed",OF189 1:1000k scan,B,096
+026N,68-70W 67-68N,9537.5,9393.75,0.985,1:500k-1:600k,NO catalogued surficial product <= 1:1M,,A,026
+096M,126-128W 67-68N,9531.25,9356.25,0.982,,"catalogued, not yet processed",OF189 1:1000k scan; OF294 1:125k scan,B,096
+096F,124-126W 65-66N,10331.25,9243.75,0.895,1:125k-1:250k,"catalogued, not yet processed",OF155 1:125k scan; OF189 1:1000k scan; OF26 1:125k scan; OF132 1:250k scan; OF294 1:125k scan,B,096
+096N,124-126W 67-68N,9518.75,9225.0,0.969,,"catalogued, not yet processed",OF189 1:1000k scan; OF294 1:125k scan,B,096
+049E,80-84W 78-79N,9093.75,9087.5,0.999,1:125k-1:250k,"catalogued, not yet processed",OF635 1:125k scan,B,049
+104I,128-130W 58-59N,9025.0,9018.75,0.999,1:125k-1:250k,NO catalogued surficial product <= 1:1M,,C,104
+096K,124-126W 66-67N,9925.0,8912.5,0.898,,"catalogued, not yet processed",OF189 1:1000k scan; OF294 1:125k scan,B,096
+046B,82-84W 64-65N,8912.5,8912.5,1.0,,"catalogued, not yet processed",OF2018 1:50k scan,B,046
+059H,88-92W 79-80N,8731.25,8718.75,0.999,1:125k-1:250k,NO catalogued surficial product <= 1:1M,,A,059
+094J,122-124W 58-59N,8675.0,8637.5,0.996,<=1:100k,NO catalogued surficial product <= 1:1M,,C,094
+066M,102-104W 67-68N,8475.0,8412.5,0.993,1:125k-1:250k,NO catalogued surficial product <= 1:1M,,A,066
+094N,124-126W 59-60N,10775.0,8350.0,0.775,<=1:100k,NO catalogued surficial product <= 1:1M,,C,094
+104O,130-132W 59-60N,8781.25,8156.25,0.929,<=1:100k,"catalogued, not yet processed",OF539 1:100k scan,B,104
+027B,68-72W 68-69N,17412.5,8150.0,0.468,<=1:100k,"catalogued, processed (not used here)",A2073a 1:250k vector (processed); OF1569 1:100k scan (processed); OF1570 1:100k scan (processed),E,027
+036A,72-74W 64-65N,8231.25,8056.25,0.979,,"catalogued, not yet processed",OF2018 1:50k scan,B,036
+094D,126-128W 56-57N,7968.75,7968.75,1.0,,NO catalogued surficial product <= 1:1M,,C,094
+039G,76-80W 79-80N,7943.75,7931.25,0.998,1:125k-1:250k,NO catalogued surficial product <= 1:1M,,A,039
+087H,112-116W 71-72N,15581.25,7893.75,0.507,<=1:100k,"catalogued, not yet processed",CGM45 1:50k vector (processed); CGM46 1:50k vector (processed); CGM51 1:50k vector (processed); CGM52 1:50k vector (processed); CGM53 1:50k vector (processed); CGM54 1:50k vector (processed); CGM55 1:50k vector (processed); CGM56 1:50k vector (processed); OF577 1:125k scan,B,087
+088B,116-120W 72-73N,11068.75,7893.75,0.713,1:125k-1:250k,"catalogued, not yet processed",CGM133 1:250k vector (processed); OF577 1:125k scan,B,088
+116A,136-138W 64-65N,10712.5,7868.75,0.735,<=1:100k,"catalogued, not yet processed",A1171a 1:253k scan (processed); CGM355 1:100k vector (processed); OF189 1:1000k scan,B,116
+049C,84-88W 77-78N,7650.0,7650.0,1.0,,"catalogued, not yet processed",OF265 1:125k scan,B,049
+096J,122-124W 66-67N,9931.25,7568.75,0.762,,"catalogued, not yet processed",OF189 1:1000k scan,B,096
+106D,134-136W 64-65N,10700.0,7562.5,0.707,1:125k-1:250k,"catalogued, not yet processed",A1172a 1:253k scan (processed); OF189 1:1000k scan,B,106
+026D,70-72W 64-65N,10737.5,7543.75,0.703,1:500k-1:600k,"catalogued, not yet processed",OF2018 1:50k scan,B,026
+078H,104-108W 75-76N,7481.25,7481.25,1.0,,"catalogued, not yet processed",OF479 1:125k scan; OF1275 1:250k scan,B,078
+096G,122-124W 65-66N,10318.75,7425.0,0.72,1:125k-1:250k,"catalogued, not yet processed",OF189 1:1000k scan; OF132 1:250k scan,B,096
+068H,96-100W 75-76N,7418.75,7418.75,1.0,,"catalogued, not yet processed",CGM426 1:250k vector (processed); OF479 1:125k scan; OF1275 1:250k scan,B,068
+036C,76-78W 64-65N,7393.75,7387.5,0.999,,"catalogued, not yet processed",OF2018 1:50k scan,B,036
+066N,100-102W 67-68N,7400.0,7381.25,0.997,1:125k-1:250k,NO catalogued surficial product <= 1:1M,,A,066
+107D,128-132W 69-70N,13593.75,7375.0,0.543,1:125k-1:250k,"catalogued, not yet processed",A1647a 1:500k scan (processed); OF117 1:250k scan,B,107
+027C,68-72W 69-70N,15937.5,7300.0,0.458,<=1:100k,"catalogued, processed (not used here)",A2074a 1:250k vector (processed); CGM362 1:250k vector (processed); OF1572 1:100k scan (processed); OF1571 1:100k scan (processed),E,027
+104H,128-130W 57-58N,9037.5,7268.75,0.804,1:125k-1:250k,NO catalogued surficial product <= 1:1M,,C,104
+085H,112-114W 61-62N,11862.5,7143.75,0.602,1:125k-1:250k,NO catalogued surficial product <= 1:1M,,A,085
+026M,70-72W 67-68N,9512.5,7118.75,0.748,1:500k-1:600k,NO catalogued surficial product <= 1:1M,,A,026
+025J,66-68W 62-63N,7031.25,6962.5,0.99,1:500k-1:600k,"catalogued, not yet processed",OF2018 1:50k scan,B,025
+059E,88-92W 78-79N,6881.25,6881.25,1.0,,NO catalogued surficial product <= 1:1M,,A,059
+094F,124-126W 57-58N,9531.25,6831.25,0.717,<=1:100k,NO catalogued surficial product <= 1:1M,,C,094
+077A,104-108W 68-69N,8900.0,6831.25,0.768,1:125k-1:250k,"catalogued, not yet processed",A1825a 1:250k scan; A1998a 1:125k scan (processed); CGM234 1:250k vector (processed); CGM227 1:125k vector (processed); OF3597 1:125k scan; OF7230 1:500k scan,B,077
+049B,84-88W 76-77N,6793.75,6781.25,0.998,1:125k-1:250k,NO catalogued surficial product <= 1:1M,,A,049
+045N,84-86W 63-64N,6712.5,6712.5,1.0,,"catalogued, not yet processed",OF2018 1:50k scan,B,045
+082N,116-118W 51-52N,9687.5,6693.75,0.691,1:125k-1:250k,NO catalogued surficial product <= 1:1M,,C,082
+049A,80-84W 76-77N,6656.25,6656.25,1.0,,NO catalogued surficial product <= 1:1M,,A,049
+089B,116-120W 76-77N,7225.0,6650.0,0.92,1:125k-1:250k,"catalogued, processed (not used here)",A1753a 1:250k scan (processed),E,089
+083D,118-120W 52-53N,7668.75,6475.0,0.844,1:125k-1:250k,NO catalogued surficial product <= 1:1M,,C,083
+049F,84-88W 78-79N,6393.75,6387.5,0.999,,NO catalogued surficial product <= 1:1M,,A,049
+094P,120-122W 59-60N,12618.75,6331.25,0.502,<=1:100k,NO catalogued surficial product <= 1:1M,,C,094
+046F,84-86W 65-66N,6468.75,6156.25,0.952,1:125k-1:250k,"catalogued, not yet processed",OF2018 1:50k scan,B,046
+095D,126-128W 60-61N,12250.0,6125.0,0.5,1:125k-1:250k,"catalogued, not yet processed",OF189 1:1000k scan,B,095
+115P,136-138W 63-64N,11100.0,5962.5,0.537,<=1:100k,"catalogued, not yet processed",OF189 1:1000k scan,B,115
+059G,92-96W 79-80N,5887.5,5887.5,1.0,,NO catalogued surficial product <= 1:1M,,A,059
+075A,104-106W 60-61N,12237.5,5887.5,0.481,<=1:100k,"catalogued, not yet processed",A1217a 1:1000k scan; CGM342 1:100k vector (processed); OF2018 1:50k scan,B,075
+085C,116-118W 60-61N,12237.5,5856.25,0.479,<=1:100k,"catalogued, processed (not used here)",CGM431 1:100k vector (processed); CGM438 1:100k vector (processed),E,085
+340B~,80-88W 80-81N,10350.0,5543.75,0.536,1:125k-1:250k,"catalogued, not yet processed",CGM392 1:125k vector (processed); CGM391 1:125k vector (processed); OF501 1:125k scan,B,340
+340D~,72-80W 81-82N,14168.75,5537.5,0.391,1:125k-1:250k,"catalogued, not yet processed",A1192a 1:506k scan; CGM212 1:250k vector (processed),B,340
+120B~,64-72W 80-81N,5462.5,5450.0,0.998,,"catalogued, not yet processed",A1192a 1:506k scan,B,120
+093I,120-122W 54-55N,5450.0,5443.75,0.999,1:125k-1:250k,NO catalogued surficial product <= 1:1M,,C,093
+087G,116-120W 71-72N,8018.75,5431.25,0.677,<=1:100k,"catalogued, not yet processed",CGM47 1:50k vector (processed); CGM49 1:50k vector (processed); CGM50 1:50k vector (processed); CGM133 1:250k vector (processed); OF577 1:125k scan,B,087
+082K,116-118W 50-51N,5362.5,5362.5,1.0,,NO catalogued surficial product <= 1:1M,,C,082
+066F,100-102W 65-66N,10331.25,5193.75,0.503,1:125k-1:250k,"catalogued, not yet processed",A1217a 1:1000k scan; CGM278 1:125k vector (processed); OF2018 1:50k scan,B,066
+066E,102-104W 65-66N,10312.5,5156.25,0.5,1:125k-1:250k,"catalogued, not yet processed",A1217a 1:1000k scan; CGM131 1:125k vector (processed); OF2018 1:50k scan,B,066
+105O,130-132W 63-64N,11100.0,5150.0,0.464,<=1:100k,"catalogued, not yet processed",OF189 1:1000k scan; OF132 1:250k scan,B,105
+032E,78-80W 49-50N,8300.0,5137.5,0.619,1:1M,"catalogued, not yet processed",OF2018 1:50k scan,B,032
+066K,100-102W 66-67N,9925.0,4900.0,0.494,1:125k-1:250k,"catalogued, processed (not used here)",CGM274 1:125k vector (processed),E,066
+066L,102-104W 66-67N,9893.75,4850.0,0.49,1:125k-1:250k,"catalogued, processed (not used here)",CGM142 1:125k vector (processed),E,066
+094H,120-122W 57-58N,9043.75,4787.5,0.529,<=1:100k,NO catalogued surficial product <= 1:1M,,C,094
+036B,74-76W 64-65N,4793.75,4781.25,0.997,,"catalogued, not yet processed",OF2018 1:50k scan,B,036
+094M,126-128W 59-60N,6268.75,4731.25,0.755,<=1:100k,NO catalogued surficial product <= 1:1M,,C,094
+560D~,88-96W 81-82N,4831.25,4725.0,0.978,,NO catalogued surficial product <= 1:1M,,A,560
+104P,128-130W 59-60N,4675.0,4668.75,0.999,1:125k-1:250k,"catalogued, not yet processed",OF594 1:100k scan; OF539 1:100k scan,B,104
+340F~,80-88W 82-83N,4525.0,4487.5,0.992,,"catalogued, processed (not used here)",CGM392 1:125k vector (processed),E,340
+099A,120-124W 76-77N,4450.0,4437.5,0.997,,NO catalogued surficial product <= 1:1M,,A,099
+039H,72-76W 79-80N,4412.5,4412.5,1.0,,NO catalogued surficial product <= 1:1M,,A,039
+036N,76-78W 67-68N,4243.75,4243.75,1.0,,NO catalogued surficial product <= 1:1M,,A,036
+039C,76-80W 77-78N,4212.5,4206.25,0.999,,NO catalogued surficial product <= 1:1M,,A,039
+037E,72-76W 70-71N,16362.5,4125.0,0.252,<=1:100k,"catalogued, processed (not used here)",CGM36 1:100k vector (processed); OF3634 1:500k scan (processed); OF6829 1:100k vector (processed); OF5612 1:100k vector (processed),E,037
+094B,122-124W 56-57N,5893.75,4081.25,0.692,<=1:100k,NO catalogued surficial product <= 1:1M,,C,094
+058G,92-96W 75-76N,5137.5,4075.0,0.793,1:125k-1:250k,"catalogued, not yet processed",A1972a 1:250k scan; CGM353 1:250k vector (processed); CGM426 1:250k vector (processed),B,058
+068G,100-104W 75-76N,4062.5,4056.25,0.998,,"catalogued, not yet processed",OF479 1:125k scan; OF1275 1:250k scan,B,068
+069F,100-104W 78-79N,6806.25,4018.75,0.59,1:125k-1:250k,"catalogued, not yet processed",OF538 1:125k scan,B,069
+069B,100-104W 76-77N,4000.0,3987.5,0.997,,"catalogued, not yet processed",OF479 1:125k scan; OF1275 1:250k scan,B,069
+340E~,72-80W 82-83N,11900.0,3962.5,0.333,1:125k-1:250k,"catalogued, not yet processed",A1192a 1:506k scan; CGM213 1:250k vector (processed),B,340
+026K,68-70W 66-67N,9656.25,3831.25,0.397,1:500k-1:600k,NO catalogued surficial product <= 1:1M,,A,026
+032J,74-76W 50-51N,6137.5,3831.25,0.624,1:125k-1:250k,"catalogued, not yet processed",OF2018 1:50k scan,B,032
+094A,120-122W 56-57N,5275.0,3756.25,0.712,<=1:100k,NO catalogued surficial product <= 1:1M,,C,094
+094C,124-126W 56-57N,5550.0,3693.75,0.666,<=1:100k,NO catalogued surficial product <= 1:1M,,C,094
+089C,116-120W 77-78N,3600.0,3587.5,0.997,,NO catalogued surficial product <= 1:1M,,A,089
+045P,80-82W 63-64N,3581.25,3581.25,1.0,,"catalogued, not yet processed",OF1133 1:125k scan; OF2018 1:50k scan,B,045
+036G,74-76W 65-66N,3681.25,3581.25,0.973,1:500k-1:600k,"catalogued, not yet processed",OF2018 1:50k scan,B,036
+032K,76-78W 50-51N,10362.5,3556.25,0.343,1:125k-1:250k,"catalogued, not yet processed",OF2018 1:50k scan,B,032
+093H,120-122W 53-54N,3493.75,3487.5,0.998,1:125k-1:250k,NO catalogued surficial product <= 1:1M,,C,093
+036O,74-76W 67-68N,3475.0,3450.0,0.993,1:125k-1:250k,NO catalogued surficial product <= 1:1M,,A,036
+039B,76-80W 76-77N,3281.25,3281.25,1.0,,NO catalogued surficial product <= 1:1M,,A,039
+120C~,64-72W 81-82N,11456.25,3268.75,0.285,1:125k-1:250k,"catalogued, not yet processed",A1192a 1:506k scan; CGM211 1:250k vector (processed),B,120
+082J,114-116W 50-51N,5668.75,3225.0,0.569,1:125k-1:250k,NO catalogued surficial product <= 1:1M,,C,082
+094I,120-122W 58-59N,10931.25,3131.25,0.286,<=1:100k,NO catalogued surficial product <= 1:1M,,C,094
+104A,128-130W 56-57N,4350.0,3125.0,0.718,<=1:100k,NO catalogued surficial product <= 1:1M,,C,104
+079B,108-112W 76-77N,3131.25,3106.25,0.992,,NO catalogued surficial product <= 1:1M,,A,079
+036F,76-78W 65-66N,3100.0,3100.0,1.0,,"catalogued, not yet processed",OF2018 1:50k scan,B,036
+093O,122-124W 55-56N,3125.0,3031.25,0.97,<=1:100k,NO catalogued surficial product <= 1:1M,,C,093
+115F,140-142W 61-62N,5931.25,2975.0,0.502,<=1:100k,"catalogued, not yet processed",OF189 1:1000k scan,B,115
+075J,106-108W 62-63N,11481.25,2962.5,0.258,1:125k-1:250k,"catalogued, not yet processed",A1217a 1:1000k scan; CGM139 1:125k vector (processed); OF7196 1:250k vector; OF2018 1:50k scan,B,075
+037C,76-80W 69-70N,5412.5,2956.25,0.546,<=1:100k,"catalogued, processed (not used here)",OF4956 1:100k vector (processed); OF4955 1:100k vector (processed); OF4700 1:50k vector (processed); OF4699 1:50k vector (processed); OF4701 1:50k vector (processed); OF3634 1:500k scan (processed),E,037
+092N,124-126W 51-52N,2737.5,2737.5,1.0,,NO catalogued surficial product <= 1:1M,,C,092
+079F,108-112W 78-79N,2743.75,2731.25,0.995,,NO catalogued surficial product <= 1:1M,,A,079
+079C,108-112W 77-78N,2718.75,2718.75,1.0,,NO catalogued surficial product <= 1:1M,,A,079
+089D,112-116W 77-78N,2631.25,2612.5,0.993,,NO catalogued surficial product <= 1:1M,,A,089
+058F,92-96W 74-75N,3718.75,2606.25,0.701,1:125k-1:250k,"catalogued, not yet processed",A1555a 1:250k scan; A1972a 1:250k scan; CGM233 1:250k vector (processed); CGM353 1:250k vector (processed); OF357 1:125k scan,B,058
+027D,64-68W 69-70N,2525.0,2518.75,0.998,,NO catalogued surficial product <= 1:1M,,A,027
+120F~,64-72W 82-83N,11818.75,2481.25,0.21,1:125k-1:250k,"catalogued, not yet processed",A1192a 1:506k scan; CGM210 1:250k vector (processed),B,120
+037B,76-80W 68-69N,2618.75,2318.75,0.885,<=1:100k,"catalogued, processed (not used here)",OF4956 1:100k vector (processed); OF3634 1:500k scan (processed),E,037
+067B,100-104W 68-69N,2193.75,2181.25,0.994,1:125k-1:250k,"catalogued, not yet processed",OF7230 1:500k scan,B,067
+120E~,56-64W 82-83N,2412.5,2112.5,0.876,1:125k-1:250k,"catalogued, not yet processed",A1192a 1:506k scan; CGM210 1:250k vector (processed),B,120
+059F,92-96W 78-79N,3275.0,2093.75,0.639,1:125k-1:250k,"catalogued, not yet processed",CGM399 1:125k vector (processed); OF541 1:125k scan,B,059
+045M,86-88W 63-64N,2087.5,2087.5,1.0,,"catalogued, not yet processed",OF2018 1:50k scan,B,045
+034D,78-80W 56-57N,2118.75,2075.0,0.979,,"catalogued, not yet processed",OF2018 1:50k scan,B,034
+036P,72-74W 67-68N,3087.5,2050.0,0.664,1:500k-1:600k,NO catalogued surficial product <= 1:1M,,A,036
+092J,122-124W 50-51N,2000.0,2000.0,1.0,,NO catalogued surficial product <= 1:1M,,C,092
+083E,118-120W 53-54N,8050.0,1993.75,0.248,1:125k-1:250k,NO catalogued surficial product <= 1:1M,,C,083
+088D,112-116W 73-74N,2612.5,1975.0,0.756,1:125k-1:250k,"catalogued, not yet processed",CGM130 1:250k vector (processed); OF577 1:125k scan,B,088
+092O,122-124W 51-52N,1956.25,1956.25,1.0,,NO catalogued surficial product <= 1:1M,,C,092
+082M,118-120W 51-52N,1937.5,1937.5,1.0,,NO catalogued surficial product <= 1:1M,,C,082
+094G,122-124W 57-58N,9568.75,1925.0,0.201,<=1:100k,NO catalogued surficial product <= 1:1M,,C,094
+115G,138-140W 61-62N,11862.5,1906.25,0.161,<=1:100k,"catalogued, not yet processed",OF189 1:1000k scan,B,115
+093M,126-128W 55-56N,2050.0,1893.75,0.924,<=1:100k,NO catalogued surficial product <= 1:1M,,C,093
+037H,72-76W 71-72N,10975.0,1856.25,0.169,1:500k-1:600k,"catalogued, processed (not used here)",A1395a 1:500k scan (processed); OF3634 1:500k scan (processed),E,037
+087E,112-116W 70-71N,10856.25,1843.75,0.17,1:125k-1:250k,"catalogued, not yet processed",A1650a 1:250k vector (processed); CGM248 1:250k vector (processed); OF4336 1:50k vector (processed); OF4351 1:50k vector (processed); OF4337 1:50k vector (processed); OF4321 1:50k scan; OF4319 1:50k scan; OF4320 1:50k scan,B,087
+032L,78-80W 50-51N,15618.75,1831.25,0.117,1:125k-1:250k,"catalogued, not yet processed",OF2018 1:50k scan,B,032
+093A,120-122W 52-53N,1800.0,1800.0,1.0,,NO catalogued surficial product <= 1:1M,,C,093
+026E,70-72W 65-66N,10300.0,1787.5,0.174,1:500k-1:600k,"catalogued, not yet processed",OF2018 1:50k scan,B,026
+078G,108-112W 75-76N,8687.5,1706.25,0.196,1:125k-1:250k,"catalogued, not yet processed",A1583a 1:250k scan (processed); OF874 1:250k scan,B,078
+093N,124-126W 55-56N,1706.25,1662.5,0.974,<=1:100k,NO catalogued surficial product <= 1:1M,,C,093
+059D,88-92W 77-78N,1637.5,1637.5,1.0,,"catalogued, not yet processed",OF265 1:125k scan,B,059
+039E,72-76W 78-79N,1612.5,1612.5,1.0,,NO catalogued surficial product <= 1:1M,,A,039
+035N,76-78W 63-64N,1556.25,1556.25,1.0,,"catalogued, not yet processed",OF2018 1:50k scan,B,035
+046D,86-88W 64-65N,3287.5,1543.75,0.47,<=1:100k,"catalogued, not yet processed",CGM145 1:100k vector (processed); OF2018 1:50k scan,B,046
+115A,136-138W 60-61N,12243.75,1531.25,0.125,<=1:100k,"catalogued, not yet processed",CGM379 1:100k vector (processed); CGM383 1:100k vector (processed); CGM382 1:100k vector (processed); OF189 1:1000k scan,B,115
+082F,116-118W 49-50N,1531.25,1531.25,1.0,,NO catalogued surficial product <= 1:1M,,C,082
+088G,116-120W 75-76N,4018.75,1487.5,0.37,1:125k-1:250k,"catalogued, processed (not used here)",A1753a 1:250k scan (processed),E,088
+026L,70-72W 66-67N,9937.5,1393.75,0.14,1:500k-1:600k,NO catalogued surficial product <= 1:1M,,A,026
+045O,82-84W 63-64N,1387.5,1387.5,1.0,,"catalogued, not yet processed",A1633a 1:125k scan (processed); CGM251 1:125k vector (processed); OF1133 1:125k scan; OF2018 1:50k scan,B,045
+025H,64-66W 61-62N,1300.0,1300.0,1.0,,"catalogued, not yet processed",OF2018 1:50k scan,B,025
+079D,104-108W 77-78N,1268.75,1268.75,1.0,,"catalogued, not yet processed",OF538 1:125k scan,B,079
+077B,108-112W 68-69N,7087.5,1250.0,0.176,1:125k-1:250k,"catalogued, not yet processed",A1781a 1:250k scan; CGM273 1:250k vector (processed),B,077
+082G,114-116W 49-50N,1643.75,1212.5,0.738,1:125k-1:250k,NO catalogued surficial product <= 1:1M,,C,082
+093L,126-128W 54-55N,1206.25,1206.25,1.0,,NO catalogued surficial product <= 1:1M,,C,093
+046G,82-84W 65-66N,1100.0,1100.0,1.0,,"catalogued, not yet processed",OF2018 1:50k scan,B,046
+079H,104-108W 79-80N,1093.75,1093.75,1.0,,NO catalogued surficial product <= 1:1M,,A,079
+083C,116-118W 52-53N,8918.75,1093.75,0.123,1:125k-1:250k,NO catalogued surficial product <= 1:1M,,C,083
+026A,64-66W 64-65N,2812.5,1062.5,0.378,1:500k-1:600k,"catalogued, not yet processed",CGM15 1:100k vector (processed); OF2018 1:50k scan,B,026
+069G,100-104W 79-80N,1056.25,1056.25,1.0,,NO catalogued surficial product <= 1:1M,,A,069
+046A,80-82W 64-65N,981.25,981.25,1.0,,"catalogued, not yet processed",OF2018 1:50k scan,B,046
+026C,68-70W 64-65N,10693.75,968.75,0.091,1:500k-1:600k,"catalogued, not yet processed",OF2018 1:50k scan,B,026
+025P,64-66W 63-64N,7062.5,962.5,0.136,1:500k-1:600k,"catalogued, not yet processed",OF2018 1:50k scan,B,025
+093C,124-126W 52-53N,950.0,950.0,1.0,,NO catalogued surficial product <= 1:1M,,C,093
+036H,72-74W 65-66N,9731.25,906.25,0.093,<=1:100k,"catalogued, not yet processed",OF6176 1:100k vector (processed); OF2018 1:50k scan,B,036
+026F,68-70W 65-66N,10100.0,781.25,0.077,1:500k-1:600k,"catalogued, not yet processed",OF2018 1:50k scan,B,026
+079A,104-108W 76-77N,762.5,762.5,1.0,,"catalogued, not yet processed",OF479 1:125k scan; OF1275 1:250k scan,B,079
+069H,96-100W 79-80N,756.25,756.25,1.0,,NO catalogued surficial product <= 1:1M,,A,069
+046L,86-88W 66-67N,9006.25,750.0,0.083,1:125k-1:250k,"catalogued, processed (not used here)",A1850a 1:200k vector (processed),E,046
+095C,124-126W 60-61N,12231.25,750.0,0.061,<=1:100k,"catalogued, not yet processed",A1693a 1:500k scan (processed); CGM455 1:100k vector (processed); CGM456 1:50k scan; OF4680 1:100k scan; OF4702 1:50k scan; OF1771 1:50k scan; OF1615 1:50k scan; OF1671 1:50k scan; OF1558 1:50k scan; OF4324 1:50k scan; OF4260 1:50k scan; OF189 1:1000k scan; OF158 1:125k scan; OF131 1:250k scan,B,095
+025C,68-70W 60-61N,2706.25,731.25,0.27,1:125k-1:250k,"catalogued, not yet processed",OF2018 1:50k scan,B,025
+022L,70-72W 50-51N,1312.5,731.25,0.557,1:125k-1:250k,"catalogued, not yet processed",OF2018 1:50k scan,B,022
+035P,72-74W 63-64N,650.0,643.75,0.99,,"catalogued, not yet processed",OF2018 1:50k scan,B,035
+035M,78-80W 63-64N,637.5,637.5,1.0,,"catalogued, not yet processed",OF2018 1:50k scan,B,035
+093E,126-128W 53-54N,631.25,631.25,1.0,,NO catalogued surficial product <= 1:1M,,C,093
+116H,136-138W 65-66N,10331.25,625.0,0.06,1:500k-1:600k,"catalogued, not yet processed",A1319a 1:500k scan (processed); OF189 1:1000k scan,B,116
+106E,134-136W 65-66N,10300.0,625.0,0.061,1:500k-1:600k,"catalogued, not yet processed",A1319a 1:500k scan (processed); OF189 1:1000k scan,B,106
+560B~,96-104W 80-81N,612.5,612.5,1.0,,NO catalogued surficial product <= 1:1M,,A,560
+089A,112-116W 76-77N,4068.75,587.5,0.144,1:125k-1:250k,"catalogued, processed (not used here)",A1753a 1:250k scan (processed),E,089
+089E,112-116W 78-79N,543.75,537.5,0.989,,NO catalogued surficial product <= 1:1M,,A,089
+026G,66-68W 65-66N,3262.5,512.5,0.157,1:500k-1:600k,"catalogued, not yet processed",OF2018 1:50k scan,B,026
+027E,64-68W 70-71N,512.5,506.25,0.988,,NO catalogued surficial product <= 1:1M,,A,027
+029G,68-72W 79-80N,506.25,506.25,1.0,,NO catalogued surficial product <= 1:1M,,A,029
+047A,80-84W 68-69N,9650.0,468.75,0.049,1:125k-1:250k,"catalogued, processed (not used here)",A1782a 1:200k scan (processed); OF3634 1:500k scan (processed),E,047
+036I,72-74W 66-67N,7575.0,443.75,0.059,1:500k-1:600k,NO catalogued surficial product <= 1:1M,,A,036
+096H,120-122W 65-66N,10318.75,443.75,0.043,1:125k-1:250k,"catalogued, not yet processed",CGM425 1:125k vector (processed); OF189 1:1000k scan,B,096
+103P,128-130W 55-56N,500.0,437.5,0.875,<=1:100k,NO catalogued surficial product <= 1:1M,,C,103
+098H,120-124W 75-76N,437.5,431.25,0.986,,NO catalogued surficial product <= 1:1M,,A,098
+082L,118-120W 50-51N,431.25,431.25,1.0,,NO catalogued surficial product <= 1:1M,,C,082
+096B,122-124W 64-65N,10731.25,431.25,0.04,1:125k-1:250k,"catalogued, not yet processed",CGM386 1:250k vector (processed); OF189 1:1000k scan; OF132 1:250k scan,B,096
+025G,66-68W 61-62N,393.75,393.75,1.0,,"catalogued, not yet processed",OF2018 1:50k scan,B,025
+033M,78-80W 55-56N,731.25,393.75,0.538,<=1:100k,"catalogued, not yet processed",A1896a 1:100k vector (processed); OF2018 1:50k scan,B,033
+085G,114-116W 61-62N,11856.25,387.5,0.033,1:125k-1:250k,"catalogued, processed (not used here)",CGM443 1:125k vector (processed),E,085
+027G,68-72W 71-72N,1437.5,387.5,0.27,1:500k-1:600k,NO catalogued surficial product <= 1:1M,,A,027
+093P,120-122W 55-56N,387.5,387.5,1.0,,NO catalogued surficial product <= 1:1M,,C,093
+092I,120-122W 50-51N,381.25,381.25,1.0,,NO catalogued surficial product <= 1:1M,,C,092
+046O,82-84W 67-68N,9468.75,381.25,0.04,1:125k-1:250k,"catalogued, processed (not used here)",A1849a 1:200k scan (processed),E,046
+032I,72-74W 50-51N,1150.0,375.0,0.326,1:125k-1:250k,"catalogued, not yet processed",OF2018 1:50k scan,B,032
+106F,132-134W 65-66N,10325.0,368.75,0.036,1:500k-1:600k,"catalogued, not yet processed",A1319a 1:500k scan (processed); OF189 1:1000k scan,B,106
+079E,104-108W 78-79N,781.25,362.5,0.464,1:125k-1:250k,"catalogued, not yet processed",OF538 1:125k scan,B,079
+047B,84-88W 68-69N,8018.75,343.75,0.043,1:125k-1:250k,"catalogued, not yet processed",A1782a 1:200k scan (processed); A1847a 1:200k vector (processed); CGM358 1:500k vector (processed); OF3634 1:500k scan (processed); OF285 1:125k scan,B,047
+036D,78-80W 64-65N,343.75,343.75,1.0,,"catalogued, not yet processed",OF2018 1:50k scan,B,036
+032F,76-78W 49-50N,800.0,337.5,0.422,1:125k-1:250k,"catalogued, not yet processed",OF2018 1:50k scan,B,032
+056D,94-96W 64-65N,10712.5,325.0,0.03,1:125k-1:250k,"catalogued, not yet processed",A1217a 1:1000k scan; CGM329 1:125k vector (processed); OF2018 1:50k scan,B,056
+093D,126-128W 52-53N,325.0,325.0,1.0,,NO catalogued surficial product <= 1:1M,,C,093

@@ -1,0 +1,11 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#cbe41d,"Ap,At,Af","Alluvial floodplain, terraces and fans",F,,mixed,,"GSC Map 1395A NE Baffin Island (Hodgson & Haselton 1974), 1:500k UTM, raster scan. Letters: W = marine, M = MORAINAL, G = glaciofluvial. Bedrock (R) and ice are uncoloured: they read as paper and fall to the coarser source"
+1,#95904a,Cs,Colluvium (solifluction),C,,,,"map tint #95904a sampled ON THE MAP (legend swatch #a5a037, dE 17)"
+2,#a1a397,Cf,Talus / colluvial fans,C,,bouldery,,
+3,#bfeaea,Wr,"Marine deposits, beach ridges",M,,gravel,,
+4,#88998f,Lp,Lacustrine plain,L,,,,glacial vs nonglacial not stated
+5,#fffe03,"Gp,Gt",Glaciofluvial outwash plain and terraces,GF,,mixed,,
+6,#feb0b0,"Mp,Mv,Mpv","Moraine: till plain, veneer, plain-veneer complex",T,,diamicton,,
+7,#ffad3b,"Mr,Mc,Mh","Moraine: ridged, crag-and-tail?, hummocky",T,,diamicton,,Mc reading of the table uncertain
+8,#e9e9ec,PAPER,uncoloured (bedrock / ice): off-white tone,DROP,,,,no-data class (jpg_to_polygons PAPER)
+9,#f2f1ee,PAPER,uncoloured (bedrock / ice): off-white tone,DROP,,,,no-data class (jpg_to_polygons PAPER)

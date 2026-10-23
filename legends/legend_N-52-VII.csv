@@ -1,0 +1,16 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#bf7fb1,e,eluvium: rubble and blocks,W,,bouldery,,"GGK-200/2 N-52-VII (Dipkun), Stanovoy series, Quaternary map, RASTER (geokniga JPG 11741x7758); green diagonal peat-cover hatch NOT captured; swatches sampled at row centres"
+1,#e182aa,E,"weathering crust eluvium, desertion and solifluxion",W,C,fines,,
+2,#ee9694,sII-H,solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+3,#e3959c,"dr,sII-H",desertion and solifluxion of pediments,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+4,#eda696,"d,sIII-H",deluvium and solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+5,#f0be9d,"e,dIII-H",eluvium and deluvium,W,C,bouldery,,
+6,#f0c4a1,dIII-H,deluvium,C,,fines,,
+7,#bababa,tH3,technogenic gold-mine dumps,X,,mixed,,
+8,#d9e9ba,aH,channel and floodplain alluvium,F,,sand,,
+9,#cce3af,aIII3-4,5-6 m terrace alluvium,F,,sand,,
+10,#8ec8bd,laIII3-4,5-6 m terrace limnoalluvium,L,F,fines,,
+11,#9cc59b,faIII2-3,glacioalluvium of valley sandurs,GF,F,sand,,
+12,#afc48b,fII2,glaciofluvial sandur fans,GF,,mixed,,
+13,#8dc584,aII1b,30-40 m terrace alluvium,F,,sand,,
+14,#7dbd71,aII1a,80-90 m terrace alluvium,F,,gravel,,

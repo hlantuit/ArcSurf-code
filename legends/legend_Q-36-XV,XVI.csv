@@ -1,0 +1,14 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#e2eec3,aH,floodplain alluvium,F,,gravel,,"GGK-200/2 Q-36-XV,XVI, Kola/White Sea, Quaternary map, vector PDF (geokniga); #b0cbea shared by mnH2-3sl and mpIII-H (patterns), kept as marine mixed"
+1,#c8c3a4,plH,bog peat,O,,organic,,
+2,#aee2fa,lH,"lacustrine, diatomite",L,,fines,,
+3,#ccddf2,mH,marine sands and clays,M,,mixed,,
+4,#b0cbea,mnH2-3sl/mpIII-H,Solovetsky marine silts / marine perluvial sands with gravel,M,,mixed,,
+5,#fcbf94,edIII-H,eluvium-deluvium,W,C,bouldery,,
+6,#8fb9e3,mIII-Hpt,Portlandia transgression clays,M,,fines,,
+7,#d9bca4,mgIIIknd,Kandalaksha glaciomarine clays,GM,,fines,,
+8,#a3dad6,lgIIIos,Ostashkov glaciolacustrine,GL,,sand,,
+9,#d9e3b1,fIIIos,Ostashkov glaciofluvial,GF,,gravel,,
+10,#daaf8d,gIIIos,"Ostashkov moraine, bouldery sands",T,,sand,,
+11,#7bafde,mIIIln,Leningrad marine (correlation scheme only),M,,sand,,
+12,#a677b4,PREQ,pre-Quaternary rock,R,,,,

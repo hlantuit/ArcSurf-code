@@ -1,0 +1,143 @@
+{
+ "sheet": "P-37-IV",
+ "source": "raster scan",
+ "projection": "eqdc",
+ "rms_m": 38.403587576487766,
+ "max_res_m": 64.96796194100276,
+ "m_per_px": 33.92265916906151,
+ "corner_residuals_m": [
+  54.2,
+  12.8,
+  65.0,
+  50.6,
+  34.0,
+  22.7,
+  12.2,
+  53.7,
+  58.6,
+  22.9,
+  19.3,
+  6.1,
+  14.9
+ ],
+ "n_ties": 9,
+ "corners": [
+  {
+   "approx": [
+    72.1,
+    67.6
+   ],
+   "snapped": [
+    72.1,
+    67.6
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1515.0,
+    60.4
+   ],
+   "snapped": [
+    1515.0,
+    60.4
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1541.2,
+    2255.2
+   ],
+   "snapped": [
+    1541.2,
+    2255.2
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    64.4,
+    2264.2
+   ],
+   "snapped": [
+    64.4,
+    2264.2
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.179,
+ "area_km2": 3675.1751069349043,
+ "neatline_km2": 3679.701928644,
+ "cover_frac": 0.9987697857606733,
+ "n_polygons": 3165,
+ "units": {
+  "#d6d2ca": {
+   "index": "pIV",
+   "px": 398829,
+   "direct_frac": 0.792
+  },
+  "#c7e8f3": {
+   "index": "LIV",
+   "px": 20999,
+   "direct_frac": 0.794
+  },
+  "#e2edbd": {
+   "index": "aIV",
+   "px": 29368,
+   "direct_frac": 0.809
+  },
+  "#c5e2d0": {
+   "index": "LaIII-IV",
+   "px": 170854,
+   "direct_frac": 0.736
+  },
+  "#c4e3df": {
+   "index": "LgIIIvd3",
+   "px": 317359,
+   "direct_frac": 0.851
+  },
+  "#dee8b2": {
+   "index": "fIIIvd3",
+   "px": 592322,
+   "direct_frac": 0.767
+  },
+  "#f0c4a4": {
+   "index": "gIIIvd3",
+   "px": 888873,
+   "direct_frac": 0.848
+  },
+  "#ecba95": {
+   "index": "gIIIvd3",
+   "px": 766598,
+   "direct_frac": 0.653
+  },
+  "#a87e9c": {
+   "index": "PREQ",
+   "px": 20242,
+   "direct_frac": 0.252
+  }
+ },
+ "confusable_pairs": [
+  [
+   "aIV",
+   "fIIIvd3",
+   3.7
+  ],
+  [
+   "LaIII-IV",
+   "LgIIIvd3",
+   7.4
+  ],
+  [
+   "gIIIvd3",
+   "gIIIvd3",
+   5.2
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 30
+}

@@ -1,0 +1,220 @@
+{
+ "sheet": "Q-39-VII,VIII",
+ "source": "raster scan",
+ "projection": "eqdc",
+ "rms_m": 4.341055889590357,
+ "max_res_m": 4.399654136119352,
+ "m_per_px": 16.939201028293645,
+ "corner_residuals_m": [
+  4.4,
+  4.4,
+  4.3,
+  4.3
+ ],
+ "corners": [
+  {
+   "approx": [
+    2522.0,
+    827.0
+   ],
+   "snapped": [
+    2522.0,
+    827.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    7602.0,
+    827.0
+   ],
+   "snapped": [
+    7602.0,
+    827.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    7675.0,
+    5217.0
+   ],
+   "snapped": [
+    7675.0,
+    5217.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    2455.0,
+    5217.0
+   ],
+   "snapped": [
+    2455.0,
+    5217.0
+   ],
+   "ok": false
+  }
+ ],
+ "frame_sag_px": 21.0,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/Q-39-VII,VIII/q-39-vii-viii-sop-bol-kovriga-gosudarstvennaya-geologicheskaya-karta-rossiysko_1.jpg Q-39-VII,VIII ../sources/legend_Q-39-VII,VIII.csv ../work/facefix/Q-39-VII,VIII.gpkg --datum 4284 --corners '2522,827;7602,827;7675,5217;2455,5217' --mmu 60",
+ "unassigned_before_fill": 0.079,
+ "area_km2": 6485.790180276974,
+ "neatline_km2": 6486.258027200092,
+ "cover_frac": 0.9999278710589131,
+ "n_polygons": 3678,
+ "units": {
+  "#eeb993": {
+   "index": "edH",
+   "px": 23403,
+   "direct_frac": 0.763
+  },
+  "#dce7a9": {
+   "index": "aH",
+   "px": 810250,
+   "direct_frac": 0.78
+  },
+  "#bbb694": {
+   "index": "plH",
+   "px": 83030,
+   "direct_frac": 0.44
+  },
+  "#eaad84": {
+   "index": "edIII-H",
+   "px": 1832130,
+   "direct_frac": 0.882
+  },
+  "#c9de9b": {
+   "index": "aIII-H",
+   "px": 58874,
+   "direct_frac": 0.791
+  },
+  "#96cbb4": {
+   "index": "laIII-H",
+   "px": 212690,
+   "direct_frac": 0.667
+  },
+  "#d4a785": {
+   "index": "gIII-H",
+   "px": 1275456,
+   "direct_frac": 0.905
+  },
+  "#93ccc5": {
+   "index": "l,lgIII-H",
+   "px": 2967749,
+   "direct_frac": 0.886
+  },
+  "#74a4c1": {
+   "index": "l,mIII-H?",
+   "px": 861673,
+   "direct_frac": 0.915
+  },
+  "#a57d60": {
+   "index": "gmIII?",
+   "px": 40107,
+   "direct_frac": 0.487
+  },
+  "#cd9976": {
+   "index": "gIIIpl",
+   "px": 9421440,
+   "direct_frac": 0.886
+  },
+  "#b0c07a": {
+   "index": "fIIIpl",
+   "px": 2134280,
+   "direct_frac": 0.892
+  },
+  "#87c5b1": {
+   "index": "lgIIIpl",
+   "px": 680208,
+   "direct_frac": 0.836
+  },
+  "#a5cd7b": {
+   "index": "aIIIlj-bz?",
+   "px": 337,
+   "direct_frac": 0.528
+  },
+  "#6b98d2": {
+   "index": "mIIIsl",
+   "px": 3516,
+   "direct_frac": 0.489
+  },
+  "#c68c65": {
+   "index": "gIIvc",
+   "px": 961457,
+   "direct_frac": 0.909
+  },
+  "#976c4f": {
+   "index": "gmIIvc?",
+   "px": 36302,
+   "direct_frac": 0.588
+  },
+  "#6b8fca": {
+   "index": "mIIrd",
+   "px": 8281,
+   "direct_frac": 0.665
+  },
+  "#ad7b59": {
+   "index": "gIIpc",
+   "px": 18105,
+   "direct_frac": 0.469
+  },
+  "#997cb6": {
+   "index": "PREQ",
+   "px": 1251536,
+   "direct_frac": 0.849
+  }
+ },
+ "confusable_pairs": [
+  [
+   "edH",
+   "edIII-H",
+   5.7
+  ],
+  [
+   "aH",
+   "aIII-H",
+   6.2
+  ],
+  [
+   "laIII-H",
+   "lgIIIpl",
+   4.1
+  ],
+  [
+   "gIII-H",
+   "gIIIpl",
+   5.8
+  ],
+  [
+   "gmIII?",
+   "gmIIvc?",
+   6.6
+  ],
+  [
+   "gmIII?",
+   "gIIpc",
+   5.8
+  ],
+  [
+   "gIIIpl",
+   "gIIvc",
+   6.1
+  ],
+  [
+   "mIIIsl",
+   "mIIrd",
+   4.0
+  ],
+  [
+   "gmIIvc?",
+   "gIIpc",
+   7.5
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

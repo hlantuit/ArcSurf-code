@@ -1,0 +1,6 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#fef7a6,3,"Fluviatile deposits: silt, sand and gravel (3a terraces, 3b modern flood plains, 3c alluvial fans, 3d silt and clay of fluvial or glaciolacustrine origin with thermokarst depressions)",F,,mixed,,"Nash Creek 1:253 440 (Vernon & Hughes 1965), GSC Map 1172A; "
+1,#d3d0c2,2,"Glacio-fluvial deposits: sand, gravel, minor silt (2a terrace and pitted terrace, kame terrace and outwash delta; 2b hummocky or ridged deposits; 2c esker complex deposits)",GF,,gravel,,
+2,#d6cf90,1,"Glacial deposits: silt, minor sand and gravel (1a terminal and recessional moraine; 1b ground moraine; 1c dead-ice deposits with hummocky or knob-and-kettle form)",T,,diamicton,,
+3,#fffbef,PAPER,uncoloured map area (not designated by a unit; uplands),,,,,paper tint sampled in the margin
+4,#e9e5da,PAPER,uncoloured uplands: paper with dense contour linework (median tone),,,,,second no-data tone: keeps contour-shaded paper out of unit 2

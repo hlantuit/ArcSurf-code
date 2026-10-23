@@ -1,0 +1,11 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#f3eed3,bIV,Болотные отложения. Торф,O,,organic,,"GGK-200/1 P-40-VII (Timan series), Quaternary map 1st ed., RASTER: geokniga 44039 map image JPG 1659x2404 (~34 m/px) + separate legend image p-40-viiql.jpg (rendered brighter than the map), so fills are MAP tints (k-means of the 5x5-median face + labelled areas); omitted: mIIod and lalIIlh (no map area found); no WATER row (no pale-blue water tint); gIIdn restricted to the N edge strip and fIIms to the N part (--restrict: their tints also match brown hatch dashes / cream peat elsewhere)"
+1,#e5eaae,alIV,"Аллювиальные отложения пойм, русел и первых надпойменных террас. Пески, супеси, суглинки, галечники",F,,sand,,
+2,#fce2c1,edIII-IV,"Элювиально-делювиальные (?) отложения. Лёссовидные суглинки, супеси",W,C,fines,,loess-like loams (vertical-dash hatch)
+3,#d0f091,alIII,"Аллювиальные отложения второй надпойменной террасы. Пески, супеси, галечники",F,L,sand,,same printed colour as lalIII: one class
+4,#d0f091,lalIII,"Озерно-аллювиальные отложения третьей надпойменной террасы. Пески, суглинки, супеси",F,L,sand,,same printed colour as alIII: one class
+5,#e0ebd0,la-fII-III,"Озерно-аллювиальные и водно-ледниковые отложения. Пески, супеси, галечники",L,GF,sand,,
+6,#efe9c3,fIIms,Московский ледниковый горизонт. Водно-ледниковые отложения. Пески с линзами гравия и гальки,GF,,sand,,
+7,#ceac8c,gIIdn,Днепровский ледниковый горизонт. Ледниковые отложения. Валунные суглинки с прослоями и линзами песков,T,,diamicton,,
+8,#f2cae4,PREQ,Дочетвертичные отложения,R,,,,
+9,#f6d3a9,edIII-IV,"Элювиально-делювиальные (?) отложения. Лёссовидные суглинки, супеси",W,C,fines,,second edIII-IV fill: darker hatched parts (k-means centre)

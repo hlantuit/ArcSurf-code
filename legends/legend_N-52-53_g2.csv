@@ -1,0 +1,33 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#f6ade5,e,Элювиальные,W,,bouldery,,"GGK-1000/2 N-52,(53) Zeya 1983 (new series), Quaternary map, RASTER (geokniga JPG 8910 px); eluvium"
+1,#fb7b43,"e,d",Элювиальные и делювиальные,W,C,bouldery,,eluvium and deluvium
+2,#fb6d79,c,Коллювиальные,C,,bouldery,,colluvium
+3,#f8441d,dc,Делювиально-коллювиальные,C,,bouldery,,deluvial-colluvial
+4,#ed8cbe,"e,c",Элювиальные и коллювиальные,W,C,bouldery,,eluvium and colluvium
+5,#fb9cad,s,Солифлюкционные,C,,mixed,,solifluxion
+6,#fb5d34,ds,Делювиально-солифлюкционные,C,,mixed,,deluvial-solifluxion
+7,#f1afce,"e,s",Элювиальные и солифлюкционные,W,C,bouldery,,eluvium and solifluxion
+8,#e9f8a3,aIV2,Аллювиальные,F,,mixed,,Holocene floodplain alluvium (upper)
+9,#d8fb65,aIV1,Аллювиальные,F,,mixed,,Holocene alluvium (lower)
+10,#d1fe4e,aIV,Аллювиальные,F,,mixed,,Holocene alluvium
+11,#d0f0d6,lIV,Озерные,L,,fines,,Holocene lacustrine
+12,#e0e1c8,bIV,Биогенные,O,,organic,,Holocene biogenic (peat)
+13,#f5d3b7,"e,dIV",Элювиальные и делювиальные,W,C,fines,,Holocene eluvium and deluvium
+14,#ca2c44,cIV,Коллювиальные,C,,bouldery,,Holocene colluvium
+15,#c9fb48,aIII-IV,Аллювиальные,F,,mixed,,alluvium
+16,#f3d57b,adIII-IV,Аллювиально-делювиальные,F,C,mixed,,alluvial-deluvial
+17,#e0e88e,apIII-IV,Аллювиально-пролювиальные,F,,gravel,,alluvial-proluvial
+18,#e5f8bf,aIII3-4,Аллювиальные,F,,mixed,,terrace alluvium
+19,#d3f8a3,aIII1-2,Аллювиальные,F,,mixed,,terrace alluvium
+20,#b9f97c,aIII,Аллювиальные,F,,mixed,,terrace alluvium
+21,#c4f0cb,laIII,Озерно-аллювиальные,L,F,fines,,lake-alluvial
+22,#fbcb55,adIII,Аллювиально-делювиальные,F,C,mixed,,alluvial-deluvial
+23,#9f8063,gIII,Ледниковые,T,,bouldery,,glacial
+24,#9cb151,fIII,Флювиогляциальные,GF,,gravel,,glaciofluvial
+25,#cbf2b5,aII-III,Аллювиальные,F,,mixed,,alluvium
+26,#9cea8a,aII,Аллювиальные,F,,mixed,,alluvium
+27,#cfde64,apII,Аллювиально-пролювиальные,F,,gravel,,alluvial-proluvial
+28,#7ce471,aI,Аллювиальные,F,,mixed,,alluvium
+29,#91e9b8,laN2-Q1,Озерно-аллювиальные,L,F,fines,,Pliocene-Eopleistocene lake-alluvial
+30,#9025f0,PREQ,Дочетвертичные породы,R,,,,pre-Quaternary
+31,#450292,"PREQ,c",Дочетвертичные породы с участками коллювия,R,C,bouldery,,pre-Quaternary with patches of colluvium

@@ -1,0 +1,51 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#e9efb1,aIV,Аллювиальные отложения пойм (голоцен),F,,,,"GGK-1000 Q-58,59, ""Geologicheskaya karta chetvertichnykh obrazovaniy"" (Gosgeolkarta RF, VSEGEI new series; print year not on the preview), geokniga record 43253; RASTER = 2000x1631 px PREVIEW (~0.31 km/px), downloaded 2026-09-30, internal_only (""for familiarisation only""). NO LEGEND ON THE PREVIEW: indices read from the map labels (2-4x zoom), descriptions reconstructed from the standard VSEGEI genetic letters; tints sampled at labelled polygons, several seeds per unit (the red/magenta print density drifts across the sheet: a* of dc/ds/e,d drops ~8 towards 174 E). Frame: tool colour envelope + frame_fit, --proj eqdc 47/62 lon_0 168 (affine 783 m rms; page top/bottom 0.8635 vs 0.8717 eqdc 47/62 and 0.8547 sheet cone: page distortion, the spline pins the edges); interior: the faint 1-deg graticule sits uniformly 1.9 px W / 2.6 px N (~0.6 / 0.8 km; sd 1.6 / 0.9 px) of the colour-face prediction (no minute bar on this print; colour/black plate misregistration): units registered to the colour face; independent shift search vs Q-58_g3 / Q2500 / 1:200k gains <= 0.8 pts. Zones (--restrict): III2-4ed NW Kolyma-lowland margin only; betaIII Anyuy lava flow only; gIII2/gIII4/fIII2 outside the NW lowland; e,d NW margin + E-edge strip only. gIII2/gIII4 dE<=9 + 1-px opening, fIII2 dE<=5 + 1-px opening (brown linework / yellow-line mixtures); 5 weak glacial seeds dropped after validation (line mixtures: #da9e48 #e29c60 #db8343 #e3b47d #e7b577), fIII2 seeds #ccd17f #aeb369 dropped (3-5 % on alluvium), dark d seed #dc973c dropped (took tan till). Not read: the red-grid overprint (meaning unknown without legend; the large hatched body at 173.5E 66.5N reads as dc via seed #cf7033), violet patches in cirques (unknown; filled from neighbours), cirque/lithology symbols. Extraction: work/pv_ne/jpg_to_polygons_pv.py (copy of scripts/jpg_to_polygons.py whose --thin-units thins every fill of a unit), options in work/pv_ne/extract_opts_q.txt; floodplains; also the Anadyr-lowland plain labelled aIV"
+1,#edf5b2,aIV,Аллювиальные отложения пойм (голоцен),F,,,,floodplains; also the Anadyr-lowland plain labelled aIV
+2,#e6f098,aIII4,"Аллювиальные отложения надпойменных террас, сартанский горизонт (верхнее звено)",F,,,,terrace labels aIII4 (and aIII2) share these tints
+3,#ecf79b,aIII4,"Аллювиальные отложения надпойменных террас, сартанский горизонт (верхнее звено)",F,,,,terrace labels aIII4 (and aIII2) share these tints
+4,#cae05e,aIII3,"Аллювиальные отложения надпойменных террас, каргинский горизонт (верхнее звено)",F,,,,terrace labels aIII1-aIII3 share these tints
+5,#d7e870,aIII3,"Аллювиальные отложения надпойменных террас, каргинский горизонт (верхнее звено)",F,,,,terrace labels aIII1-aIII3 share these tints
+6,#72b253,laIII1,"Озерно-аллювиальные отложения, нижняя часть верхнего звена",L,F,,,IRYP v2 maps these Anadyr-lowland lake-alluvial plains as yedoma (uncertain); no legend text: hclass L/F from the index
+7,#68a45a,laIII1,"Озерно-аллювиальные отложения, нижняя часть верхнего звена",L,F,,,IRYP v2 maps these Anadyr-lowland lake-alluvial plains as yedoma (uncertain); no legend text: hclass L/F from the index
+8,#9ec998,laIII3,"Озерно-аллювиальные отложения, каргинский горизонт",L,F,,,IRYP v2 maps these lake-alluvial plains as yedoma (80 % confirmed); no legend text: hclass L/F from the index
+9,#9cc88f,laIII3,"Озерно-аллювиальные отложения, каргинский горизонт",L,F,,,IRYP v2 maps these lake-alluvial plains as yedoma (80 % confirmed); no legend text: hclass L/F from the index
+10,#b0d0a4,laIII4,"Озерно-аллювиальные отложения, сартанский горизонт",L,F,,,IRYP v2 maps part of these plains as yedoma; no legend text: hclass L/F from the index
+11,#bbd8a2,laIII4,"Озерно-аллювиальные отложения, сартанский горизонт",L,F,,,IRYP v2 maps part of these plains as yedoma; no legend text: hclass L/F from the index
+12,#d4ebf2,lIV,Озерные отложения (голоцен),L,,,,
+13,#c1e0e3,lIII-IV,Озерные отложения (верхнее звено - голоцен),L,,,,lake basins with many small lakes
+14,#e3f4fc,WATER,Озера (оз. Эльгыгытгын),H,,,,Lake Elgygytgyn
+15,#fbf7b4,III2-4ed,Едомная свита (индекс III2-4ed),Y,,,,hclass Y from the map index III2-4ed = edomnaya svita (yedoma suite); no legend text on the preview; NW Kolyma-lowland margin (Q-58 half) only; 100 % of it lies on IRYP v2 confirmed yedoma
+16,#faf9b3,III2-4ed,Едомная свита (индекс III2-4ed),Y,,,,hclass Y from the map index III2-4ed = edomnaya svita (yedoma suite); no legend text on the preview; NW Kolyma-lowland margin (Q-58 half) only; 100 % of it lies on IRYP v2 confirmed yedoma
+17,#90c064,βIII,"Базальты (лавовые потоки), верхнее звено (индекс βIII)",V,,,,"Anyuy volcano lava flow (Q-58 half); same tint as laIII1, so restricted to the flow"
+18,#fcb150,d,Делювиальные отложения,C,,,,
+19,#fdb661,d,Делювиальные отложения,C,,,,
+20,#faab4d,d,Делювиальные отложения,C,,,,
+21,#f39154,"e,d",Элювиальные и делювиальные отложения,W,C,,,only on the NW lowland margin and the E-edge strip (elsewhere its tint matches the faded dc of the SE)
+22,#f39450,"e,d",Элювиальные и делювиальные отложения,W,C,,,only on the NW lowland margin and the E-edge strip (elsewhere its tint matches the faded dc of the SE)
+23,#f3a054,"e,d",Элювиальные и делювиальные отложения,W,C,,,only on the NW lowland margin and the E-edge strip (elsewhere its tint matches the faded dc of the SE)
+24,#f19e51,"e,d",Элювиальные и делювиальные отложения,W,C,,,only on the NW lowland margin and the E-edge strip (elsewhere its tint matches the faded dc of the SE)
+25,#f0733d,dc,Делювиально-коллювиальные отложения,C,,bouldery,,seven seeds (print drift); seed #cf7033 = the red-grid hatched body at 173.5E 66.5N
+26,#ef6b44,dc,Делювиально-коллювиальные отложения,C,,bouldery,,seven seeds (print drift); seed #cf7033 = the red-grid hatched body at 173.5E 66.5N
+27,#f77f4d,dc,Делювиально-коллювиальные отложения,C,,bouldery,,seven seeds (print drift); seed #cf7033 = the red-grid hatched body at 173.5E 66.5N
+28,#f78d5b,dc,Делювиально-коллювиальные отложения,C,,bouldery,,seven seeds (print drift); seed #cf7033 = the red-grid hatched body at 173.5E 66.5N
+29,#f78660,dc,Делювиально-коллювиальные отложения,C,,bouldery,,seven seeds (print drift); seed #cf7033 = the red-grid hatched body at 173.5E 66.5N
+30,#da6c30,dc,Делювиально-коллювиальные отложения,C,,bouldery,,seven seeds (print drift); seed #cf7033 = the red-grid hatched body at 173.5E 66.5N
+31,#e9793c,dc,Делювиально-коллювиальные отложения,C,,bouldery,,seven seeds (print drift); seed #cf7033 = the red-grid hatched body at 173.5E 66.5N
+32,#cf7033,dc,Делювиально-коллювиальные отложения,C,,bouldery,,seven seeds (print drift); seed #cf7033 = the red-grid hatched body at 173.5E 66.5N
+33,#fa6640,c,Коллювиальные отложения,C,,bouldery,,c and dc overlap in tint over the sheet: index c/dc split is approximate (both C)
+34,#f75b36,c,Коллювиальные отложения,C,,bouldery,,c and dc overlap in tint over the sheet: index c/dc split is approximate (both C)
+35,#f56230,c,Коллювиальные отложения,C,,bouldery,,c and dc overlap in tint over the sheet: index c/dc split is approximate (both C)
+36,#dd4f28,c,Коллювиальные отложения,C,,bouldery,,c and dc overlap in tint over the sheet: index c/dc split is approximate (both C)
+37,#f48266,ds,Делювиально-солифлюкционные отложения,C,,fines,,the s (solifluction) strips are not separated from ds/dc; 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+38,#f78a6e,ds,Делювиально-солифлюкционные отложения,C,,fines,,the s (solifluction) strips are not separated from ds/dc; 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+39,#f59972,ds,Делювиально-солифлюкционные отложения,C,,fines,,the s (solifluction) strips are not separated from ds/dc; 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+40,#ee9668,ds,Делювиально-солифлюкционные отложения,C,,fines,,the s (solifluction) strips are not separated from ds/dc; 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+41,#e08153,ds,Делювиально-солифлюкционные отложения,C,,fines,,the s (solifluction) strips are not separated from ds/dc; 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+42,#e49d51,gIII2,"Ледниковые отложения, зырянский горизонт (верхнее звено)",T,,diamicton,,tan/brown valley and cirque fills; dE<=9 + 1-px opening; outside the NW lowland
+43,#e4a456,gIII2,"Ледниковые отложения, зырянский горизонт (верхнее звено)",T,,diamicton,,tan/brown valley and cirque fills; dE<=9 + 1-px opening; outside the NW lowland
+44,#e8a263,gIII2,"Ледниковые отложения, зырянский горизонт (верхнее звено)",T,,diamicton,,tan/brown valley and cirque fills; dE<=9 + 1-px opening; outside the NW lowland
+45,#e79b48,gIII2,"Ледниковые отложения, зырянский горизонт (верхнее звено)",T,,diamicton,,tan/brown valley and cirque fills; dE<=9 + 1-px opening; outside the NW lowland
+46,#cb7a3c,gIII2,"Ледниковые отложения, зырянский горизонт (верхнее звено)",T,,diamicton,,tan/brown valley and cirque fills; dE<=9 + 1-px opening; outside the NW lowland
+47,#d1843c,gIII2,"Ледниковые отложения, зырянский горизонт (верхнее звено)",T,,diamicton,,tan/brown valley and cirque fills; dE<=9 + 1-px opening; outside the NW lowland
+48,#e9b272,gIII4,"Ледниковые отложения, сартанский горизонт (верхнее звено)",T,,diamicton,,pale tan; dE<=9 + 1-px opening; outside the NW lowland
+49,#c4cc79,fIII2,"Флювиогляциальные отложения, зырянский горизонт",GF,,gravel,,olive outwash labelled fIII2 (fIII4 strips share the tint); dE<=5 + 1-px opening; outside the NW lowland

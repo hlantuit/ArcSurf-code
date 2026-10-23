@@ -1,0 +1,30 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#f1f3c3,aH,"alluvium, clays and sands",F,,fines,,"GGK-1000/3 N-42 (Petropavlovsk), West Siberian series, Pliocene-Quaternary map, vector PDF (geokniga)"
+1,#aee2fa,lH,"limnium, sapropels",L,,fines,,
+2,#a9dbf3,"lh,lnH",chemogenic and nepheloid limnium (mirabilite),L,,fines,,
+3,#b9dad4,"l,plH","limnium and palustrium, peat",L,O,organic,,
+4,#fff5b6,vH,eolium,E,,sand,,
+5,#ddecc3,a1IIIsr,Sartan 1st terrace alluvium,F,,sand,,
+6,#cce4b7,a2IIIkr-sr,Karga-Sartan alluvium (Kamyshlov valley),F,,fines,,
+7,#ffe0ad,LIIIzr,"Zyryanka horizon loessoid, buried soils (fill sampled as the unmatched map tint)",E,,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+8,#97ccef,lIII,limnium,L,,fines,,
+9,#fab383,"e,dIII",eluvium and deluvium,W,C,fines,,
+10,#badeb7,ak+rIII,Kamyshlov and Rezh terraces alluvium,F,,sand,,
+11,#a5d9cb,laIII,lake-alluvium,L,F,mixed,,
+12,#9cdcf9,lIIIkm,Kumlyak suite limnium,L,,fines,,
+13,#94d2b8,laII-IIIkr,Karasuk suite lake-alluvium,L,F,fines,,
+14,#8dcbbb,la4II-IIItz-kz,Ishim 4th terrace lake-alluvium,L,F,sand,,
+15,#7ecbb6,laIIuu,Uy-Ubagan suite lake-alluvium,L,F,sand,,
+16,#6dcff6,lIIuu,Uy-Ubagan suite limnium,L,,fines,,
+17,#ffd38e,"Lpl,a,lIIsz","Suzgun suite loessoid palustrium, alluvium and limnium",E,L,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+18,#aad69c,aIItb,Tobol suite alluvium,F,,sand,,
+19,#e7c082,"L,laI-IIsv",Sladkovodsk suite loessoid and lake-alluvium,E,L,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+20,#5ab8a1,"l,aE-Ism",Smirnovo suite limnium and alluvium,L,F,fines,,
+21,#9acf8b,aEII-Isr,Suer suite alluvium,F,,sand,,
+22,#52babe,"a,lEkc",Kochki suite alluvium and limnium,F,L,fines,,
+23,#91c383,aEluv,Uvelka suite alluvium,F,,sand,,
+24,#2db990,laN2zv,Zverinogolovsk suite lake-alluvium,L,F,mixed,,
+25,#87c875,aN2zl,Zalozhnaya suite alluvium,F,,sand,,
+26,#7ebb6e,aN2ks,Kustanay suite alluvium,F,,mixed,,
+27,#2e9bd6,lN2ks,Kustanay suite limnium,L,,fines,,
+28,#a678b4,PREQ,pre-Pliocene,R,,,,

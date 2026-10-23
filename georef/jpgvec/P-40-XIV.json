@@ -1,0 +1,169 @@
+{
+ "sheet": "P-40-XIV",
+ "source": "raster scan",
+ "projection": "tmerc",
+ "rms_m": 49.35759580523814,
+ "max_res_m": 109.13156886391025,
+ "m_per_px": 33.84386887080974,
+ "corner_residuals_m": [
+  77.3,
+  25.9,
+  109.1,
+  77.6,
+  10.2,
+  51.5,
+  19.0,
+  99.5,
+  47.2,
+  53.7,
+  44.6,
+  46.9,
+  22.0,
+  35.3,
+  77.5,
+  19.0,
+  56.7,
+  14.7,
+  53.0,
+  21.8,
+  47.4,
+  30.7,
+  40.1,
+  40.9,
+  29.0,
+  47.4,
+  21.6,
+  36.0,
+  18.2,
+  56.1,
+  39.3,
+  56.8,
+  59.9,
+  58.9,
+  87.3,
+  77.4,
+  15.1,
+  51.1,
+  24.7,
+  41.3,
+  38.4,
+  43.5,
+  44.2,
+  61.7,
+  40.7,
+  22.5,
+  22.8,
+  12.2,
+  17.2
+ ],
+ "n_ties": 45,
+ "corners": [
+  {
+   "approx": [
+    84.2,
+    133.9
+   ],
+   "snapped": [
+    84.2,
+    133.9
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1598.2,
+    131.3
+   ],
+   "snapped": [
+    1598.2,
+    131.3
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1614.1,
+    2342.4
+   ],
+   "snapped": [
+    1614.1,
+    2342.4
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    66.9,
+    2337.2
+   ],
+   "snapped": [
+    66.9,
+    2337.2
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.109,
+ "area_km2": 3849.641723004111,
+ "neatline_km2": 3850.7394367094835,
+ "cover_frac": 0.9997149343071858,
+ "n_polygons": 2437,
+ "units": {
+  "#faf7ca": {
+   "index": "alIV",
+   "px": 163824,
+   "direct_frac": 0.71
+  },
+  "#fedbcb": {
+   "index": "edIII-IV",
+   "px": 940273,
+   "direct_frac": 0.915
+  },
+  "#fbd2bf": {
+   "index": "edIII-IV",
+   "px": 1388434,
+   "direct_frac": 0.793
+  },
+  "#ebfb98": {
+   "index": "laIII",
+   "px": 218729,
+   "direct_frac": 0.844
+  },
+  "#ebeaab": {
+   "index": "fIIms",
+   "px": 313491,
+   "direct_frac": 0.707
+  },
+  "#dcbba6": {
+   "index": "gIIms",
+   "px": 181718,
+   "direct_frac": 0.74
+  },
+  "#ecef97": {
+   "index": "f,aIIod-ms",
+   "px": 166353,
+   "direct_frac": 0.818
+  },
+  "#ebb2c3": {
+   "index": "PREQ",
+   "px": 6347,
+   "direct_frac": 0.525
+  }
+ },
+ "confusable_pairs": [
+  [
+   "edIII-IV",
+   "edIII-IV",
+   4.1
+  ],
+  [
+   "laIII",
+   "f,aIIod-ms",
+   7.6
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

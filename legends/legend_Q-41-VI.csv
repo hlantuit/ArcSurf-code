@@ -1,0 +1,21 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#faf9d2,aIV,"Аллювиальные отложения поймы. Валуны, гравий, галька, песок",F,GF,gravel,,"GGK-200/1 Q-41-VI (Severo-Uralskaya series), Quaternary map 1st ed., RASTER: geokniga 40049 map image JPG 1388x2385 (~34 m/px) + separate legend image q-41-viql.jpg ; same printed colour as aIII-IV/pIV/fIII4: one class; fills = legend swatches (close to the map on this print: edIII-IV 3 dE, gIII2 1 dE, fIII4 5 dE) except gIII4, fIII2 (khaki: cream + black clay lines and pebble dots), ICE = map tints; same-tint groups merged: aIV+aIII-IV+pIV+fIII4 (valley floors, F with GF; told apart only by symbols), aIII4+aIII3-4, la,fII-III+laIII4+laIII2+lpIII-IV (L); red hummocky-moraine grid (Холмисто-моренный ландшафт) blanked with --grid (#d96777, pitch 9.5 px) and filled from the base unit (layer overprint_hummocky); lakes 3-8 dE from the pale lacustrine fills: no WATER row; POST-FIX (work/r200a/fix_overprint.py): at a 9.5 px pitch the grid blanking removes the whole hummocky region, which was then filled from its rim; the 130 km2 of edIII-IV/dcIII-IV that leaked in were reassigned to gIII2 (base tint under the grid = gIII2, 1.8 dE); original kept as work/r200a/runs/Q-41-VI.pre_overprint_hummocky.gpkg"
+1,#faf9d2,pIV,"Пролювиальные отложения. Глыбы, щебень, дресва, валуны, галька, супесь",F,GF,gravel,,proluvial ; same printed colour as aIV/aIII-IV/fIII4: one class
+2,#fff4e8,gIV,"Ледниковые отложения карового оледенения (каровая свита). Слабоокатанные валуны, глыбы, галька, щебень, дресва",T,,bouldery,,cirque moraine
+3,#e4fcd8,lpIII-IV,"Озерно-болотные отложения. Торф, суглинки и глины",L,F,sand,,"same printed colour as la,fII-III/laIII4/laIII2: one class"
+4,#d5c891,pIII-IV,"Пролювиальные отложения. Валуны, глыбы, щебень, дресва, супеси, суглинки",F,,bouldery,,proluvial
+5,#fdb8b0,dcIII-IV,"Делювиально-коллювиальные отложения. Щебень, дресва, глыбы, супеси, суглинки",C,,bouldery,,
+6,#fca7b1,edIII-IV,"Элювиально-делювиальные отложения. Глыбы, щебень, дресва, суглинки",W,C,bouldery,,
+7,#faf9d2,aIII-IV,"Аллювиальные отложения поймы и I надпойменной террасы нераздельные. Разнозернистые пески, гравий, галька, реже тонкозернистые пески и супеси",F,GF,gravel,,same printed colour as aIV/pIV/fIII4: one class
+8,#e5ff9c,aIII4,"Аллювиальные отложения I надпойменной террасы. Пески, галечники, супеси, суглинки",F,,sand,,same printed colour as aIII3-4: one class
+9,#faf9d2,fIII4,"Флювиогляциальные отложения горнодолинного сартанского оледенения. Галечники, пески, супеси",F,GF,gravel,,same printed colour as aIV/aIII-IV/pIV: one class
+10,#e4fcd8,laIII4,"Озерно-аллювиальные отложения сартанского оледенения. Мелко-тонкозернистые пески, глины с редкой галькой и прослоями торфа",L,F,sand,,"same printed colour as la,fII-III/laIII2/lpIII-IV: one class"
+11,#f2d8c8,gIII4,"Ледниковые отложения сартанского оледенения. Плохоокатанные крупные валуны, галька, гравий, щебень, сцементированные серым песчанистым суглинком и супесью",T,,bouldery,,fill = map tint (legend swatch #fae5d7)
+12,#e5ff9c,aIII3-4,"Аллювиальные отложения II и более высоких террас. Галечники, пески, супеси",F,,sand,,same printed colour as aIII4: one class
+13,#ccc69f,fIII2,"Флювиогляциальные отложения зырянского оледенения. Глинистые пески с галькой, иногда с валунами",GF,,sand,,fill = map tint (legend swatch #faf3c9)
+14,#e4fcd8,laIII2,"Озерно-аллювиальные отложения зырянского оледенения. Пески, супеси, прослои торфа",L,F,sand,,"same printed colour as la,fII-III/laIII4/lpIII-IV: one class"
+15,#e7b9a6,gIII2,"Ледниковые отложения зырянского оледенения. Бурые и буровато-серые суглинки с обильными хорошо окатанными средними валунами, галькой и гравием",T,,diamicton,,
+16,#e4fcd8,"la,fII-III","Озерно-аллювиальные и флювиогляциальные отложения. Пески, галечники иногда с валунами, суглинки",L,F,sand,,same printed colour as laIII4/laIII2/lpIII-IV: one class
+17,#defbe9,gmII2-4,"Ледниково-морские отложения (роговская свита). Темно-серые мореноподобные суглинки и глины, обычно с редкими валунами и галькой, прослои и линзы песков",GM,,diamicton,,
+18,#ffd8f7,PREQ,Дочетвертичные породы,R,,,,
+19,#8bbbc8,ICE,Лед глетчерный (ледники),I,,,,glaciers (blue on the map); fill from the map ; fill = map tint (legend swatch #5fb4c8)

@@ -1,0 +1,10 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#be90bf,e,eluvium: loams with debris,W,,fines,,"GGK-200/2 O-52-II, Aldan series (northern variant), Quaternary map, RASTER (geokniga JPG)"
+1,#ebad85,ed,eluvium-deluvium,W,C,mixed,,
+2,#b2d48c,aH2,floodplain alluvium,F,,gravel,,
+3,#c0dca9,aIIIsr-H,"Sartan-Holocene floodplain and 1st terrace alluvium, peat",F,,gravel,,
+4,#b4d69b,a1IIIsr-H1,1st terrace alluvium,F,,gravel,,
+5,#e4a589,cdII-H,colluvial-deluvial,C,,bouldery,,
+6,#e8a190,dsII-H,deluvial-solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+7,#e4cd9c,adII-H,alluvial-deluvial,F,C,fines,,
+8,#7061a6,PREQ,pre-Quaternary,R,,,,

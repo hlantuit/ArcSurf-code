@@ -1,0 +1,29 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#cb90bf,eN2-H,eluvium,W,,bouldery,,"GGK-200/2 P-55-XXIII, Upper Kolyma, Neogene-Quaternary map, vector PDF (geokniga)"
+1,#fab383,"e,dN2-H",eluvium and deluvium,W,C,mixed,,
+2,#f69780,"d,sN2-H",deluvium and solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+3,#f8a07c,"c,dN2-H",colluvium and deluvium,C,,bouldery,,
+4,#f1c686,"d,pN2-H",deluvium and proluvium,C,F,mixed,,
+5,#cde6c3,aH,floodplain and low terrace alluvium,F,,gravel,,
+6,#f2ebb9,"a,pH",alluvium and proluvium,F,,gravel,,
+7,#f2f5cf,agcnH2,"constrative alluvium, peat and ice lenses",F,,gravel,yes,
+8,#e8f1cf,aginH2,instrative alluvium,F,,gravel,,
+9,#e1eecf,agprH2,"perstrative alluvium, peat and ice",F,,gravel,yes,
+10,#f58466,cH2,colluvium,C,,bouldery,,
+11,#87d6f7,lH2,lacustrine silts with peat,L,,fines,,
+12,#bec0c2,tH2,technogenic (placer mining),X,,mixed,,
+13,#dcecc3,aH1,low terrace alluvium,F,,gravel,,
+14,#eacf9d,"d,aIII-H","terrace-ridge deluvium, alluvium, solifluxion, ice",C,F,mixed,yes,
+15,#f5d9a0,pIII-H,proluvium,F,,bouldery,,
+16,#cde4aa,aIIIht,"Khetakagchan terrace alluvium, ice lenses",F,,gravel,yes,
+17,#d1a07a,gIIIht,Khetakagchan till,T,,bouldery,,
+18,#c1d18d,fIIIht,Khetakagchan glaciofluvial,GF,,sand,,
+19,#c3e0aa,aIIIkb-ht,Kubalakh-Khetakagchan terrace alluvium,F,,gravel,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+20,#b9dcaa,aIIIkb,Kubalakh terrace alluvium,F,,gravel,,
+21,#bb865f,gIIIjg,Yugler till,T,,bouldery,,
+22,#b9ca7a,fIIIjg,Yugler glaciofluvial,GF,,sand,,
+23,#aad69c,aIIIvc-jg,Vecherninsk-Yugler terrace alluvium,F,,gravel,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+24,#a2cc94,aII,Middle Pleistocene terrace alluvium 40-80 m,F,,gravel,,
+25,#8aca8b,aE-I,terrace alluvium 80-110 m,F,,gravel,,
+26,#71c276,aN2,Pliocene terrace alluvium 130 m,F,,gravel,,
+27,#a677b4,PREQ,pre-Pliocene bedrock,R,,,,

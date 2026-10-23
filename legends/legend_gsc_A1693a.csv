@@ -1,0 +1,14 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#fefd7c,"Ap,At","Alluvial floodplains, low terraces and terraces: gravel, sand, silt; > 2-5 m",F,,mixed,,"GSC Map 1693A Surficial geology, Southern Mackenzie River Valley (1993), 1:500k, raster scan (jp2). Ap and At share one colour. ORGANIC DEPOSITS are a red square-grid overprint (pitch 24.6 px) over the underlying mineral unit: detected by periodicity (--grid) -> index O/<base>, hclass O. Line-screen print: swatches sampled after a 5x5 median"
+1,#fefc40,Af,"Alluvial fans and aprons: gravel and sand; > 5-10 m",F,,mixed,,
+2,#ae6c6c,C,"Colluvial blanket and veneer: rubble, gravel, sand; includes rock outcrop",C,R,,,
+3,#8b7662,Ch,"Slump deposits: bedrock rubble and diamicton; > 5 m",C,,,,
+4,#fec745,E,"Eolian deposits: sand with minor silt; 1-4 m; parabolic and blowout dunes",E,,sand,,
+5,#886aa4,Lp,"Lacustrine plain (glacial Lake McConnell): silt, sand, minor clay; > 1.5 m; thermokarst",GL,,fines,,
+6,#ba8cbe,Lv,"Lacustrine veneer: silt and sand; < 1.5 m over till",GL,T,fines,veneer,
+7,#f79470,Gp,"Glaciofluvial plains and terraces: gravel and sand; 3-10 m",GF,,gravel,,
+8,#ee7365,Gh,"Glaciofluvial hummocks and ridges (ice contact): sand, gravel; > 3 m",GF,,mixed,,
+9,#6ea35e,"Mh,Mr","Hummocky and ridged moraine: till; > 5 m",T,,diamicton,,
+10,#a2c46c,"Mp,Mm,Md","Moraine plain (flat, rolling, drumlinized): silt and clay-matrix till; > 1.5 m",T,,diamicton,,
+11,#a1c792,Mv,"Moraine veneer: till; < 1.5 m",T,,diamicton,veneer,
+12,#f291bc,R,"Rock: undifferentiated sedimentary rock, weathered or colluvium-covered",R,,,,

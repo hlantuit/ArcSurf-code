@@ -1,0 +1,7 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#ece8dc,pIV,"Болотные отложения. Торф, илы, пески",O,,organic,,"Geological map of the USSR 1:200 000 (1st ed.) P-39-VIII, Mezen series, Quaternary map, RASTER: geokniga map-only PREVIEW JPG 1650x2402 (~33.6 m/px); NO legend and NO imprint image (print year unknown): indexes read on the face (gIIvc, fIIvc, L,a,fII-III, aIII, aIV, pIV, LaIIr), descriptions from the series legend of the east neighbour P-39-IX (same Mezen series, full scan); LaIIr only as narrow valley strips (not separated); fills = map tints (preview_tint_calib.py)"
+1,#e6fab3,aIV,"Аллювиальные отложения пойм и первых надпойменных террас (aIV2, aIV1 нерасчлененные)",F,,sand,,aIV2 and aIV1 not separable on the preview: one class
+2,#eaf9bc,aIII,Верхнее звено. Аллювиальные отложения. Пески и супеси с гравием и галькой,F,,sand,,
+3,#ddecc1,"L,a,fII-III","Среднее - верхнее звено. Озерные, аллювиальные и флювиогляциальные отложения. Пески и супеси с гравием и галькой, суглинки",L,F,sand,,
+4,#e9e7ac,fIIvc,"Вычегодский горизонт. Флювиогляциальные отложения. Галечники, гравий, пески",GF,,gravel,,
+5,#ecd8c0,gIIvc,Вычегодский горизонт. Ледниковые отложения. Валунные суглинки,T,,diamicton,,

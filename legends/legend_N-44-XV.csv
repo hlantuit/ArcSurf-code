@@ -1,0 +1,12 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#dada96,alIV,"Современные отложения. Аллювиальные отложения пойменных террас. Супеси, суглинки, пески",F,,mixed,,"GGK-200 N-44-XV (Geologicheskaya karta SSSR, 1st edition, approved 1969, printed 1975; Kulunda-Baraba, 80-81E 54d-54d40mN), Quaternary map; RASTER = geokniga 2000x2312 px PREVIEW (~34 m/px); vertical lithology ruling removed before classification (work/r200d/prep_vlines.py); tints calibrated on the map (preview_tint_calib.py); orIV, LaII-IIIkrs and the split box saI-IIkrd|LaI-IIfd pinned to legend tints; saIII / eolIII / eolIII-IV are 3-7 dE apart (mutually ambiguous) but all E (subaerial cover loams and eolian deposits, PI decision 2026-10-04); the split box saI-IIkrd|LaI-IIfd prints one tint: one class; units in brackets on the map (LaII-IIIkrs, LaI-IIfd) are buried; frame = 4 corners (paper edge and ridge filter agree) + interior 15x10 min graticule crossings as ties"
+1,#edfaea,lIV,"Современные отложения. Озерные отложения. Суглинки иловатые, пески тонкозернистые",L,,fines,,
+2,#d1c7a4,d+hIV,"Современные отложения. Делювиальные и болотные отложения. Суглинки, иногда иловатые",C,O,fines,,hatched swatch: 5x5-median sample
+3,#e9fabc,orIV,Современные отложения. Органогенные отложения. Торф,O,,organic,,stippled swatch: 5x5-median sample
+4,#f08c03,dIV,"Современные отложения. Делювиальные отложения. Суглинки, супеси",C,,fines,,
+5,#b9c7ae,lhIV,"Современные отложения. Озерно-болотные отложения. Суглинки, супеси, пески, торф",L,O,organic,,hatched swatch: 5x5-median sample
+6,#fbf3b4,eolIII-IV,Верхнечетвертичные-современные эоловые отложения. Пески,E,,sand,,
+7,#f8f0a3,eolIII,Верхнечетвертичные отложения. Эоловые отложения. Супеси,E,,sand,,
+8,#f9f1ac,saIII,Верхнечетвертичные отложения. Субаэральные покровные отложения. Суглинки,E,,fines,,subaerial COVER loams: E per PI decision 2026-10-04
+9,#d8faba,LaII-IIIkrs,"Средне-верхнечетвертичные отложения. Карасукская свита. Аллювиально-озерные отложения древних речных долин. Суглинки иловатые, реже пески и супеси",L,F,fines,,
+10,#f1e980,saI-IIkrd+LaI-IIfd,"Нижне-среднечетвертичные отложения. 1. Краснодубровская свита. Субаэральные, местами субаквальные отложения. Суглинки с горизонтами погребенных почв, супеси, пески. 2. Федосовская свита. Озерно-аллювиальные отложения. Суглинки, реже пески, супеси",E,L,fines,,"split legend box, both halves print the same tint (dE < 1): one class; Krasnodubrovsk subaerial loams coded E (PI decision 2026-10-04), hclass2 L (Fedosovo)"

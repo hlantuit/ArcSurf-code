@@ -1,0 +1,12 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#ddebb7,aH,floodplain alluvium,F,,gravel,,"GGK-200/2 L-53-VI (source of the Sukpai), Nikolaevsk series, Quaternary map, 2nd ed. (electronic edition 2013; compiled Khabarovskgeologiya 2003), vector PDF (geokniga)"
+1,#cb90bf,eIII-H,"eluvium (sandy loams, loams, grus, blocks)",W,,mixed,,
+2,#fab072,dIII-H,"deluvium (grus, rubble, sandy loams)",C,,mixed,,
+3,#f8a07c,"c,dIII-H",colluvium and deluvium,C,,bouldery,,
+4,#fab383,"e,dIII-H",eluvium and deluvium,W,C,mixed,,
+5,#f8a691,"d,sIII-H",deluvium and solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+6,#e68276,"c,sIII-H",colluvium and solifluxion,C,,bouldery,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+7,#f1c686,"p,dIII-H",proluvium and deluvium,F,C,bouldery,,
+8,#b7da9b,a1III,1st terrace alluvium,F,,gravel,,
+9,#9acf8b,a2II,2nd terrace alluvium,F,,gravel,,
+10,#a677b4,PREQ,pre-Quaternary formations (correlation scheme only),R,,,,

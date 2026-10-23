@@ -1,0 +1,8 @@
+x,y,w,index,description_ru,hclass,hclass2,texture,note
+12138,834,160,7,"Organic deposits: lichen-moss, sedge and woody peat, 1.5-3 m",O,,organic,
+12138,2180,160,4c,"Nearshore sediment veneer: sand and gravel ridges on wave-washed glaciofluvial deposits (glacial Lake Agassiz)",GL,GF,gravel,veneer
+12138,2493,160,4a,"Offshore glaciolacustrine sediments: clay, silt, sand, veneer to 20 m; iceberg scours, extensive peat",GL,O,fines,
+12138,2854,160,3,"Outwash: rounded cross-stratified sand and gravel, 3-20 m",GF,,gravel,
+12138,3051,160,2,"Ice-contact stratified drift: kames, eskers, moraines",GF,,gravel,
+12138,3668,160,1a,"Till veneer: sandy, <1 m, with bedrock, marine or lacustrine patches",T,R,sand,veneer
+12138,4105,160,R1,Precambrian rock: massive granitic and gneissic rock,R,,,

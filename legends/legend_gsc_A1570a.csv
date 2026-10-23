@@ -1,0 +1,15 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#ffff9b,6b,Fluvial: seasonally flooded sediments (gravel and sand 2-20 m),F,,sand,,"GSC Map 1570A Boothia Peninsula (Dyke et al. 1984), 1:500k TM; legend panel inside the frame over Gulf of Boothia excluded; swatch tints from the legend, checked against the map face with tint_check; 1a/1b/4b/Ra RE-SAMPLED on the map face (swatches print dE 9-12 off)"
+1,#fffe4d,6a,Fluvial: terraced sediments above present flood zone,F,,gravel,,
+2,#aacff9,5c,Marine beach sediments: gravel and sand 1-5 m; ridges and swales,M,,gravel,,
+3,#85b6ce,5b,Marine nearshore sediments: silt and fine sand 1-5 m; plains,M,,fines,,
+4,#549bed,5a,Marine deltaic sediments: coarsening-upward clay to gravel 5-20 m,M,F,sand,,
+5,#7592d8,4b,Glaciomarine nearshore sediments: silt clay silt and fine sand 1-100 m,GM,,fines,,
+6,#557ac8,4a,Glaciomarine deltaic sediments at marine limit 5-20 m,GM,GF,sand,,
+7,#a299d1,3,Glaciolacustrine sediments: silt and sand 1-5 m,GL,,fines,,
+8,#ffd65e,2b,Glaciofluvial proglacial outwash: gravel and sand 1-10 m,GF,,gravel,,
+9,#fe905a,2a,Glaciofluvial kames kame moraines crevasse fillings 10-100 m,GF,,gravel,,
+10,#9fbd96,1b,Till veneer 0.5-2 m discontinuous,T,R,diamicton,veneer,
+11,#76a07a,1a,Till blanket 2-20 m; fluted and drumlinized,T,,diamicton,blanket,
+12,#f193ac,Rb,Rock: limestone and dolostone (lower Paleozoic) frost-shattered top,R,,bouldery,,
+13,#e35e6e,Ra,Rock: Precambrian gneiss and granite with patches of thin till and scree,R,,,,

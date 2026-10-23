@@ -1,0 +1,16 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#cb90bf,e,eluvium,W,,bouldery,,"GGK-200/2 N-50-XXXII, Transbaikalia, Quaternary map, vector PDF (geokniga)"
+1,#fab383,"e,d",eluvium and deluvium,W,C,mixed,,
+2,#e892b8,"e,dr",eluvium and desertion,W,C,bouldery,,
+3,#e995aa,dr,desertion,C,,bouldery,,
+4,#f8a07c,"c,d",colluvium and deluvium,C,,mixed,,
+5,#fcbc86,d,deluvium,C,,fines,,
+6,#f69788,"d,s",deluvium and solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+7,#f6978f,s,solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+8,#c6d1d7,tH,technogenic,X,,mixed,,
+9,#f1f3c3,aH,alluvium,F,,mixed,,
+10,#d7e7aa,a1III3-4,1st terrace alluvium,F,,sand,,
+11,#cde4aa,a2III1-2,2nd terrace alluvium,F,,fines,,
+12,#b7da9b,a3IIbr,Borzhigantai 3rd terrace,F,,sand,,
+13,#7ecbb6,"la,l4IIhb",Kholbon lake-alluvial,L,F,fines,,
+14,#a677b4,PREQ,pre-Quaternary,R,,,,

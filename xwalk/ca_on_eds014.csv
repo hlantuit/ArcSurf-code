@@ -1,0 +1,12 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+Bedrock,R,,,discontinuous,,"'exposed at surface or covered by a discontinuous, thin layer of drift'"
+Organic deposits,O,,organic,,,"peat, muck and marl"
+Glaciolacustrine deposits,GL,,,,,
+Till,T,,,,,
+Glaciofluvial ice-contact deposits,GF,,,,,
+Glaciofluvial outwash deposits,GF,,,,,
+Lake,H,,,,,
+Fluvial deposits,F,,,,,
+Glaciomarine and marine deposits,GM,M,,,,
+Lacustrine deposits,L,,,,,
+NAMED_TILL,T,,,,,named till units of southern Ontario (outside AMAP)

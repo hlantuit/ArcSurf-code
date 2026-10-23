@@ -1,0 +1,13 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#f1f3c3,aH,"floodplain alluvium, sand and peat",F,,sand,,"GGK-200/2 P-43-XIV, West Siberian (Surgut Polesye), Quaternary map, vector PDF (geokniga); series legend"
+1,#ddebb7,a1III-H,Sartan-Holocene 1st terrace alluvium,F,,sand,,
+2,#cde4aa,a2III,Karginsky 2nd terrace alluvium,F,,sand,,
+3,#93d2c1,la3III,Ermakovo lake-alluvial 3rd terrace,L,F,sand,,
+4,#7fcbae,la4II-III,Taz-Kazantsevo lake-alluvial 4th terrace,L,F,sand,,
+5,#82b9dc,lmII,Taz lacustrine-marine regressive sands,L,M,sand,,
+6,#62c2a0,aIIsz,Suzgun alluvial-lacustrine,F,L,fines,,
+7,#aad48a,aIItb,Tobolsk alluvium,F,,sand,,
+8,#42c8f4,lIsk,Semeikino lacustrine (section only),L,,fines,,
+9,#8aca8b,aItl,Talagaika alluvium (section only),F,,sand,,
+10,#bc8cbf,gmN2ig,Inguyagun ice-marine (section only),GM,,diamicton,,
+11,#a677b4,PREPLIO,pre-Pliocene formations,R,,,,

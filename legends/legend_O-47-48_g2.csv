@@ -1,0 +1,28 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#e5dec7,aIV,Holocene low and high floodplain alluvium,F,,mixed,,"GGK-1000/2 O-(47),48 Ust-Kut 1981 (new series), Quaternary map, RASTER (geokniga JPG 8760x8244); frame 99-108E (west part of O-47 not on the sheet); descriptions translated; Holocene low and high floodplain alluvium"
+1,#e1ddca,lhIII-IV,lacustrine-palustrine,L,O,organic,,lacustrine-palustrine
+2,#e3b3ab,"e,dIII-IV",eluvium and deluvium,W,C,bouldery,,eluvium and deluvium
+3,#e48472,dcIII-IV,deluvial-colluvial,C,,bouldery,,deluvial-colluvial
+4,#d4746b,"c,csIII-IV",colluvium and colluvial-solifluxion,C,,bouldery,,colluvium and colluvial-solifluxion
+5,#e1d59d,aIII-IV,1st terrace alluvium,F,,mixed,,1st terrace alluvium
+6,#e2cf71,aIII,upper Pleistocene alluvium undivided,F,,mixed,,upper Pleistocene alluvium undivided
+7,#ddd6a7,aIIIkr-sr,Karga-Sartan 2nd terrace alluvium,F,,mixed,,Karga-Sartan 2nd terrace alluvium
+8,#c6c5a7,lgIIIz,Zyryanka glaciolacustrine,GL,,fines,,Zyryanka glaciolacustrine
+9,#e0d7ac,fIIIz,Zyryanka glaciofluvial,GF,,gravel,,Zyryanka glaciofluvial
+10,#ccaa89,gIIIz,Zyryanka till,T,,bouldery,,Zyryanka till
+11,#c9c896,aIIIkz-z,Kazantsevo-Zyryanka 3rd terrace alluvium,F,,mixed,,Kazantsevo-Zyryanka 3rd terrace alluvium
+12,#bbc072,aII,middle Pleistocene alluvium,F,,mixed,,middle Pleistocene alluvium
+13,#ac7450,gIIs,Samarovo till,T,,bouldery,,Samarovo till
+14,#a7ad65,aIIsr-t,Shirta-Taz 4th terrace alluvium,F,,mixed,,Shirta-Taz 4th terrace alluvium
+15,#99a96f,aIItb-s,Tobol-Samarovo 5th terrace alluvium,F,,mixed,,Tobol-Samarovo 5th terrace alluvium
+16,#93a770,aI-IId-t,Demyanka-Tobol 6th terrace alluvium,F,,mixed,,Demyanka-Tobol 6th terrace alluvium
+17,#7ba073,aI,lower Pleistocene alluvium,F,,mixed,,lower Pleistocene alluvium
+18,#d4ce8b,aN2-Q1,Pliocene-lower Pleistocene alluvium,F,,mixed,,Pliocene-lower Pleistocene alluvium
+19,#e6b9b4,e,eluvium,W,,bouldery,,eluvium
+20,#e49693,"e,d",eluvium and deluvium,W,C,bouldery,,eluvium and deluvium
+21,#e7806a,d,deluvium,C,,fines,,deluvium
+22,#c33638,c,colluvium,C,,bouldery,,colluvium
+23,#e25b19,dc,deluvial-colluvial,C,,bouldery,,deluvial-colluvial
+24,#db7c78,ds,deluvial-solifluxion,C,,mixed,,deluvial-solifluxion
+25,#e4c0a8,ad,alluvial-deluvial,F,C,mixed,,alluvial-deluvial
+26,#af9aa4,PREQ,pre-Quaternary (scheme only),R,,,,pre-Quaternary (scheme only)

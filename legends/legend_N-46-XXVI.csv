@@ -1,0 +1,32 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#d180ff,e,eluvium,W,,bouldery,,"GGK-200/2 N-46-XXVI, Tuva (Ulug-Khem basin), Quaternary map, vector PDF (geokniga); two legend columns (2nd via gk_fills_band)"
+1,#ff808c,"d,s",deluvium and solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+2,#ffa680,"e,d",eluvium and deluvium,W,C,mixed,,
+3,#ff8c80,"c,d",colluvium and deluvium,C,,mixed,,
+4,#ff6666,c,colluvium,C,,bouldery,,
+5,#9980ff,"e,dr",eluvium and desertion,W,C,bouldery,,
+6,#ff80a6,"c,dr",colluvium and desertion,C,,bouldery,,
+7,#f280cc,"e,s",eluvium and solifluxion,W,C,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+8,#f273c4,"dr,s",desertion and solifluxion,C,,bouldery,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+9,#e8ffc4,aH2,floodplain alluvium,F,,gravel,,
+10,#b0c4c4,tH2,technogenic,X,,mixed,,
+11,#ff9494,cIII-H,colluvium,C,,bouldery,,
+12,#f5c98a,dpIII-H,deluvial-proluvial,C,F,mixed,,
+13,#dbffa6,a1IIIbs-H1,1st terrace alluvium,F,,gravel,,
+14,#d1ffa6,a2IIIar-bs,2nd terrace alluvium,F,,gravel,,
+15,#bfff94,a3IIIkz-az,3rd terrace alluvium,F,,gravel,,
+16,#b5ff94,a4IIcn-kh,4th terrace alluvium,F,,gravel,,
+17,#e07547,gIIul,Ulug-Khem moraine,T,,bouldery,,
+18,#a6ff80,a5IIer,Erbek 5th terrace alluvium,F,,sand,,
+19,#85ff66,aI,Early Pleistocene terrace alluvium,F,,gravel,,
+20,#a366ff,PREQ,pre-Quaternary,R,,,,
+21,#ffb380,d,deluvium,C,,fines,,
+22,#d9e0bd,plH2,"bog peat, sapropel",O,,organic,,
+23,#b5ffff,lH,lacustrine,L,,fines,,
+24,#ebe680,apIII-H,alluvial-proluvial,F,,mixed,,
+25,#94ffb5,laIII-H,lake-alluvial,L,F,fines,,
+26,#fffa94,vIII-H,aeolian sands,E,,sand,,
+27,#66ffff,lI,lacustrine (saline muds),L,,fines,,
+28,#f0b357,dpEks,Kaspa deluvial-proluvial,C,F,fines,,
+29,#6bff47,aE,Eopleistocene alluvium,F,,gravel,,
+30,#66ff94,laE,Eopleistocene lake-alluvial,L,F,mixed,,

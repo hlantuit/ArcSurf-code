@@ -1,0 +1,256 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+0,R,,,,,non-Quaternary | non-Quaternary unit
+97,DROP,,,,,Canadian areas | Canadian areas
+98,DROP,,,,,Unmapped | unmapped - fall through
+99,R,,,,,Bedrock
+101,I,,,,,Ice fields or glaciers
+102,H,,,,,"Water (streams, lakes, ocean) | water (streams, lakes, ocean)"
+1000,Q,,,,,"Surficial deposits, undifferentiated"
+1030,M,F,,,,"Tidal flat and estuarine deposits, offshore, subject to inundation | tidal flat and estuarine"
+1040,C,,,,,Avalanche deposits
+1050,F,,,,,Alluvium
+1055,F,,,,,"Alluvium, contains aufeis"
+1060,F,,,,,Alluvial fan deposits
+1061,F,,,,,Older alluvial fans
+1063,F,,,,,"Alluvial deposits, Partially submerged alluvial fans and cones"
+1070,C,,,,,Colluvium
+1071,C,,,,,Talus and rubble deposits
+1072,C,,,,,Bluff colluvium
+1073,C,,,,,"Fine-grained colluvial deposits, may be solifluction related?"
+1074,C,,,,,"Deposits of steep alpine fans, intermediate between alluvial fans and talus cones"
+1075,W,,bouldery,,,Felsenmeer | felsenmeer - texture by definition of the unit
+1080,C,,,,,Landslide deposits
+1081,C,,,,,Mudflow and debris-flow deposits
+1082,C,,,,,Landslide deposits related to 1964 Great Alaska earthquake
+1085,C,,,,,Inferred landslide deposits
+1090,F,,,,,Older alluvium
+1091,F,,,,,Alluvial plains; may include outwash
+1100,F,,,,,Terrace deposits
+1102,F,,,,,"High level, older terrace deposits"
+1110,F,,,,,Abandoned channel deposits
+1111,F,,,,,"Abandoned channel deposits, possibly due to catastrophic draining of a glacial lake. | abandoned channel, possibly glacial-lake outburst"
+1112,F,,,,,"Abandoned channel deposits, Holocene age"
+1113,F,,,,,"Abandoned channel deposits, Last Glacial Maximum (LGM)"
+1114,F,,,,,"Abandoned channel deposits, Early? Wisconsin"
+1115,F,,,,,"Abandoned channel deposits, Illinoian?"
+1116,F,,,,,"Abandoned channel deposits, Earliest Pleistocene/Pliocene"
+1117,F,,,,,"Abandoned channel deposits, Pliocene"
+1120,L,,,,,Lacustrine deposits
+1121,K,L,,,,Thaw-lake deposits | thaw-lake deposits
+1130,O,,,,,Swamp deposits | swamp deposits
+1140,F,,,,,Levee deposits
+1150,M,,,,,Beach deposits | beach
+1151,M,,,,,"Beach deposits, elevated beach ridges | elevated beach ridges"
+1160,M,F,,,,Estuarine deposits | estuarine
+1161,M,F,fines,,,"Placer River Silt, deposit of the 1964 Great Alaska Earthquake. Formal unit restricted to Turnagain Arm. | Placer River Silt (1964 earthquake)"
+1165,M,F,,,,"Older, higher level estuarine deposits | older estuarine"
+1170,M,L,,,,Marine and lake terrace deposits | marine and lake terraces
+1171,L,,,,,Lake terrace deposits
+1180,Q,,,,,Mineral spring deposits | mineral spring deposits
+1190,E,,,,,Active dune deposits
+1200,E,,,,,Dune deposits
+1202,E,,,,,Inactive dunes
+1203,E,GF,sand,,,Sand sheets (sandur) | 'sand sheets (sandur)' - eolian vs outwash ambiguous in the source
+1210,E,,fines,,,"Loess and wind-deposited silt, including Fairbanks loess | loess"
+1220,Q,,fines,,,"Silt deposits, undifferentiated. May be frozen in northern areas and not frozen in southern areas | silt undifferentiated; may be frozen (source) - ice not asserted"
+1230,GF,GL,,,,Glacial outwash derived fans deposited in ephemeral glacial lakes | outwash fans in ephemeral glacial lakes
+1240,GL,,,,,Glaciolacustrine deposits
+1241,GL,,,,,Glaciolacustrine deposits associated with LGM glacial deposits
+1242,GL,,,,,"Glaciolacustrine deposits associated with older glacial deposits, earlier LGM"
+1243,GL,,,,,"Glaciolacustrine deposits associated with older glacial deposits, early Wisconsin or older"
+1245,GL,,,,,Glaciolacustrine deposits and nearshore deposits
+1250,T,,,,,"Glacial deposits, undivided, of Holocene and/or Pleistocene age"
+1251,T,,,,,"Glacial deposits, ground moraine undivided, of Holocene and/or Pleistocene age"
+1252,T,,,,,"Glacial deposits in cirques, undivided, of Holocene and/or late Pleistocene (late Wisconsin?) age"
+1255,GF,,,,,"Outwash deposits, undivided, of Holocene and/or Pleistocene age | outwash"
+1260,T,I,,,,Superglacial drift | superglacial drift
+1270,C,,,,,Rock glacier deposits | rock glacier
+1271,C,,,,,Inactive rock glacier deposits | inactive rock glacier
+1280,C,,,,,Solifluction deposits | solifluction
+1290,GF,,,,,Esker deposits
+1291,GF,,,,,"Esker deposits associated with older glacial deposits, early Wisconsin or older"
+1300,T,,,,,"Drift, neoglacial"
+1301,T,,,,,Moraine of Little Ice Age glacial advance
+1302,T,,,,,Moraine of pre-Little Ice Age glacial advances
+1305,T,,,,,Ground moraine of present-day and Holocene glaciers
+1310,GF,,,,,"Outwash deposits, Neoglaciation | neoglacial outwash"
+1350,T,,,,,"Drift, undivided, Wisconsin-age Glaciations: Aleknagik, Brooks Lake, Naptowne, Donnelly"
+1351,T,,,,,"Drift, undivided, Wisconsin-age Glaciations: Brooks Lake"
+1352,T,,,,,"Drift, undivided, Wisconsin-age Glaciations: Aleknagik, mostly ground and younger drift deposits"
+1353,T,,,,,"Drift, undivided, Wisconsin-age Glaciations: Naptowne"
+1354,T,,,,,"Drift, undivided, Wisconsin-age Glaciations: Donnelly"
+1355,T,,,,,"Drift, undivided, Wisconsin-age Glaciations: Itkillik II age, Walker Lake"
+1359,T,,,,,"Ground moraine, Late Wisconsin-age glaciations"
+1360,T,,,,,"Riley Creek glaciation, also Brooks Lake, Iliuk, late Wisconsin"
+1363,T,,,,,"Elmendorf/Tanya advance, Naptowne Glaciation, latest Wisconsin"
+1369,T,,,,,"Late Wisconsin Maximum, last gasp, ground moraine."
+1370,T,,,,,"Till, Brooks Lake, Newhalen"
+1373,T,,,,,"Till, Naptowne, Skilak"
+1375,T,,,,,"Drift, Wisconsin-age Glaciations: Late Itkillik age"
+1379,T,,,,,"Till, Brooks Lake, Newhalen equivalent ground moraine"
+1380,T,,,,,"Till, Brooks Lake, Iliamna"
+1382,T,,,,,"Drift, Wisconsin-age Glaciations: Aleknagik"
+1383,T,,,,,"Drift, other than ground moraine, Wisconsin-age Glaciations: Aleknagik"
+1384,T,,,,,"Drift, Wisconsin-age Glaciations: Naptowne, Killey"
+1385,T,,,,,"Drift, Wisconsin-age Glaciations: Itkillik II age"
+1389,T,,,,,"Ground moraine, Wisconsin-age Glaciations: Iliamna, Aleknagik equivalent or Itkillik II age"
+1390,T,,,,,"Till, last glacial maximum (LGM)"
+1391,T,,,,,"Till, Brooks Lake, Kvichak"
+1392,T,,,,,Glacial deposits of the Okstukuk glaciation
+1393,T,,,,,"Glacial deposits of the Naptowne glaciation, Moosehorn Stade"
+1394,T,,,,,"Till, last glacial maximum (LGM), Oldest Farewell II"
+1395,T,,,,,Ground moraine of most extensive phase of last glacial maximum (LGM)
+1400,GF,,,,,"Outwash deposits, Late Wisconsin-age Glaciations; Outwash, Riley Creek Glaciation, late Wisconsin"
+1401,GF,,,,,Latest Wisconsin outwash deposits
+1402,GF,,,,,Mid-range Late Wisconsin outwash deposits
+1403,GF,,,,,Earliest Late Wisconsin outwash deposits
+1410,GF,,,,,Channeled glacial deposits -- kame and kettle? | kame and kettle
+1450,T,,,,,Drumlin deposits in ground moraine fields of Brooks Lake glacial deposits
+1460,GF,,,,,"Kame fields, and a few narrow and sinuous eskers that contain mainly gravel and sand, poorly to well-bedded and sorted"
+1461,GF,,,,,"Kame fields, Holocene"
+1462,GF,,,,,"Kame fields, Late Wisconsin maximum"
+1463,GF,,,,,"Kame fields, older Wisconsin"
+1470,T,GM,,,,Morainal deposits inferred to have been modified during glacioestuarine or glaciolacustrine inundation | moraine modified by glacioestuarine inundation
+1475,GF,GM,,,,Kame and esker deposits inferred to have been modified during glacioestuarine or glaciolacustrine inundation
+1480,Q,,,,,"Deposits of complex origin in the central Cook Inlet basin | complex origin, Cook Inlet"
+1500,GM,,,,,"Glacio-estuarine deposits, Pleistocene | glacio-estuarine"
+1501,GM,,,,,"Glacio-estuarine deposits, Hood Lake deposits, overlie Bootlegger Cove Formation, Anchorage vicinity, Pleistocene | glacio-estuarine"
+1510,GM,,,,,"Glacio-estuarine deposits, Bootlegger Cove Formation, Anchorage vicinity, Pleistocene | glacio-estuarine"
+1600,R,F,,,,Rock-defended terraces | rock-defended terraces
+1610,W,,,,,Altiplanation terraces | altiplanation terraces
+1620,Q,,,,,"Pingos, periglacial feature | pingos"
+1700,F,M,,,,"Deltaic deposits, including outwash and alluvial deposits | deltaic incl. outwash and alluvium"
+1900,T,,,,,"Glaciations of early Wisconsin age: Mak Hill, Healy, Eklutna, Iowithla, Itkillik Phase I"
+1901,T,,,,,Glaciations of early Wisconsin age: Mak Hill
+1902,T,,,,,Glaciations of early Wisconsin age: Iowithla
+1903,T,,,,,Glaciations of early Wisconsin age: Knik
+1904,T,,,,,"Glaciations of early Wisconsin or late Sangamon (Late stage 5) age: Itkillik IC, Ambler (Anisak)"
+1905,T,,,,,"Glaciations of early Wisconsin or late Sangamon (Late stage 5) age: Itkillik IB, Ambler"
+1906,T,,,,,"Glaciations of early Wisconsin or late Sangamon (Late stage 5) age: Itkillik IA, Ambler"
+1910,T,,,,,Drumlins associated with early glaciations
+1911,T,,,,,Drumlins associated with Mak Hill glaciations
+1912,T,,,,,Drumlins associated with Iowithla glaciations
+1920,GF,,,,,Early Wisconsin or late Sangamon (late stage 5) kame and kame terraces deposits
+1940,T,,,,,Early Wisconsin ground moraine
+1941,T,,,,,"Early Wisconsin ground moraine, Mak Hill"
+1942,T,,,,,"Early Wisconsin ground moraine, Iowithla"
+1943,T,,,,,"Early Wisconsin ground moraine, Knik terraced moraines"
+1950,GF,,,,,Older Wisconsin age outwash
+1951,GF,,,,,"Older Wisconsin age outwash, Mak Hill"
+1952,GF,,,,,"Older Wisconsin age outwash, Iowithla"
+1953,GF,,,,,"Older Wisconsin age outwash, Knik"
+1954,GF,,,,,"Older Wisconsin age or late Sangamon (late stage 5) outwash, Itkillik I"
+2000,T,,,,,Illinoian and older Pleistocene glaciations
+2005,T,,,,,Older Pleistocene glaciations
+2010,T,,,,,"Illinoian glaciations, ground moraine"
+2020,GF,,,,,"Illinoian glaciations, kame deposits"
+2025,GF,,,,,"Kame deposits, Ealiest Pleistocene"
+2043,T,,,,,"Illinoian ground moraine, Eklutna terraced moraines"
+2050,T,,,,,Drumlins associated with early glaciations
+2100,GF,,,,,Outwash older than Wisconsin-age
+2105,GF,,,,,Early Pleistocene outwash
+2150,T,,,,,"Deposits related to but peripheral to older glaciations, primarily associated with Cook Inlet region"
+2200,T,,,,,Pliocene(?) glaciations
+2210,GF,,,,,"Pliocene(?) glaciations, outwash"
+2700,M,,,,,Fringing and fossil carbonate reefs | fringing and fossil carbonate reefs
+2710,R,,,,,Marine conglomerate and limestone | marine conglomerate and limestone (lithified)
+2750,R,T,,veneer,,"Scoured bedrock; may be covered with thin glacially derived deposits | scoured bedrock, may carry thin glacial cover"
+2800,Q,,,,,"Surficial deposits, undivided"
+2820,M,,,,,Semiconsolidated marine beach deposits | semiconsolidated marine beach
+2840,R,,,,,"Tilted sedimentary rocks at South Bight, Amchitka Island"
+2850,Q,,gravel,,,High-level gravel | high-level gravel
+2900,R,,,,,Faneto Formation | Faneto Formation
+2950,X,F,,,,Placer and anthropogenic deposits | placer and anthropogenic
+3000,V,,,,,"Volcanic rocks, undivided"
+3010,V,,,,,"Wrangell Lava, younger part"
+3011,V,,,,,"Wrangell Lava, younger part, Wrangell Volcano shield lavas"
+3012,V,,,,,"Wrangell Lava, younger part, Wrangell Volcano, valley-fill lavas"
+3013,V,,,,,"Wrangell Lava, younger part, Mt. Drum Volcano lava flows"
+3014,V,,,,,"Wrangell Lava, younger part, Mt. Sanford Volcano lava flows"
+3015,V,,,,,"Wrangell Lava, younger part, Capital Volcano shield and intracaldera lavas"
+3016,V,,,,,"Wrangell Lava, younger part, Mt. Tanada shield and intracaldera lavas"
+3050,V,,,,,Holocene volcanic rocks
+3051,V,,,,,"Holocene volcanic rocks, basalt and basaltic andesite"
+3052,V,,,,,"Holocene volcanic rocks, andesite"
+3053,V,,,,,"Holocene volcanic rocks, dacite and rhyodacite"
+3054,V,,,,,"Holocene volcanic rocks, rhyolite"
+3060,V,,,,,Domes associated with Holocene volcanic centers
+3100,V,,,,,Pyroclastic (Ash and debris flow) deposits
+3101,V,,,,,"Pyroclastic (Ash and debris flow) deposits, mafic rocks, andesite to basalt"
+3102,V,,,,,"Pyroclastic (Ash and debris flow) deposits, felsic rocks, dacite to rhyolite"
+3110,V,,,,,Ash-flow and ash-fall deposits
+3111,V,,,,,Ash-fall deposits
+3112,V,,,,,"Ash-fall and ash-flow deposits, younger Wrangell Lava"
+3113,V,,,,,Ash-flow tuff and air fall of Aniakchak caldera
+3114,V,,,,,Ash-flow tuff and air fall of Fisher caldera
+3120,V,,,,,Debris-flow deposits
+3121,V,,,,,"Debris-flow deposits, older Redoubt, still Holocene"
+3122,V,,,,,"Debris-flow deposits, younger Redoubt or Gareloi, late Holocene"
+3130,V,,,,,Mudflow deposits
+3140,V,,,,,Volcanic avalanche deposits
+3160,V,,,,,Hyaloclastite or aquagene tuff
+3170,V,,,,,Bedded volcanic sediments
+3200,V,,,,,Cinder and spatter cones
+3201,V,,,,,"Cinder and spatter cones, Holocene"
+3203,V,,,,,"Cinder and spatter cones, late Pleistocene"
+3205,V,,,,,"Cinder and spatter cones, middle Pleistocene"
+3207,V,,,,,"Cinder and spatter cones, early Pleistocene"
+3210,V,,,,,"Pit craters and calderas {feature, not really unit} | pit craters and calderas"
+3220,V,,,,,Explosion debris
+3221,V,,,,,"Explosion debris, maar deposits"
+3300,V,,,,,Basalt or basaltic-andesite flows
+3301,V,,,,,"Tholeiitic basalt of Mekoryuk, Brunhes, normally magnetized"
+3310,V,,,,,Andesite or basaltic-andesite flows
+3330,V,,,,,Trachyte flows
+3340,V,,,,,Alkali basalt series including mugearite and benmoreite flows
+3350,V,,,,,Andesite and low silica dacite
+3360,V,,,,,Dacite and rhyodacite
+3370,V,,,,,Rhyolite
+3400,V,,,,,"Viscous domes in young Hawaiian volcanic rocks, Hawi and Laupahoehoe Volcanic Series"
+3410,V,,,,,"Viscous domes in young Hawaiian volcanic rocks, trachyte"
+3420,V,,,,,"Viscous domes in young Hawaiian volcanic rocks, mugearite and benmoreite"
+3430,V,,,,,"Viscous domes in young Hawaiian volcanic rocks, basalt"
+3450,V,,,,,"Small masses of gabbro in young Hawaiian volcanic rocks, Kahuku Volcanic Series"
+3500,V,,,,,Basalt
+3502,V,,,,,"Tholeiitic basalt of Mekoryuk, Matuyama, reversally magnetized"
+3503,V,,,,,"Tholeiitic basalt of Mekoryuk, Matuyama, normally magnetized"
+3550,V,,,,,"West Molokai Volcanic Series (upper), Kanapou Volcanic Series (lower), East Molokai, Lanai, Honolua, Wailuku, Honomanu, Plololu, Hamakua, and Ninole Volcanic Series - Early Pleistocene"
+3551,V,,,,,"Wrangell Lavas, Mt. Jarvis volcanoes shield and intracaldera lavas"
+3560,V,,,,,"West Molokai Volcanic Series (upper) and East Molokai, Lanai, Honolua, Honomanu, Kanapou, Pololu, and Hamakua Volcanic Series cinder, spatter, and littoral cones"
+3580,V,,,,,"East Molokai Volcanic Series (upper), Honolua Volcanic Series viscous domes"
+3590,V,,,,,"West Molokai Volcanic Series (lower) and Wailuku, Kula, Kanapou, and Pololu Volcanic Series, gabbro masses"
+3600,V,,,,,Koolau and West Molokai (lower) Volcanic Series - Early Pleistocene
+3700,V,,,,,"Koolau and West Molokai (lower) Volcanic Series, cinder, spatter, and littoral cones"
+4000,R,V,,,,"Intrusive rocks, undivided | Quaternary/Tertiary intrusive"
+4010,R,V,,,,Dacitic to rhyolitic domes | Quaternary/Tertiary intrusive
+4011,R,V,,,,"Wrangell Lavas, Mt. Drum volcano domes, dacite and rhyolite | Quaternary/Tertiary intrusive"
+4012,R,V,,,,"Wrangell Lavas, Mt. Sanford volcano dome, rhyolite | Quaternary/Tertiary intrusive"
+4013,R,V,,,,"Wrangell Lavas, Mt. Jarvis volcanoes, dome, dacite | Quaternary/Tertiary intrusive"
+4014,R,V,,,,"Wrangell Lavas, Capital Mountain volcano, dome, dacite | Quaternary/Tertiary intrusive"
+4020,R,V,,,,Andesite plug domes | Quaternary/Tertiary intrusive
+4030,R,V,,,,Radial dike swarm and plug | Quaternary/Tertiary intrusive
+4040,R,V,,,,Basalt dome | Quaternary/Tertiary intrusive
+4100,R,V,,,,"Intrusive rocks, undivided | Quaternary/Tertiary intrusive"
+4500,V,R,,,,"Quaternary and/or Tertiary volcanic rocks, undifferentiated | Quaternary/Tertiary volcanic"
+4510,V,R,,,,Andesitic lava | Quaternary/Tertiary volcanic
+4520,V,R,,,,Dacite | Quaternary/Tertiary volcanic
+4530,V,R,,,,Rhyolite | Quaternary/Tertiary volcanic
+4540,V,R,,,,Olivine basalt flows | Quaternary/Tertiary volcanic
+4550,V,R,,,,Wrangell Lava | Quaternary/Tertiary volcanic
+4551,V,R,,,,"Wrangell Lava, basaltic andesite and andesite | Quaternary/Tertiary volcanic"
+4552,V,R,,,,"Wrangell Lava, basalt | Quaternary/Tertiary volcanic"
+4553,V,R,,,,"Wrangell Lava, older dacite | Quaternary/Tertiary volcanic"
+4600,R,V,,,,Intrusive rocks | Quaternary/Tertiary intrusive
+4620,R,V,,,,Quartz keratophyre dikes | Quaternary/Tertiary intrusive
+4630,R,V,,,,Porphyritic dikes and stocks of hornblende andesite and dacite | Quaternary/Tertiary intrusive
+4640,R,V,,,,"Wrangell Lava, andesite dikes and plugs | Quaternary/Tertiary intrusive"
+4650,R,V,,,,"Wrangell Lava, rhyodacite and rhyolite domes and associated pyroclastic rocks | Quaternary/Tertiary intrusive"
+4660,R,V,,,,"Pochnoi Volcanics - Tuff-breccia, lava flows, and agglomerate, largely basaltic | Quaternary/Tertiary intrusive"
+4700,V,R,,,,Quaternary and/or Tertiary pyroclastic flow deposits | Quaternary/Tertiary volcanic
+4750,V,R,,,,Kiska Harbor Formation | Quaternary/Tertiary volcanic
+4760,V,R,,,,"Kiska Harbor Formation, breccia member | Quaternary/Tertiary volcanic"
+4770,V,R,,,,"Kiska Harbor Formation, flow member | Quaternary/Tertiary volcanic"
+4800,V,R,,,,"Kula volcanic series and equivalents, undivided | Quaternary/Tertiary volcanic"
+4801,V,R,,,,"Kula volcanic series and equivalents, pyroclastic rocks and tuff | Quaternary/Tertiary volcanic"
+4900,R,,,,,"Quaternary or Tertiary metamorphic rocks, particularly in Mt. Dana area on Port Moller map | metamorphic rock -> bedrock"
+90,DROP,,,,,"QCLASS 90 is not in the source lookup (nsaqkey): one 31,742 km2 polygon lying entirely in Yukon / northern BC (60-61N, 138-140W; merge-41 statistics 2026-10-07) = the map's Canada area, not a geological unit. Dropped so the Yukon compilation and GSC maps cover it (it had overridden them at 1:250k as Q)"

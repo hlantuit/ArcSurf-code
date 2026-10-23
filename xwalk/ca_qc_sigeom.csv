@@ -1,0 +1,47 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+T,T,,,,,till undifferentiated
+Tm,T,R,,veneer,,"till mince (thin till, veneer over bedrock) - SIGEOM convention"
+Tc,T,,,blanket,,till en couverture continue (blanket)
+Td,T,,,,,"Till délavé (washed till, sandy-gravelly with boulders)"
+Tf,T,,,,,"Till de fusion ou d'ablation (ablation till, >1 m)"
+Tr,T,,,,,Till remanié en couverture continue - surface reworked by postglacial lake or sea waves
+Trm,T,,,,,till - Rogen moraine
+Tb,T,,,,,till bosselé (hummocky)
+Ts,T,,,,,Till fuselé (fluted / drumlinized)
+To,T,,,,,Till côtelé (ribbed moraine)
+R,R,,,,,roc (bedrock)
+O,O,,organic,,,dépôt organique
+Om,O,,organic,,,Sédiment de marécage et de marais (swamp and marsh)
+L,L,,,,,sédiment lacustre non différencié
+Lb,L,,,,,lacustrine littoral/beach
+Ld,L,F,,,,lacustrine deltaic
+G,GF,,,,,sédiment proglaciaire non différencié
+Go,GF,,,,,sédiment d'épandage proglaciaire subaérien (outwash)
+Gs,GF,GL,,,,sédiment d'épandage proglaciaire subaquatique
+Gx,GF,,,,,sédiment juxtaglaciaire (ice-contact)
+GxT,T,GF,,,,sédiment de la moraine frontale (end moraine)
+Ge,GF,,,,,glaciofluvial subtype (esker)
+LGa,GL,,,,,glaciolacustrine deep-water
+LGb,GL,,,,,glaciolacustrine littoral/beach
+LGd,GL,F,,,,glaciolacustrine deltaic
+MGa,GM,,,,,glaciomarine deep-water
+MGb,GM,,,,,glaciomarine littoral/beach
+MGd,GM,F,,,,glaciomarine deltaic
+M,M,,,,,marine undifferentiated
+Ma,M,,,,,marine deep-water
+Mb,M,,,,,marine littoral/beach
+Md,M,F,,,,marine deltaic
+Mi,M,,,,,marine intertidal
+A,F,,,,,alluvion
+Ap,F,,,,,alluvion actuelle
+At,F,,,,,alluvion de terrasse fluviale
+Ax,F,,,,,alluvion de terrasse fluviale ancienne
+C,C,,,,,dépôt de versant non différencié
+Ce,C,,,,,dépôt d'éboulis (scree)
+Cl,C,,,,,grèze litée (stratified slope deposit)
+Ed,E,,,,,sédiment éolien
+Qf,W,,bouldery,,,Felsenmeer - block field of frost-shattered rock on high plateaus (SIGEOM)
+Qa,Q,W,,,,Formation quaternaire ancienne altérée - old weathered Quaternary sediments (SIGEOM)
+H,X,,,,,Dépôt anthropogénique (SIGEOM) - NOT water
+Gxi,GF,,,,,Sédiment juxtaglaciaire interlobaire (interlobate moraine)
+Ac,F,,,,,Cône alluvial (alluvial cone)

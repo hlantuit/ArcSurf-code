@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or its tables, please cite it as below, together with the ArcSurf data release and the data paper."
+title: "ArcSurf code: processing chain, crosswalk tables, legend transcriptions and georeferencing records of the harmonised surficial geology map of the Arctic"
+version: "1.0.0"
+license: MIT
+authors:
+  - family-names: Lantuit
+    given-names: Hugues
+    affiliation: "Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Potsdam, Germany"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   <- your ORCID, then remove the '#'
+  - family-names: Fritz
+    given-names: Michael
+    affiliation: "Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Potsdam, Germany"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   <- Michael's ORCID, then remove the '#'
+repository-code: "https://github.com/hlantuit/ArcSurf-code"
+keywords:
+  - surficial geology
+  - Quaternary geology
+  - permafrost
+  - Arctic
+  - geological map
+  - harmonised legend
+  - map vectorisation
+  - GIS
+# After the Zenodo release, add its DOI here:
+# identifiers:
+#   - type: doi
+#     value: "10.5281/zenodo.0000000"
+#     description: "Zenodo archive of this version"

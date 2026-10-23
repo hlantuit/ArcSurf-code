@@ -1,0 +1,11 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#c5c6cc,7,"Organic deposits: lichen-moss, sedge and woody peat, 1.5-3 m",O,,organic,,Echoing River 1:250k (Clarke 1989); 
+1,#fdfe9f,6,"Alluvial deposits: silt, sand and rounded gravel, terraced; veneer to 30 m",F,,mixed,,
+2,#57a6fc,5b,"Nearshore marine sediments (Tyrrell Sea): silt, sand and gravel, up to 3 m; beach ridges, bars, spits",M,,sand,,
+3,#a7d2fd,5a,"Offshore marine sediments: clayey silt, stony silt and sand, 2-7 m; probably a wave-levelled till plain",M,T,fines,,
+4,#fffd59,4b,"Nearshore glaciolacustrine sediments (glacial Lake Agassiz): sand and gravel ridges, beaches, bars, spits",GL,,gravel,,
+5,#a187c3,4a,"Offshore glaciolacustrine sediments: clay, silt, sand, veneer to 20 m; iceberg scours, extensive peat",GL,O,fines,,
+6,#fb9770,3,"Outwash: rounded cross-stratified sand and gravel, 3-20 m",GF,,gravel,,
+7,#d95268,2,"Ice-contact stratified drift: kames, eskers, moraines",GF,,gravel,,
+8,#72a775,1b,"Till blanket: silty to sandy, 1-10 m; drumlins, fluting, ribbed moraine",T,,sand,,
+9,#f89eb7,R1,Precambrian rock: massive granitic and gneissic rock,R,,,,

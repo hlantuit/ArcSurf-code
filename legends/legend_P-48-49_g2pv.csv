@@ -1,0 +1,30 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#dbe5b8,aIV,Аллювиальные низкой и высокой пойм (современное звено),F,,,,"GGK-1000 new series P-48,49 (Vanavara), Quaternary map, VSEGEI 1989 (eds. Kovrigina & Rudenko); RASTER = geokniga 2000x1414 px PREVIEW (~0.35 km/px, labels illegible): tints calibrated on the map (legend-seeded, flat pixels); texture bouldery = triangle (shcheben) symbols seen across e/e,d units; aI-II and pre-Quaternary are on the correlation scheme only; fIIs (glaciofluvial, GF) DROPPED: not separable from lg,laIIs / terrace alluvium on the preview (its pixels sat ~70 % on Q2500 Holocene alluvium), so GF is under-represented; "
+1,#a9d1c7,lIV,Озерно-болотные (современное звено),L,O,,,
+2,#dcf0a4,aIII-IV,Аллювиальные поймы и I надпойменной террасы (верхнее-современное звенья),F,,,,
+3,#c0c59f,aIIIsr,Сартанский горизонт. Аллювиальные I надпойменной террасы,F,,,,
+4,#c0e29f,aIIIkr,Каргинский горизонт. Аллювиальные II надпойменной террасы,F,,,,
+5,#b4df9a,aIIIkz-mr,Казанцевский-муруктинский горизонты. Аллювиальные III надпойменной террасы,F,,,,
+6,#bbe3a1,aIII,Аллювиальные террас низкого комплекса,F,,,,
+7,#e9c4d6,eII-IV,Элювиальные (среднее-современное звенья),W,,bouldery,,only in the glaciated NW zone
+8,#ffd6ae,dII-IV,Делювиальные (среднее-современное звенья),C,,,,"only in the glaciated NW zone; tint from the legend (hatched, merges with e,d on the preview)"
+9,#f3d2c8,"e,dII-IV",Элювиальные и делювиальные (среднее-современное звенья),W,C,bouldery,,only in the glaciated NW zone
+10,#cc748b,cII-IV,Коллювиальные (среднее-современное звенья),C,,,,only in the glaciated NW zone
+11,#fc9d92,dcII-IV,Делювиально-коллювиальные (среднее-современное звенья),C,,,,only in the glaciated NW zone; tint from the legend
+12,#ffef9f,adII-IV,Аллювиально-делювиальные (среднее-современное звенья),F,C,,,only in the glaciated NW zone; tint from the legend
+13,#aed0cd,lII-IV,Озерно-болотные (среднее-современное звенья),L,O,,,only in the glaciated NW zone
+14,#9fb287,aIIsr-t,Ширтинский-тазовский горизонты. Аллювиальные IV надпойменной террасы,F,,,,
+15,#a87d66,gIIs,Самаровский горизонт. Ледниковые,T,,,,only in the glaciated NW zone; dE<=10 and >=5 px thick (brown line mixtures look alike)
+16,#a0aa9a,"lg,laIIs",Самаровский горизонт. Озерно-ледниковые и озерно-аллювиальные,GL,L,fines,,only in the glaciated NW zone
+17,#a0c489,aIItb-s,Тобольский-самаровский горизонты. Аллювиальные V надпойменной террасы,F,,,,
+18,#8eb47a,aII,Аллювиальные террас среднего комплекса,F,,,,
+19,#79a580,aN2-QI,Аллювиальные VI и VII надпойменных террас (верхний плиоцен - нижнее звено),F,,,,
+20,#e8a1c4,e,Элювиальные (нерасчлененные),W,,bouldery,,
+21,#e4a36e,d,Делювиальные (нерасчлененные),C,,,,
+22,#f4b7a9,"e,d",Элювиальные и делювиальные (нерасчлененные),W,C,bouldery,,
+23,#ba4146,c,Коллювиальные (нерасчлененные),C,,,,
+24,#f95945,dc,Делювиально-коллювиальные (нерасчлененные),C,,,,tint from the legend
+25,#e27f99,ds,Делювиально-солифлюкционные (нерасчлененные),C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+26,#e7cc70,ad,Аллювиально-делювиальные (нерасчлененные),F,C,,,
+27,#9cbdb3,l,Озерно-болотные (нерасчлененные),L,O,,,
+28,#d2e9f3,WATER,"водоемы (реки, озера, водохранилище)",H,,,,tint sampled on the map

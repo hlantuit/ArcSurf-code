@@ -1,0 +1,43 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#c4c691,aIV,floodplain alluvium,F,,mixed,,"GGK-1000/2 M-(47),48 Ulan-Ude 1969 (new series), Quaternary map, RASTER (geokniga JPG 11039x8872); frame 99-108E; Mongolian part blank; floodplain alluvium"
+1,#e1cd68,vIV,eolian,E,,sand,,eolian
+2,#a9b8b1,lIV,lacustrine,L,,fines,,lacustrine
+3,#dad092,apIV,alluvial-proluvial,F,,gravel,,alluvial-proluvial
+4,#d3b86a,dpIV,deluvial-proluvial,C,F,mixed,,deluvial-proluvial
+5,#b5bd7a,aIII-IV,floodplain and 1st terrace alluvium,F,,mixed,,floodplain and 1st terrace alluvium
+6,#b15667,dsIII-IV,deluvial-solifluxion,C,,mixed,,deluvial-solifluxion
+7,#ca5769,csIII-IV,colluvial-solifluxion,C,,bouldery,,colluvial-solifluxion
+8,#c25b6b,sIII-IV,solifluxion,C,,fines,,solifluxion
+9,#749945,aIIIkr+sr,Karga-Sartan 1st terrace alluvium,F,,sand,,Karga-Sartan 1st terrace alluvium
+10,#b3926e,gIIIsr,Sartan till,T,,bouldery,,Sartan till
+11,#7ca154,aIIIz,Zyryanka 2nd terrace alluvium,F,,sand,,Zyryanka 2nd terrace alluvium
+12,#82724d,g+fIIIz,Zyryanka till and glaciofluvial,T,GF,bouldery,,Zyryanka till and glaciofluvial
+13,#888d52,fIIIz,Zyryanka glaciofluvial,GF,,gravel,,Zyryanka glaciofluvial
+14,#987256,gIIIz,Zyryanka till,T,,bouldery,,Zyryanka till
+15,#568468,lgIIIz,Zyryanka glaciolacustrine,GL,,fines,,Zyryanka glaciolacustrine
+16,#79a054,aIIIks-z,Kazantsevo-Zyryanka 3rd terrace alluvium,F,,sand,,Kazantsevo-Zyryanka 3rd terrace alluvium
+17,#e1c951,vIII,eolian sands,E,,sand,,eolian sands
+18,#8fa6a5,lIII,lacustrine,L,,fines,,lacustrine
+19,#c0b666,apIII,alluvial-proluvial,F,,gravel,,alluvial-proluvial
+20,#dfd396,pIII,proluvium,F,,gravel,,proluvium
+21,#e17935,dIII,deluvium,C,,mixed,,deluvium
+22,#dac361,dpIII,deluvial-proluvial,C,F,mixed,,deluvial-proluvial
+23,#b66e76,bIII,upper Pleistocene lavas,V,,,,upper Pleistocene lavas
+24,#88a4a4,lII,lacustrine,L,,fines,,lacustrine
+25,#cdbb6b,pII,proluvium,F,,gravel,,proluvium
+26,#77a054,aIIt,Taz horizon alluvium,F,,sand,,Taz horizon alluvium
+27,#bdad4e,apII,alluvial-proluvial,F,,gravel,,alluvial-proluvial
+28,#ca9143,dpII,deluvial-proluvial,C,F,mixed,,deluvial-proluvial
+29,#8d5e4c,gII,till,T,,bouldery,,till
+30,#4d8350,laI-II,lake-alluvial,L,F,sand,,lake-alluvial
+31,#bc9655,pI,proluvium,F,,gravel,,proluvium
+32,#8c7548,apI,alluvial-proluvial,F,,gravel,,alluvial-proluvial
+33,#7da1a1,lI,lacustrine,L,,fines,,lacustrine
+34,#7fa024,ad,alluvial-deluvial,F,C,mixed,,alluvial-deluvial
+35,#e37425,d,deluvium,C,,mixed,,deluvium
+36,#e2763a,"e,d",eluvium and deluvium,W,C,bouldery,,eluvium and deluvium
+37,#c63523,cd,colluvial-deluvial,C,,bouldery,,colluvial-deluvial
+38,#c4342c,c,colluvium,C,,bouldery,,colluvium
+39,#de9699,e,eluvium,W,,bouldery,,eluvium
+40,#a65467,bN2-Q1,"Pliocene-Eopleistocene lavas, tuffs",V,,,,"Pliocene-Eopleistocene lavas, tuffs"
+41,#9f949e,PREQ,pre-Quaternary,R,,,,pre-Quaternary

@@ -1,0 +1,16 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#e5f3b8,alIV,"Современные отложения. Аллювиальные отложения низкой и высокой пойменных террас крупных и мелких рек. Пески, супеси, суглинки, гравий, галечники",F,,mixed,,"GGK-200 N-44-XXII (Geologicheskaya karta SSSR, 1st edition, approved 1968, printed 1974; Ob valley at Kamen-na-Obi and Kulunda plain, 81-82E 53d20m-54dN), Quaternary map; RASTER = geokniga 2000x2279 px PREVIEW (~35 m/px); vertical lithology ruling removed (work/r200d/prep_vlines.py); tints calibrated on the map (preview_tint_calib.py), map tints set for hIV (grey with diagonal hatch), eolIV (dotted beige), lIV and alIV, two water tints added (the calibration had drifted onto paper, lakes and line mixtures); alIII1+alIII2, alII-IIIks+alII4 and lIV+lhIV merged (5-6 dE); saIII-IV (subaerial loess-like cover loams) coded E (PI decision 2026-10-04); PREQ not found on the face; frame = 4 corners (checked at 10x) + 9 interior 15x10 min graticule crossings as ties (checked at 6x) ; map tint"
+1,#cfe0ba,lIV,"Современные отложения. Озерные отложения. Суглинки, супеси, пески",L,O,fines,,hand-sampled hatched swatch ; map tint ; same printed colour as lhIV: one class
+2,#c0b797,hIV,"Современные отложения. Болотные отложения. Суглинки, торф",O,,organic,,hand-sampled hatched swatch ; map tint (grey with diagonal hatch; the calibration drifted onto paper)
+3,#cfe0ba,lhIV,"Современные отложения. Озерно-болотные отложения. Переслаивание суглинков, супесей с торфом",L,O,fines,,same printed colour as lIV: one class
+4,#d0c788,eolIV,Современные отложения. Эоловые отложения. Пески,E,,sand,,map tint (5x5 median of the dotted patches)
+5,#fdfc97,eolIII-IV,Верхнечетвертичные-современные отложения. Эоловые отложения. Пески,E,,sand,,
+6,#fbf5b0,saIII-IV,"Верхнечетвертичные-современные отложения. Субаэральные покровные отложения. Лёссовидные суглинки, супеси, пески",E,,fines,,subaerial loess-like COVER loams: E per PI decision 2026-10-04
+7,#fbf1d2,d+plIII-IV,"Верхнечетвертичные-современные отложения. Делювиальные и пролювиальные отложения. Суглинки, супеси, пески",C,F,fines,,
+8,#d4fc8a,alIII1,"Верхнечетвертичные отложения. Аллювиальные отложения первой надпойменной террасы р. Оби. Пески, супеси, суглинки, галечники, гравий",F,,mixed,,same printed colour as alIII2: one class
+9,#d4fc8a,alIII2,"Верхнечетвертичные отложения. Аллювиальные отложения второй надпойменной террасы р. Оби. Пески, супеси, суглинки, галечники",F,,mixed,,same printed colour as alIII1: one class
+10,#c7fd72,alII-III3,"Средне-верхнечетвертичные отложения. Аллювиальные отложения третьей надпойменной террасы р. Оби. Пески, супеси, суглинки, галечники и гравий",F,,mixed,,
+11,#9af054,alII-IIIks,"Средне-верхнечетвертичные отложения. Касмалинская свита. Аллювиальные отложения древних речных долин. Пески, супеси, суглинки, алевриты",F,,mixed,,same printed colour as alII4: one class
+12,#9af054,alII4,"Среднечетвертичные отложения. Аллювиальные отложения четвертой надпойменной террасы р. Оби. Пески, гравий, галечники, суглинки, супеси",F,,mixed,,same printed colour as alII-IIIks: one class
+13,#d6efc8,WATER,"р. Обь, озера",H,,,,river/lake tint sampled on the map
+14,#f4faeb,WATER,озера (бледная заливка),H,,,,pale lake tint sampled on the map

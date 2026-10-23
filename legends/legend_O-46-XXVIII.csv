@@ -1,0 +1,24 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#9a6698,e,"Элювий: глыбы, дресва, щебень, суглинки, глины (до 3 м)",W,R,bouldery,,"GGK-200/2 O-46-XXVIII (Bol. Murta), Yenisei series, Paleogene-Quaternary map 2nd ed., RASTER (geokniga JPG 11270x8516); Paleogene-Neogene units at the surface classed by genesis;  ; same printed colour as PREPG: one class"
+1,#fe9865,d,"Делювий: суглинки, дресва, щебень (до 5 м)",C,W,mixed,,"same printed colour as e,d: one class"
+2,#fe9865,"e,d","Элювий и делювий: глыбы, щебень, дресва, глины, суглинки (до 5 м)",C,W,mixed,,same printed colour as d: one class
+3,#fc6664,"c,d","Коллювий и делювий: глыбы, щебень, дресва, суглинки (до 5 м)",C,,mixed,,"same printed colour as d,s: one class"
+4,#cd3433,c,"Коллювий: глыбы, щебень, дресва (до 4 м)",C,,bouldery,,
+5,#fc6664,"d,s","Делювий и солифлюкционные: щебень, дресва, суглинки (до 5 м)",C,,mixed,,"solifluction ; same printed colour as c,d: one class"
+6,#cc9966,"d,a","Делювий и аллювий: глины, суглинки, супеси, гальки, гравий, дресва (до 5 м)",C,F,mixed,,
+7,#cd9934,"p,d","Пролювий и делювий: глыбы, щебень, дресва, супеси, суглинки (до 10 м)",F,C,mixed,,
+8,#cccc65,"a,p","Аллювий и пролювий: суглинки, супеси, гальки, гравий (до 5 м)",F,,mixed,,
+9,#676734,pl,Палюстрий: торф с прослоями глин и песка (до 4 м),O,,organic,,
+10,#cbcd9a,aH,"Аллювий поймы: галечники, пески, редко торф (до 15 м)",F,,gravel,,
+11,#999999,tH,"Техногенные намывные, насыпные, засыпные: галечники, щебни, пески",X,,mixed,,
+12,#99cc99,a1IIIsr,"Сартанский горизонт: аллювий I надпойменной террасы р. Енисей и притоков: галечники, пески (до 15 м)",F,,mixed,,same printed colour as a2IIIkr-sr/a3IIIkz-mr: one class
+13,#99cc99,a2IIIkr-sr,"Каргинский и сартанский горизонты: аллювий II террасы: галечники, пески (до 28 м)",F,,mixed,,same printed colour as a1IIIsr/a3IIIkz-mr: one class
+14,#99cc99,a3IIIkz-mr,"Казанцевский и муруктинский горизонты: аллювий III террасы: пески, супеси (до 20 м)",F,,mixed,,same printed colour as a1IIIsr/a2IIIkr-sr: one class
+15,#68cc98,a4IIsr-tz,"Ширтинский и тазовский горизонты: аллювий IV террасы р. Енисей: пески, супеси (более 6 м)",F,,sand,,
+16,#66cb68,a5IItb-sm,"Тобольский и самаровский горизонты: аллювий V террасы: пески, галечники, алевриты, супеси (более 25 м)",F,,sand,,
+17,#639b67,a6I,"Аллювий VI надпойменной террасы р. Енисей: глины, галечники (до 14 м)",F,,mixed,,
+18,#009ace,lEkc,"Кочковская свита (эоплейстоцен): озерные глины коричневые, суглинки, супеси, пески, галечники (до 26 м)",L,,fines,,same printed colour as lP3-N1bl: one class
+19,#369966,aN1-2kr,"Кирнаевская свита (миоцен-плиоцен): аллювиальные галечники, пески ожелезненные, гравелиты, суглинки (до 81 м)",F,,gravel,,
+20,#009ace,lP3-N1bl,"Бельская свита (олигоцен-миоцен): озерные суглинки, глины пестроцветные, каолиновые, с дресвой, щебнем (до 72 м)",L,,fines,,same printed colour as lEkc: one class
+21,#9a6698,PREPG,Допалеогеновые образования,W,R,bouldery,,same printed colour as e: one class
+22,#c9cdfe,WATER,"вода (реки, озера)",H,,,,"water tint sampled on the map (Yenisei; scripts/water_tint.py, >= 18 dE from every unit fill)"

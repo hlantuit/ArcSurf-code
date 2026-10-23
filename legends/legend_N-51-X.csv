@@ -1,0 +1,11 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#fbcdc1,"c,drII-H",colluvium and desertion,C,,bouldery,,"GGK-200/2 N-51-X, Upper Amur (Stanovoy), Quaternary map, vector PDF (geokniga)"
+1,#f9b5b1,sII-H,solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+2,#f4e0af,pII-H,proluvium,F,,mixed,,
+3,#efb1a6,"c,sII-H",colluvium and solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+4,#edb0cb,"e,drII-H",eluvium and desertion,W,C,bouldery,,
+5,#cbccce,tH3,technogenic,X,,mixed,,
+6,#f1f3c3,aH,floodplain and channel alluvium,F,,sand,,
+7,#d7e7aa,aIII,1st terrace alluvium,F,,sand,,
+8,#b7da9b,aII,2nd terrace alluvium,F,,fines,,
+9,#a677b4,PREQ,pre-Quaternary,R,,,,

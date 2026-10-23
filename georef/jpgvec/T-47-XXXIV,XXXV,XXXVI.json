@@ -1,0 +1,148 @@
+{
+ "sheet": "T-47-XXXIV,XXXV,XXXVI",
+ "source": "raster scan",
+ "projection": "eqdc",
+ "rms_m": 2.8859228828415597,
+ "max_res_m": 5.956494148058919,
+ "m_per_px": 16.929100638329405,
+ "envelope": {
+  "top": {
+   "kept": 1.0,
+   "rms_px": 0.61
+  },
+  "bottom": {
+   "kept": 1.0,
+   "rms_px": 0.7
+  },
+  "left": {
+   "kept": 1.0,
+   "rms_px": 0.59
+  },
+  "right": {
+   "kept": 1.0,
+   "rms_px": 0.6
+  }
+ },
+ "unassigned_before_fill": 0.107,
+ "area_km2": 5890.586145907303,
+ "neatline_km2": 5890.995436559474,
+ "cover_frac": 0.9999305226669111,
+ "n_polygons": 2031,
+ "units": {
+  "#ad75af": {
+   "index": "e",
+   "px": 36341,
+   "direct_frac": 0.708
+  },
+  "#cadf9a": {
+   "index": "aH",
+   "px": 1148723,
+   "direct_frac": 0.788
+  },
+  "#8fcef7": {
+   "index": "lH",
+   "px": 122361,
+   "direct_frac": 0.789
+  },
+  "#84b9dc": {
+   "index": "l,plH",
+   "px": 557398,
+   "direct_frac": 0.626
+  },
+  "#90ab8d": {
+   "index": "mH",
+   "px": 342529,
+   "direct_frac": 0.287
+  },
+  "#8baddc": {
+   "index": "mvH|mnH",
+   "px": 2129481,
+   "direct_frac": 0.87
+  },
+  "#95ccbd": {
+   "index": "amH",
+   "px": 2106982,
+   "direct_frac": 0.76
+  },
+  "#7ba3d8": {
+   "index": "mIII+H",
+   "px": 2773508,
+   "direct_frac": 0.944
+  },
+  "#7a9ad0": {
+   "index": "mIIIkr",
+   "px": 2780478,
+   "direct_frac": 0.908
+  },
+  "#88c4a9": {
+   "index": "laIIIkr",
+   "px": 817305,
+   "direct_frac": 0.926
+  },
+  "#87c5b2": {
+   "index": "amIIIkr",
+   "px": 2653,
+   "direct_frac": 0.605
+  },
+  "#cadc78": {
+   "index": "fIIImr",
+   "px": 3741,
+   "direct_frac": 0.597
+  },
+  "#c58b65": {
+   "index": "gIIImr",
+   "px": 87722,
+   "direct_frac": 0.611
+  },
+  "#6c8fcb": {
+   "index": "mIIIkz",
+   "px": 3226976,
+   "direct_frac": 0.887
+  },
+  "#8d6950": {
+   "index": "g,mN2-II",
+   "px": 4309045,
+   "direct_frac": 0.874
+  },
+  "#9b7db7": {
+   "index": "PREQ",
+   "px": 110588,
+   "direct_frac": 0.612
+  }
+ },
+ "confusable_pairs": [
+  [
+   "mvH|mnH",
+   "mIII+H",
+   5.4
+  ],
+  [
+   "amH",
+   "laIIIkr",
+   7.9
+  ],
+  [
+   "amH",
+   "amIIIkr",
+   4.5
+  ],
+  [
+   "mIII+H",
+   "mIIIkr",
+   3.9
+  ],
+  [
+   "mIIIkr",
+   "mIIIkz",
+   5.6
+  ],
+  [
+   "laIIIkr",
+   "amIIIkr",
+   4.4
+  ]
+ ],
+ "datum": "EPSG:4284 assumed",
+ "dE": 14.0,
+ "mmu_px": 120
+}

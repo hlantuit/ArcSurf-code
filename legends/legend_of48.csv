@@ -1,0 +1,13 @@
+label,hclass,hclass2,texture,cover,description
+A,F,,mixed,,"A: alluvium and low terraces; flood plains, fans, deltas - mainly sand, gravel and silt (GSC OF 48, Klassen 1971, Franklin Bay 97C and Brock River 97D, 1:250 000)"
+Cx,C,R,mixed,,"Cx: colluvial complex: colluvium, bedrock, talus, slope deposits (GSC OF 48, Klassen 1971)"
+E,E,,sand,,"E: eolian: dunes, mainly sand (GSC OF 48, Klassen 1971)"
+L,L,O,fines,,"L: lacustrine deposits, extensive organic deposits, areas of thermokarst lakes, generally underlain by silt, sand and clay or peat (GSC OF 48, Klassen 1971)"
+To,GF,F,gravel,,"To: high terraces and outwash trains; dominantly sand and gravel (GSC OF 48, Klassen 1971)"
+Tk,GF,,gravel,,"Tk: kettled terraces and outwash trains; dominantly sand and gravel (GSC OF 48, Klassen 1971)"
+H,GF,,gravel,,"H: hummocky gravel (GSC OF 48, Klassen 1971)"
+Mt,T,GF,diamicton,,"Mt: hummocky terrain; mainly till but locally and in part gravel (GSC OF 48, Klassen 1971)"
+Mx,T,GF,diamicton,,"Mx: moraine complex; transverse ridges and hummocks, mainly till but in part and locally gravel (GSC OF 48, Klassen 1971)"
+M,T,GF,diamicton,,"M: moraine unit, subscript not legible on the scan (Mt hummocky terrain or Mx moraine complex: mainly till, locally gravel) (GSC OF 48, Klassen 1971)"
+R,T,R,unknown,discontinuous,"R: areas of thin and patchy drift, rock outcrop and soliflucted uplands (GSC OF 48, Klassen 1971); coded till first (thin drift is named first; on 97D the newer CGM 112 maps 72 % of these areas as till Tb/Th/Tv and 17 % as bedrock)"
+UD,T,R,unknown,,"No unit symbol: legend NOTE, areas not designated as one of the units comprise undifferentiated drift or thin undifferentiated drift on rock (GSC OF 48, Klassen 1971): drift (till-dominated) or thin drift on rock, undivided"

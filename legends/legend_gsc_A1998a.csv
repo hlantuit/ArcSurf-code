@@ -1,0 +1,15 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#b8b7c2,O,Organic deposits: peat and muck,O,,organic,,"GSC Map 1998A Koignuk River (Kerr and Knight 2001), 1:125k UTM NAD83; frame 67d30'-68d30'N (labels; the catalogue says 67-68); unmapped Kent Peninsula topo base excluded; R4 and R2 near-identical pinks (both R); 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)"
+1,#ffe9b0,A,Alluvial deposits,F,,mixed,,
+2,#52a3ff,M3,Marine littoral sediments: sand with pebbles 1-3 m; beach ridges,M,,sand,,
+3,#c5e4ff,M2,Marine blanket: clay and silt 2-20 m; segregated ice; thaw flow slides,M,,fines,yes,
+4,#8fc8ff,M1,Marine veneer < 2 m between outcrops,M,R,mixed,veneer,
+5,#5ea4ca,D,Glaciomarine and marine deltas: sand gravel cobbles up to 15 m,GM,F,sand,,
+6,#ffc63f,G2,Glaciofluvial outwash 2-20 m,GF,,gravel,,
+7,#fffd11,G1,Glaciofluvial esker sediments 1-20 m,GF,,gravel,,
+8,#73b0b9,T2,Till blanket 2-10 m,T,,diamicton,blanket,
+9,#9dc245,T1,Till veneer < 2 m,T,R,diamicton,veneer,
+10,#f9cbe8,R4,Bedrock: gabbro sills and dykes,R,,,,
+11,#f099e3,R3,Bedrock: sedimentary rocks,R,,,,
+12,#f7cafc,R2,Bedrock: granitic and gneissic rocks,R,,,,
+13,#eb75ca,R1,Bedrock: metavolcanic rocks,R,,,,

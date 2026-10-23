@@ -1,0 +1,10 @@
+x,y,w,index,description_ru,hclass,hclass2,texture,note
+170,1817,100,10,"Peat, 1-6 m, usually on fine-grained marine sediments",O,,organic,
+170,2017,100,9,"Fluvial: deltaic and estuarine sand and silt, terraces, floodplains",F,,sand,
+170,2270,100,8,"Littoral and nearshore: sand, gravel, cobbles, boulders, 0.5-10 m",M,,gravel,
+170,2688,100,6,"Offshore (Tyrrell Sea): clayey silt and silty clay, up to 60 m",M,,fines,
+170,2945,100,5,"Sakami Moraine deposits: stratified sand and gravel, up to 40 m",GF,,gravel,
+170,3156,100,4,Esker and subaqueous outwash: stratified sand and gravel,GF,,gravel,
+170,3410,100,3,"De Geer moraine complex: sandy till, outcrops and marine fines",T,,sand,
+170,3643,100,2,"Sandy basal till, drumlins and crag-and-tail, up to 25 m",T,,sand,
+170,4005,100,1,"Bedrock: Archean and Proterozoic, locally <1 m surficial cover",R,,,

@@ -1,0 +1,13 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#dbdbd0,hIV,"bog peat, silts, clays",O,,organic,,"GGK-200 O-42-XV (1967 first edition), Tobolsk series, Quaternary map, RASTER (geokniga JPG 6212x6584); hatched swatches sampled as plain medians; many pale near-identical greens"
+1,#fcfabe,eolIV,aeolian fine sands,E,,sand,,
+2,#ebf7d3,alIV2,low floodplain alluvium,F,,sand,,
+3,#dff7c3,alIV1,high floodplain alluvium,F,,sand,,
+4,#f5e9ca,d+plIII-IV,deluvium and proluvium,C,F,fines,,
+5,#c1c9c0,l+hIII-IV,"lake-bog peat, clays, silts",L,O,organic,,
+6,#d5faba,alIII1,1st terrace alluvium,F,,sand,,
+7,#fbe694,prIII,problematic loess-like cover loams,E,,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+8,#e1f0d6,lalIII,low lake-alluvial plain,L,F,fines,,
+9,#cee4cb,lalIIsm,Samarovo lake-alluvial clays,L,F,fines,,
+10,#acddb8,alIItb,Tobolsk alluvial sands,F,,sand,,
+11,#dfb9ce,PREQ,pre-Quaternary,R,,,,

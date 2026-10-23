@@ -1,0 +1,11 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#c1d684,hQIV,"Современные отложения. Болотные отложения. Суглинки иловатые, торф",O,,organic,,"GGK-200 N-44-II (Geologicheskaya karta SSSR, 1st edition, approved 1964, printed 1967; Baraba, 79-80E 55d20m-56dN), Quaternary map; RASTER = geokniga 2000x2384 px PREVIEW (~34 m/px); vertical lithology ruling removed before classification (work/r200d/prep_vlines.py); hatched swatches sampled as 5x5-median mixtures; tints calibrated on the map (preview_tint_calib.py); lakes (Ubinskoe etc.) = WATER (QIIfd appears only on sections and shares the pale lake tint: dropped); saQIII (subaerial cover loams) and eol?QIII coded E (PI decision 2026-10-04); N2-Q1kc1/kc2 and N1tv appear only on sections; frame = 4 corners (paper edge and ridge filter, BR checked at 14x) + interior 15x10 min graticule crossings as ties ; hatched swatch: 5x5-median sample"
+1,#eaf5cf,orQIV,Современные отложения. Органогенные отложения рямов. Торф сфагновый,O,,organic,,
+2,#d3c59f,d+hQIV,"Современные отложения. Делювиальные и болотные отложения. Суглинки иловатые, пропластки торфа",C,O,fines,,hatched swatch: 5x5-median sample
+3,#b9c3a9,lQIV,"Современные отложения. Озерные отложения. Илы, суглинки, сапропели, супеси, прослои песков",L,,fines,,hatched swatch: 5x5-median sample
+4,#d8f09e,lhQIV,"Современные отложения. Озерно-болотные отложения. Суглинки иловатые, илы, торф, прослои супесей",L,O,organic,,
+5,#ece0bf,alQIV,"Современные отложения. Аллювиальные отложения пойменных террас. Суглинки иловатые, с прослоями супесей и песков",F,,fines,,
+6,#d3e2a7,alQIII-I,"Верхнечетвертичные отложения. Аллювиальные отложения первой надпойменной террасы. Суглинки, супеси, прослои песков",F,,fines,,
+7,#eddf9f,eol?QIII,"Верхнечетвертичные отложения. Эоловые (?) отложения грив. Супеси с прослоями песков, суглинки легкие",E,,sand,,
+8,#f7dfd1,saQIII,"Верхнечетвертичные отложения. Субаэральные покровные отложения. Суглинки средние и легкие, супеси",E,,fines,,subaerial COVER loams: E per PI decision 2026-10-04
+9,#eafcf1,WATER,озера (бледно-голубая заливка: оз. Убинское и др.),H,,,,"lake tint sampled on the map; the legend unit QIIfd (Fedosovo suite, only on sections) has the same pale tint and was dropped"

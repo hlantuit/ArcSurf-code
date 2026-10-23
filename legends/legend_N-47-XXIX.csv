@@ -1,0 +1,21 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#d29fc9,e,eluvium,W,,bouldery,,"GGK-200/2 N-47-XXIX, East Sayan / Tuva, Quaternary map, vector PDF (geokniga)"
+1,#fcbf94,"e,d",eluvium and deluvium,W,C,mixed,,
+2,#f69679,c,colluvium,C,,bouldery,,
+3,#eda5aa,"dr,s",desertion and solifluxion,C,,bouldery,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+4,#eea092,"c,dr",colluvium and desertion,C,,bouldery,,
+5,#f8a79e,s,solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+6,#f8a691,"d,s",deluvium and solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+7,#f1f3c3,aH2,floodplain and channel alluvium,F,,gravel,,
+8,#f0e4ab,"a,pIII-H1",alluvium and proluvium,F,,bouldery,,
+9,#f5d4a6,"p,dIII-H1",proluvium and deluvium,F,C,bouldery,,
+10,#c3e0aa,a1III4,Akkem 1st terrace alluvium,F,,gravel,,
+11,#d6aa83,gIII4,Bashkhem till,T,,bouldery,,
+12,#d7e7aa,a1+2III3+4,1st-2nd terrace alluvium,F,,gravel,,
+13,#b7da9b,a2III3,Beltir 2nd terrace alluvium,F,,gravel,,
+14,#aad48a,a3III2,3rd terrace alluvium,F,,gravel,,
+15,#cda56e,"g,fIII2",Azas till and glaciofluvial,T,GF,bouldery,,
+16,#b9ca7a,fIII2,Azas glaciofluvial,GF,,sand,,
+17,#9acf8b,a4III1,Kuekhtanar 4th terrace,F,,gravel,,
+18,#87c875,a5I6-8,Katun 5th terrace,F,,gravel,,
+19,#a677b4,PREQ,pre-Quaternary,R,,,,

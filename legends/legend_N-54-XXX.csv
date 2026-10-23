@@ -1,0 +1,30 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#cb90bf,eIII-H,"Элювиальные образования. Пески, пески с гравием и галькой с линзами и прослоями супесей, суглинков и глин (до 3 м)",W,,sand,,"GGK-200/2 N-54-XXX (Piltun), Sakhalin series, Quaternary map, 2nd ed. (compiled OAO Sakhalinskaya GRE, author O.S. Zueva, recommended NRS Rosnedra 23 Dec 2014; electronic edition MF VSEGEI 2020), vector PDF (geokniga); the Sea of Okhotsk shelf is mapped with marine sea-floor units (the merge clips to land); lakes carry the lake-deposit unit lH2 (no separate water fill); cover peat (Pokrovnye torfyaniki) drawn only as #00b08d line hatch: extracted with work/r200c/pdf_to_polygons_hatch.py as composite units plH(cover)/<substrate>"
+1,#fab383,"e,dIII-H","Элювиальные и делювиальные образования. Пески, пески с гравием и галькой, реже со щебнем, с линзами и прослоями супесей, суглинков и глин, реже глины и суглинки (до 2,5 м)",W,C,sand,,
+2,#fcbc86,dIII-H,"Делювиальные отложения. Пески, пески с гравием и галькой, иногда со щебнем, с линзами и прослоями суглинков, глин и супесей, реже суглинки и глины (до 3 м)",C,,sand,,
+3,#f8a07c,"d,cIII-H","Делювиальные и коллювиальные отложения. Суглинки, супеси, дресва, щебень с небольшим количеством глыбового материала (до 3 м)",C,,mixed,,
+4,#659ad2,smE-Hdr,"Морские отложения. Дерюгинский сейсмокомплекс. Пески, пески глинистые, глины (1500 м). Только на разрезе и схеме соотношений четвертичных образований",M,,mixed,,section and scheme only (not on the map)
+5,#9fceef,mvprH,"Морской ундалювий, прибрежные фации. Преимущественно однородные пески, илистые пески, редко гравий и галька (до 20 м)",M,,mixed,,sea floor ; same printed colour as mpH/mfdH/mnlH: one class
+6,#9fceef,mpH,"Морской перлювий. Гравий, галька, песок (до 2 м)",M,,mixed,,sea floor ; same printed colour as mvprH/mfdH/mnlH: one class
+7,#9fceef,mfdH,"Морской флювиал, дрейфовые фации. Пески, алевритовые пески (до 15 м)",M,,mixed,,sea floor ; same printed colour as mvprH/mpH/mnlH: one class
+8,#9fceef,mnlH,"Морской нефелоид, лагунные фации. Илы (до 20 м)",M,,mixed,,sea floor and lagoons ; same printed colour as mvprH/mpH/mfdH: one class
+9,#a4d9d0,amdH,"Аллювиально-морские отложения дельт крупных рек. Илистые пески, супеси, суглинки с гравием и галькой, глины, илы (до 6 м)",F,M,mixed,,
+10,#afd5f1,"mvl,plH2","Морской ундалювий, лагунные и прибрежные фации. Отложения прибрежных отмелей, кос, баров (пересыпей). Преимущественно пески, супеси, редко гравий, галька, илы (до 10 м)",M,,sand,,spits and barrier bars
+11,#dcecc3,aH2,"Аллювиальные отложения русла, высоких и низких пойм, первой надпойменной террасы до 5 м. Пески, пески с гравием и галькой, с линзами и прослоями гравийно-галечниковых отложений, супесей, суглинков, глин и илов (до 6 м)",F,,sand,,
+12,#dfc486,plH2,Палюстринные отложения. Торфяники с линзами илов (до 4 м). Месторождения торфа,O,,organic,,
+13,#aee2fa,lH2,"Озерные отложения. Глины, суглинки, линзы песков, илы, гравийники (до 5 м)",L,,fines,,also fills the present lakes (no separate water fill on this sheet)
+14,#fff398,vH2,"Эоловые отложения. Пески, редко пески с гравием (до 20 м)",E,,sand,,
+15,#b4dfd3,laH2,"Озерно-аллювиальные отложения. Суглинки, глины с прослоями и линзами галечников (до 5 м)",L,F,fines,,
+16,#b0cbea,m1H2,"Морские отложения. Первая морская терраса высотой 3-6 м. Пески, галечники, прослои гравийников, илов, суглинков, супесей и глин (до 20 м)",M,,mixed,,
+17,#8fb9e3,m2H1,"Морские отложения. Вторая морская терраса высотой 6-10 м. Супеси, пески, суглинки с примесью гравия, прослои гравийников (до 10 м)",M,,mixed,,
+18,#b7da9b,a3III2,"Аллювиальные отложения. Третья надпойменная терраса высотой 10-20 м. Пески, пески с гравием и галькой, с линзами и прослоями супесей, суглинков и глин, иногда переслаивание песка с гравием, реже гравийно-галечниковые отложения и суглинки (до 10 м)",F,,sand,,
+19,#7cccbf,amIII2,Аллювиально-морские отложения. Галечники с суглинками и песком (до 20 м),F,M,gravel,,
+20,#7bafde,m3III2,"Морские отложения. Третья морская терраса высотой 10-20 м. Пески, галечники, суглинки, глины (до 12 м). Месторождения строительного песка",M,,mixed,,
+21,#438ccb,smN2-Epm,"Помырский сейсмокомплекс. Пески, прослои галечников, гравийников, глин (2000 м). Только на разрезе и схеме соотношений четвертичных образований",M,,mixed,,"section and scheme only (not on the map); Pliocene-Eopleistocene marine seismic complex, classed by genesis"
+22,#b28abf,PREQ,Дочетвертичные образования. Только на разрезе и схеме соотношений четвертичных образований,R,,,,section and scheme only (not on the map)
+23,#00b08e,plH(cover),Покровные торфяники (до 6 м),O,,organic,,"cover peat drawn only as #00b08d line hatch over other units: pseudo fill, extracted with work/r200c/pdf_to_polygons_hatch.py --hatch"
+24,#7cccc0,plH(cover)/amIII2,Покровные торфяники (до 6 м) на аллювиально-морских отложениях amIII2,O,F,organic,,cover peat (up to 6 m) over alluvial-marine amIII2
+25,#dcecc4,plH(cover)/aH2,Покровные торфяники (до 6 м) на аллювиальных отложениях aH2,O,F,organic,,cover peat (up to 6 m) over alluvium aH2
+26,#afd5f2,"plH(cover)/mvl,plH2","Покровные торфяники (до 6 м) на морских отложениях кос и баров mvl,plH2",O,M,organic,,"cover peat (up to 6 m) over marine spit and bar deposits mvl,plH2"
+27,#b0cbeb,plH(cover)/m1H2,"Покровные торфяники (до 6 м) на морских отложениях первой террасы m1H2",O,M,organic,,cover peat (up to 6 m) over marine 1st terrace m1H2
+28,#8fb9e4,plH(cover)/m2H1,"Покровные торфяники (до 6 м) на морских отложениях второй террасы m2H1",O,M,organic,,cover peat (up to 6 m) over marine 2nd terrace m2H1

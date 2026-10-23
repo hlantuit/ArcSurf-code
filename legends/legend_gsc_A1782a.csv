@@ -1,0 +1,23 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#fffb94,13,"ALLUVIUM: sand and gravel with detrital organic beds; commonly < 5 m; braided floodplains",F,,mixed,,"GSC Map 1782A Northern Melville Peninsula (Dredge 1993), 1:200k UTM, raster scan"
+1,#4791f0,12,"MARINE: littoral deposits: gravel, bouldery or flaggy deposits; 2-6 m; flights of emerged beach ridges",M,,gravel,,
+2,#6caaf8,11,"MARINE: deltaic deposits: planar- and cross-bedded sand and silt with organic detritus; 5-30 m; terraces",M,F,sand,,
+3,#91c0fb,10a,"MARINE: offshore and sublittoral deposits, blanket: stratified sand and silt with ice-rafted boulders; 1-10 m",M,,fines,blanket,split swatch sampled by hand
+4,#c0ddff,10b,"MARINE: offshore and sublittoral deposits, veneer < 1 m, mimicking underlying rock and till",M,,fines,veneer,split swatch sampled by hand
+5,#91bbc9,9,"GLACIOMARINE DEPOSITS: stony sandy silt or stony clay; 1-5 m; shell fragments; mantles till and rock",GM,,diamicton,,
+6,#89629d,8,"GLACIOLACUSTRINE DEPOSITS: silt and fine sand; 1-3 m; veneers over till",GL,,fines,veneer,
+7,#fff204,7,"GLACIOFLUVIAL: outwash: cross-stratified sand and rounded gravel; 1-10 m; kettled terraces and braided fans",GF,,mixed,,
+8,#f5954b,6,"GLACIOFLUVIAL: kame and esker deposits: poorly sorted sand and gravel with granitoid boulders; 5-15 m",GF,,mixed,,
+9,#668055,5,"TILL: hummocky till: chiefly granitic till; 5-60 m; kettled hummocky surface",T,,diamicton,,
+10,#7aaca8,4a,"TILL: Laurentide till blanket, granitic: 1-10 m; gently rolling plains, fluted belts",T,,diamicton,blanket,split swatch sampled by hand
+11,#9bbf9c,4b,"TILL: Laurentide till blanket, carbonate: 1-10 m; sparsely vegetated",T,,diamicton,blanket,split swatch sampled by hand
+12,#d3de9e,3a,"TILL: till veneer, granitic: < 1 m; patches over rock",T,R,diamicton,veneer,split swatch sampled by hand
+13,#e9eda1,3b,"TILL: till veneer, carbonate: < 1 m",T,R,diamicton,veneer,split swatch sampled by hand
+14,#5d8e78,2b,"LOCAL TILL: till blanket: bouldery till of blocky clasts in sandy gruss matrix; 1-5 m",T,,bouldery,blanket,
+15,#98b773,2a,"LOCAL TILL: till veneer < 1 m; grades into outcrop and broken rock",T,R,bouldery,veneer,
+16,#fec4c0,1b,"BROKEN ROCK: broken carbonate rock: platy flags and rubbly clay from Paleozoic limestone and dolomite; 1-2 m",W,R,bouldery,,
+17,#fcc4ce,1a,"BROKEN ROCK: felsenmeer: frost-riven stacks of angular joint blocks from granitic outcrop",W,R,bouldery,,colour close to 1b (both W)
+18,#ee73ac,P,"ROCK: Paleozoic limestone and dolomite (Bad Cache Rapids and Ship Point formations)",R,,,,
+19,#f498b6,P2,"ROCK: Proterozoic low grade metasediments (Fury and Hecla, Autridge, Folster Lake)",R,,,,legend symbol also 'P'; renamed P2 here
+20,#f498c9,A,"ROCK: Aphebian marble, pelitic gneiss (Penrhyn Group)",R,,,,
+21,#fcc9e8,A2,"ROCK: Archean granitoid and other rocks",R,,,,legend symbol also 'A'; renamed A2 here

@@ -1,0 +1,11 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#d4efe4,LIV,Современный отдел: озерные отложения,L,,sand,,"Geological map of the USSR 1:200 000 (1st ed.) P-39-XII, Timan series, Quaternary map, RASTER: geokniga map-only PREVIEW JPG 1651x2385 (~33.6 m/px); NO legend and NO imprint image (print year unknown): legend reconstructed from the indexes printed on the face (fIIvc, edIII-IV, cdIII-IV, La,fII-III, La,LgIIr-vc, gIIp, aIII, aIV, LIV), hclass from the genetic index (e,d = W/C; La,f = L/F as P-39-IX L,a,fII-III); fills = map tints (preview_tint_calib.py)"
+1,#eef0b2,aIV,Современный отдел: аллювиальные отложения,F,,sand,,
+2,#cbeab4,aIII,Верхний отдел: аллювиальные отложения надпойменных террас,F,,sand,,
+3,#fcd1c1,edIII-IV,Верхний и современный отделы: элювиальные и делювиальные отложения,W,C,mixed,,
+4,#fcd4d5,cdIII-IV,Верхний и современный отделы: коллювиальные и делювиальные отложения,C,,bouldery,,
+5,#bae3cc,"La,fII-III",Средний - верхний отделы: озерно-аллювиальные и флювиогляциальные отложения,L,F,sand,,"la = L/F (PI rule), the f (glaciofluvial) component not coded; as P-39-IX L,a,fII-III"
+6,#b8d18c,fIIvc,Средний отдел. Вычегодский горизонт: флювиогляциальные отложения,GF,,sand,,
+7,#aad6c9,"La,LgIIr-vc",Средний отдел. Родионовский - вычегодский горизонты: озерно-аллювиальные и озерно-ледниковые отложения,L,GL,sand,,"tint 6.9 dE from La,fII-III (both L primary)"
+8,#de9b5c,gIIp,Средний отдел. Печорский горизонт: ледниковые отложения (морена),T,,diamicton,,
+9,#8e7196,PREQ,Дочетвертичные породы (выходы),R,,,,dark-violet outcrop spots along valleys; tint pinned

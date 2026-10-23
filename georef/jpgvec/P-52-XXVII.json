@@ -1,0 +1,147 @@
+{
+ "sheet": "P-52-XXVII",
+ "source": "raster scan",
+ "projection": "eqdc",
+ "rms_m": 24.012346725907562,
+ "max_res_m": 44.90457922317419,
+ "m_per_px": 33.804572664461794,
+ "corner_residuals_m": [
+  20.0,
+  14.2,
+  19.6,
+  44.9,
+  21.0,
+  11.9,
+  17.3,
+  29.0,
+  29.6,
+  20.7,
+  14.0,
+  23.9,
+  26.3
+ ],
+ "n_ties": 9,
+ "corners": [
+  {
+   "approx": [
+    82.6,
+    115.8
+   ],
+   "snapped": [
+    82.6,
+    115.8
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1667.0,
+    115.7
+   ],
+   "snapped": [
+    1667.0,
+    115.7
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1683.0,
+    2316.1
+   ],
+   "snapped": [
+    1683.0,
+    2316.1
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    66.0,
+    2313.9
+   ],
+   "snapped": [
+    66.0,
+    2313.9
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.118,
+ "area_km2": 4014.3771126585148,
+ "neatline_km2": 4019.56374120014,
+ "cover_frac": 0.9987096538640592,
+ "n_polygons": 2214,
+ "units": {
+  "#fcf0a4": {
+   "index": "kvIIs-IIIsr",
+   "px": 428439,
+   "direct_frac": 0.895
+  },
+  "#00ffff": {
+   "index": "kvIIs-IIIsr/aN2-Q1",
+   "px": 351127,
+   "direct_frac": 0.856
+  },
+  "#8bc488": {
+   "index": "laII-IIIel",
+   "px": 26397,
+   "direct_frac": 0.32
+  },
+  "#e3f496": {
+   "index": "aIIIsr-IV",
+   "px": 87049,
+   "direct_frac": 0.619
+  },
+  "#f2faab": {
+   "index": "aIV",
+   "px": 188619,
+   "direct_frac": 0.812
+  },
+  "#e8fbff": {
+   "index": "WATER",
+   "px": 109806,
+   "direct_frac": 0.844
+  },
+  "#b56bb0": {
+   "index": "e",
+   "px": 406952,
+   "direct_frac": 0.798
+  },
+  "#fa9b49": {
+   "index": "ed",
+   "px": 583614,
+   "direct_frac": 0.859
+  },
+  "#fa9e29": {
+   "index": "d",
+   "px": 215812,
+   "direct_frac": 0.918
+  },
+  "#f7803c": {
+   "index": "dc",
+   "px": 551647,
+   "direct_frac": 0.881
+  },
+  "#fb9a6f": {
+   "index": "ds",
+   "px": 408733,
+   "direct_frac": 0.901
+  },
+  "#dfc262": {
+   "index": "ad",
+   "px": 115631,
+   "direct_frac": 0.745
+  },
+  "#a0709a": {
+   "index": "PREQ",
+   "px": 46128,
+   "direct_frac": 0.416
+  }
+ },
+ "confusable_pairs": [],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 30
+}

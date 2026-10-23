@@ -1,0 +1,21 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#cb90bf,e,eluvium,W,,fines,,"GGK-1000/3 R-50 (Saskylakh), Anabar-Vilyui series, Quaternary map, vector PDF (geokniga), page rotation 90"
+1,#fab072,d,deluvium,C,,fines,,
+2,#fab383,"e,d",eluvium and deluvium,W,C,bouldery,,
+3,#f58466,c,colluvium,C,,bouldery,,
+4,#f8a691,"d,s",deluvium and solifluxion,C,,fines,,
+5,#f8a07c,"c,d",colluvium and deluvium,C,,bouldery,,
+6,#e995a3,"e,s",eluvium and solifluxion,W,C,bouldery,,
+7,#ddecc3,aH,"channel, floodplain and 1st terrace alluvium",F,,gravel,,
+8,#fff398,vH,eolium,E,,sand,,
+9,#99cbc4,"l,plIII-H","limnium and palustrium, peat",L,O,fines,,
+10,#cce4b7,a1IIIsr-H1,1st terrace alluvium,F,,sand,,
+11,#ffda9e,LIIIej,"Eyk suite loessoid, ice wedges and lenses",E,,fines,yes,"2026-10-20 QA: Eyk suite loessoid with ice wedges coded E, not Y: IRYP v2 (Strauss et al.) maps only 16-34 % of it as Yedoma (project decision: follow IRYP)"
+12,#ffd38e,LIIIed,"Yedoma suite, ice wedges",Y,,fines,yes,
+13,#6dcff6,lIIIkr,"Karginsky limnium, ice wedges",L,,sand,yes,
+14,#b7da9b,a2IIIkr,2nd terrace alluvium,F,,gravel,,
+15,#a2cc94,a3IIIkz,3rd terrace alluvium,F,,gravel,,
+16,#57c5c9,"l,laII-IIIon","Ongorbut unit, limnium and limnoalluvium",L,F,sand,,
+17,#64c296,"a,laII-IIIhr","Kharamass unit, buried valley alluvium",F,L,fines,,
+18,#8aca8b,a4IIsr-tz,4th terrace alluvium,F,,sand,,
+19,#a678b4,PREQ,pre-Quaternary,R,,,,

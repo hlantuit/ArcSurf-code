@@ -1,0 +1,22 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#afaeb6,E,"EOLIAN DEPOSITS: well sorted coarse to fine sand; commonly >2 m; interbedded with organic material and thin outwash sheets; polygonal patterned ground",E,,sand,,"GSC Map 1686A Bylot Island and adjacent areas (Klassen 1993), UTM, raster scan"
+1,#9f6b53,C,"COLLUVIAL DEPOSITS: coarse sand, gravel and boulders by mass wasting; talus aprons, fans",C,,bouldery,,
+2,#ffe083,Ao,"ALLUVIAL: alluvium: silt, sand, gravel and boulders forming floodplains with braided channels and bars",F,,mixed,,
+3,#ffd826,Af,"ALLUVIAL: alluvial fans: sand, gravel and boulders at the base of slopes",F,,mixed,,
+4,#789acf,Mn,"MARINE: littoral (nearshore) deposit: coarse sand, gravel and boulders; 1-5 m; beaches, bars and spits",M,,gravel,,
+5,#fff97a,"Md|Mi","MARINE: deltaic deposit (Md); Mi = deltaic deposit formed in contact with glacier ice: mud, sand, gravel, boulders; 5 to >20 m",M,F,mixed,,two-part swatch; the finder sampled the Mi half; Md half is bright yellow and close to Af
+6,#99c5f8,MR,"MARINE: marine deposit and bedrock, undifferentiated: thin (<2 m) discontinuous sediments and bedrock",M,R,,veneer,
+7,#ff9c44,Go,"GLACIOFLUVIAL: outwash: well sorted coarse sand, gravel and boulders; 2 to >10 m; braided plains and terraces",GF,,gravel,,
+8,#ffcba2,"Gs, Gs*","GLACIOFLUVIAL: stratified and nonstratified drift (undifferentiated): sorted to poorly sorted sand and gravel; low pads and terraces",GF,,mixed,,
+9,#c7735d,"Gk, Gk*","GLACIOFLUVIAL: ice contact stratified drift: sand and gravel, 5-60 m; hummocks or short ridges",GF,,mixed,,
+10,#fc5e52,GM,"GLACIOFLUVIAL: outwash <2 m thick overlying thick (>3 m) sequences of older marine sediments",GF,M,mixed,,index GM here is NOT glaciomarine
+11,#7e7692,L,"GLACIAL LAKE: lake sediment (undifferentiated): muddy sand, coarse gravel, boulders; commonly thin (<1 m)",GL,,mixed,,
+12,#9c9fc0,Ld,"GLACIAL LAKE: deltaic sediments: coarse sand, gravel and boulders at former inflowing streams",GL,,gravel,,
+13,#a4b841,"D*, Ds*","GLACIAL: foreign drift (undifferentiated): muddy sand to sandy diamicton with foreign debris and marine shell fragments; <1-2 m; Ds* 1 to >10 m, may include glaciomarine",T,,diamicton,,
+14,#a3be93,D,"GLACIAL: native drift (undifferentiated): sandy diamicton with angular crystalline boulders; commonly thin (<1 m) mantle on bedrock",T,R,diamicton,veneer,
+15,#84976d,"Dm, Dm*","GLACIAL: ice marginal drift: poorly sorted gravel to boulder gravel; short morainic ridges and meltwater channels",T,GF,bouldery,,
+16,#d3d96c,DG,"GLACIAL: bouldery drift: angular crystalline erratics of single clast thickness mantling thick (>3 m) glaciofluvial deposits",T,GF,bouldery,veneer,
+17,#ff8682,Rk,"BEDROCK: sedimentary rock (poorly consolidated to unconsolidated): Cretaceous-Tertiary sandstone, mudstone, coal; mantled by in situ weathering",R,W,,,
+18,#ffa6a3,Rp,"BEDROCK: sedimentary rock (consolidated): Proterozoic limestone, dolostone, sandstone, quartzite; tablelands mantled by felsenmeer",R,,,,
+19,#ffd2d2,Rx,"BEDROCK: crystalline rock: Archean/Aphebian igneous and metamorphic; rugged mountains with mountain glaciers",R,,,,
+20,#cee7ff,ICE,"Glacier ice (map face colour; not a legend unit)",I,,,,sampled on the map face (central Bylot ice cap)

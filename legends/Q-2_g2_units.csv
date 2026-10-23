@@ -1,0 +1,29 @@
+x,y,w,index,description_ru,hclass,hclass2,texture,note
+5863,1728,110,e,eluvium,W,,bouldery,eluvium
+5862,1823,110,c,colluvium,C,,bouldery,colluvium
+4979,1917,110,a2III3,2nd terrace alluvium,F,,mixed,2nd terrace alluvium
+5330,1917,110,a1IV1,1st terrace alluvium,F,,mixed,1st terrace alluvium
+5506,1917,110,aIV2,late Holocene alluvium,F,,mixed,late Holocene alluvium
+5686,2012,110,lIV,Holocene lacustrine,L,,fines,Holocene lacustrine
+4802,2106,110,gIII2,till,T,,bouldery,till
+5156,2106,110,gIII4,till,T,,bouldery,till
+4802,2201,110,fIII2,glaciofluvial,GF,,gravel,glaciofluvial
+4095,2295,110,mI2,marine terrace,M,,mixed,marine terrace
+4272,2296,110,m4II2,marine terrace,M,,mixed,marine terrace
+4449,2296,110,mII4,marine,M,,mixed,marine
+4625,2297,110,m3III1,marine terrace,M,,sand,marine terrace
+4979,2297,110,m2III3,marine terrace,M,,sand,marine terrace
+5332,2297,110,m1IV1,Holocene marine terrace,M,,sand,Holocene marine terrace
+5509,2297,110,mIV2,late Holocene marine,M,,sand,late Holocene marine
+4979,2583,110,laIII3,lake-alluvial,L,F,fines,lake-alluvial
+4274,2771,110,gmII2,glaciomarine,GM,,mixed,glaciomarine
+5863,2867,110,"e,d",eluvium and deluvium,W,C,bouldery,eluvium and deluvium
+5863,2961,110,dc,deluvial-colluvial,C,,bouldery,deluvial-colluvial
+5864,3056,110,ds,deluvial-solifluxion,C,,mixed,deluvial-solifluxion
+5864,3151,110,PREQ,pre-Quaternary,R,,,pre-Quaternary
+5687,3341,110,s:m1IV,shelf wave (offshore),M,,sand,shelf wave (offshore)
+5653,3437,50,s:m2'IV,shelf lagoon basin,M,,fines,
+5721,3437,50,s:m2''IV,shelf stagnant basin,M,,fines,
+5686,1917,110,aIV,Holocene alluvium,F,,mixed,Holocene alluvium
+5686,2297,110,mIV,Holocene marine on land,M,,sand,Holocene marine on land
+5686,2679,110,lbIV,lacustrine-biogenic,L,O,organic,lacustrine-biogenic

@@ -1,0 +1,26 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#f1f3c3,aH,floodplain alluvium,F,,sand,,"GGK-1000/3 O-43 (Tara), West Siberian series, Pliocene-Quaternary map, vector PDF (geokniga maps/32503); hatched peat and loessoid cover overprints not captured"
+1,#aee2fa,lH,limnium,L,,fines,,
+2,#fcbc86,dIII-H,deluvium,C,,fines,,
+3,#ffe0ad,LIII-H,loessoid on pre-Quaternary rocks,E,,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+4,#ddebb7,a1IIIsr-H,1st terrace alluvium (Ugan-Irtysh),F,,sand,,
+5,#fff398,vIIIsr-H,eolium (ridges),E,,sand,,
+6,#cde4aa,a1IIIsr,Sartan 1st terrace alluvium,F,,sand,,
+7,#c3e0aa,a2IIIkr-sr,2nd terrace alluvium,F,,sand,,
+8,#bbd7a4,a3IIIer,Ermakovo 3rd terrace alluvium,F,,sand,,
+9,#aad69c,a3IIIkz-er,3rd terrace alluvium (Ob),F,,sand,,
+10,#93d2c1,la4II-IIItz-kz,4th terrace lake-alluvium,L,F,sand,,
+11,#7fcbae,"la,lII-IIIkr",Karasuk lake-alluvium and limnium,L,F,fines,,
+12,#62c2a0,"l,a4IIsr-tz",Shirta-Taz limnium and alluvium,L,F,mixed,,
+13,#ffd38e,"Lpl,a,lIIsz","Suzgun loessoid, palustrium, alluvium, limnium",E,L,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+14,#9acf8b,aIItb,Tobol alluvium,F,,sand,,
+15,#dfc486,"L,laI-IIfd",Fedosovo loessoid and lake-alluvium,E,L,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+16,#8aca8b,aI-II,ancient valley alluvium,F,,sand,,
+17,#5dc4b4,laIks,Krivosheino lake-alluvium,L,F,fines,,
+18,#5ab8a1,"a,lE-Ism",Smirnovo alluvium and limnium,F,L,fines,,
+19,#6dcff6,lEIub,Ubinsk limnium,L,,fines,,
+20,#5cb897,aEIkg,Kargat alluvium,F,,sand,,
+21,#64c296,"a,lEkc",Kochki alluvium and limnium,F,L,sand,,
+22,#71c276,aN2-Qcn,Chanov alluvium,F,,sand,,
+23,#22ba9d,laN1-2ns,Novostanichnaya lake-alluvium,L,F,fines,,
+24,#a678b4,PREQ,pre-Quaternary with slope deposits,R,C,,,

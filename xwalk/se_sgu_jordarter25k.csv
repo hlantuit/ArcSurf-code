@@ -1,0 +1,40 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+13,E,,sand,,,flygsand (wind-blown sand)
+36,M,,,,,skaljord (shell deposit) - marine by definition
+39,Q,,fines,,,silt - texture-only unit; genesis not stated
+50,GF,,,,,isälvssediment (glaciofluvial)
+51,GF,,bouldery,,,"isälvssediment, sten--block"
+55,GF,,sand,,,"isälvssediment, sand"
+57,GF,,gravel,,,"isälvssediment, grus"
+66,W,,bouldery,,,blockmark (boulder field) - usually frost-shattered in situ; as 250k
+75,O,,organic,,,torv (peat)
+81,C,,bouldery,,,talus (rasmassor)
+90,DROP,,,,,oklassat område (unclassified) - dropped so a coarser source can fill it
+91,H,,,,,vatten (water)
+100,T,,diamicton,,,morän (till)
+200,X,,,,,fyllning (fill)
+849,R,T,,,,"rösberg - wave-washed till surface, bedrock/boulder lag; as 250k"
+888,R,,,,,berg (bedrock)
+2372,C,,,,,flytjord eller skredjord (solifluction or landslide soil)
+8175,O,,organic,,,"torv, tidvis under vatten (peat, periodically submerged)"
+8802,F,,fines,,,"älvsediment, grovsilt--finsand"
+8803,F,,gravel,,,"älvsediment, grus"
+8804,F,,,,,älvsediment (fluvial)
+8809,F,,sand,,,"älvsediment, sand"
+8814,F,,bouldery,,,"älvsediment, sten--block"
+9060,GL,,fines,,,"glacial grovsilt--finsand: SGU 'glacial' fines = deposited in glacial water (lake OR sea, not split); GL chosen, GM possible below the highest coastline"
+9147,T,Q,diamicton,,,morän omväxlande med sorterade sediment (till alternating with sorted sediments)
+9792,T,,fines,,,Moränlera eller lerig morän (clay till) [added 2026-10-03 for the southern mountain window]
+9336,T,,bouldery,,,"Morän, sten--block (bouldery till) [added 2026-10-03 for the southern mountain window]"
+86,Q,,fines,,,lera--silt - texture-only unit; genesis not stated (as in the 1:250k crosswalk) [added 2026-10-03 for the southern mountain window]
+48,GL,,fines,,,glacial silt: SGU 'glacial' fines = deposited in glacial water (lake OR sea); GL as for 9060 [added 2026-10-03 for the southern mountain window]
+31,Q,,sand,,,postglacial sand - texture-only unit; genesis not stated (wave-washed or fluvial) [added 2026-10-03 for the southern mountain window]
+2368,C,,mixed,,,"slamströmssediment, ler--block (debris-flow / mudflow sediment) [added 2026-10-03 for the southern mountain window]"
+33,Q,,gravel,,,"svallsediment, grus (wave-washed gravel): shore reworking, lake or sea not stated [added 2026-10-03 for the southern mountain window]"
+24,Q,,fines,,,postglacial silt - texture-only unit; genesis not stated [added 2026-10-03 for the southern mountain window]
+6,O,L,organic,,,gyttja (organic lake mud) [added 2026-10-03 for the southern mountain window]
+9191,I,,,,,glaciär (glacier) [added 2026-10-03 for the southern mountain window]
+8806,F,,fines,,,"älvsediment, ler--silt [added 2026-10-03 for the southern mountain window]"
+85,Q,,fines,,,lera (clay) - texture-only unit; genesis not stated [added 2026-10-03 for the southern mountain window]
+8937,F,,,,,svämsediment (floodplain alluvium) [added 2026-10-03 for the southern mountain window]
+1,O,,organic,,,mossetorv (bog peat) [added 2026-10-03 for the southern mountain window]

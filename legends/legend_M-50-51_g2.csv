@@ -1,0 +1,21 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#c784ce,e,eluvium,W,,bouldery,,"GGK-1000/3 M-(50),(51) Priargunsk (new series), Quaternary map, RASTER (geokniga JPG 5725x7142); frame 117-121E, 48d40-52N; eluvium"
+1,#f15742,"e,d",eluvium and deluvium,W,C,bouldery,,eluvium and deluvium
+2,#f35d5d,ds,deluvial-solifluxion,C,,mixed,,deluvial-solifluxion
+3,#e5ee5b,aIV,floodplain alluvium,F,,mixed,,floodplain alluvium
+4,#fda194,dsIII-IV,deluvial-solifluxion,C,,mixed,,deluvial-solifluxion
+5,#cbe286,a1IIIos,1st terrace alluvium (Oshurkovo),F,,mixed,,1st terrace alluvium (Oshurkovo)
+6,#abc958,a2IIIst,2nd terrace alluvium (Stepanovka),F,,mixed,,2nd terrace alluvium (Stepanovka)
+7,#96b95b,"a3IIIsv,tm",3rd terrace alluvium,F,,mixed,,3rd terrace alluvium
+8,#8ab048,a1-3III,1st-3rd terrace alluvium,F,,mixed,,1st-3rd terrace alluvium
+9,#fe8645,dIII,deluvium,C,,mixed,,deluvium
+10,#cf9452,adIII,alluvial-deluvial,F,C,mixed,,alluvial-deluvial
+11,#e98a43,dpIII,deluvial-proluvial,C,F,mixed,,deluvial-proluvial
+12,#fb716e,dsIII,deluvial-solifluxion,C,,mixed,,deluvial-solifluxion
+13,#e3383f,cII-III,colluvium,C,,bouldery,,colluvium
+14,#eb504b,dcII-III,deluvial-colluvial,C,,bouldery,,deluvial-colluvial
+15,#8d4e8a,drII-III,desersion,C,,bouldery,,desersion
+16,#7ca74d,a4+5II,4th-5th terrace alluvium,F,,mixed,,4th-5th terrace alluvium
+17,#5b8b3f,a4IIkr,4th terrace alluvium (Kropotkin),F,,mixed,,4th terrace alluvium (Kropotkin)
+18,#50813e,aN2-I,Pliocene-lower Pleistocene alluvium,F,,mixed,,Pliocene-lower Pleistocene alluvium
+19,#8855a2,PREQ,pre-Quaternary outcrops,R,,,,pre-Quaternary outcrops

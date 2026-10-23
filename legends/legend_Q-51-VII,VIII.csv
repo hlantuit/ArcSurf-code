@@ -1,0 +1,15 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#d29fc9,e,eluvium,W,,fines,,"GGK-200/2 Q-51-VII,VIII, Anabar-Vilyui, Quaternary map, vector PDF (geokniga)"
+1,#fdc797,d,deluvium,C,,fines,,
+2,#fab383,"e,d",eluvium and deluvium,W,C,fines,,
+3,#f8a691,"d,s",deluvium and solifluxion,C,,fines,,
+4,#fcbc86,D,"deluvial-lacustrine-eluvial with solifluxion, ice",C,L,fines,yes,
+5,#d2ccb2,plH,"bog, peat, ice wedges",O,,organic,yes,
+6,#f1f3c3,aH,channel and floodplain alluvium,F,,gravel,,
+7,#a9d3cc,"l,plH",lacustrine and bog,L,O,fines,,
+8,#ddebb7,a1III4-H,1st terrace alluvium,F,,sand,,
+9,#ffe0ae,LIII2-4,"Muruktin-Sartan loess cover, ice wedges",Y,,fines,yes,
+10,#cde4aa,a2III3-4,2nd terrace alluvium,F,,fines,,
+11,#b7da9b,a3III1-2,3rd terrace alluvium,F,,mixed,,
+12,#7fcbae,laII3-III1mv,Mavrin lake-alluvial,L,F,sand,,
+13,#a677b4,PREQ,pre-Quaternary rock,R,,,,

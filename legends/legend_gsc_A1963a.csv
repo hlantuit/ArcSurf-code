@@ -1,0 +1,19 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#b76952,Ca,"COLLUVIUM: talus: active block and rubble accumulations up to 50 m; scree aprons and fans below cliffs",C,,bouldery,,"GSC Map 1963A Moffet Inlet and Fitzgerald Bay (Dredge 2000), 1:250k UTM, raster scan. Glacier ice is a blue line pattern on white: it reads as paper (no-data) and falls to the coarser source"
+1,#d92e87,Cr,"COLLUVIUM: rock glacier debris: talus 10-50 m deformed by flow of interstitial or buried ice",C,,bouldery,yes,rock glaciers: ice-cored by definition
+2,#fffede,Ap,"FLUVIAL: alluvial plains; active braided floodplains incl. active proglacial outwash",F,,mixed,,swatch sampled by hand
+3,#fffc13,At,"FLUVIAL: alluvial terraces; gravel and sand 2-20 m",F,,mixed,,
+4,#ffe78d,Af,"FLUVIAL: alluvial fans",F,,mixed,,
+5,#bfdfff,Mr,"MARINE AND GLACIAL MARINE: beach sediments: gravel and sand, 1-5 m, ridges and swales",M,,gravel,,
+6,#3369d4,Mt,"MARINE AND GLACIAL MARINE: deltaic sediments: clay, silt, sand, gravel, 5-20 m, dissected terraces",M,F,mixed,,
+7,#84c1ff,Mv,"MARINE AND GLACIAL MARINE: deepwater proglacial silt veneers with dropstones, 1-2 m",GM,M,fines,veneer,
+8,#5aa7ff,Mb,"MARINE AND GLACIAL MARINE: deepwater proglacial silt blankets with dropstones, 2-10 m",GM,M,fines,blanket,
+9,#4b49aa,Lt,"GLACIAL LACUSTRINE: deltaic sediments, 5-20 m, dissected terraces",GL,,mixed,,
+10,#9c94ea,Lv,"GLACIAL LACUSTRINE: deepwater proglacial silt veneers, 1-2 m",GL,,fines,veneer,
+11,#6975d5,Lb,"GLACIAL LACUSTRINE: deepwater proglacial silt blankets, 2-5 m",GL,,fines,blanket,
+12,#fab099,"Gp,t,f","GLACIOFLUVIAL: proglacial outwash: gravel and sand, 1-10 m; braided floodplains Gp, terraces Gt, fans Gf",GF,,mixed,,
+13,#f5836c,"Gr,h","GLACIOFLUVIAL: ice contact stratified drift: gravel and sand, 1-5 m; eskers Gr, kames Gh",GF,,mixed,,
+14,#447e93,Tm,"TILL: end moraines 5-60 m high; large features mainly cored by debris-rich relict glacier ice",T,,diamicton,yes,relict glacier ice stated
+15,#aacea6,Tv,"TILL: till veneer 0.5-2 m, discontinuous",T,R,diamicton,veneer,
+16,#7ab2a7,Tb,"TILL: till blanket 2-10 m; drumlins and ribbed moraines in places",T,,diamicton,blanket,
+17,#f298e4,R,"ROCK of various compositions and ages, glacially eroded; hilly and hummocky surfaces",R,,,,

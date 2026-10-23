@@ -1,0 +1,29 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#985797,e,eluvium,W,,bouldery,,"GGK-1000/3 Q-2 Uelen 2001 (new series), Quaternary map, RASTER (geokniga JPG 6741x8427), MATRIX legend; scheme-only (*) units omitted; eluvium"
+1,#ff5d6c,c,colluvium,C,,bouldery,,colluvium
+2,#cbf1a8,a2III3,2nd terrace alluvium,F,,mixed,,2nd terrace alluvium
+3,#e6f9a0,a1IV1,1st terrace alluvium,F,,mixed,,1st terrace alluvium
+4,#f5febf,aIV2,late Holocene alluvium,F,,mixed,,late Holocene alluvium
+5,#d4feff,lIV,Holocene lacustrine,L,,fines,,Holocene lacustrine
+6,#f6a69a,gIII2,till,T,,bouldery,,till
+7,#fbc4b8,gIII4,till,T,,bouldery,,till
+8,#b7cb7b,fIII2,glaciofluvial,GF,,gravel,,glaciofluvial
+9,#6066b4,mI2,marine terrace,M,,mixed,,marine terrace
+10,#626dbf,m4II2,marine terrace,M,,mixed,,marine terrace
+11,#6472ce,mII4,marine,M,,mixed,,marine
+12,#7581df,m3III1,marine terrace,M,,sand,,marine terrace
+13,#a8b2fa,m2III3,marine terrace,M,,sand,,marine terrace
+14,#8ea1f9,m1IV1,Holocene marine terrace,M,,sand,,Holocene marine terrace
+15,#a6b6fc,mIV2,late Holocene marine,M,,sand,,late Holocene marine
+16,#afe6f6,laIII3,lake-alluvial,L,F,fines,,lake-alluvial
+17,#d29c9d,gmII2,glaciomarine,GM,,mixed,,glaciomarine
+18,#fe6368,"e,d",eluvium and deluvium,W,C,bouldery,,eluvium and deluvium
+19,#fc5562,dc,deluvial-colluvial,C,,bouldery,,deluvial-colluvial
+20,#fe6278,ds,deluvial-solifluxion,C,,mixed,,deluvial-solifluxion
+21,#9a5ba2,PREQ,pre-Quaternary,R,,,,pre-Quaternary
+22,#a5d4ff,s:m1IV,shelf wave (offshore),M,,sand,,shelf wave (offshore)
+23,#8ecbff,s:m2'IV,shelf lagoon basin,M,,fines,,
+24,#a0daff,s:m2''IV,shelf stagnant basin,M,,fines,,
+25,#feffeb,aIV,Holocene alluvium,F,,mixed,,Holocene alluvium
+26,#f1fbff,mIV,Holocene marine on land,M,,sand,,Holocene marine on land
+27,#dfcfc2,lbIV,lacustrine-biogenic,L,O,organic,,lacustrine-biogenic

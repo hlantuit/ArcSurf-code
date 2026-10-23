@@ -1,0 +1,13 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#f9ad8e,dcIII-H,deluvial-colluvial,C,,mixed,,"GGK-200/2 N-45-VII, Kuznetsk Basin, Quaternary map, vector PDF (geokniga)"
+1,#d7e7aa,a1+pIII-H,floodplain and 1st terrace alluvium,F,,sand,,
+2,#fff4a8,vIII-H,aeolian sands,E,,sand,,
+3,#ffda9e,"v,e,dpIII-Hel",Elovka loessoid loams,E,,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+4,#c4df9b,a2III,loess-covered 2nd terrace,F,,fines,,
+5,#7ecbb6,laIIIkr,Krasnobrod lake-alluvial,L,F,fines,,
+6,#eebb72,dpII-IIIbc,Bachat loessoid loams,E,C,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+7,#aad48a,a3-4II-III,3rd-4th terrace alluvium,F,,fines,,
+8,#22ba9d,laI-IIkdr,Kedrovka lake-alluvial,L,F,fines,,
+9,#ebb059,dpE-Isr,Sergeevka deluvial-proluvial,C,F,fines,,
+10,#2db990,laEsg,Sagarlyk lake-alluvial,L,F,fines,,
+11,#a677b4,PREQ,pre-Quaternary (sections only),R,,,,

@@ -1,0 +1,11 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+BEDROCK,R,,,,,all pre-Quaternary units; native lithology kept in src_code/src_desc
+Qta,C,,,,,talus
+Qmu,T,,,,,glacial moraine deposits
+Qfo,F,,,,,"fluvial deposits, terraces"
+Qal,F,,,,,alluvial fans and deltas
+Qrg,C,,,,,rock glaciers (mass-wasting / periglacial)
+LS,C,,,,,landslides
+ICE,I,,,,,"ice, glaciers and Greenland Ice Sheet"
+LAK,H,,,,,lakes
+SEA,DROP,,,,,sea - not land

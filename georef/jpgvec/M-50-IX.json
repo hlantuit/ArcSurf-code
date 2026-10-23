@@ -1,0 +1,143 @@
+{
+ "sheet": "M-50-IX",
+ "source": "raster scan",
+ "projection": "tmerc",
+ "rms_m": 36.71092258294727,
+ "max_res_m": 36.937108050104655,
+ "m_per_px": 16.840404342214754,
+ "corner_residuals_m": [
+  36.9,
+  36.9,
+  36.5,
+  36.5
+ ],
+ "corners": [
+  {
+   "approx": [
+    2414.2,
+    861.2
+   ],
+   "snapped": [
+    2414.2,
+    861.2
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    6555.2,
+    908.2
+   ],
+   "snapped": [
+    6555.2,
+    908.2
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    6532.0,
+    5285.0
+   ],
+   "snapped": [
+    6532.0,
+    5285.0
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    2340.0,
+    5236.9
+   ],
+   "snapped": [
+    2340.0,
+    5236.9
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.094,
+ "area_km2": 5200.7350642463025,
+ "neatline_km2": 5206.449288489695,
+ "cover_frac": 0.9989024719291849,
+ "n_polygons": 7718,
+ "units": {
+  "#af809e": {
+   "index": "e",
+   "px": 3086399,
+   "direct_frac": 0.819
+  },
+  "#f7b183": {
+   "index": "d",
+   "px": 2214510,
+   "direct_frac": 0.892
+  },
+  "#f08e60": {
+   "index": "c|ds",
+   "px": 2896231,
+   "direct_frac": 0.81
+  },
+  "#f19178": {
+   "index": "s",
+   "px": 5266608,
+   "direct_frac": 0.854
+  },
+  "#f1eda7": {
+   "index": "aH",
+   "px": 1520620,
+   "direct_frac": 0.752
+  },
+  "#f8e4ad": {
+   "index": "pH",
+   "px": 58087,
+   "direct_frac": 0.815
+  },
+  "#d4ebf0": {
+   "index": "lH",
+   "px": 37683,
+   "direct_frac": 0.778
+  },
+  "#f3eab0": {
+   "index": "apH",
+   "px": 117827,
+   "direct_frac": 0.784
+  },
+  "#d6e0a3": {
+   "index": "a1III-H|a2-3III",
+   "px": 284872,
+   "direct_frac": 0.771
+  },
+  "#f1cd87": {
+   "index": "pdIII-H",
+   "px": 746948,
+   "direct_frac": 0.854
+  },
+  "#92bca1": {
+   "index": "laIII2-4",
+   "px": 985143,
+   "direct_frac": 0.918
+  },
+  "#eee28e": {
+   "index": "apIIhb",
+   "px": 1021034,
+   "direct_frac": 0.767
+  }
+ },
+ "confusable_pairs": [
+  [
+   "aH",
+   "apH",
+   6.2
+  ],
+  [
+   "pH",
+   "apH",
+   4.7
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

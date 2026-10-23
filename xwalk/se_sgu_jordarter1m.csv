@@ -1,0 +1,11 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+50,GF,,,,,"isälvssediment (glaciofluvial) (same jg2 code as 1:25k-100k; SGU Jordarter 1:1M, 1994)"
+75,O,,organic,,,"torv (peat) (same jg2 code as 1:25k-100k; SGU Jordarter 1:1M, 1994)"
+84,Q,,,,,"postglacial sand-grus - texture-only unit; genesis not stated (wave-washed or fluvial) (same jg2 code as SGU 1:250k; SGU Jordarter 1:1M, 1994)"
+86,Q,,fines,,,"lera-silt - texture-only unit; typically glaciolacustrine/marine, not stated (same jg2 code as SGU 1:250k; SGU Jordarter 1:1M, 1994)"
+91,H,,,,,"vatten (water) (same jg2 code as 1:25k-100k; SGU Jordarter 1:1M, 1994)"
+100,T,,diamicton,,,"morän (till) (same jg2 code as 1:25k-100k; SGU Jordarter 1:1M, 1994)"
+888,R,,,,,"berg (bedrock) (same jg2 code as 1:25k-100k; SGU Jordarter 1:1M, 1994)"
+9191,I,,,,,"glaciär (glacier) (same jg2 code as SGU 1:250k; SGU Jordarter 1:1M, 1994)"
+9792,T,,fines,,,Moränlera eller lerig morän (clay till) - SGU 1:1M
+9800,T,W,,,,Morän eller vittringsjord (till or weathered regolith) - SGU 1:1M

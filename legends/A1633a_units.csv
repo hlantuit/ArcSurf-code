@@ -1,0 +1,18 @@
+x,y,w,index,description_ru,hclass,hclass2,texture,note
+7688,6945,180,A,"Alluvium: silt, sand, gravel, cobbles, boulders in channels or on floodplains",F,,mixed,
+7688,7136,180,Af,"Alluvial fan sediments: sand, gravel, boulders",F,,gravel,
+7627,7490,80,MO,"Deepwater marine sediments and post-depositional organic cover, undifferentiated",M,O,fines,
+7747,7490,80,MO/R,"Deepwater marine sediments, undetermined thickness, 20-80% bedrock outcrop",M,R,fines,veneer
+7627,7862,80,Mr,"Nearshore sediments: beaches, bars, spits (Mr, Mr1)",M,,gravel,
+7747,7862,80,Mr/R,"Nearshore sediments, 20-80% bedrock outcrop",M,R,gravel,veneer
+7627,7996,80,MrO,Nearshore beach ridges with intervening peaty organic flats,M,O,gravel,
+7747,7996,80,MrO/R,"Nearshore ridges and organic flats, 20-80% bedrock outcrop",M,R,gravel,veneer
+7688,8096,180,Mw,Sand sheet deposited on the coastal plain by migrating shoreline,M,,sand,
+7688,8556,180,Md,"Deltaic sediments: uplifted deltaic sand and gravel (Md, Mdr)",M,F,sand,
+7688,8871,180,G,"Glaciofluvial ice-contact sand and gravel (eskers)",GF,,gravel,
+7627,9075,80,T,"Till plain: calcareous clay- and silt-rich till",T,,diamicton,
+7747,9075,80,T/R,"Till, undetermined thickness, 20-80% bedrock outcrop",T,R,diamicton,veneer
+7688,9177,180,Th,Hummocky till,T,,diamicton,
+7627,9488,80,TM,"Till and marine sediments, undifferentiated",T,M,diamicton,
+7747,9488,80,TM/R,"Till and marine sediments, 20-80% bedrock outcrop",T,R,diamicton,veneer
+7688,9820,180,R,"Bedrock: >80% frost-shattered outcrop or felsenmeer (carbonates; Precambrian granite gneiss)",R,,,

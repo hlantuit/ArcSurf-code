@@ -1,0 +1,14 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#e2fac6,alIV,"Аллювиальные отложения пойменных террас. Пески, супеси, суглинки, глины, илы",F,,mixed,,"GGK-200 O-42-XXXIV (Geologicheskaya karta SSSR, 1st edition, Ishim series; approved 1966, printed 1974; 69-70E 56d-56d40mN), Quaternary map; RASTER = geokniga 1969x2395 px PREVIEW (~34 m/px); vertical lithology ruling removed (work/r200d/prep_vlines.py); tints calibrated on the map (preview_tint_calib.py); lakes = WATER (two tints); el+dIII (subaerial cover loams, partly loess-like) coded E, hclass2 W (PI decision 2026-10-04); frame = 4 corners (paper edge and ridge filter agree) + 4 mid-side graticule lines + 7 interior 15x10 min graticule crossings as ties"
+1,#cadfef,lIV,"Отложения низких озерных террас. Глины, илы, суглинки, торф",L,,fines,,
+2,#a4aeaf,l+hIV,"Озерные и болотные отложения. Торф, глины, суглинки, илы",L,O,organic,,
+3,#f2e823,eolIII-IV,"Эоловые отложения ""Боровые пески""",E,,sand,,
+4,#dbcb89,d+plIII-IV,"Делювиальные и пролювиальные отложения. Супеси, суглинки",C,F,fines,,
+5,#c1fc8f,alIII1,"Аллювиальные отложения первой надпойменной террасы. Супеси, пески, суглинки",F,,mixed,,
+6,#fcbe8e,el+dIII,"Элювиальные и делювиальные покровные отложения. Суглинки, супеси",E,W,fines,,"subaerial COVER loams (покровные; partly loess-like): coded E per PI decision 2026-10-04 (loess / loess-like / subaerial cover = E), hclass2 W = the legend genesis e,d"
+7,#a0ff6d,alIII2,"Аллювиальные отложения второй надпойменной террасы. Суглинки, супеси, пески, прослои глин",F,,mixed,,
+8,#79fa45,alII-III3,"Средне-верхнечетвертичные аллювиальные отложения третьей надпойменной террасы р. Ишим. Глины, пески, суглинки",F,,mixed,,
+9,#4ec027,lalIIsm,"Среднечетвертичные отложения. Самаровский горизонт. Отложения озерно-аллювиальных равнин высокого уровня. Глины, суглинки, пески",L,F,mixed,,
+10,#ffd5f9,PREQ,Дочетвертичные отложения,R,,,,
+11,#a9e2e1,WATER,озера (цвет на карте),H,,,,
+12,#ebfcf3,WATER,озеро Мергень (бледная заливка на карте),H,,,,

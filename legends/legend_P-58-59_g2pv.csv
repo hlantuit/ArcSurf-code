@@ -1,0 +1,44 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#c0c19e,aIV,Аллювиальные отложения пойм (голоцен),F,,,,"GGK-1000 new series P-58,59 (Kamenskoe), ""Karta chetvertichnykh obrazovaniy"", VSEGEI 1983 (explanatory note Aleksandrov et al. 1985; print year not legible on the preview), geokniga record 42713; RASTER = 2000x1456 px PREVIEW (~0.35 km/px), downloaded 2026-09-30, internal_only (""for familiarisation only""). NO LEGEND ON THE PREVIEW: indices read from the map labels where legible (5-9x zoom, blurred), genetic letter cross-checked against the colour families of P-58_g3 and Q2500; seeds = flat-pixel k-means centres (K=50) of the face, several per unit. Frame: 4 corners read at 12x on the inner edge of the minute bar + 20 ties on the top/left edges + 12 interior 1-deg x 40-min graticule crossings, --proj eqdc 47/62 lon_0 168 (page top/bottom 0.8863 = eqdc 47/62 0.8863; sheet cone 0.8769), affine rms 303 m (max 0.68 km), spline through all points; independent interior check before the graticule ties: median |offset| 0.8 px on meridians, 0.1 px on parallels; the tool colour envelope sat on the beige minute bar along the Bering-Sea side (BR corner 7 px out), so it is not used. Zones (--restrict): WATER only in the open-sea polygon (Penzhina Bay, Korf and Olyutorsky bays, Bering Sea); mIII/mIV only within ~8.6 km of it. gIII dE<=9, fIII dE<=7, both must survive a 1-px opening (brown/olive valley line mixtures); weak seeds dropped after validation: gIII #a8776b #a18462 (C 48-63 %), fIII #8f8665 (GF 11-16 %). Not read: lithology/symbol overprints, lakes (white, filled from neighbours), labels inside one tint (cIV pink also carries gIV/gIII cirque-moraine labels). Extraction: work/pv_ne/jpg_to_polygons_pv.py (copy of scripts/jpg_to_polygons.py whose --thin-units thins every fill of a unit), options in work/pv_ne/extract_opts_p.txt; pale floodplains; the pale fIII4 outwash shares this tint (Q2500: 34 % fIII on P-59)"
+1,#8b976e,aIII,Аллювиальные отложения надпойменных террас (верхнее звено),F,,,,
+2,#97af7a,aIII,Аллювиальные отложения надпойменных террас (верхнее звено),F,,,,
+3,#968b50,apIII-IV,Аллювиально-пролювиальные отложения конусов выноса (верхнее звено - голоцен),F,,,,"olive fans (index read a,p / ap; age range uncertain)"
+4,#97b8a4,laIII,Озерно-аллювиальные отложения (верхнее звено),L,F,,,"blue-green lake-alluvial plains (Penzhina/Talovka lowland), labels laIII1-2"
+5,#8fa68f,laIII,Озерно-аллювиальные отложения (верхнее звено),L,F,,,"blue-green lake-alluvial plains (Penzhina/Talovka lowland), labels laIII1-2"
+6,#93a499,laIII,Озерно-аллювиальные отложения (верхнее звено),L,F,,,"blue-green lake-alluvial plains (Penzhina/Talovka lowland), labels laIII1-2"
+7,#809180,laIII,Озерно-аллювиальные отложения (верхнее звено),L,F,,,"blue-green lake-alluvial plains (Penzhina/Talovka lowland), labels laIII1-2"
+8,#a9b6b9,mIII,"Морские отложения (террасы, лагуны) (индекс не прочитан)",M,,,,light-blue coastal plains (label partly read lIII3); P-58_g3 has marine M on 73 %; within ~8.6 km of the sea only
+9,#6f8394,mIV,"Морские отложения пляжей, кос и баров (голоцен)",M,,,,dark-blue beach/bar strips; within ~8.6 km of the sea only (the blue-violet ridge patches inland go to PREQ)
+10,#deedf5,WATER,"Море (Пенжинская губа, Олюторский залив, Берингово море)",H,,,,sea (H); restricted to the open-sea polygon; inland lakes are not read
+11,#c9d2cd,WATER,"Море (Пенжинская губа, Олюторский залив, Берингово море)",H,,,,sea (H); restricted to the open-sea polygon; inland lakes are not read
+12,#a37759,gIII,Ледниковые отложения (верхнее звено),T,,diamicton,,"brown troughs and valley sides (labels gIII, gIII2, gIII4); dE<=9 + 1-px opening; P-58_g3 often has slope cover (d,sH/dr,sH) there"
+13,#b18769,gIII,Ледниковые отложения (верхнее звено),T,,diamicton,,"brown troughs and valley sides (labels gIII, gIII2, gIII4); dE<=9 + 1-px opening; P-58_g3 often has slope cover (d,sH/dr,sH) there"
+14,#9f674b,gIII,Ледниковые отложения (верхнее звено),T,,diamicton,,"brown troughs and valley sides (labels gIII, gIII2, gIII4); dE<=9 + 1-px opening; P-58_g3 often has slope cover (d,sH/dr,sH) there"
+15,#8c6c53,gIII,Ледниковые отложения (верхнее звено),T,,diamicton,,"brown troughs and valley sides (labels gIII, gIII2, gIII4); dE<=9 + 1-px opening; P-58_g3 often has slope cover (d,sH/dr,sH) there"
+16,#b99d85,gIII,Ледниковые отложения (верхнее звено),T,,diamicton,,"brown troughs and valley sides (labels gIII, gIII2, gIII4); dE<=9 + 1-px opening; P-58_g3 often has slope cover (d,sH/dr,sH) there"
+17,#a59c79,fIII,Флювиогляциальные отложения (верхнее звено),GF,,gravel,,"grey-olive valley trains (labels fIII2, fIII4); dE<=7 + 1-px opening; P-58_g3 maps them as Holocene alluvium (52 %)"
+18,#acac82,fIII,Флювиогляциальные отложения (верхнее звено),GF,,gravel,,"grey-olive valley trains (labels fIII2, fIII4); dE<=7 + 1-px opening; P-58_g3 maps them as Holocene alluvium (52 %)"
+19,#65795c,vQ,Вулканогенные образования (лавовые плато; индекс не прочитан),V,,,,dark-green lava plateaus; Q2500 vlefI (effusives) on 59 % of it on P-59 (the Q2500 crosswalk reads vlef as eolian E)
+20,#c65f48,"e,d",Элювиальные и делювиальные отложения,W,C,,,"orange-red, labels e,d"
+21,#b85f48,"e,d",Элювиальные и делювиальные отложения,W,C,,,"orange-red, labels e,d"
+22,#d05e46,"e,d",Элювиальные и делювиальные отложения,W,C,,,"orange-red, labels e,d"
+23,#af4e39,"e,d",Элювиальные и делювиальные отложения,W,C,,,"orange-red, labels e,d"
+24,#a0543e,"e,d",Элювиальные и делювиальные отложения,W,C,,,"orange-red, labels e,d"
+25,#c46a47,"e,d",Элювиальные и делювиальные отложения,W,C,,,"orange-red, labels e,d"
+26,#da8054,d,Делювиальные отложения,C,,,,
+27,#cb7a54,d,Делювиальные отложения,C,,,,
+28,#dc764b,d,Делювиальные отложения,C,,,,
+29,#b46b4a,d,Делювиальные отложения,C,,,,
+30,#c1996d,ds,Делювиально-солифлюкционные отложения,C,,fines,,"tan-orange, labels ds; 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)"
+31,#b67e58,ds,Делювиально-солифлюкционные отложения,C,,fines,,"tan-orange, labels ds; 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)"
+32,#ce3b35,c,"Коллювиальные и делювиально-коллювиальные отложения (индексы c, dc)",C,,bouldery,,"red, labels c and dc"
+33,#bd372e,c,"Коллювиальные и делювиально-коллювиальные отложения (индексы c, dc)",C,,bouldery,,"red, labels c and dc"
+34,#b33b32,c,"Коллювиальные и делювиально-коллювиальные отложения (индексы c, dc)",C,,bouldery,,"red, labels c and dc"
+35,#aa3e38,c,"Коллювиальные и делювиально-коллювиальные отложения (индексы c, dc)",C,,bouldery,,"red, labels c and dc"
+36,#d8808e,cIV,"Коллювиальные отложения высокогорья (индекс прочитан как cIV, возможно sIV)",C,,bouldery,,"pink high-mountain unit, labels cIV (also gIV/gIII cirque labels inside): hclass C; Q2500 c,gIII-H on 59 %"
+37,#c97179,cIV,"Коллювиальные отложения высокогорья (индекс прочитан как cIV, возможно sIV)",C,,bouldery,,"pink high-mountain unit, labels cIV (also gIV/gIII cirque labels inside): hclass C; Q2500 c,gIII-H on 59 %"
+38,#c57c82,cIV,"Коллювиальные отложения высокогорья (индекс прочитан как cIV, возможно sIV)",C,,bouldery,,"pink high-mountain unit, labels cIV (also gIV/gIII cirque labels inside): hclass C; Q2500 c,gIII-H on 59 %"
+39,#a26268,cIV,"Коллювиальные отложения высокогорья (индекс прочитан как cIV, возможно sIV)",C,,bouldery,,"pink high-mountain unit, labels cIV (also gIV/gIII cirque labels inside): hclass C; Q2500 c,gIII-H on 59 %"
+40,#b96c61,cIV,"Коллювиальные отложения высокогорья (индекс прочитан как cIV, возможно sIV)",C,,bouldery,,"pink high-mountain unit, labels cIV (also gIV/gIII cirque labels inside): hclass C; Q2500 c,gIII-H on 59 %"
+41,#e07886,s,Солифлюкционные отложения,C,,fines,,
+42,#796378,PREQ,Коренные породы (выходы дочетвертичных пород),R,,,,violet / blue-violet ridge-crest patches; P-58_g3 PREQ on 28 % (narrow strips)

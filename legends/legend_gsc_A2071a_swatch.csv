@@ -1,0 +1,11 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#b6b6b6,O,"Dépôts organiques: tourbe 0,5-3 m",O,,organic,,"GSC Map 2071A Lac Vernon ouest, Québec (Paradis & Parent 2005), 1:125k UTM18 NAD83; series legend shared with 2072A; white = lakes; "
+1,#e7e7a4,Ap,"Alluvions récentes: sable, gravier, silt 1-5 m",F,,sand,,
+2,#5ba3e4,Md,Marins: sédiments deltaïques (Mer d'Iberville),M,F,sand,,
+3,#a1e5e4,Mb,Marins: littoraux et intertidaux,M,,gravel,,
+4,#e19f45,Go,Épandage proglaciaire subaérien,GF,,gravel,,
+5,#cbb244,Gs,Épandage proglaciaire subaquatique,GF,GL,sand,,
+6,#e24301,Gx,"Juxtaglaciaires: eskers, moraines, kames",GF,,gravel,,
+7,#bae7bc,Tb,Till en couverture continue (>0.5 m),T,,mixed,,
+8,#a3e821,Tv,Till en couverture discontinue (<0.5 m),T,R,mixed,,veneer
+9,#e95d8a,R,Roches archéennes (Province du Supérieur),R,,,,

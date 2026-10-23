@@ -1,0 +1,21 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#c6d1d7,tHgr2,technogenic dumps,X,,mixed,,"GGK-200/2 O-40-X, Middle/Northern Urals (Perm), Quaternary map, vector PDF (geokniga)"
+1,#eff1b8,aHgr,channel and floodplain alluvium,F,,gravel,,
+2,#ecd6ac,"d,aHgr",deluvial-alluvial (hollows),C,F,mixed,,
+3,#c8c3a4,plHgr,bog peat,O,,organic,,
+4,#fcbc86,dIIIpu-Hgr,deluvium,C,,fines,,
+5,#f8a79e,"c,dIIIpu-Hgr",colluvium and deluvium,C,,mixed,,
+6,#fab383,"e,dIII",eluvium and deluvium,W,C,fines,,
+7,#cb90bf,eIII,eluvium,W,,mixed,,
+8,#cde4aa,aIII,Kamyshlov-Rezh terrace alluvium,F,,gravel,,
+9,#b7da9b,arIII,Rezh terrace alluvium,F,,gravel,,
+10,#fab072,dIIIsv,deluvium,C,,fines,,
+11,#f5846e,"d,sIIIsv",deluvium and solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+12,#fecf8d,"L,epIII",loess and buried-soil eluvium,E,W,fines,,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+13,#aed094,akIII,Kamyshlov terrace alluvium,F,,gravel,,
+14,#c3d481,fIIsr,Middle Ural glaciofluvial (section only),GF,,sand,,
+15,#de9e70,gIIsr,Middle Ural till (section only),T,,diamicton,,
+16,#8aca8b,aiII,Iset terrace alluvium,F,,sand,,
+17,#82bf84,auII,Ufa terrace alluvium,F,,sand,,
+18,#a677b4,PREQ,pre-Quaternary,R,,,,
+19,#a677b4,PREQ,pre-Quaternary loose (scheme only),R,,,,

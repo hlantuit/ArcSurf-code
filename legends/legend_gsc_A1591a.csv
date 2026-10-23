@@ -1,0 +1,10 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#d9d7d5,10,"Peat, 1-6 m, usually on fine-grained marine sediments",O,,organic,,"GSC Map 1591a (Vincent 1986), La Grande series 1:100k UTM NAD27, legend common to 1590A-1592A; tidal flat unit 7 printed white = no-data; "
+1,#fffc03,9,"Fluvial: deltaic and estuarine sand and silt, terraces, floodplains",F,,sand,,
+2,#fcc91c,8,"Littoral and nearshore: sand, gravel, cobbles, boulders, 0.5-10 m",M,,gravel,,
+3,#448ce1,6,"Offshore (Tyrrell Sea): clayey silt and silty clay, up to 60 m",M,,fines,,
+4,#f39f39,5,"Sakami Moraine deposits: stratified sand and gravel, up to 40 m",GF,,gravel,,
+5,#e5704a,4,Esker and subaqueous outwash: stratified sand and gravel,GF,,gravel,,
+6,#adc362,3,"De Geer moraine complex: sandy till, outcrops and marine fines",T,,sand,,
+7,#578d69,2,"Sandy basal till, drumlins and crag-and-tail, up to 25 m",T,,sand,,
+8,#f4a4a2,1,"Bedrock: Archean and Proterozoic, locally <1 m surficial cover",R,,,,

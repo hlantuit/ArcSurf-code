@@ -1,0 +1,94 @@
+match,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+unit:Qu|Undifferentiated deposits,Q,,,,,manual: undifferentiated
+unit:Qud|melt features,Q,,,,,manual: undifferentiated deposits (melt features)
+giesche:QTg,Q,M,gravel,,,"manual: Plio-Pleistocene Gubik-type sand and gravel (marine/fluvial, undivided)"
+giesche:QTg('),Q,M,gravel,,,manual: as QTg
+giesche:QTgm,Q,M,gravel,,,manual: gravel over sand/silt/clay (Gubik-type)
+giesche:QTsg,Q,M,fines,,,manual: silt and sand over gravel (Gubik-type)
+giesche:Qai,F,,,,,manual: active floodplain with aufeis
+giesche:Qf,F,,,,,manual: active floodplain
+giesche:Qf/Qfi,F,,,,,manual: active over inactive floodplain
+giesche:Qfa,F,,,,,manual: abandoned floodplain
+giesche:Qfi,F,,,,,manual: inactive floodplain
+giesche:Qfi/Qfa,F,,,,,manual: inactive over abandoned floodplain
+giesche:Qrg,Q,,gravel,,,manual: retransported granular deposits (reworked gravel)
+giesche:Qs,E,,sand,,,manual: sand cover deposits (eolian sand sheet)
+giesche:Tg,R,,gravel,,,manual: Kuparuk Gravel (Tertiary; semi-consolidated)
+giesche:Tgs,R,,sand,,,manual: Tertiary gravelly sand (semi-consolidated)
+giesche:Tmg,R,,diamicton,,,manual: Tertiary muddy conglomerate
+giesche:Ts,R,,,,,manual: Tertiary siltstone/shale/sandstone
+giesche:Tsg,R,,,,,manual: Tertiary sand/conglomerate/pebbly mud
+giesche:Tsmg,R,,,,,manual: Tertiary silt and muddy conglomerate
+name:Reworked upland silt,E,,fines,,,manual: reworked loess
+name:primary and reworked upland silt,E,,fines,,,manual: loess
+name:Upland silt,E,,fines,,,manual: upland silt = loess
+name:Upland Silt,E,,fines,,,manual: upland silt = loess
+name:Reworked Upland Silt,E,,fines,,,manual: reworked loess
+name:Lowland silt,E,L,fines,,,manual: lowland silt = retransported loess
+name:Lowland Silt,E,L,fines,,,manual: lowland silt = retransported loess
+name:Lowland silt deposits,E,L,fines,,,manual: lowland silt = retransported loess
+name:Permafrost-rich lowland silt,E,L,fines,,yes,manual: retransported loess; source states permafrost-rich
+name:Well-sorted silt,E,,fines,,,manual: well-sorted silt (loess)
+name:RUBBLE DEPOSITS,C,,bouldery,,,manual: rubble deposits
+name:Block rubble,W,,bouldery,,,manual: block rubble (frost-shattered)
+name:Undifferentiated flood deposits,F,,,,,manual
+name:Flood deposits of Donnelly age,F,,,,,manual
+name:Slackwater flood deposits,F,,fines,,,manual: slackwater
+name:Deposits of ice-shoved ridges,L,,,,,manual: lake-ice push ridges
+"name:Fan-shaped deposits, undetermined origin",F,,,,,manual: fans of undetermined origin
+name:Ridge-shaped deposits,Q,,,,,manual: ridge-shaped deposits of undetermined origin
+name:Active tidal deposits,M,,,,,manual: tidal
+name:Inactive tidal deposits,M,,,,,manual: tidal (inactive)
+name:high-level bench gravel,F,,gravel,,,manual: high-level bench gravel (old fluvial)
+name:Construction pad,X,,,,,manual
+name:Glacial ice or permanent snowpack,I,,,,,manual
+name:Schist,R,,,,,manual
+name:Valdez Group,R,,,,,manual
+kivalina:*,R,,,,,"manual: Kivalina bedrock formations (Baird, Etivluk, Kuna, Nuka, Utukok, Kayak, Kogruk, Okpikruak, basalt, chert, limestone)"
+salcha:Qa,F,,,,,"manual from SYMBOL: package ships a DMU of another map (volcanic); Qa = alluvium"
+salcha:Qca,C,F,,,,manual from symbol: colluvium-alluvium
+salcha:Qcd,C,,,,,manual from symbol: colluvial debris
+salcha:Qcl,C,E,,,,manual from symbol: colluvium-loess
+salcha:Qer,E,,fines,,,manual from symbol: reworked eolian silt
+salcha:Qgd,T,,,,,manual from symbol: glacial drift
+salcha:Qt,F,,,,,manual from symbol: terrace alluvium
+salcha:b,R,,,,,manual from symbol: bedrock
+salcha:b',R,,,,,manual from symbol: bedrock
+noatak:,R,,,,,manual: EROSION SURFACE (bedrock erosion surface)
+noatak:gr,Q,,gravel,,,manual: gravel deposits undifferentiated
+noatak:gr?,Q,,gravel,,,manual: possible gravel deposits
+noatak:grfn,Q,,fines,,,manual: fine-grained gravel deposits
+noatak:si,Q,,fines,,yes,manual: ICE-RICH SILT (source states ice-rich)
+noatak:sa,Q,,sand,,,manual: sand deposit
+noatak:us,E,,fines,,,manual: upland silt (loess)
+noatak:(us),E,,fines,discontinuous,,manual: thin discontinuous upland silt
+noatak:ii1,GF,,,,,manual: inwash (Itkillik I)
+noatak:ii1A,GF,,,,,manual: inwash (Makpik)
+noatak:ii1B,GF,,,,,manual: inwash (Anisak)
+noatak:ii2,GF,,,,,manual: inwash (Avan)
+noatak:fl,C,,,,,manual: flow deposits
+shaktoolik:Kcg,R,,,,,manual from SYMBOL: package DMU belongs to another map; K* = Cretaceous bedrock
+shaktoolik:Kvc,R,,,,,manual from symbol: Cretaceous volcanic bedrock
+shaktoolik:MZPRc,R,,,,,manual from symbol: Mesozoic-Proterozoic bedrock
+shaktoolik:Qac,F,C,,,,manual from symbol: alluvium-colluvium
+shaktoolik:Qaf,F,,,,,manual from symbol: alluvial fan
+shaktoolik:Qal,F,,,,,manual from symbol: alluvium
+shaktoolik:Qas,F,,,,,manual from symbol: alluvium (small streams)
+shaktoolik:Qat1,F,,,,,manual from symbol: alluvial terrace 1
+shaktoolik:Qat2,F,,,,,manual from symbol: alluvial terrace 2
+shaktoolik:Qbr,M,,,,,manual from symbol: beach ridges
+shaktoolik:Qbry,M,,,,,manual from symbol: younger beach ridges
+shaktoolik:Qc,C,,,,,manual from symbol: colluvium
+shaktoolik:Qfp1,F,,,,,manual from symbol: floodplain 1
+shaktoolik:Qfp2,F,,,,,manual from symbol: floodplain 2
+shaktoolik:Qfp3,F,,,,,manual from symbol: floodplain 3
+shaktoolik:Qmb,M,,,,,manual from symbol: marine beach
+shaktoolik:Qme,M,F,,,,manual from symbol: marine-estuarine
+shaktoolik:Qsi,E,L,fines,,,manual from symbol: lowland silt
+shaktoolik:Qsii,E,L,fines,,,manual from symbol: lowland silt (variant)
+shaktoolik:Qtl,K,L,,,,manual from symbol: thaw-lake deposits
+shaktoolik:Qtlm,K,O,,,,manual from symbol: thaw-lake basin marsh
+shaktoolik:Qus,E,,fines,,,manual from symbol: upland silt (loess)
+shaktoolik:lagoon,H,,,,,water (lagoon)
+shaktoolik:lake,H,,,,,water (lake)
+shaktoolik:river,H,,,,,water (river)

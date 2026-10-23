@@ -1,0 +1,10 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#d6c69e,d+hQIV,"Современные отложения. Делювиальные и болотные отложения. Суглинки, торф",C,O,fines,,"GGK-200 N-44-III (Geologicheskaya karta SSSR, 1st edition, approved 1964, printed 1967; Baraba, Lake Ubinskoe, 80-81E 55d20m-56dN), Quaternary map; RASTER = geokniga 1991x2392 px PREVIEW (~34 m/px); vertical lithology ruling removed before classification (work/r200d/prep_vlines.py); tints calibrated on the map (preview_tint_calib.py), alQIV pinned to its legend tint; lakes = WATER (QIIfd, N2-Q1kc1/kc2 and N1tv appear only on sections: dropped, QIIfd shares the pale lake tint); saQIII (subaerial cover loams) and eol?QIII coded E (PI decision 2026-10-04); the peat lithology dashes darken the lake-bog units (lhQIV/orQIV partly confused, 30-60 % ambiguous); frame = 4 corners (frame line, BL checked at 14x) + interior 15x10 min graticule crossings as ties ; hatched swatch: 5x5-median sample"
+1,#c3c889,hQIV,"Современные отложения. Болотные отложения. Суглинки, торф",O,,organic,,
+2,#dcee9f,orQIV,Современные отложения. Органогенные отложения рямов. Торф сфагновый,O,,organic,,
+3,#d0f0dd,lQIV,"Современные отложения. Озерные отложения. Илы, суглинки, сапропели, супеси, прослои песков",L,,fines,,
+4,#daee91,lhQIV,"Современные отложения. Озерно-болотные отложения. Суглинки иловатые, илы, торф, прослои супесей",L,O,organic,,
+5,#ebeac3,alQIV,Современные отложения. Аллювиальные отложения пойменной террасы. Суглинки иловатые с прослоями супесей и песков,F,,fines,,pinned to the legend tint (the calibration drifted onto the subaerial loams saQIII)
+6,#e1cf94,eol?QIII,"Верхнечетвертичные отложения. Эоловые (?) отложения, слагающие гривы. Пески, супеси",E,,sand,,
+7,#f6e3cc,saQIII,Верхнечетвертичные отложения. Субаэральные покровные отложения. Суглинки,E,,fines,,subaerial COVER loams: E per PI decision 2026-10-04
+8,#eafcf1,WATER,озера (бледно-голубая заливка: оз. Убинское и др.),H,,,,"lake tint sampled on the map; the legend unit QIIfd (Fedosovo suite, only on sections) has the same pale tint and was dropped"

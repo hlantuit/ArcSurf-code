@@ -1,0 +1,624 @@
+{
+ "sheet": "P-54-55_g2",
+ "source": "raster scan",
+ "projection": "tmerc_utm",
+ "rms_m": 608.7274073485681,
+ "max_res_m": 886.5197467247888,
+ "m_per_px": 84.92270789183597,
+ "corner_residuals_m": [
+  886.5,
+  596.2,
+  880.0,
+  568.6,
+  244.9,
+  209.2,
+  501.0
+ ],
+ "n_ties": 3,
+ "corners": [
+  {
+   "approx": [
+    813.0,
+    783.0
+   ],
+   "snapped": [
+    813.0,
+    783.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    7734.0,
+    786.0
+   ],
+   "snapped": [
+    7734.0,
+    786.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    8193.0,
+    6005.0
+   ],
+   "snapped": [
+    8193.0,
+    6005.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    331.0,
+    6030.0
+   ],
+   "snapped": [
+    331.0,
+    6030.0
+   ],
+   "ok": false
+  }
+ ],
+ "frame_sag_px": 182.1,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga_1m/P-54,55_g2/p-5455-o-55-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federacii-oymyako.jpg P-54-55_g2 ../sources/legend_P-54-55_g2.csv ../work/facefix/P-54-55_g2.gpkg --lonlat 138,60,150,64 --datum 4284 --corners '813,783;7734,786;8193,6005;331,6030' --ties '140,62,1801,3505;144,62,4270,3577;146,62,5507,3558'",
+ "unassigned_before_fill": 0.104,
+ "area_km2": 280221.5775118489,
+ "neatline_km2": 280248.41738424334,
+ "cover_frac": 0.9999042282820186,
+ "n_polygons": 37869,
+ "units": {
+  "#78b568": {
+   "index": "aE",
+   "px": 7054,
+   "direct_frac": 0.552
+  },
+  "#8bc165": {
+   "index": "aI",
+   "px": 231,
+   "direct_frac": 0.879
+  },
+  "#96c562": {
+   "index": "aI-II",
+   "px": 70,
+   "direct_frac": 0.371
+  },
+  "#93bb65": {
+   "index": "aII1",
+   "px": 107337,
+   "direct_frac": 0.23
+  },
+  "#a2d16c": {
+   "index": "aII2",
+   "px": 13384,
+   "direct_frac": 0.679
+  },
+  "#c7e86b": {
+   "index": "aII3",
+   "px": 4707,
+   "direct_frac": 0.487
+  },
+  "#e3f97f": {
+   "index": "aII4",
+   "px": 13240,
+   "direct_frac": 0.382
+  },
+  "#b7dc6e": {
+   "index": "aII",
+   "px": 23384,
+   "direct_frac": 0.571
+  },
+  "#e5f47f": {
+   "index": "aII-III",
+   "px": 23029,
+   "direct_frac": 0.246
+  },
+  "#e9fa73": {
+   "index": "aIII1",
+   "px": 258855,
+   "direct_frac": 0.513
+  },
+  "#f8fe8d": {
+   "index": "aIII2",
+   "px": 170311,
+   "direct_frac": 0.396
+  },
+  "#fffe90": {
+   "index": "aIII3",
+   "px": 78145,
+   "direct_frac": 0.508
+  },
+  "#fdfdb6": {
+   "index": "aIII3-4",
+   "px": 97792,
+   "direct_frac": 0.374
+  },
+  "#fdfecd": {
+   "index": "aIII4",
+   "px": 298730,
+   "direct_frac": 0.329
+  },
+  "#fefe99": {
+   "index": "aIII",
+   "px": 462981,
+   "direct_frac": 0.434
+  },
+  "#fefdbd": {
+   "index": "aIII-IV",
+   "px": 382122,
+   "direct_frac": 0.341
+  },
+  "#fefeee": {
+   "index": "aIV",
+   "px": 6483,
+   "direct_frac": 0.397
+  },
+  "#fdfdb2": {
+   "index": "pIII-IV",
+   "px": 171780,
+   "direct_frac": 0.348
+  },
+  "#fefee6": {
+   "index": "pIV",
+   "px": 13792,
+   "direct_frac": 0.389
+  },
+  "#e072bb": {
+   "index": "e'",
+   "px": 529543,
+   "direct_frac": 0.554
+  },
+  "#fbbaf6": {
+   "index": "e''",
+   "px": 16922,
+   "direct_frac": 0.251
+  },
+  "#ff6065": {
+   "index": "c",
+   "px": 17025903,
+   "direct_frac": 0.816
+  },
+  "#d77460": {
+   "index": "gII2",
+   "px": 4421761,
+   "direct_frac": 0.433
+  },
+  "#fd9672": {
+   "index": "gII4",
+   "px": 1175435,
+   "direct_frac": 0.714
+  },
+  "#fb8367": {
+   "index": "gII",
+   "px": 1960231,
+   "direct_frac": 0.786
+  },
+  "#e7ec75": {
+   "index": "fII2",
+   "px": 555108,
+   "direct_frac": 0.292
+  },
+  "#fbb376": {
+   "index": "gIII2",
+   "px": 193567,
+   "direct_frac": 0.662
+  },
+  "#f0f772": {
+   "index": "fIII2",
+   "px": 547860,
+   "direct_frac": 0.528
+  },
+  "#98d4d8": {
+   "index": "lgIII2",
+   "px": 10689,
+   "direct_frac": 0.656
+  },
+  "#fbdeac": {
+   "index": "gIII4",
+   "px": 112078,
+   "direct_frac": 0.446
+  },
+  "#fefec9": {
+   "index": "fIII4",
+   "px": 58868,
+   "direct_frac": 0.427
+  },
+  "#d4fcfa": {
+   "index": "lgIII4",
+   "px": 263,
+   "direct_frac": 0.878
+  },
+  "#fbc999": {
+   "index": "gIII",
+   "px": 678444,
+   "direct_frac": 0.57
+  },
+  "#fefeb4": {
+   "index": "fIII",
+   "px": 2303,
+   "direct_frac": 0.537
+  },
+  "#bcefef": {
+   "index": "lgIII",
+   "px": 799,
+   "direct_frac": 0.536
+  },
+  "#fefdd3": {
+   "index": "gIV",
+   "px": 385465,
+   "direct_frac": 0.361
+  },
+  "#d3d2bf": {
+   "index": "tIV",
+   "px": 116527,
+   "direct_frac": 0.402
+  },
+  "#768dee": {
+   "index": "mI-II",
+   "px": 1291,
+   "direct_frac": 0.242
+  },
+  "#b6c9fb": {
+   "index": "mIII",
+   "px": 1020,
+   "direct_frac": 0.351
+  },
+  "#e6f4fc": {
+   "index": "mIV",
+   "px": 20365,
+   "direct_frac": 0.515
+  },
+  "#76b774": {
+   "index": "laE",
+   "px": 8816,
+   "direct_frac": 0.582
+  },
+  "#7fba7b": {
+   "index": "laI-II",
+   "px": 57791,
+   "direct_frac": 0.331
+  },
+  "#9dd5b7": {
+   "index": "laIII2",
+   "px": 30984,
+   "direct_frac": 0.504
+  },
+  "#bcefd4": {
+   "index": "laIII3",
+   "px": 1481,
+   "direct_frac": 0.558
+  },
+  "#d6fced": {
+   "index": "laIII4",
+   "px": 1370,
+   "direct_frac": 0.496
+  },
+  "#fefea8": {
+   "index": "apIII3",
+   "px": 609179,
+   "direct_frac": 0.346
+  },
+  "#fefee0": {
+   "index": "apIII",
+   "px": 82895,
+   "direct_frac": 0.396
+  },
+  "#9cc0c2": {
+   "index": "amIII",
+   "px": 21240,
+   "direct_frac": 0.419
+  },
+  "#fdab7c": {
+   "index": "e,d",
+   "px": 1719882,
+   "direct_frac": 0.59
+  },
+  "#fdfdc4": {
+   "index": "dpIII-IV",
+   "px": 281870,
+   "direct_frac": 0.351
+  },
+  "#fefef3": {
+   "index": "dpIV",
+   "px": 779637,
+   "direct_frac": 0.857
+  },
+  "#fe8879": {
+   "index": "dc",
+   "px": 212664,
+   "direct_frac": 0.644
+  },
+  "#fe767d": {
+   "index": "ds",
+   "px": 2660775,
+   "direct_frac": 0.67
+  },
+  "#d387d7": {
+   "index": "PREQ",
+   "px": 3225289,
+   "direct_frac": 0.745
+  },
+  "#f8bafc": {
+   "index": "PREQ,c",
+   "px": 15403,
+   "direct_frac": 0.744
+  }
+ },
+ "confusable_pairs": [
+  [
+   "aE",
+   "laE",
+   5.5
+  ],
+  [
+   "aE",
+   "laI-II",
+   7.9
+  ],
+  [
+   "aI",
+   "aI-II",
+   4.6
+  ],
+  [
+   "aI",
+   "aII1",
+   6.1
+  ],
+  [
+   "aI",
+   "aII2",
+   7.7
+  ],
+  [
+   "aI-II",
+   "aII1",
+   7.2
+  ],
+  [
+   "aI-II",
+   "aII2",
+   4.3
+  ],
+  [
+   "aII2",
+   "aII",
+   7.1
+  ],
+  [
+   "aII4",
+   "aII-III",
+   3.6
+  ],
+  [
+   "aII4",
+   "aIII1",
+   6.2
+  ],
+  [
+   "aII4",
+   "aIII2",
+   8.0
+  ],
+  [
+   "aII4",
+   "fII2",
+   7.7
+  ],
+  [
+   "aII-III",
+   "aIII2",
+   5.8
+  ],
+  [
+   "aII-III",
+   "fII2",
+   4.8
+  ],
+  [
+   "aIII1",
+   "fIII2",
+   4.1
+  ],
+  [
+   "aIII2",
+   "aIII3",
+   3.1
+  ],
+  [
+   "aIII2",
+   "aIII",
+   6.0
+  ],
+  [
+   "aIII2",
+   "fII2",
+   7.1
+  ],
+  [
+   "aIII3",
+   "aIII",
+   4.3
+  ],
+  [
+   "aIII3-4",
+   "aIII-IV",
+   3.5
+  ],
+  [
+   "aIII3-4",
+   "pIII-IV",
+   2.0
+  ],
+  [
+   "aIII3-4",
+   "fIII",
+   1.5
+  ],
+  [
+   "aIII3-4",
+   "apIII3",
+   7.3
+  ],
+  [
+   "aIII3-4",
+   "dpIII-IV",
+   7.0
+  ],
+  [
+   "aIII4",
+   "aIII-IV",
+   7.6
+  ],
+  [
+   "aIII4",
+   "fIII4",
+   2.0
+  ],
+  [
+   "aIII4",
+   "gIV",
+   3.6
+  ],
+  [
+   "aIII4",
+   "dpIII-IV",
+   4.1
+  ],
+  [
+   "aIII",
+   "apIII3",
+   7.2
+  ],
+  [
+   "aIII-IV",
+   "pIII-IV",
+   5.4
+  ],
+  [
+   "aIII-IV",
+   "fIII4",
+   5.6
+  ],
+  [
+   "aIII-IV",
+   "fIII",
+   4.9
+  ],
+  [
+   "aIII-IV",
+   "dpIII-IV",
+   3.5
+  ],
+  [
+   "aIV",
+   "pIV",
+   4.1
+  ],
+  [
+   "aIV",
+   "apIII",
+   7.1
+  ],
+  [
+   "aIV",
+   "dpIV",
+   2.5
+  ],
+  [
+   "pIII-IV",
+   "fIII",
+   0.6
+  ],
+  [
+   "pIII-IV",
+   "apIII3",
+   5.4
+  ],
+  [
+   "pIV",
+   "apIII",
+   3.0
+  ],
+  [
+   "pIV",
+   "dpIV",
+   6.6
+  ],
+  [
+   "e''",
+   "PREQ,c",
+   3.4
+  ],
+  [
+   "gII",
+   "dc",
+   7.8
+  ],
+  [
+   "fII2",
+   "fIII2",
+   6.9
+  ],
+  [
+   "gIII2",
+   "e,d",
+   7.6
+  ],
+  [
+   "fIII4",
+   "gIV",
+   5.5
+  ],
+  [
+   "fIII4",
+   "dpIII-IV",
+   2.1
+  ],
+  [
+   "lgIII4",
+   "lgIII",
+   6.3
+  ],
+  [
+   "lgIII4",
+   "laIII4",
+   6.7
+  ],
+  [
+   "lgIII4",
+   "amIV",
+   6.4
+  ],
+  [
+   "fIII",
+   "apIII3",
+   5.9
+  ],
+  [
+   "lgIII",
+   "amIV",
+   6.4
+  ],
+  [
+   "gIV",
+   "apIII",
+   6.1
+  ],
+  [
+   "gIV",
+   "dpIII-IV",
+   7.5
+  ],
+  [
+   "laE",
+   "laI-II",
+   3.5
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 120
+}

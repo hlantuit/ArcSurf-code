@@ -1,0 +1,36 @@
+x,y,w,index,description_ru,hclass,hclass2,texture,note
+918,6118,80,aN2-Q1,Аллювиальный,F,,mixed,Pliocene-Eopleistocene alluvium
+1089,6118,80,aIts,Тустахская свита,F,,mixed,Tustakh suite alluvium
+1259,6118,80,aIpl,Пеледуйская свита,F,,mixed,Peleduy suite alluvium
+1431,6118,80,aIor,Оручанская свита,F,,mixed,Oruchan suite alluvium
+1604,6118,80,aIItb,Тобольский горизонт,F,,mixed,Tobol horizon alluvium
+1953,6118,80,aII-III,Аллювиальный,F,,mixed,middle-upper Neopleistocene alluvium
+2298,6118,80,aIIIkr,Каргинский горизонт,F,,mixed,Karga horizon alluvium
+2474,6118,80,aIIIsr,Сартанский горизонт,F,,mixed,Sartan horizon alluvium
+2646,6118,80,aIII-IV,Аллювиальный,F,,mixed,upper Neopleistocene-Holocene alluvium
+2819,6118,80,aIV,Аллювиальный,F,,mixed,Holocene alluvium
+3004,5995,80,e,Элювиальный,W,,bouldery,eluvium
+3004,6056,80,c,Коллювиальный,C,,bouldery,colluvium
+3004,6180,80,d,Делювиальный,C,,fines,deluvium
+2646,6243,80,lIII-IV,Озерный и озерно-болотный,L,O,fines,lacustrine and lacustrine-palustrine
+2819,6243,80,lIV,Озерный и озерно-болотный,L,O,fines,Holocene lacustrine-palustrine
+2646,6305,80,vIII-IV,Эоловый,E,,sand,eolian
+2819,6305,80,vIV,Эоловый,E,,sand,Holocene eolian
+2819,6366,80,LIV,Лёссы,Y,,fines,Holocene loess
+1780,6370,80,LIIs,Лёссы (Самаровский),Y,,fines,Samarovo loess
+2300,6368,150,LIIImr-sr,Лёссы криогенно-эоловые (едома),Y,,fines,Muruktin-Sartan cryogenic-eolian loess (yedoma type)
+2474,6368,80,LIIIsr,Лёссы криогенно-эоловые (едома),Y,,fines,Sartan cryogenic-eolian loess (yedoma type)
+1780,6432,80,gIIs,Ледниковый,T,,bouldery,Samarovo till
+2127,6428,80,gIIImr,Ледниковый,T,,bouldery,Muruktin till
+2474,6428,80,gIIIsr,Ледниковый,T,,bouldery,Sartan till
+1780,6492,80,fIIs,Флювиогляциальный,GF,,gravel,Samarovo glaciofluvial
+2127,6490,80,fIIImr,Флювиогляциальный,GF,,gravel,Muruktin glaciofluvial
+2474,6490,80,fIIIsr,Флювиогляциальный,GF,,gravel,Sartan glaciofluvial
+1780,6555,80,lgIIs,Озерно-ледниковый,GL,,fines,Samarovo glaciolacustrine
+2474,6553,80,lgIIIsr,Озерно-ледниковый,GL,,fines,Sartan glaciolacustrine
+1953,6615,80,laII-III,Озерно-аллювиальный,L,F,fines,middle-upper Neopleistocene lake-alluvial
+3003,6681,80,dc,Делювиально-коллювиальный,C,,bouldery,deluvial-colluvial
+3003,6744,80,ds,Делювиально-солифлюкционный,C,,mixed,deluvial-solifluxion
+3003,6805,80,"e,d",Элювиальный и делювиальный,W,C,bouldery,eluvium and deluvium
+3003,6870,80,"l,e,s",Озерно-болотный элювиальный и солифлюкционный (эйкская свита),L,W,fines,Eika suite lacustrine-palustrine/eluvial/solifluxion
+3003,6965,80,PREQ,Дочетвертичные породы,R,,,pre-Quaternary

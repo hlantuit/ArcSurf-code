@@ -1,0 +1,12 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#d8f9b5,alIII1,alluvium of the 1st terrace (Late Pleistocene),F,,,,"GGK-200 (1st generation, 'Geologicheskaya karta SSSR') P-42-I, Obsko-Purskaya series, Quaternary map (geokniga record 44024, 1966: record year, the preview carries no imprint); PREVIEW 1600x2385 px (~33 m/px), map face only: no legend image on geokniga; units read from the indices printed on the map (old notation: al alluvial, lal lacustrine-alluvial, l+h lacustrine and bog, gl glacial, fgl fluvioglacial, el+d eluvial-deluvial); vertical lithology ruling removed by a horizontal median (as r200d prep_vlines); the floodplain alIV shares the pale tint of the bogs l+hIV and is told apart by its black dots (work/r200f/prep_dots.py, marker colour) inside the Kazym valley zone (--restrict)"
+1,#d1fc8f,alIII2,alluvium of the 2nd terrace (Late Pleistocene),F,,,,
+2,#befb7a,alIII3,alluvium of the 3rd terrace (Late Pleistocene),F,,,,
+3,#ebfde7,laIIIjl,lacustrine-alluvial deposits (Late Pleistocene) of the interfluve plain (pale tint with vertical ruling),L,F,,,
+4,#e2f4c8,l+hIV,lacustrine and bog deposits (Holocene; horizontal-dash bog symbol),L,O,,,
+5,#ff8000,alIV,floodplain alluvium (Holocene): same pale tint as l+hIV plus black dots; MARKER colour painted by prep_dots.py,F,,,,
+6,#f0c78f,el+d+prIII-IV,"eluvial and deluvial deposits ('el+d+pr', Late Pleistocene-Holocene) of the Siberian Uvaly uplands (pink-orange tint with boulder ovals); the 'pr' component is not legible from the index alone",W,C,,,
+7,#b9bf64,fglIIul,fluvioglacial deposits (Middle Pleistocene),GF,,,,
+8,#c4914c,glIIul,"glacial deposits (moraine, Middle Pleistocene): thin brown band on the upland scarps",T,,,,
+9,#f1fdfa,WATER,water (Kazym Sor and large lakes: near-white tint),H,,,,
+10,#d0fef4,WATER,water (small lakes: pale cyan),H,,,,

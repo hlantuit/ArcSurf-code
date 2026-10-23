@@ -1,0 +1,16 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#f46b5e,cIII-IV,Коллювиальные отложения верхнего неоплейстоцена - голоцена (индекс cIII-IV прочитан на карте),C,,bouldery,,"GGK-1000 new series N-(53),54 (Nikolaevsk-na-Amure), Quaternary map ('Karta chetvertichnykh otlozheniy'), geokniga record 44386; printed frame 135-144E x 52-56N (N-53 bracketed: only its 135-138E half is printed; corner labels 135/144 deg 00', 52/56 deg 00'); RASTER = geokniga 2000x1534 px PREVIEW (~0.32 km/px); NO legend image on geokniga: unit indices READ ON THE MAP at 5-7x (small print, partly legible), descriptions = standard reading of the index, not a transcription; print year not on the frame-cropped preview; tints calibrated on the map (scripts/preview_tint_calib.py seeded from k-means clusters, drift <= 15); frame: measured edges of the double neatline (face edge 3 px inside the detected outer line), eqdc 47/62 lon_0 139.5; sea = near-white paper with dot/oval patterns -> WATER (the paper-white tint IS the sea); DROPPED: dpIII-IV (one label near the Amur, tint 7.8 dE from dcIII-IV; pixels go to the nearest other tint); NOT CAPTURED: small gIII2 moraines and blue-grey elongated features in the NW mountains (2-6 px wide), lithology symbols, hatch overprints; on Sakhalin the dotted e-dIII-IV reads as dc/e-d tints; ds ice_rich = project ds convention (legend text not available); red"
+1,#f69964,dcIII-IV,Делювиально-коллювиальные отложения (индекс dcIII-IV),C,,bouldery,,orange; also carries dpIII-IV (dropped)
+2,#f1a672,e-dIII-IV,Элювиально-делювиальные отложения (индекс e-dIII-IV),W,C,bouldery,,light salmon-orange
+3,#f6d1a9,dIII-IV,Делювиальные отложения (индекс dIII-IV),C,,mixed,,pale peach
+4,#f7c7bf,cIV,Коллювиальные отложения голоцена (индекс cIV),C,,bouldery,,pink
+5,#ebc1db,dsIII-IV,Делювиально-солифлюкционные отложения (индекс dsIII-IV),C,,fines,,lilac; ice_rich by the ds convention; 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+6,#f5e6ec,eIII-IV,Элювиальные отложения (индекс eIII-IV),W,,bouldery,,whitish lilac
+7,#def0b8,aIV,Аллювиальные отложения голоцена (индекс aIV),F,,mixed,,pale yellow-green
+8,#bacf96,aIII,Аллювиальные отложения верхнего неоплейстоцена (индекс aIII),F,,mixed,,pale green terraces; also carries the green-hatched / dark-green-lined valley floors
+9,#77ad78,amIII,Аллювиально-морские отложения верхнего неоплейстоцена (индекс amIII прочитан частично),F,M,sand,,green with diagonal hatch on coastal lowlands; dE <= 10 and a 2-px opening
+10,#9eb9c6,mIII,Морские отложения верхнего неоплейстоцена (индекс mIII),M,,sand,,"blue-grey terraces (Sakhalin, coast); dE <= 9 and a 2-px opening"
+11,#f2f5f4,WATER,море / озера,H,,,,sea (paper white with patterns) / lake tint sampled on the map
+12,#fbfdfb,WATER,море / озера,H,,,,sea (paper white with patterns) / lake tint sampled on the map
+13,#ecf1f1,WATER,море / озера,H,,,,sea (paper white with patterns) / lake tint sampled on the map
+14,#bce8df,WATER,море / озера,H,,,,sea (paper white with patterns) / lake tint sampled on the map

@@ -1,0 +1,33 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#f3f8d7,aIV,Holocene alluvium,F,,mixed,,"GGK-1000/2 O-(50),51 Aldan 1972 (new series), Quaternary map, RASTER (geokniga JPG 9448x9448); frame 117-126E; descriptions translated; Holocene alluvium"
+1,#dadd8c,apIV,alluvial-proluvial,F,,gravel,,alluvial-proluvial
+2,#f3eb9d,vIV,eolian sands,E,,sand,,eolian sands
+3,#b0a3bc,bIV,"Holocene basalts, tuffs",V,,,,"Holocene basalts, tuffs"
+4,#ebb2b3,cIII+IV,colluvium,C,,bouldery,,colluvium
+5,#dcc99d,pIII+IV,proluvium,F,C,bouldery,,proluvium
+6,#e1f2b3,aIII,alluvium,F,,mixed,,alluvium
+7,#eaf3c5,aIII2-4,alluvium,F,,sand,,alluvium
+8,#ba9b7b,gIII2-4,sandy and gravelly moraine,T,,bouldery,,sandy and gravelly moraine
+9,#c4c69c,fIII2-4,glaciofluvial,GF,,gravel,,glaciofluvial
+10,#def5a6,aIII1,alluvium,F,,gravel,,alluvium
+11,#dce9db,lIII1,lacustrine,L,,fines,,lacustrine
+12,#d6f6a3,aII,alluvium,F,,gravel,,alluvium
+13,#c7f09a,aII2-4,alluvium,F,,gravel,,alluvium
+14,#b2d3c8,lII2-4,lacustrine sands,L,,sand,,lacustrine sands
+15,#acd0aa,laII2-4,lake-alluvial,L,F,sand,,lake-alluvial
+16,#a37851,gII2-4,loamy moraine,T,,bouldery,,loamy moraine
+17,#9da663,fII2-4,glaciofluvial,GF,,gravel,,glaciofluvial
+18,#bcf19a,aII1,alluvium,F,,gravel,,alluvium
+19,#b8c26e,apI+II,alluvial-proluvial,F,,gravel,,alluvial-proluvial
+20,#abf3b2,aI2?,alluvium,F,,sand,,alluvium
+21,#aaf1a1,aI1,quartz pebble alluvium,F,,gravel,,quartz pebble alluvium
+22,#73bf71,aN2-Q1,"quartz-ochre pebbles, conglomerates",F,,gravel,,"quartz-ochre pebbles, conglomerates"
+23,#8a7aad,bN2-Q1,Pliocene-Eopleistocene basalts,V,,,,Pliocene-Eopleistocene basalts
+24,#c093c0,e,eluvium,W,,bouldery,,eluvium
+25,#f48b51,d,deluvium,C,,mixed,,deluvium
+26,#d8a4ab,ds,deluvial-solifluxion,C,,mixed,,deluvial-solifluxion
+27,#f46262,c,colluvium,C,,bouldery,,colluvium
+28,#ec8163,dc,deluvial-colluvial,C,,bouldery,,deluvial-colluvial
+29,#b6c342,ap,alluvial-proluvial,F,,gravel,,alluvial-proluvial
+30,#c5c0aa,b,"biogenic (lake-bog, peat)",O,,organic,,"biogenic (lake-bog, peat)"
+31,#9987ad,PREQ,pre-Quaternary,R,,,,pre-Quaternary

@@ -1,0 +1,32 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#65b058,aN2-Q1bl,Белогорская свита,F,,mixed,,"GGK-1000/2 N-(50),51 Skovorodino 1987 (new series), Quaternary map, RASTER (geokniga JPG 8046x10014), MATRIX legend; Belogorsk suite Pliocene-Eopleistocene alluvium"
+1,#65af58,aN2-Q1kn,Кангильская свита,F,,mixed,,Kangil suite Pliocene-Eopleistocene alluvium
+2,#a3e451,aI3tn,Тындинская толща,F,,mixed,,Tynda unit lower Neopleistocene alluvium
+3,#c1f787,aI,Аллювиальный,F,,mixed,,lower Neopleistocene alluvium
+4,#cbfb75,aII,Аллювиальный,F,,mixed,,middle Neopleistocene alluvium
+5,#d9fd85,aII-III,Аллювиальный,F,,mixed,,middle-upper Neopleistocene alluvium
+6,#e3fd75,aIII1sv,Сувинский горизонт,F,,mixed,,Suvo horizon alluvium
+7,#e2fb75,a2III3st,Степановский горизонт,F,,mixed,,Stepanovka 2nd terrace alluvium
+8,#e8fe7c,a1III4os,Ошурковский горизонт,F,,mixed,,Oshurkovo 1st terrace alluvium
+9,#effe87,aIII,Аллювиальный,F,,mixed,,upper Neopleistocene alluvium
+10,#f3fd9f,aIII-IV,Аллювиальный,F,,mixed,,upper Neopleistocene-Holocene alluvium
+11,#fbfdcd,aIV,Аллювиальный,F,,mixed,,Holocene alluvium
+12,#e78575,cIII-IV,Коллювиальный,C,,bouldery,,colluvium
+13,#a97449,gII,Ледниковый (морена),T,,bouldery,,middle Neopleistocene moraine
+14,#c5ab8d,gIII2tm,Томпинский горизонт,T,,bouldery,,Tompa moraine
+15,#d8c6ae,gIII4os,Ошурковский горизонт,T,,bouldery,,Oshurkovo moraine
+16,#fdc2e9,e,Элювиальный,W,,bouldery,,eluvium
+17,#fa4f3e,c,Коллювиальный,C,,bouldery,,colluvium
+18,#feb74d,d,Делювиальный,C,,fines,,deluvium
+19,#df6a36,dsI2tn,Тындинская толща,C,,mixed,,Tynda unit deluvial-solifluxion
+20,#bdeec1,laII2-4kr,Кропоткинский надгоризонт,L,F,fines,,Kropotkin lake-alluvium
+21,#d8f0d2,laIII1gl,Гилюйская свита,L,F,fines,,Gilyui suite lake-alluvium
+22,#eda16f,dcII-III,Делювиально-коллювиальный,C,,bouldery,,deluvial-colluvial
+23,#ce9272,dsII-III,Делювиально-солифлюкционный,C,,mixed,,deluvial-solifluxion
+24,#f2869e,csII-III,Коллювиально-солифлюкционный,C,,bouldery,,colluvial-solifluxion
+25,#e0a182,dsIII-IV,Делювиально-солифлюкционный,C,,mixed,,deluvial-solifluxion
+26,#fd8c48,dc,Делювиально-коллювиальный,C,,bouldery,,deluvial-colluvial
+27,#ea7e53,ds,Делювиально-солифлюкционный,C,,mixed,,deluvial-solifluxion
+28,#efac96,"e,d",Элювиально-делювиальный,W,C,bouldery,,eluvium and deluvium
+29,#ed94fc,PREQ,Дочетвертичные породы,R,,,,pre-Quaternary
+30,#edbaee,"PREQ,c",Дочетвертичные породы местами с коллювием,R,C,bouldery,,pre-Quaternary with colluvium

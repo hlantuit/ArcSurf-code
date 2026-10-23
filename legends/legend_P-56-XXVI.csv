@@ -1,0 +1,27 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#debbd9,e,eluvium,W,,bouldery,,"GGK-200/2 P-56-XXVI, Okhotsk coast ranges, Quaternary map, vector PDF (geokniga)"
+1,#fdcfa7,d,deluvium,C,,bouldery,,
+2,#fdd2b2,ed,eluvium-deluvium,W,C,bouldery,,
+3,#f8a68b,c,colluvium,C,,bouldery,,
+4,#f9ad8e,cd,colluvium-deluvium,C,,bouldery,,
+5,#f8a79e,s,solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+6,#f9b4a0,ds,deluvium-solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+7,#bec0c2,tH2,technogenic (mine dumps),X,,mixed,,
+8,#f2f5cf,aH2,channel and low floodplain alluvium,F,,gravel,,
+9,#e8f1cf,aH1,high floodplain alluvium,F,,gravel,,
+10,#f58466,cH,rockfall colluvium,C,,bouldery,,
+11,#f69780,dsIII4-H,deluvium-solifluxion on moraines,C,,fines,,
+12,#f5d9a0,pIII4-H,proluvial fans,F,,bouldery,,
+13,#f4ce98,pdIII4-H,proluvial-deluvial aprons,F,C,mixed,,
+14,#9cdcf9,lIII4-H,"lacustrine, peat",L,O,fines,,
+15,#dcecc3,a1III4,Khetakagchan 1st terrace alluvium,F,,gravel,,
+16,#d3ddac,fIII4,Khetakagchan glaciofluvial,GF,,gravel,,
+17,#deba9d,gIII4,Khetakagchan till,T,,bouldery,,
+18,#cce4b7,a1III3,Kubalakh alluvium (section only),F,,gravel,,
+19,#b9dcaa,a2III2,Yugler 2nd terrace alluvium,F,,gravel,,
+20,#93d2c1,laIII2,Yugler lake-alluvial,L,F,mixed,,
+21,#c1d18d,fIII2,Yugler glaciofluvial,GF,,gravel,,
+22,#d1a07a,gIII2,Yugler till,T,,bouldery,,
+23,#9dd29c,a3II,3rd terrace alluvium 60-90 m,F,,gravel,,
+24,#60c3aa,laI-II,lake-alluvial (section only),L,F,mixed,,
+25,#a677b4,PREQ,pre-Quaternary,R,,,,

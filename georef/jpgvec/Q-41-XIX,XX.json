@@ -1,0 +1,445 @@
+{
+ "sheet": "Q-41-XIX,XX",
+ "source": "raster scan",
+ "projection": "eqdc",
+ "rms_m": 28.121193277961698,
+ "max_res_m": 28.463233743954333,
+ "m_per_px": 16.930299806582266,
+ "corner_residuals_m": [
+  28.5,
+  28.5,
+  27.8,
+  27.8
+ ],
+ "corners": [
+  {
+   "approx": [
+    473.0,
+    817.0
+   ],
+   "snapped": [
+    473.0,
+    817.0
+   ],
+   "ok": "rejected (moved > 15 px)"
+  },
+  {
+   "approx": [
+    5840.0,
+    817.0
+   ],
+   "snapped": [
+    5840.0,
+    817.0
+   ],
+   "ok": "rejected (moved > 15 px)"
+  },
+  {
+   "approx": [
+    5905.0,
+    5207.0
+   ],
+   "snapped": [
+    5905.0,
+    5207.0
+   ],
+   "ok": "rejected (moved > 15 px)"
+  },
+  {
+   "approx": [
+    405.0,
+    5207.0
+   ],
+   "snapped": [
+    405.0,
+    5207.0
+   ],
+   "ok": false
+  }
+ ],
+ "frame_sag_px": 21.9,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/Q-41-XIX,XX/q-41-xix-xx-r-bolshaya-inta-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-f_0.jpg Q-41-XIX,XX ../sources/legend_Q-41-XIX,XX.csv ../work/facefix/Q-41-XIX,XX.gpkg --datum 4284 --corners '473,817;5840,817;5905,5207;405,5207' --mmu 60",
+ "unassigned_before_fill": 0.122,
+ "area_km2": 6838.1327286318065,
+ "neatline_km2": 6838.523085592783,
+ "cover_frac": 0.9999429179435251,
+ "n_polygons": 13873,
+ "units": {
+  "#9a999b": {
+   "index": "tH2",
+   "px": 408154,
+   "direct_frac": 0.362
+  },
+  "#cdfda0": {
+   "index": "aH",
+   "px": 1555,
+   "direct_frac": 0.003
+  },
+  "#37c9cb": {
+   "index": "l,plIII-H",
+   "px": 32323,
+   "direct_frac": 0.121
+  },
+  "#a0cf98": {
+   "index": "a1-2IIIsj-jr",
+   "px": 2529,
+   "direct_frac": 0.293
+  },
+  "#c8d09c": {
+   "index": "a1IIIjr",
+   "px": 118924,
+   "direct_frac": 0.601
+  },
+  "#a0cf9b": {
+   "index": "a2IIIsj",
+   "px": 944655,
+   "direct_frac": 0.597
+  },
+  "#9ace98": {
+   "index": "a3-4IIIjk-sd",
+   "px": 34874,
+   "direct_frac": 0.566
+  },
+  "#97cc92": {
+   "index": "a3IIIsd",
+   "px": 5455,
+   "direct_frac": 0.478
+  },
+  "#72cc68": {
+   "index": "a4IIIjk",
+   "px": 5024,
+   "direct_frac": 0.378
+  },
+  "#36caa0": {
+   "index": "am4IIIcl",
+   "px": 125884,
+   "direct_frac": 0.626
+  },
+  "#fd9968": {
+   "index": "e,dII-H",
+   "px": 5940653,
+   "direct_frac": 0.812
+  },
+  "#019dca": {
+   "index": "l,plII-H",
+   "px": 1322792,
+   "direct_frac": 0.877
+  },
+  "#019b9f": {
+   "index": "l,amIvd",
+   "px": 1176191,
+   "direct_frac": 0.765
+  },
+  "#a09566": {
+   "index": "gmE2-Irg",
+   "px": 161643,
+   "direct_frac": 0.61
+  },
+  "#9b685a": {
+   "index": "gmN2pd",
+   "px": 5568110,
+   "direct_frac": 0.764
+  },
+  "#63cb69": {
+   "index": "aN2sn",
+   "px": 124,
+   "direct_frac": 0.718
+  },
+  "#329e64": {
+   "index": "m,gmN2kl-lm",
+   "px": 32822,
+   "direct_frac": 0.481
+  },
+  "#fc9237": {
+   "index": "e,dN",
+   "px": 137688,
+   "direct_frac": 0.664
+  },
+  "#fdce9a": {
+   "index": "pH",
+   "px": 698,
+   "direct_frac": 0.01
+  },
+  "#ffcb97": {
+   "index": "gH",
+   "px": 138,
+   "direct_frac": 0.572
+  },
+  "#ff9b90": {
+   "index": "e,dIII-H",
+   "px": 469,
+   "direct_frac": 0.373
+  },
+  "#fd987a": {
+   "index": "d,sIII-H",
+   "px": 100,
+   "direct_frac": 0.52
+  },
+  "#d16a9c": {
+   "index": "c,drIII-H",
+   "px": 1208287,
+   "direct_frac": 0.748
+  },
+  "#d49466": {
+   "index": "d,drIII-H",
+   "px": 4214,
+   "direct_frac": 0.543
+  },
+  "#cf9b85": {
+   "index": "gIIIpu",
+   "px": 21620,
+   "direct_frac": 0.61
+  },
+  "#c9ce99": {
+   "index": "fIIIpu",
+   "px": 171068,
+   "direct_frac": 0.684
+  },
+  "#cd9968": {
+   "index": "gIIIhn",
+   "px": 397572,
+   "direct_frac": 0.712
+  },
+  "#c2cd8b": {
+   "index": "fIIIhn",
+   "px": 4325,
+   "direct_frac": 0.102
+  },
+  "#ca699d": {
+   "index": "eII-H",
+   "px": 164331,
+   "direct_frac": 0.641
+  },
+  "#d16b93": {
+   "index": "e,drII-H",
+   "px": 25293,
+   "direct_frac": 0.619
+  },
+  "#fc6f67": {
+   "index": "d,sII-H",
+   "px": 35434,
+   "direct_frac": 0.906
+  },
+  "#d39666": {
+   "index": "c,drII-H",
+   "px": 37234,
+   "direct_frac": 0.389
+  },
+  "#cf675e": {
+   "index": "d,drII-H",
+   "px": 3507062,
+   "direct_frac": 0.619
+  },
+  "#cd9765": {
+   "index": "gIIpc",
+   "px": 1057663,
+   "direct_frac": 0.695
+  },
+  "#99c867": {
+   "index": "fIIpc",
+   "px": 229413,
+   "direct_frac": 0.722
+  },
+  "#67cc6a": {
+   "index": "aIIbd",
+   "px": 3477,
+   "direct_frac": 0.514
+  },
+  "#009b96": {
+   "index": "a,am,gmN2-QI",
+   "px": 10088,
+   "direct_frac": 0.472
+  },
+  "#009d99": {
+   "index": "a,lEtv",
+   "px": 64,
+   "direct_frac": 0.0
+  },
+  "#c4669a": {
+   "index": "eN-Q",
+   "px": 985419,
+   "direct_frac": 0.531
+  },
+  "#009e94": {
+   "index": "alN2bn",
+   "px": 9393,
+   "direct_frac": 0.793
+  },
+  "#009b97": {
+   "index": "amN2cg",
+   "px": 40229,
+   "direct_frac": 0.512
+  }
+ },
+ "confusable_pairs": [
+  [
+   "a1-2IIIsj-jr",
+   "a2IIIsj",
+   1.6
+  ],
+  [
+   "a1-2IIIsj-jr",
+   "a3-4IIIjk-sd",
+   1.9
+  ],
+  [
+   "a1-2IIIsj-jr",
+   "a3IIIsd",
+   3.2
+  ],
+  [
+   "a1IIIjr",
+   "fIIIpu",
+   1.4
+  ],
+  [
+   "a1IIIjr",
+   "fIIIhn",
+   7.5
+  ],
+  [
+   "a2IIIsj",
+   "a3-4IIIjk-sd",
+   2.2
+  ],
+  [
+   "a2IIIsj",
+   "a3IIIsd",
+   4.3
+  ],
+  [
+   "a3-4IIIjk-sd",
+   "a3IIIsd",
+   2.4
+  ],
+  [
+   "a4IIIjk",
+   "aN2sn",
+   4.2
+  ],
+  [
+   "a4IIIjk",
+   "aIIbd",
+   3.3
+  ],
+  [
+   "l,amIvd",
+   "a,am,gmN2-QI",
+   5.5
+  ],
+  [
+   "l,amIvd",
+   "a,lEtv",
+   5.0
+  ],
+  [
+   "l,amIvd",
+   "amN2cg",
+   4.9
+  ],
+  [
+   "aN2sn",
+   "aIIbd",
+   0.9
+  ],
+  [
+   "pH",
+   "gH",
+   2.2
+  ],
+  [
+   "c,drIII-H",
+   "eII-H",
+   3.1
+  ],
+  [
+   "c,drIII-H",
+   "e,drII-H",
+   5.4
+  ],
+  [
+   "c,drIII-H",
+   "eN-Q",
+   4.7
+  ],
+  [
+   "d,drIII-H",
+   "gIIIhn",
+   5.5
+  ],
+  [
+   "d,drIII-H",
+   "c,drII-H",
+   1.6
+  ],
+  [
+   "d,drIII-H",
+   "gIIpc",
+   4.6
+  ],
+  [
+   "fIIIpu",
+   "fIIIhn",
+   7.1
+  ],
+  [
+   "gIIIhn",
+   "c,drII-H",
+   4.1
+  ],
+  [
+   "gIIIhn",
+   "gIIpc",
+   1.3
+  ],
+  [
+   "eII-H",
+   "e,drII-H",
+   7.5
+  ],
+  [
+   "eII-H",
+   "eN-Q",
+   1.9
+  ],
+  [
+   "c,drII-H",
+   "gIIpc",
+   3.1
+  ],
+  [
+   "a,am,gmN2-QI",
+   "a,lEtv",
+   1.0
+  ],
+  [
+   "a,am,gmN2-QI",
+   "alN2bn",
+   3.3
+  ],
+  [
+   "a,am,gmN2-QI",
+   "amN2cg",
+   0.6
+  ],
+  [
+   "a,lEtv",
+   "alN2bn",
+   3.7
+  ],
+  [
+   "a,lEtv",
+   "amN2cg",
+   0.8
+  ],
+  [
+   "alN2bn",
+   "amN2cg",
+   3.9
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 60
+}

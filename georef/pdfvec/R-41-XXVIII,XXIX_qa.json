@@ -1,0 +1,71 @@
+{
+ "sheet": "R-41-XXVIII,XXIX",
+ "projection": "eqdc",
+ "rms_m": 0.2440944281025596,
+ "max_res_m": 0.4616749679063594,
+ "m_per_pt": 70.55576349366162,
+ "frame_hausdorff_after_snap_m": 1.4066567043820137,
+ "n_polygons": 4814,
+ "area_km2": 5950.902594498876,
+ "neatline_km2": 5950.97460812101,
+ "gap_frac": 1.0658044913378437e-05,
+ "area_by_index": {
+  "PREQ1|PREQ2|PREQ3": 150.9,
+  "WATER": 396.2,
+  "a,fIIIhn": 76.8,
+  "a1IIIjr": 42.3,
+  "a2IIIsj": 45.6,
+  "aHgr": 315.8,
+  "aIIIst": 21.3,
+  "aN1br": 0.4,
+  "am,mEvš": 48.1,
+  "am1IIIbd": 65.7,
+  "am2IIIuk": 269.0,
+  "amHgr": 413.0,
+  "amIIIsp": 154.2,
+  "c,drIII-H": 108.7,
+  "d,pIII-H": 10.6,
+  "dr,sIII-H": 191.5,
+  "drIII-H": 322.8,
+  "e,drIII-H": 53.0,
+  "eIII-H": 41.2,
+  "fIIIhn": 104.1,
+  "fIIsu": 491.4,
+  "gIIsu": 318.7,
+  "l,plIII-H": 63.0,
+  "m,gmN2-Epd-rg": 495.5,
+  "m1IIIbd": 122.8,
+  "m2IIIuk": 265.7,
+  "mHgr": 27.1,
+  "mIIIsm": 333.8,
+  "mIIIsp": 342.4,
+  "mN1-2pb-kl": 659.2
+ },
+ "non_legend_colours": [
+  [
+   "#231f20",
+   108796.90050115809
+  ],
+  [
+   "#0066b3",
+   2975.365034483373
+  ],
+  [
+   "#ec008c",
+   2936.2487292289734
+  ],
+  [
+   "#e0871a",
+   263.92007979005575
+  ],
+  [
+   "#8b9414",
+   165.50635047256947
+  ],
+  [
+   "#b15c24",
+   133.85978127270937
+  ]
+ ],
+ "datum": "EPSG:4284 assumed"
+}

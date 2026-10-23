@@ -1,0 +1,21 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#add5ae,laH,"Озерно-аллювиальные отложения. Галечники, пески, супеси, суглинки с линзами глин, илов, торфа (до 10 м)",L,F,mixed,,"GGK-200/2 P-56-XII, Sugoy series, Quaternary map 2nd ed., RASTER = geokniga 1643x2464 px PREVIEW (~34 m/px; no full-resolution scan on geokniga); units from the separate legend JPG p-56-xiiql.jpg; fills = MAP tints: legend swatch -> map full RGB affine fitted on 25 pairs sampled inside labelled polygons (median residual 3.1 dE), paired units take their own map tint, all refined on the face (r 4, cap 5 dE); same-colour merges (legend dE 2-5, dry run 91-100 % ambiguous): e,dIII-H+gIII4 (W/C kept; the absorbed gIII4 till was not measured), a3III3+a4III2+fIII4 (F with hclass2 GF), agprH2+a1H1; extraction: corners = inner neatline edge fitted along the four sides (34 m/px preview), --no-snap --thin-units plH:2 --class-dE plH=7 (terrace-scarp and symbol linework on floodplains read as peat)"
+1,#cdc496,plH,Палюстринные отложения. Торф (до 2 м),O,,organic,,
+2,#e2ddd3,tnsH2,"Техногенные насыпные образования. Карьеры, горные отвалы. Глыбы, щебень, дресва, супеси, суглинки (до 30 м)",X,,mixed,,
+3,#e3e5bf,aginH2,"Аллювиальные отложения горных инстративных пойм. Галечники, валуны, щебень, дресва, гравий, пески (до 3 м)",F,,gravel,,
+4,#e0ebb2,agprH2,"Аллювиальные отложения горных перстративных пойм. Галечники, гравий, пески, супеси, суглинки (до 16 м)",F,,gravel,,same printed colour as a1H1: one class
+5,#e0ebb2,a1H1,"Аллювиальные отложения первой надпойменной террасы. Галечники, гравийники, пески, супеси, валуны (до 20 м)",F,,gravel,,same printed colour as agprH2: one class
+6,#e197d1,eIII-H,"Элювиальные отложения. Глыбы, щебень, дресва, супеси, суглинки (до 3 м)",W,,bouldery,,
+7,#f5a1a2,dIII-H,"Делювиальные отложения. Щебень, дресва, супеси, суглинки (до 10 м)",C,,mixed,,
+8,#f6bc9e,"e,dIII-H","Элювиальные и делювиальные отложения. Щебень, дресва, супеси, суглинки, глыбы (до 5 м)",W,T,mixed,,"same printed colour as gIII4: one class; group coded W/T (2026-10-04): the shared colour also carries the Khetakagchan till gIII4 (~1/3 of its labels on P-56-XVIII), so T is kept as the second class"
+9,#ed706b,cIII-H,"Коллювиальные отложения. Глыбы, щебень, дресва (до 10 м)",C,,bouldery,,
+10,#ef8b79,"c,dIII-H","Коллювиальные и делювиальные отложения. Глыбы, щебень, дресва, супеси (до 10 м)",C,,bouldery,,
+11,#f096a2,"d,sIII-H","Делювиальные и солифлюкционные отложения. Суглинки, дресва, щебень, супеси, линзы торфа, льда, почв (до 22 м)",C,,fines,yes,solifluction; ice lenses in the legend text
+12,#ecd783,pIII-H,"Пролювиальные отложения. Галечники, щебень, глыбы, пески, гравий, суглинки, глины (до 10 м)",F,,gravel,,
+13,#d4e4a2,a2III4,"Хетакагчанский горизонт: аллювиальные отложения второй надпойменной террасы. Галечники, гравийники, пески, суглинки, прослои глин (до 15 м)",F,,gravel,,
+14,#f6bc9e,gIII4,"Хетакагчанский горизонт: ледниковые отложения. Суглинки и супеси, валуны, щебень, галька, дресва, глыбы (до 60 м)",W,T,mixed,,"same printed colour as e,dIII-H: one class; group coded W/T (2026-10-04): the shared colour also carries the Khetakagchan till gIII4 (~1/3 of its labels on P-56-XVIII), so T is kept as the second class"
+15,#ccda81,fIII4,"Хетакагчанский горизонт: флювиогляциальные отложения. Галечники с валунами, гравий, пески, супеси, суглинки (до 12 м)",F,GF,gravel,,same printed colour as a3III3/a4III2: one class
+16,#ccda81,a3III3,"Кубалахский горизонт: аллювиальные отложения третьей надпойменной террасы. Галечники, гравий, пески, супеси (до 12 м)",F,GF,gravel,,same printed colour as a4III2/fIII4: one class
+17,#ccda81,a4III2,"Юглерский горизонт: аллювиальные отложения четвертой надпойменной террасы. Галечники, гравий, пески, супеси, суглинки (до 15 м)",F,GF,gravel,,same printed colour as a3III3/fIII4: one class
+18,#eba476,gIII2,"Юглерский горизонт: ледниковые отложения. Глины, суглинки, валуны, глыбы, галька, щебень (до 15 м)",T,,diamicton,,
+19,#bf64b9,PREQ,Дочетвертичные образования,R,,,,

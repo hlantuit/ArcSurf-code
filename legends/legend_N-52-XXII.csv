@@ -1,0 +1,13 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#bfbfb2,tH,technogenic,X,,mixed,,"GGK-200/2 N-52-XXII, Upper Zeya, Quaternary map, vector PDF (geokniga)"
+1,#e2eec3,aH,channel and low floodplain alluvium,F,,gravel,,
+2,#aee2fa,lH,lacustrine,L,,fines,,
+3,#d29fc9,eIII-H,eluvium,W,,bouldery,,
+4,#fdc797,dIII-H,deluvium,C,,mixed,,
+5,#fcbf94,"e,dIII-H",eluvium and deluvium,W,C,mixed,,
+6,#f8a07c,"c,dIII-H",colluvium and deluvium,C,,bouldery,,
+7,#f4ce98,"d,pIII-H",deluvial-proluvial aprons,C,F,mixed,,
+8,#f8a691,"d,sIII-H",deluvium and solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+9,#d7e7aa,a1III,1st terrace alluvium,F,,sand,,
+10,#b7da9b,a2II,2nd terrace alluvium,F,,gravel,,
+11,#a677b4,PREQ,pre-Quaternary,R,,,,

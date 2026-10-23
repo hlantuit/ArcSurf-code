@@ -1,0 +1,13 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#fcc9a4,"e,dH",eluvium and deluvium,W,C,bouldery,,"GGK-200/2 P-58-XXVIII, Koryak Highlands, Quaternary map, vector PDF (geokniga); main legend = 40x20 column"
+1,#eea497,"c,sH",colluvium and solifluxion,C,,bouldery,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+2,#f9b4a0,"d,sH",deluvium and solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+3,#efaea0,"dr,sH",desertion and solifluxion,C,,bouldery,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+4,#ddebb7,aH,channel and floodplain alluvium,F,,gravel,,
+5,#f4e0af,pH,proluvium,F,,bouldery,,
+6,#e8b995,gIII4,"second glaciation, 2nd stage till",T,,bouldery,,
+7,#cbd89e,fIII4,glaciofluvial,GF,,gravel,,
+8,#c4df9b,aIII3,interstadial alluvium,F,,gravel,,
+9,#de9e70,gIII2,"second glaciation, 1st stage till",T,,bouldery,,
+10,#bdc977,fIII2,glaciofluvial,GF,,gravel,,
+11,#a677b4,PREQ,pre-Quaternary hard rock,R,,,,

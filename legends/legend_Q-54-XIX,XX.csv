@@ -1,0 +1,23 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#ed6251,c,colluvial (gravitational) deposits of steep slopes,C,,,,"GGK-200/2 Q-54-XIX,XX (Verkhov'ya Adychi), Verkhoyansk series, 2nd ed., print (c) Rosnedra 2016 (compiled by GUGGP Yanageologiya, author L.G. Vdovina, ed. L.A. Musalitin, minerals as of 1 Jan 2005; layout Moscow branch of VSEGEI); FULL SCAN of sheet 1 (map, section, correlation scheme) 5751x8474 CMYK 300 dpi, converted through its ICC profile; legend sheet 2 NOT held: units read from the indices printed on the map and on the correlation scheme, tints sampled on the map (k-means clusters + preview_tint_calib); descriptions after the genetic index letters; no ground-ice statement available -> ice_rich empty"
+1,#f99487,"c,d",colluvial and deluvial slope deposits,C,,,,
+2,#e378b3,"c,dr",colluvial and deserptional (creep) slope deposits,C,,,,
+3,#f4c4d5,dr,deserptional (creep) slope deposits,C,,,,
+4,#ffa767,"dr,s",deserptional and solifluction slope deposits,C,,,,
+5,#ffbd69,s,solifluction deposits,C,,,,
+6,#d174c5,"e,d",eluvial and deluvial deposits,W,C,,,
+7,#c2843e,gII2,Middle Pleistocene till (gII2),T,,,,
+8,#d6ab74,gIII2,Late Pleistocene till (gIII2),T,,,,
+9,#d5bc42,fII2,Middle Pleistocene glaciofluvial deposits (fII2),GF,,,,
+10,#e8d575,fIII2,Late Pleistocene glaciofluvial deposits (fIII2),GF,,,,
+11,#d2ebb3,aH,Holocene alluvium (floodplain),F,,,,
+12,#b7dd86,a1III-H,alluvium of the 1st terrace (Late Pleistocene-Holocene),F,,,,
+13,#90c752,a2III3,alluvium of the 2nd terrace (Late Pleistocene),F,,,,
+14,#5abc11,a3III1,alluvium of the 3rd terrace (Late Pleistocene),F,,,,tint within 7 dE of aI (confusable): one class
+15,#5abc11,aI,Early Pleistocene alluvium,F,,,,tint within 7 dE of a3III1 (confusable): one class
+16,#25b620,aE-Iad,Eopleistocene-Early Pleistocene alluvium (ad),F,,,,
+17,#f6eba3,"a,pIII-H",alluvial and proluvial deposits (Late Pleistocene-Holocene),F,,,,
+18,#c8e7f7,laIII1,lacustrine-alluvial deposits (Late Pleistocene); laII printed on part of the same tint,L,F,,,
+19,#e7efed,"l,plH2",lacustrine and paludal deposits (Holocene),L,O,,,
+20,#8431b0,PREQ,pre-Quaternary rocks (solid violet; no index on the map or the scheme; bedrock band of the correlation scheme),R,,,,
+21,#8c58b7,PREQd,"violet with white dots, no index: lies beneath gII2 and on the bedrock in the correlation scheme (pre-Quaternary, probably Neogene, loose deposits of the depressions)",R,,,,

@@ -1,0 +1,17 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+gold,R,,,,,Tertiary basalts (>3.3 Ma) - surficial cover not mapped at 1:600k
+gnew,R,,,,,Plio-Pleistocene basalts
+bold,R,,,,,older basic lavas
+bnew,R,,,,,younger basic lavas
+binn,R,,,,,basic intrusions
+sold,R,,,,,older silicic rocks
+snew,R,,,,,younger silicic rocks
+sinn,R,,,,,silicic intrusions
+sgos,R,,,,,silicic volcanics
+mob,V,R,,,,"móberg (Pleistocene hyaloclastite, subglacial volcanic) - Quaternary volcanic rock"
+hraun,V,,,,,Holocene lava (postglacial)
+sn,GF,,,,,sandar (glaciofluvial outwash plains)
+621,I,,,,,glacier (yfirbordsvatn 4)
+701,H,,,,,surface water (yfirbordsvatn 1)
+743,H,,,,,lake (yfirbordsvatn 3)
+746,H,,,,,lake (yfirbordsvatn 3)

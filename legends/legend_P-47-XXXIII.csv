@@ -1,0 +1,15 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#b684b5,e,eluvium: clays with debris,W,,fines,,"GGK-200/2 P-47-XXXIII, Angara series, Quaternary map, RASTER (geokniga JPG)"
+1,#db836d,c,colluvium,C,,bouldery,,
+2,#d2869d,dr,desertion,C,,bouldery,,
+3,#d3808a,"dr,s",desertion and solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+4,#dd8481,s,solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+5,#a7a479,pl,palustrine peat,O,,organic,,
+6,#d2df99,aH,floodplain alluvium,F,,gravel,,
+7,#c7d99b,a1IIIsr-H,1st terrace alluvium,F,,gravel,,
+8,#bed48b,a2IIIkr-sr,2nd terrace alluvium,F,,gravel,,
+9,#b3cf7b,a3IIIkz-mr,3rd terrace alluvium,F,,gravel,,
+10,#7dba9b,"a,l4IIsr-tz",4th terrace alluvial and lacustrine,F,L,mixed,,
+11,#7cb991,"a,l5IItb-sm",5th terrace alluvial and lacustrine,F,L,sand,,
+12,#76bbe5,l6IIlb,Lebed lacustrine 6th terrace,L,,fines,,
+13,#9a7eb1,PREQ,pre-Quaternary,R,,,,

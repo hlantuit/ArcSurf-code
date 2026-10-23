@@ -1,0 +1,285 @@
+{
+ "sheet": "O-47-48_g2",
+ "source": "raster scan",
+ "projection": "given",
+ "rms_m": 209.81359661522902,
+ "max_res_m": 221.01541911077666,
+ "m_per_px": 84.81883058093682,
+ "corner_residuals_m": [
+  220.6,
+  221.0,
+  198.4,
+  198.0
+ ],
+ "corners": [
+  {
+   "approx": [
+    683.0,
+    1205.0
+   ],
+   "snapped": [
+    683.0,
+    1205.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    6572.0,
+    1238.0
+   ],
+   "snapped": [
+    6572.0,
+    1238.0
+   ],
+   "ok": "rejected (moved > 15 px)"
+  },
+  {
+   "approx": [
+    6871.0,
+    6483.0
+   ],
+   "snapped": [
+    6871.0,
+    6483.0
+   ],
+   "ok": "rejected (moved > 15 px)"
+  },
+  {
+   "approx": [
+    309.0,
+    6456.0
+   ],
+   "snapped": [
+    309.0,
+    6456.0
+   ],
+   "ok": "rejected (moved > 15 px)"
+  }
+ ],
+ "frame_sag_px": 104.7,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga_1m/O-_47_,48_g2/o-4748-ust-kut-gosudarstvennaya-geologicheskaya-karta-sssr-novaya-seriya-karta-.jpg O-47-48_g2 ../sources/legend_O-47-48_g2.csv ../work/facefix/O-47-48_g2.gpkg --lonlat 99,56,108,60 --datum 4284 --corners '683,1205;6572,1238;6871,6483;309,6456' --thin-units gIIs,gIIIz,PREQ,lgIIIz,aI:3 --proj '+proj=eqdc +lat_1=47 +lat_2=62 +lon_0=103.5'",
+ "unassigned_before_fill": 0.415,
+ "area_km2": 237047.32234287696,
+ "neatline_km2": 237058.67497526202,
+ "cover_frac": 0.9999521104537252,
+ "n_polygons": 34089,
+ "units": {
+  "#e5dec7": {
+   "index": "aIV",
+   "px": 753160,
+   "direct_frac": 0.344
+  },
+  "#e1ddca": {
+   "index": "lhIII-IV",
+   "px": 1054551,
+   "direct_frac": 0.624
+  },
+  "#e3b3ab": {
+   "index": "e,dIII-IV",
+   "px": 666017,
+   "direct_frac": 0.525
+  },
+  "#e48472": {
+   "index": "dcIII-IV",
+   "px": 3476867,
+   "direct_frac": 0.354
+  },
+  "#d4746b": {
+   "index": "c,csIII-IV",
+   "px": 3424984,
+   "direct_frac": 0.167
+  },
+  "#e1d59d": {
+   "index": "aIII-IV",
+   "px": 161912,
+   "direct_frac": 0.282
+  },
+  "#e2cf71": {
+   "index": "aIII",
+   "px": 42097,
+   "direct_frac": 0.373
+  },
+  "#ddd6a7": {
+   "index": "aIIIkr-sr",
+   "px": 5380,
+   "direct_frac": 0.294
+  },
+  "#c6c5a7": {
+   "index": "lgIIIz",
+   "px": 4835,
+   "direct_frac": 0.5
+  },
+  "#e0d7ac": {
+   "index": "fIIIz",
+   "px": 61097,
+   "direct_frac": 0.303
+  },
+  "#ccaa89": {
+   "index": "gIIIz",
+   "px": 24685,
+   "direct_frac": 0.28
+  },
+  "#c9c896": {
+   "index": "aIIIkz-z",
+   "px": 258171,
+   "direct_frac": 0.126
+  },
+  "#bbc072": {
+   "index": "aII",
+   "px": 27392,
+   "direct_frac": 0.465
+  },
+  "#ac7450": {
+   "index": "gIIs",
+   "px": 20570,
+   "direct_frac": 0.339
+  },
+  "#a7ad65": {
+   "index": "aIIsr-t",
+   "px": 208924,
+   "direct_frac": 0.111
+  },
+  "#99a96f": {
+   "index": "aIItb-s",
+   "px": 175057,
+   "direct_frac": 0.089
+  },
+  "#93a770": {
+   "index": "aI-IId-t",
+   "px": 204574,
+   "direct_frac": 0.085
+  },
+  "#7ba073": {
+   "index": "aI",
+   "px": 36843,
+   "direct_frac": 0.327
+  },
+  "#d4ce8b": {
+   "index": "aN2-Q1",
+   "px": 246987,
+   "direct_frac": 0.239
+  },
+  "#e6b9b4": {
+   "index": "e",
+   "px": 1344275,
+   "direct_frac": 0.613
+  },
+  "#e49693": {
+   "index": "e,d",
+   "px": 11341479,
+   "direct_frac": 0.469
+  },
+  "#e7806a": {
+   "index": "d",
+   "px": 4705899,
+   "direct_frac": 0.385
+  },
+  "#c33638": {
+   "index": "c",
+   "px": 3140148,
+   "direct_frac": 0.319
+  },
+  "#e25b19": {
+   "index": "dc",
+   "px": 1385975,
+   "direct_frac": 0.562
+  },
+  "#db7c78": {
+   "index": "ds",
+   "px": 266451,
+   "direct_frac": 0.337
+  },
+  "#e4c0a8": {
+   "index": "ad",
+   "px": 92134,
+   "direct_frac": 0.582
+  },
+  "#af9aa4": {
+   "index": "PREQ",
+   "px": 285,
+   "direct_frac": 0.526
+  }
+ },
+ "confusable_pairs": [
+  [
+   "aIV",
+   "lhIII-IV",
+   2.4
+  ],
+  [
+   "e,dIII-IV",
+   "e",
+   2.9
+  ],
+  [
+   "dcIII-IV",
+   "c,csIII-IV",
+   7.1
+  ],
+  [
+   "dcIII-IV",
+   "d",
+   4.6
+  ],
+  [
+   "dcIII-IV",
+   "ds",
+   7.9
+  ],
+  [
+   "c,csIII-IV",
+   "ds",
+   4.4
+  ],
+  [
+   "aIII-IV",
+   "aIIIkr-sr",
+   5.1
+  ],
+  [
+   "aIII-IV",
+   "fIIIz",
+   6.9
+  ],
+  [
+   "aIII-IV",
+   "aIIIkz-z",
+   7.6
+  ],
+  [
+   "aIII-IV",
+   "aN2-Q1",
+   6.9
+  ],
+  [
+   "aIIIkr-sr",
+   "fIIIz",
+   2.3
+  ],
+  [
+   "aIIIkr-sr",
+   "aIIIkz-z",
+   6.3
+  ],
+  [
+   "fIIIz",
+   "aIIIkz-z",
+   7.9
+  ],
+  [
+   "aII",
+   "aIIsr-t",
+   7.4
+  ],
+  [
+   "aIItb-s",
+   "aI-IId-t",
+   2.5
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 120
+}

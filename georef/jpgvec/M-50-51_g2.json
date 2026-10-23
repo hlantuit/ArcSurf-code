@@ -1,0 +1,215 @@
+{
+ "sheet": "M-50-51_g2",
+ "source": "raster scan",
+ "projection": "given",
+ "rms_m": 220.04704861046665,
+ "max_res_m": 229.27544275901357,
+ "m_per_px": 84.55815634669587,
+ "corner_residuals_m": [
+  229.3,
+  229.2,
+  210.4,
+  210.5
+ ],
+ "corners": [
+  {
+   "approx": [
+    439.0,
+    917.0
+   ],
+   "snapped": [
+    439.0,
+    917.0
+   ],
+   "ok": "rejected (moved > 15 px)"
+  },
+  {
+   "approx": [
+    3669.0,
+    925.0
+   ],
+   "snapped": [
+    3669.0,
+    925.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    3803.0,
+    6216.0
+   ],
+   "snapped": [
+    3803.0,
+    6216.0
+   ],
+   "ok": false
+  },
+  {
+   "approx": [
+    285.0,
+    6205.0
+   ],
+   "snapped": [
+    285.0,
+    6205.0
+   ],
+   "ok": false
+  }
+ ],
+ "frame_sag_px": 25.1,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga_1m/M-_50_,_51__g2/m-5051-gosudarstvennaya-geologicheskaya-karta-sssr-priargunsk-karta-chetvertichn.jpg M-50-51_g2 ../sources/legend_M-50-51_g2.csv ../work/facefix/M-50-51_g2.gpkg --lonlat 117,48,121,52 --datum 4284 --corners '439,917;3669,925;3803,6216;285,6205' --paper-nodata --paper-rgb '#ffffff' --proj '+proj=eqdc +lat_1=47 +lat_2=62 +lon_0=119'",
+ "unassigned_before_fill": 0.365,
+ "area_km2": 50304.591738952906,
+ "neatline_km2": 127573.40539572887,
+ "cover_frac": 0.3943187969538759,
+ "n_polygons": 3954,
+ "units": {
+  "#c784ce": {
+   "index": "e",
+   "px": 314229,
+   "direct_frac": 0.616
+  },
+  "#f15742": {
+   "index": "e,d",
+   "px": 415864,
+   "direct_frac": 0.707
+  },
+  "#f35d5d": {
+   "index": "ds",
+   "px": 135509,
+   "direct_frac": 0.27
+  },
+  "#e5ee5b": {
+   "index": "aIV",
+   "px": 736714,
+   "direct_frac": 0.52
+  },
+  "#fda194": {
+   "index": "dsIII-IV",
+   "px": 39609,
+   "direct_frac": 0.44
+  },
+  "#cbe286": {
+   "index": "a1IIIos",
+   "px": 69781,
+   "direct_frac": 0.433
+  },
+  "#abc958": {
+   "index": "a2IIIst",
+   "px": 282295,
+   "direct_frac": 0.206
+  },
+  "#96b95b": {
+   "index": "a3IIIsv,tm",
+   "px": 60813,
+   "direct_frac": 0.445
+  },
+  "#8ab048": {
+   "index": "a1-3III",
+   "px": 4901,
+   "direct_frac": 0.72
+  },
+  "#fe8645": {
+   "index": "dIII",
+   "px": 333190,
+   "direct_frac": 0.863
+  },
+  "#cf9452": {
+   "index": "adIII",
+   "px": 1392762,
+   "direct_frac": 0.518
+  },
+  "#e98a43": {
+   "index": "dpIII",
+   "px": 719639,
+   "direct_frac": 0.736
+  },
+  "#fb716e": {
+   "index": "dsIII",
+   "px": 439255,
+   "direct_frac": 0.649
+  },
+  "#e3383f": {
+   "index": "cII-III",
+   "px": 84957,
+   "direct_frac": 0.546
+  },
+  "#eb504b": {
+   "index": "dcII-III",
+   "px": 1217585,
+   "direct_frac": 0.667
+  },
+  "#8d4e8a": {
+   "index": "drII-III",
+   "px": 636654,
+   "direct_frac": 0.463
+  },
+  "#7ca74d": {
+   "index": "a4+5II",
+   "px": 20583,
+   "direct_frac": 0.542
+  },
+  "#5b8b3f": {
+   "index": "a4IIkr",
+   "px": 2968,
+   "direct_frac": 0.672
+  },
+  "#50813e": {
+   "index": "aN2-I",
+   "px": 61765,
+   "direct_frac": 0.657
+  },
+  "#8855a2": {
+   "index": "PREQ",
+   "px": 106327,
+   "direct_frac": 0.593
+  }
+ },
+ "confusable_pairs": [
+  [
+   "e,d",
+   "dcII-III",
+   7.8
+  ],
+  [
+   "ds",
+   "dsIII",
+   7.7
+  ],
+  [
+   "ds",
+   "dcII-III",
+   6.8
+  ],
+  [
+   "a3IIIsv,tm",
+   "a1-3III",
+   6.2
+  ],
+  [
+   "a3IIIsv,tm",
+   "a4+5II",
+   7.9
+  ],
+  [
+   "a1-3III",
+   "a4+5II",
+   7.5
+  ],
+  [
+   "cII-III",
+   "dcII-III",
+   7.3
+  ],
+  [
+   "a4IIkr",
+   "aN2-I",
+   5.7
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 120
+}

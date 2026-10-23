@@ -1,0 +1,16 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#f7f8d7,14,Alluvium: sand and gravel with detrital organic beds; < 5 m; braided floodplains,F,,mixed,,"GSC Map 1849A Surficial geology, Barrow River, District of Franklin (Dredge 1994), 1:200k UTM, raster scan (mg1.pdf image 13861x11933). Unit 9 (glaciolacustrine) is printed WHITE = paper: it reads as no-data and falls to the coarser source. 14 vs 4 (dE ~5) and 1 vs Archean rock (dE ~4) are near-identical tints"
+1,#265d97,13,Marine littoral deposits: bouldery and flaggy gravel; 2-6 m; emerged beach ridges,M,,gravel,,
+2,#4368b0,12,Marine deltaic deposits: sand and silt; 5-30 m; terraces,M,F,sand,,
+3,#9bd1de,11a,"Offshore and sub-littoral deposits, blanket: stratified sand and silt; 1-10 m; mudboils",M,,fines,blanket,
+4,#5c88bc,11b,"Offshore and sub-littoral deposits, veneer: < 1 m over rock",M,R,fines,veneer,
+5,#6f99c3,10,Glaciomarine deposits and marine veneer/till: stony sandy silt or clay; 1-5 m,GM,T,diamicton,,
+6,#f9f887,8,"Glaciofluvial outwash: sand and rounded gravel; 1-10 m; kettled terraces, braided fans",GF,,gravel,,
+7,#f8bf70,7,Kame and esker deposits: sand and gravel; 5-15 m,GF,,gravel,,
+8,#1f4a4c,6,"Sandy Laurentide till, hummocky: granitic till; 5-30 m",T,,diamicton,,map tint #1f4a4c sampled ON THE MAP (legend swatch #28565a)
+9,#78a496,5,Sandy Laurentide till blanket: 1-10 m; rolling plains,T,,diamicton,blanket,map tint #78a496 sampled ON THE MAP (legend swatch #7098a6)
+10,#e8f1bc,4,Sandy Laurentide till veneer: < 1 m over rock,T,R,diamicton,veneer,map tint #e8f1bc sampled ON THE MAP (legend swatch #e7f1cd)
+11,#b06858,3,Bouldery local till blanket: 1-5 m; flat plain,T,,bouldery,blanket,map tint #b06858 sampled ON THE MAP (legend swatch #a4685a)
+12,#6d393e,2,Bouldery local till veneer: < 1 m over bedrock,T,R,bouldery,veneer,map tint #6d393e sampled ON THE MAP (legend swatch #5f3242)
+13,#f8d6da,"1,A(Archean)","Broken rock / felsenmeer (1) or Archean granitoid rock (A): near-identical tints, not separable by colour",W,R,bouldery,,1 #f8d8d8 and Archean A #f8d2dc are dE ~4 apart: merged into one class
+14,#f78cae,A(Aphebian),"Rock: Aphebian metasedimentary rocks of the Penrhyn Group (marble, quartzite, pelitic gneiss)",R,,,,

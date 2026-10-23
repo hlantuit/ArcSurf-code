@@ -1,0 +1,19 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#ebf2cf,aH,alluvium,F,,gravel,,"GGK-200/2 P-54-XX, Okhotsk-Kolyma, Quaternary map, vector PDF (geokniga)"
+1,#f58466,cH,colluvium,C,,bouldery,,
+2,#f0cd7d,pH,proluvium,F,,bouldery,,
+3,#ebdd8b,apH,alluvial-proluvial,F,,gravel,,
+4,#e1b26d,pdH,proluvial-deluvial,F,C,mixed,,
+5,#9cdcf9,lH,lacustrine,L,,fines,,
+6,#cb90bf,eIII-H,eluvium,W,,bouldery,,
+7,#fcbc86,dIII-H,deluvium,C,,mixed,,
+8,#f9a56f,edIII-H,eluvium-deluvium,W,C,bouldery,,
+9,#f68f69,cdIII-H,colluvium-deluvium,C,,bouldery,,
+10,#f69780,dsIII-H,deluvium-solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+11,#ddebb7,aIII4,alluvium,F,,gravel,,
+12,#6dcff6,lIII4,lacustrine,L,,fines,,
+13,#cb9168,gIII4,Late Pleistocene till,T,,bouldery,,
+14,#b2c77b,fIII4,glaciofluvial,GF,,gravel,,
+15,#c4df9b,aIII3,alluvium (section only),F,,gravel,,
+16,#c38151,gIII2,early Late Pleistocene till,T,,bouldery,,
+17,#a677b4,PREQ,pre-Quaternary,R,,,,

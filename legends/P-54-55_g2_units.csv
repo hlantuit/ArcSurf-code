@@ -1,0 +1,57 @@
+x,y,w,index,description_ru,hclass,hclass2,texture,note
+8195,1087,120,aE,Аллювиальный,F,,mixed,Eopleistocene alluvium
+8350,1087,120,aI,Аллювиальный,F,,mixed,lower Neopleistocene alluvium
+8505,1087,120,aI-II,Аллювиальный,F,,mixed,lower-middle Neopleistocene alluvium
+8660,1087,120,aII1,Аллювиальный,F,,mixed,middle Neopleistocene alluvium stage 1
+8815,1087,120,aII2,Аллювиальный,F,,mixed,middle Neopleistocene alluvium stage 2
+8970,1087,120,aII3,Аллювиальный,F,,mixed,middle Neopleistocene alluvium stage 3
+9125,1087,120,aII4,Аллювиальный,F,,mixed,middle Neopleistocene alluvium stage 4
+9275,1087,120,aII,Аллювиальный,F,,mixed,middle Neopleistocene alluvium
+9430,1087,120,aII-III,Аллювиальный,F,,mixed,middle-upper Neopleistocene alluvium
+9585,1087,120,aIII1,Аллювиальный,F,,mixed,upper Neopleistocene alluvium stage 1
+9740,1087,120,aIII2,Аллювиальный,F,,mixed,upper Neopleistocene alluvium stage 2
+9895,1087,120,aIII3,Аллювиальный,F,,mixed,upper Neopleistocene alluvium stage 3
+10048,1087,120,aIII3-4,Аллювиальный,F,,mixed,upper Neopleistocene alluvium stages 3-4
+10200,1087,120,aIII4,Аллювиальный,F,,mixed,upper Neopleistocene alluvium stage 4
+10360,1087,120,aIII,Аллювиальный,F,,mixed,upper Neopleistocene alluvium
+10510,1087,120,aIII-IV,Аллювиальный,F,,mixed,upper Neopleistocene-Holocene alluvium
+10665,1087,120,aIV,Аллювиальный,F,,mixed,Holocene alluvium
+10510,1185,120,pIII-IV,Пролювиальный,F,,gravel,proluvium
+10665,1185,120,pIV,Пролювиальный,F,,gravel,Holocene proluvium
+10785,920,50,e',Элювиальный на скальных породах,W,,bouldery,eluvium on bedrock
+10851,920,50,e'',Элювиальный на рыхлых отложениях неогена,W,,fines,eluvium on loose Neogene deposits
+10820,1013,120,c,Коллювиальный,C,,bouldery,colluvium
+8813,1372,120,gII2,Ледниковый,T,,bouldery,middle Neopleistocene stage 2 till
+9121,1372,120,gII4,Ледниковый,T,,bouldery,middle Neopleistocene stage 4 till
+9275,1372,120,gII,Ледниковый,T,,bouldery,middle Neopleistocene till
+8813,1467,120,fII2,Флювиогляциальный,GF,,gravel,middle Neopleistocene stage 2 glaciofluvial
+9738,1372,120,gIII2,Ледниковый,T,,bouldery,upper Neopleistocene stage 2 till
+9738,1467,120,fIII2,Флювиогляциальный,GF,,gravel,upper Neopleistocene stage 2 glaciofluvial
+9738,1562,120,lgIII2,Озерно-ледниковый,GL,,fines,upper Neopleistocene stage 2 glaciolacustrine
+10200,1372,120,gIII4,Ледниковый,T,,bouldery,upper Neopleistocene stage 4 till
+10200,1467,120,fIII4,Флювиогляциальный,GF,,gravel,upper Neopleistocene stage 4 glaciofluvial
+10200,1562,120,lgIII4,Озерно-ледниковый,GL,,fines,upper Neopleistocene stage 4 glaciolacustrine
+10360,1372,120,gIII,Ледниковый,T,,bouldery,upper Neopleistocene till
+10360,1467,120,fIII,Флювиогляциальный,GF,,gravel,upper Neopleistocene glaciofluvial
+10360,1562,120,lgIII,Озерно-ледниковый,GL,,fines,upper Neopleistocene glaciolacustrine
+10663,1372,120,gIV,Ледниковый,T,,bouldery,Holocene moraine
+10663,1752,120,tIV,Техногенный,X,,mixed,technogenic
+8502,1845,120,mI-II,Морские отложения на суше,M,,mixed,lower-middle Neopleistocene marine
+10360,1847,120,mIII,Морские отложения на суше,M,,mixed,upper Neopleistocene marine
+10663,1847,120,mIV,Морские отложения на суше,M,,mixed,Holocene marine
+8193,1942,120,laE,Озерно-аллювиальный,L,F,fines,Eopleistocene lake-alluvial
+8502,1942,120,laI-II,Озерно-аллювиальный,L,F,fines,lower-middle Neopleistocene lake-alluvial
+9737,1942,120,laIII2,Озерно-аллювиальный,L,F,fines,upper Neopleistocene lake-alluvial stage 2
+9891,1942,120,laIII3,Озерно-аллювиальный,L,F,fines,upper Neopleistocene lake-alluvial stage 3
+10198,1942,120,laIII4,Озерно-аллювиальный,L,F,fines,upper Neopleistocene lake-alluvial stage 4
+9891,2037,120,apIII3,Аллювиально-пролювиальный,F,,gravel,alluvial-proluvial stage 3
+10360,2037,120,apIII,Аллювиально-пролювиальный,F,,gravel,alluvial-proluvial
+10360,2132,120,amIII,Аллювиально-морской,F,M,sand,upper Neopleistocene alluvial-marine
+10663,2132,120,amIV,Аллювиально-морской,F,M,sand,Holocene alluvial-marine
+10812,2227,120,"e,d","Элювиальный, делювиальный",W,C,bouldery,eluvium and deluvium
+10507,2322,120,dpIII-IV,Делювиально-пролювиальный,C,F,mixed,deluvial-proluvial
+10660,2322,120,dpIV,Делювиально-пролювиальный,C,F,mixed,Holocene deluvial-proluvial
+10812,2417,120,dc,Делювиально-коллювиальный,C,,bouldery,deluvial-colluvial
+10812,2512,120,ds,Делювиально-солифлюкционный,C,,mixed,deluvial-solifluxion
+10782,2703,50,PREQ,Докайнозойские породы,R,,,pre-Cenozoic rocks
+10848,2703,50,"PREQ,c",Докайнозойские породы местами с коллювием,R,C,bouldery,pre-Cenozoic rocks with colluvium

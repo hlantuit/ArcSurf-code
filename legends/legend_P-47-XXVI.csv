@@ -1,0 +1,17 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#cb90bf,e,eluvium,W,,fines,,"GGK-200/2 P-47-XXVI, Tunguska, Quaternary map, vector PDF (geokniga)"
+1,#f26c4f,c,colluvium,C,,bouldery,,
+2,#e995aa,dr,desertion,C,,bouldery,,
+3,#eea092,df,defluxion,C,,fines,,
+4,#f6978f,s,solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+5,#c0ba95,pl,bog peat,O,,organic,,
+6,#f1f3c3,aH,floodplain alluvium,F,,gravel,,
+7,#ddebb7,a1III-H,1st terrace alluvium,F,,gravel,,
+8,#cde4aa,a2IIIkr3-sr,2nd terrace alluvium,F,,gravel,,
+9,#c4df9b,a3IIIkr1-2,3rd terrace alluvium,F,,gravel,,
+10,#9cdcf9,l4IIImr,Muruktin lacustrine 4th terrace,L,,fines,,
+11,#aad48a,a4IIIkz,Kazantsevo 4th terrace alluvium,F,,gravel,,
+12,#6dcff6,l5IItz,Taz lacustrine 5th terrace,L,,fines,,
+13,#9acf8b,a5IIsr,Shirta 5th terrace alluvium,F,,gravel,,
+14,#42c8f4,l6IIsm,Samarovo lacustrine 6th terrace,L,,fines,,
+15,#a677b4,PREQ,pre-Quaternary,R,,,,

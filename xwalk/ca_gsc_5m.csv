@@ -1,0 +1,26 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+A,F,,,,,alluvial (GSC 1:5M CGM 195)
+C,C,,,,,colluvial
+Cv,C,R,,veneer,,colluvial veneer
+E,E,,,,,eolian
+GFc,GF,,,,,glaciofluvial ice-contact
+GFp,GF,,,,,glaciofluvial outwash
+GLn,GL,,,,,glaciolacustrine nearshore
+GLo,GL,,,,,glaciolacustrine offshore
+GMn,GM,,,,,glaciomarine nearshore
+GMo,GM,,,,,glaciomarine offshore
+GMv,GM,,,veneer,,glaciomarine veneer
+I,I,,,,,glacier ice
+Ln,L,,,,,lacustrine nearshore
+Lo,L,,,,,lacustrine offshore
+Mn,M,,,,,marine nearshore
+Mo,M,,,,,marine offshore
+O,O,,organic,,,organic
+R,R,,,,,bedrock
+Tb,T,,,blanket,,till blanket
+Th,T,,,,,till hummocky
+Tm,T,,,,,till - moraine
+Tv,T,R,,veneer,,till veneer
+V,V,,,,,volcanic
+W,W,,,,,weathered bedrock / regolith
+Wv,W,R,,veneer,,regolith veneer

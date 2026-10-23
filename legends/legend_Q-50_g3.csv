@@ -1,0 +1,28 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#d29fc9,eIII-H,eluvium,W,,fines,,"GGK-1000/3 Q-50 (Markha River), Anabar-Vilyui series, Quaternary map, vector PDF (geokniga)"
+1,#fdc797,dIII-H,deluvium,C,,fines,,
+2,#fcbf94,"e,dIII-H",eluvium and deluvium,W,C,fines,,
+3,#f69679,cIII-H,colluvium,C,,bouldery,,
+4,#f8a691,"d,sIII-H",deluvium and solifluxion,C,,fines,,
+5,#f9ad8e,"c,dIII-H",colluvium and deluvium,C,,bouldery,,
+6,#efab8e,"d,drIII-H",deluvium and desertion,C,,bouldery,,
+7,#eca3c3,EIII-H,"eluvium, desertion, solifluxion",W,C,bouldery,,
+8,#f287b7,iE-H,"illuvium, karst fill (scheme)",W,,gravel,,
+9,#99cbc4,"a,l,plIII-H","alluvium, limnium and palustrium",F,L,fines,,
+10,#a9dbf3,"l,plH","limnium and palustrium, peat, ice",L,O,organic,yes,
+11,#b4dfd3,laH,limnoalluvium,L,F,fines,,
+12,#ebf2cf,aH2+3,"floodplain and channel alluvium, ice",F,,gravel,yes,
+13,#d5e9c3,a1IIIsr-H1,1st terrace alluvium,F,,gravel,,
+14,#f5d7a7,LIIImr-sr,"loessoid, Yedoma facies, ice",Y,,fines,yes,
+15,#ffe0ad,LIIIej,"Eyk suite loessoid, icy",E,,fines,yes,"2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+16,#d3e7b7,a2IIIkr,2nd terrace alluvium,F,,sand,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+17,#c3e0aa,a3IIIkz,3rd terrace alluvium,F,,sand,,
+18,#7ecbb6,laII-IIImv,Mavrinsk suite limnoalluvium,L,F,sand,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+19,#7fcbae,laIIbs,Bestyakh suite limnoalluvium,L,F,fines,,
+20,#9acf8b,aIpl-or,Peledui-Oruchan alluvium,F,,gravel,,
+21,#c4df9b,aIor,Oruchan alluvium,F,,gravel,,
+22,#5cb897,laIpl,Peledui limnoalluvium,L,F,sand,,
+23,#aad48a,aIpl,Peledui alluvium,F,,gravel,,
+24,#71c276,aEIIts,Tustakh alluvium,F,,gravel,,
+25,#22ba9d,"a,lEhn",Khanchala alluvium and limnium,F,L,fines,,
+26,#a678b4,PREQ,pre-Quaternary,R,,,,

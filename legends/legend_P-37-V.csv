@@ -1,0 +1,8 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#e4e2dc,pIV,Современный отдел: болотные отложения (торф),O,,organic,,"Geological map of the USSR 1:200 000 (1st ed.) P-37-V, Quaternary map, RASTER: geokniga map-only PREVIEW JPG 1609x2340 (~33.7 m/px); NO legend and NO imprint image (print year unknown): legend reconstructed from the indexes printed on the face (gIIIvd3, fIIIvd3, LgIIIvd3, LIV, pIV), hclass from the genetic index; fills = map tints (r200d recipe, preview_tint_calib.py); purple horizontal ruling and red grid / red cross-hatch are overprints on the base units; alluvium too narrow to map at this scale (absorbed by neighbours); lakes are labelled LIV on the face (no WATER row); LgIIIvd3 under the dark-blue cross-hatch has no own fill (a pinned hatch tint took 3x the hatched area from peat / linework): those pixels are filled from neighbours"
+1,#d5eff7,LIV,Современный отдел: озерные отложения,L,,sand,,
+2,#c9e2de,LgIIIvd3,Верхний отдел. Валдайский горизонт: озерно-ледниковые отложения,GL,,sand,,
+3,#ebf1bc,fIIIvd3,Верхний отдел. Валдайский горизонт: флювиогляциальные отложения,GF,,sand,,
+4,#f6d2ae,gIIIvd3,Верхний отдел. Валдайский горизонт: ледниковые отложения (морена),T,,diamicton,,
+5,#f4cca1,gIIIvd3,Верхний отдел. Валдайский горизонт: ледниковые отложения (морена),T,,diamicton,,"second fill: gIIIvd3 under the red grid overprint (hummocky moraine relief), calibrated on the map"
+6,#a87e9c,PREQ,Дочетвертичные породы (выходы),R,,,,violet outcrop spots; tint pinned

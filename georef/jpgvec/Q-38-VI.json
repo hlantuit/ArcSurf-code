@@ -1,0 +1,157 @@
+{
+ "sheet": "Q-38-VI",
+ "source": "raster scan",
+ "projection": "tmerc_utm",
+ "rms_m": 50.25532254651899,
+ "max_res_m": 120.449997279062,
+ "m_per_px": 33.67596296611879,
+ "corner_residuals_m": [
+  90.3,
+  60.9,
+  61.3,
+  120.4,
+  14.3,
+  70.9,
+  35.4,
+  18.3,
+  53.8,
+  5.8,
+  13.4,
+  20.7,
+  15.4,
+  38.7,
+  21.3,
+  17.2,
+  35.6,
+  31.6,
+  20.0,
+  46.5,
+  12.8,
+  28.6,
+  43.0,
+  80.8,
+  88.6,
+  62.6,
+  90.7,
+  52.2,
+  59.9,
+  40.4,
+  38.2,
+  53.8,
+  28.5,
+  16.1,
+  14.5,
+  24.4,
+  56.5,
+  33.5,
+  88.6,
+  47.7,
+  17.1,
+  4.2
+ ],
+ "n_ties": 38,
+ "corners": [
+  {
+   "approx": [
+    84.9,
+    58.2
+   ],
+   "snapped": [
+    84.9,
+    58.2
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1322.0,
+    58.7
+   ],
+   "snapped": [
+    1322.0,
+    58.7
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    1342.4,
+    2250.7
+   ],
+   "snapped": [
+    1342.4,
+    2250.7
+   ],
+   "ok": "measured"
+  },
+  {
+   "approx": [
+    59.8,
+    2250.0
+   ],
+   "snapped": [
+    59.8,
+    2250.0
+   ],
+   "ok": "measured"
+  }
+ ],
+ "unassigned_before_fill": 0.002,
+ "area_km2": 3153.0808080566053,
+ "neatline_km2": 3154.3666013047696,
+ "cover_frac": 0.9995923767238619,
+ "n_polygons": 208,
+ "units": {
+  "#d9f3e5": {
+   "index": "mQIII-IV+mQ1III+mQIV",
+   "px": 73769,
+   "direct_frac": 0.962
+  },
+  "#d2e4cf": {
+   "index": "mQIII-IV+mQ1III+mQIV",
+   "px": 50885,
+   "direct_frac": 0.91
+  },
+  "#f2f7b4": {
+   "index": "eolQIV",
+   "px": 2102,
+   "direct_frac": 0.921
+  },
+  "#bfbc94": {
+   "index": "alQIV",
+   "px": 9803,
+   "direct_frac": 0.885
+  },
+  "#b99b86": {
+   "index": "alQIV",
+   "px": 2755,
+   "direct_frac": 0.66
+  },
+  "#f2b7d0": {
+   "index": "PREQ?",
+   "px": 3944,
+   "direct_frac": 0.826
+  },
+  "#f3fcef": {
+   "index": "WATER",
+   "px": 2615527,
+   "direct_frac": 0.999
+  }
+ },
+ "confusable_pairs": [
+  [
+   "mQIII-IV+mQ1III+mQIV",
+   "mQIII-IV+mQ1III+mQIV",
+   6.7
+  ],
+  [
+   "mQIII-IV+mQ1III+mQIV",
+   "WATER",
+   7.4
+  ]
+ ],
+ "overprint": null,
+ "datum": "EPSG:4284",
+ "dE": 14.0,
+ "mmu_px": 30
+}

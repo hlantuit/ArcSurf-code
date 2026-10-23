@@ -1,0 +1,14 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#d2ccb2,plH,"bog, peat",O,,organic,,"GGK-200/2 Q-39-XXVII,XXVIII, Mezen, Quaternary map, vector PDF (geokniga)"
+1,#d7e7aa,aIII-H,floodplain and 1st terrace alluvium,F,,sand,,
+2,#87d6f7,lIII-H,lacustrine and bog,L,O,sand,,
+3,#f8a07c,"c,dII-H",colluvium and deluvium of valley slopes,C,,fines,,
+4,#c4df9b,a2IIIst,Sitkov 2nd terrace alluvium,F,,sand,,
+5,#b7da9b,a3IIIgr,Garev 3rd terrace alluvium,F,,sand,,
+6,#7ecbb6,laIIIsl,Sula lake-alluvial,L,F,sand,,
+7,#a4b46e,"f,lgIIvc",Vychegda glaciofluvial and glaciolacustrine,GF,GL,sand,,
+8,#c68d5c,gIIvc,Vychegda moraine,T,,fines,,
+9,#62c2a0,laIIrd,Rodionovo lake-alluvial (section only),L,F,sand,,
+10,#bb7b43,gIIpc,Pechora moraine,T,,fines,,
+11,#22ba9d,laIIcv,Chirva lake-alluvial (section only),L,F,sand,,
+12,#a677b4,PREQ,pre-Quaternary rock,R,,,,

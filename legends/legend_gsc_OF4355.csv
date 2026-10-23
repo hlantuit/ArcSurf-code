@@ -1,0 +1,12 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#66ffff,Mr,Marine beach sediments,M,,gravel,,"GSC OF4355 Baffin 1:100k surficial series (Dredge et al. 2003), common legend; fills sampled on this print"
+1,#9bffff,Mb,Marine blanket,M,,sand,,
+2,#ceffff,Mv,Marine veneer over till or rock,M,T,mixed,,
+3,#02b4b4,GM,Glaciomarine blanket,GM,,diamicton,,
+4,#fee880,Gp,Glaciofluvial outwash,GF,,gravel,,
+5,#b5ff29,Tb,Till blanket,T,,diamicton,,
+6,#ebff67,Tv,Till veneer,T,R,diamicton,,
+7,#feb4e7,RC,Bedrock: Paleozoic limestone and dolomite,R,,,,
+8,#fecdfe,RL,Bedrock: clastic metasedimentary rocks,R,,,,
+9,#fe28fe,RB,Bedrock: mafic and ultramafic rocks,R,,,,
+10,#ff9bff,RG,Bedrock: granite and gneiss,R,,,,

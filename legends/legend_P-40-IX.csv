@@ -1,0 +1,9 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#dadcc2,pIV,Болотные отложения. Торф,O,,organic,,"GGK-200/1 P-40-IX (Timan series), Quaternary map 1st ed., RASTER: geokniga 44033 map image JPG 1654x2409 (~33.7 m/px) + separate legend image p-40-ixql.jpg (rendered brighter than the map), so fills are MAP tints (k-means of the 5x5-median face, checked on labelled areas); the Pechora prints white (unassigned, filled from the banks): no WATER row; omitted: lalII1 (pale blue swatch, no label found on the face; it would read as mglII) and the section-only mglI, alI"
+1,#ebf8d2,alIV,"Аллювиальные отложения пойм и первых надпойменных террас. Пески, супеси, галечники",F,,sand,,
+2,#defdc9,alIII,"Аллювиальные отложения вторых и третьих надпойменных террас. Пески, супеси, галечники",F,,sand,,
+3,#e8d1b2,pglIII2,Перигляциальные отложения калининского (?) ледниковья. Лёссовидные супеси и суглинки,E,C,fines,,periglacial loess-like cover (as the earlier 'pk' cover loams: E)
+4,#d0fbb0,lal-fglII-III,"Озерно-аллювиальные и флювиогляциальные отложения. Пески, супеси, пески с гравием, галечники",L,GF,sand,,
+5,#def2f7,mglII4,Ледниково-морские отложения московского ледниковья. Пески с галькой и валунами,GM,,mixed,,same printed colour as mglII2-4: one class
+6,#def2f7,mglII2-4,"Ледниково-морские отложения днепровского-московского ледниковья. Суглинки мореноподобные, глины, пески с гравием и галькой",GM,,mixed,,same printed colour as mglII4: one class
+7,#f1fffb,alIV,"Аллювиальные отложения пойм и первых надпойменных террас. Пески, супеси, галечники",F,,sand,,"second alIV fill: the Pechora channel prints white (Lab 98.8 -5.0 0.7), 6-10 dE from the mglII fill, so it would read as glaciomarine; read as channel alluvium instead (a WATER row is not allowed: < 18 dE from mglII)"

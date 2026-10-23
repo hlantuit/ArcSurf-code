@@ -1,0 +1,36 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#77c080,aN2-Q1,Аллювиальный,F,,mixed,,"GGK-1000/2 Q-50,51 Zhigansk 1986 (new series), Quaternary map, RASTER (geokniga JPG 5058x7307, ~115 m/px), MATRIX legend; end-moraine red grid overprint not captured; Pliocene-Eopleistocene alluvium"
+1,#94d080,aIts,Тустахская свита,F,,mixed,,Tustakh suite alluvium
+2,#8ecb63,aIpl,Пеледуйская свита,F,,mixed,,Peleduy suite alluvium
+3,#9bd16c,aIor,Оручанская свита,F,,mixed,,Oruchan suite alluvium
+4,#afdc79,aIItb,Тобольский горизонт,F,,mixed,,Tobol horizon alluvium
+5,#c4e987,aII-III,Аллювиальный,F,,mixed,,middle-upper Neopleistocene alluvium
+6,#dcf0a7,aIIIkr,Каргинский горизонт,F,,mixed,,Karga horizon alluvium
+7,#cbed6b,aIIIsr,Сартанский горизонт,F,,mixed,,Sartan horizon alluvium
+8,#d4ee86,aIII-IV,Аллювиальный,F,,mixed,,upper Neopleistocene-Holocene alluvium
+9,#eaf5af,aIV,Аллювиальный,F,,mixed,,Holocene alluvium
+10,#fda0b8,e,Элювиальный,W,,bouldery,,eluvium
+11,#fd6969,c,Коллювиальный,C,,bouldery,,colluvium
+12,#feb918,d,Делювиальный,C,,fines,,deluvium
+13,#b5e2d2,lIII-IV,Озерный и озерно-болотный,L,O,fines,,lacustrine and lacustrine-palustrine
+14,#d9efd6,lIV,Озерный и озерно-болотный,L,O,fines,,Holocene lacustrine-palustrine
+15,#fef95f,vIII-IV,Эоловый,E,,sand,,eolian
+16,#fefba1,vIV,Эоловый,E,,sand,,Holocene eolian
+17,#fef6b9,LIV,Лёссы,E,,fines,,"Holocene loess; 2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+18,#f9d76f,LIIs,Лёссы (Самаровский),E,,fines,,"Samarovo loess; 2026-10-04: Y->E (loessoid; hclass follows the map, yedoma flag = IRYP v2 column)"
+19,#feec7c,LIIImr-sr,Лёссы криогенно-эоловые (едома),Y,,fines,,Muruktin-Sartan cryogenic-eolian loess (yedoma type)
+20,#fdf0a4,LIIIsr,Лёссы криогенно-эоловые (едома),Y,,fines,,Sartan cryogenic-eolian loess (yedoma type)
+21,#d99f65,gIIs,Ледниковый,T,,bouldery,,Samarovo till
+22,#e1b987,gIIImr,Ледниковый,T,,bouldery,,Muruktin till
+23,#ead1a7,gIIIsr,Ледниковый,T,,bouldery,,Sartan till
+24,#d2cc54,fIIs,Флювиогляциальный,GF,,gravel,,Samarovo glaciofluvial
+25,#ddd875,fIIImr,Флювиогляциальный,GF,,gravel,,Muruktin glaciofluvial
+26,#ece5a0,fIIIsr,Флювиогляциальный,GF,,gravel,,Sartan glaciofluvial
+27,#9faf8c,lgIIs,Озерно-ледниковый,GL,,fines,,Samarovo glaciolacustrine
+28,#cfd3b0,lgIIIsr,Озерно-ледниковый,GL,,fines,,Sartan glaciolacustrine
+29,#abdcae,laII-III,Озерно-аллювиальный,L,F,fines,,middle-upper Neopleistocene lake-alluvial
+30,#fc7645,dc,Делювиально-коллювиальный,C,,bouldery,,deluvial-colluvial
+31,#fdbc8f,ds,Делювиально-солифлюкционный,C,,mixed,,deluvial-solifluxion
+32,#fca45c,"e,d",Элювиальный и делювиальный,W,C,bouldery,,eluvium and deluvium
+33,#c7b677,"l,e,s",Озерно-болотный элювиальный и солифлюкционный (эйкская свита),L,W,fines,,Eika suite lacustrine-palustrine/eluvial/solifluxion
+34,#c17cad,PREQ,Дочетвертичные породы,R,,,,pre-Quaternary

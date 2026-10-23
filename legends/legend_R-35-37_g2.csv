@@ -1,0 +1,20 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#cefdfd,s:mfIV,shelf subaqueous-fluvial,M,,sand,,"GGK-1000/3 R-(35)-37 Murmansk 2000 (new series), Quaternary map, RASTER (geokniga JPG 11200x8269); frame 27-42E 68-72N; scheme-only (*) units omitted; patterned shelf overprints not captured; shelf subaqueous-fluvial"
+1,#bcf3fb,s:mnIV,shelf nepheloid basin,M,,fines,,shelf nepheloid basin
+2,#ffff85,vIV,eolian sands,E,,sand,,eolian sands
+3,#cbba94,bIV,peat,O,,organic,,peat
+4,#dbd4cd,tIV,technogenic,X,,mixed,,technogenic
+5,#fb9760,edIII-IV,eluvial-deluvial,W,C,bouldery,,eluvial-deluvial
+6,#e5fa7f,aIIIos-IV,alluvium,F,,gravel,,alluvium
+7,#8acefb,lIIIos-IV,lacustrine,L,,mixed,,lacustrine
+8,#8194f9,mIIIos-IV,marine,M,,mixed,,marine
+9,#c6d95a,fIIIos-IV,glaciofluvial (mountain-valley/cirque),GF,,gravel,,glaciofluvial (mountain-valley/cirque)
+10,#f37547,gkIIIos-IV,end moraine (mountain-valley/cirque),T,,bouldery,,end moraine (mountain-valley/cirque)
+11,#fab377,gIIIos-IV,ground moraine (mountain-valley/cirque),T,,bouldery,,ground moraine (mountain-valley/cirque)
+12,#3b85a3,lgIIIos,Ostashkov glaciolacustrine,GL,,fines,,Ostashkov glaciolacustrine
+13,#7c961e,fIIIos,Ostashkov glaciofluvial,GF,,gravel,,Ostashkov glaciofluvial
+14,#f15731,gkIIIos,Ostashkov end moraine,T,,bouldery,,Ostashkov end moraine
+15,#fb794b,gIIIvd,Valdai ground moraine,T,,bouldery,,Valdai ground moraine
+16,#3458ef,mIIImk,Mikulino marine,M,,mixed,,Mikulino marine
+17,#5872fc,s:mIII,shelf upper Neopleistocene marine,M,,fines,,shelf upper Neopleistocene marine
+18,#7d2a98,PREQ,pre-Quaternary rocks,R,,,,pre-Quaternary rocks

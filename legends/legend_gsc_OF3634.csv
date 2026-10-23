@@ -1,0 +1,17 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#ff9aff,8,Eolian deposits,E,,sand,,"GSC Open File 3634, Surficial geology compilation, northern Baffin Island and northern Melville Peninsula (Dredge et al. 1998), 1:500k, 2 sheets; digital PDF render, swatches sampled at the legend"
+1,#cc9866,7,Colluvial deposits,C,,,,
+2,#ffff9a,6,Fluvial deposits,F,,,,
+3,#9affff,5d,Marine littoral deposits,M,,,,
+4,#02ffff,5c,Marine and glacial marine deltaic deposits,M,GM,,,
+5,#67ffff,5b,Marine and glacial marine deepwater blanket,M,GM,fines,,
+6,#e6ffff,5a,Marine and glacial marine deepwater veneer,M,GM,fines,veneer,
+7,#6566e5,4b,Glacial lacustrine deltaic deposits,GL,,,,
+8,#9a99e5,4a,Glacial lacustrine blanket,GL,,fines,,
+9,#cc6500,3,Glaciofluvial outwash,GF,,,,
+10,#ffcb01,2,Glaciofluvial ice contact deposits,GF,,,,
+11,#9bff9a,1c,Hummocky ridged till,T,,diamicton,,
+12,#02e768,1b,Till blanket,T,,diamicton,,
+13,#66ff66,1a,Till veneer,T,,diamicton,veneer,
+14,#fe0002,R,Rock,R,,,,
+15,#ff00ff,I,Permanent snow and ice,I,,,,"cyan squiggle pattern on white: placeholder fill (no pixel has it), assigned by --pattern #ff00ff:#79ffff:41"

@@ -6,11 +6,13 @@
   "creators": [
     {
       "name": "Lantuit, Hugues",
-      "affiliation": "Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Potsdam, Germany"
+      "affiliation": "Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Potsdam, Germany",
+      "orcid": "0000-0003-1497-6760"
     },
     {
       "name": "Fritz, Michael",
-      "affiliation": "Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Potsdam, Germany"
+      "affiliation": "Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Potsdam, Germany",
+      "orcid": "0000-0003-4591-7325"
     }
   ],
   "license": "MIT",

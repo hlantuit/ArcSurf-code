@@ -7,11 +7,11 @@ authors:
   - family-names: Lantuit
     given-names: Hugues
     affiliation: "Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Potsdam, Germany"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"   <- your ORCID, then remove the '#'
+    orcid: "https://orcid.org/0000-0003-1497-6760"
   - family-names: Fritz
     given-names: Michael
     affiliation: "Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Potsdam, Germany"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"   <- Michael's ORCID, then remove the '#'
+    orcid: "https://orcid.org/0000-0003-4591-7325"
 repository-code: "https://github.com/hlantuit/ArcSurf-code"
 keywords:
   - surficial geology

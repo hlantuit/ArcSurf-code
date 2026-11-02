@@ -456,7 +456,7 @@ def vectors(ax, bounds, dpi, serif):
             d.plot(ax=ax, color=WATER_INK, linewidth=lw(max(0.10, 0.32 - 0.035 * sr)), zorder=7)
     # communications kept quiet (H.L. 2026-10-06: roads were too strong; 2026-10-22: still too prominent, and they ran
     # beyond the mapped zone): thin, muted, transparent; clipped to the domain itself (the 30 km buffer of the labels
-    # let them cross the gaps between the isolated-permafrost patches), never across lakes (a railway ferry drew a line
+    # let them cross the gaps between the isolated patches of permafrost), never across lakes (a railway ferry drew a line
     # over Lake Baikal), no ferry features
     dom_lines = _domain(buffer_m=0.0)
 

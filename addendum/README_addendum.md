@@ -73,7 +73,7 @@ Values marked (i) in a template interpret a published sentence, and (d) values a
 - Lacustrine deposits use the drained-lake-basin template of Nitzbon et al. 2020 where the polygon was mostly free of ice at the Last Glacial Maximum. Elsewhere they use the silt proxy.
 - Water bodies, unmapped land and anthropogenic deposits get no ground template (`NONE`). Water belongs to CryoGrid's lake classes.
 
-**Excess ice.** The geology does not carry ground ice, so `Xice` is 0 in every template except Yedoma. The published value is kept in `Xice_published` for users who want it, for example peat plateaus (Martin et al. 2021) or drained-lake basins (Nitzbon et al. 2020). Ground-ice overrides belong to a separate ground-ice layer, not to the geology.
+**Excess ice.** The geology does not carry ground ice, so `Xice` is 0 in every template except Yedoma. The published value is kept in `Xice_published` for users who want it, for example peat plateaus (Martin et al. 2021) or drained-lake basins (Nitzbon et al. 2020). Ground-ice overrides belong to a separate ground-ice layer, not to the geology. This version provides no such layer, so outside the Yedoma template the stratigraphies are an ice-free baseline: the excess ice of ice-rich silts, of till with massive or buried glacier ice and of peat plateaus must be added from a ground-ice product, for example the ground-ice maps of O'Neill et al. (2019) for Canada. The stratigraphies have not been tested against ground temperatures or stratigraphic logs.
 
 ## Thickness tiers
 

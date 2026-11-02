@@ -32,25 +32,6 @@ RULES = [('ru_vsegei_pdf', None, RU, 'open'), ('ru_vsegei_preview', None, RU, 'o
 W = PL.W
 
 
-# working notes of the Russian legend tables reach xwalk_note through the crosswalk (ingest_russia.py); worded neutrally
-# in the release (2026-10-22), the legend files themselves were changed the same way
-NOTE_SUBS = [('decision Hugues', 'project decision'), ('as instructed', 'by the project rule')]
-
-
-def clean_notes(d):
-    """neutral wording of xwalk_note (NOTE_SUBS); returns the number of rows changed"""
-    if 'xwalk_note' not in d.columns:
-        return 0
-    s = d['xwalk_note'].astype('string')
-    t = s
-    for a, b in NOTE_SUBS:
-        t = t.str.replace(a, b, regex=False)
-    n = int((t.fillna('') != s.fillna('')).sum())
-    if n:
-        d['xwalk_note'] = t.astype(object).where(t.notna(), None)
-    return n
-
-
 def rewrite(f, src):
     ids = pq.read_table(f, columns=['src_id']).column('src_id').to_pylist()
     if not any(s in src for s in ids):
@@ -61,7 +42,7 @@ def rewrite(f, src):
     for c in ('licence', 'redistribution'):
         if str(d[c].dtype) == 'category':
             d[c] = d[c].astype(str)
-    n = PL.patch_frame(d) + clean_notes(d)
+    n = PL.patch_frame(d)
     if n:
         nt = pa.Table.from_pandas(d, preserve_index=False).replace_schema_metadata(meta)
         pq.write_table(nt, f + '.tmp')

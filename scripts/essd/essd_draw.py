@@ -306,7 +306,7 @@ def fig_permafrost():
     ax = fig.add_axes(rect)
     x = 0.0
     gap = widths.sum() * 0.012
-    names = {'continuous': 'continuous', 'discontinuous': 'discont.', 'sporadic': 'sporadic', 'isolated': 'isolated',
+    names = {'continuous': 'continuous', 'discontinuous': 'discont.', 'sporadic': 'sporadic', 'isolated': 'isolated patches',
              'none': 'no permafrost'}
     for (z, n), wdt in zip(zones, widths):
         y = 0.0

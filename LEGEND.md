@@ -59,7 +59,7 @@ source; coding it `U` would claim the land and block that source (CGM249's
 | `cover` | `blanket`, `veneer`, `discontinuous`, `unknown` | GSC expression b/v; NGU "tynt dekke" |
 | `ice_rich` | `yes`, `no`, `unknown` | only where the SOURCE maps ice (Yedoma/IC units), never inferred |
 | `coastal` | 1 if the polygon touches the coastline (GSHHG full / OSM land polygons) | computed |
-| `pf_zone` | `continuous`, `discontinuous`, `sporadic`, `isolated`, `none` | Obu et al. (2019) permafrost zones; polygons crossed by a zone limit are split |
+| `pf_zone` | `continuous`, `discontinuous`, `sporadic`, `isolated` (isolated patches), `none` | Obu et al. (2019) permafrost zones; polygons crossed by a zone limit are split |
 | `yedoma` | `yes`, `uncertain`, `no`, `not_assessed` | Database of Ice-Rich Yedoma Permafrost v2 (IRYP v2; Strauss et al. 2021/2022, PANGAEA doi:10.1594/PANGAEA.940078): `yes` = IRYP confirmed or likely, `uncertain` = IRYP uncertain, `no` = north of 60 N outside the IRYP polygons, `not_assessed` = south of 60 N (IRYP maps north of 60 N only). Polygons crossed by an IRYP limit are split. Independent of `hclass`: the source's own class and description are kept (H. Lantuit 2026-10-04) |
 | `yedoma_conf` | `confirmed`, `likely`, `uncertain`, empty | IRYP v2 confidence class of the piece |
 

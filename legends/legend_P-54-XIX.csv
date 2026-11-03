@@ -1,17 +1,11 @@
 k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
-0,#ffc08c,ed,eluvium-deluvium,W,C,bouldery,,"GGK-200/2 P-54-XIX, Yudoma series, Quaternary map, RASTER (geokniga JPG); legend read on P-54-XIV"
-1,#f29a7b,c,colluvium,C,,bouldery,,
-2,#ffaa81,cd,colluvial-deluvial,C,,bouldery,,
-3,#ffb39b,ds,deluvial-solifluxion,C,,mixed,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
-4,#fbface,aH,"channel floodplain and terrace alluvium, peat",F,,gravel,,
-5,#f8e6ba,pH,proluvial fans,F,,bouldery,,
-6,#eab68a,gIII4,Late Pleistocene till,T,,bouldery,,
-7,#e8f6b7,aIII4,alluvium (scheme only),F,,gravel,,
-8,#e3f4a5,aIII3+4,alluvium,F,,gravel,,
-9,#dcf090,aIII3,alluvium,F,,gravel,,
-10,#e4a774,gIII2,early Late Pleistocene till,T,,bouldery,,
-11,#cbd782,fIII2,glaciofluvial,GF,,mixed,,
-12,#e8c57d,"a,gIII1-2","alluvial and glacial, undivided",F,T,bouldery,,
-13,#cdee8e,aIII1,alluvium (scheme only),F,,gravel,,
-14,#dc9358,gII,Middle Pleistocene till,T,,bouldery,,
-15,#c27bd4,PREQ,pre-Quaternary,R,,,,
+0,#e9ab84,ed,"Элювиально-делювиальные образования. Глыбы, щебень, дресва, супеси, суглинки (до 3–4 м)",W,C,bouldery,,"GGK-200/2 P-54-XIX, Yudoma series, Quaternary map, RASTER (geokniga JPG); own legend from the right margin of this scan (2026-11-03), replacing the series legend read on P-54-XIV, which subdivides gIII, fIII and aIII and gave eluvial-deluvial ground the gIII4 tint (dE 5.6); tints = medians of the legend boxes; aII? (buried alluvium, scheme only) omitted; end-moraine ridge grid overprint not read"
+1,#e2907a,c,"Коллювиальные образования. Глыбы, щебень (до 2–3 м)",C,,bouldery,,
+2,#e4997c,cd,"Коллювиально-делювиальные образования. Глыбы, щебень, супеси, суглинки (до 5 м)",C,,bouldery,,
+3,#e69f8d,ds,"Делювиально-солифлюкционные образования. Суглинки, супеси с глыбами и щебнем (до 10 м)",C,,mixed,,ice_rich left empty: the legend states no ground ice
+4,#e0eab5,aH,"Русловый и пойменный аллювий. Валуны, галечники, гравий, пески, супеси (до 92 м). Вмещают россыпи золота",F,,gravel,,
+5,#efd69e,pH,"Пролювиальные отложения конусов выноса. Валуны, галечники, гравий, пески, суглинки (до 15 м)",F,,bouldery,,
+6,#d3a584,gIII,"Ледниковые отложения. Валуны, галечники, пески (до 147 м)",T,,bouldery,,
+7,#bcc888,fIII,"Флювиогляциальные отложения. Галечники, гравий, пески, редко валуны (до 50 м)",GF,,mixed,,
+8,#cc9775,gII?,"Ледниковые отложения. Валуны, галечники, пески, супеси, суглинки (до 3 м)",T,,bouldery,,
+9,#997cb6,PREQ,Дочетвертичные образования,R,,,,

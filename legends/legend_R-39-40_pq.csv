@@ -30,3 +30,5 @@ k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
 28,#4b83c3,mN2kl,Kolva marine,M,,fines,,
 29,#1aaf9e,"m,amN1pr",Prosunduy marine,M,F,fines,,
 30,#1cbaa8,amN1vn,Vanguray alluvial-marine,F,M,fines,,
+31,#afceec,mH,"Holocene marine: sands with shells, sandy loams, loamy silt",M,,sand,,"added 2026-11-03: printed between the land and shelf columns, so it also occurs on land (read at 3 points of the random-point check); exact render colour"
+32,#b3dfd7,amH,"Holocene alluvial-marine: sands, sandy loams, loams",F,M,sand,,"added 2026-11-03: printed between the land and shelf columns, so it also occurs on land (read at 3 points of the random-point check); exact render colour"

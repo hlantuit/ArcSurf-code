@@ -1,16 +1,12 @@
 k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
-0,#d489f9,e,eluvium: sandy loams with debris,W,,mixed,,"GGK-200/2 O-52-XXVI (upper Seimdzha), legend of O-52-XXVII reused, Aldan series, Quaternary map, RASTER (geokniga JPG)"
-1,#feb688,d,deluvium: clayey sands and loams with debris,C,,fines,,
-2,#ff9998,c,colluvial screes and blocks,C,,bouldery,,
-3,#ff868f,"d,s",deluvium and solifluxion,C,,fines,,2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
-4,#f59275,"c,d",colluvium and deluvium,C,,bouldery,,
-5,#ffab86,"e,d",eluvium and deluvium,W,C,mixed,,
-6,#f4ffc7,aH,floodplain and channel alluvium,F,,sand,,
-7,#b0bd72,plH,palustrine peat and silt,O,,organic,,
-8,#e6cf85,"d,aIII-H",deluvial-alluvial,C,F,mixed,,
-9,#a8ff51,a1III3,Karginsky 1st terrace alluvium,F,,gravel,,
-10,#eebd9b,gIII2,Muruktin till,T,,diamicton,,
-11,#a4e452,fIII2,Muruktin glaciofluvial,GF,,gravel,,
-12,#c34632,gII6,Taz till,T,,bouldery,,
-13,#5cff36,a4IItb-sm,Tobolsk-Samarovo 4th terrace alluvium,F,,sand,,
-14,#8a59a8,PREQ,pre-Quaternary,R,,,,
+0,#d3a0e4,e,"Элювиальные образования. Супеси, суглинки с отломами щебнем, дресвой (до 4,2 м)",W,,mixed,,"GGK-200/2 O-52-XXVI (upper Seimdzha), Aldan series, Quaternary map, RASTER (geokniga JPG, CMYK); own legend from the right margin of this scan (2026-11-03), replacing the legend of O-52-XXVII, which has d and gII6 (absent here) and lacks gIII4; fills = modes of the map face measured inside the earlier extraction's polygons in the extraction's colour space (ICC; work_local/tools/unit_colours.py): its d was e,d under dense orange contour lines; e (lavender) had gone unread; d,s and PREQ cannot be measured and keep tints away from the other units"
+1,#ffacb4,"c|d,s","Коллювиальные образования. Осыпные глыбы, отломы, щебень, дресва (до 8 м) | Делювиальные и солифлюкционные образования. Глины, супеси, суглинки с отломами дресвой, щебнем (до 6 м)",C,,bouldery,,"c and d,s: one face tint (labels of both on pink ground, crops of 2026-11-03); ice_rich left empty: the legend states no ground ice"
+2,#feb096,"e,d|c,d","Элювиальные и делювиальные образования. Пески, глины, суглинки с глыбами, дресвой, щебнем (до 2 м) | Коллювиальные и делювиальные образования. Глыбы, дресва, щебень с суглинками, супесями, глинистыми песками (до 3 м)",W,C,mixed,,"e,d and c,d: c,d is not separable from e,d on this face (c,d had 0.1 % before); class of e,d, c,d as the second class"
+3,#fdb4a8,"e,d|c,d","Элювиальные и делювиальные образования. Пески, глины, суглинки с глыбами, дресвой, щебнем (до 2 м) | Коллювиальные и делювиальные образования. Глыбы, дресва, щебень с суглинками, супесями, глинистыми песками (до 3 м)",W,C,mixed,,second face tint of the same unit
+4,#faf9d3,aH,"Аллювиальные отложения поймы и русла. Пески, супеси, илы с галькой, гравием, валунами (до 4 м)",F,,sand,,
+5,#cad49a,plH,"Палюстринные образования. Торфа, илы (до 1 м)",O,,organic,,
+6,#eddba4,"d,aIII-H","Делювиальные и аллювиальные образования. Глинистые пески, суглинки, супеси с галькой, гравием, валунами (до 15 м)",C,F,mixed,,
+7,#ffc3a4,gIII4|gIII2,"Сартанский горизонт. Ледниковые образования. Валуны, глыбы, супеси (до 5 м) | Муруктинский горизонт. Ледниковые образования. Валунные суглинки, супеси с галькой (до 14 м)",T,,diamicton,,gIII4 and gIII2: one face tint; one class
+8,#d2eb79,a1III3|fIII2,"Каргинский горизонт. Аллювиальные отложения первой надпойменной террасы. Галька, гравий, пески (до 6 м) | Муруктинский горизонт. Гляциофлювиальные образования. Пески с гравием, галькой и валунами (до 6 м)",F,GF,gravel,,a1III3 and fIII2: one tint in the printed legend and on the face
+9,#90d44a,a4IItb-sm,"Тобольский и самаровский горизонты. Аллювий четвертой надпойменной террасы. Пески с гравием, галькой, валунами (до 25 м)",F,,sand,,
+10,#8a59a8,PREQ,Дочетвертичные образования,R,,,,tint of the earlier legend (not measurable on this face)

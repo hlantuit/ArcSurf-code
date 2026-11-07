@@ -1,0 +1,16 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+a,F,,,,,alluvial
+am,F,M,,,,alluvial-marine
+g,T,,,,,glacial (moraine)
+gm,GM,,,,,glaciomarine
+l,L,,,,,lacustrine
+la,F,L,,,,limnoalluvial
+lg,GL,,,,,glaciolacustrine
+m,M,,,,,marine
+mb,M,,,,,marine biogenic
+mf,M,F,,,,marine fluvial
+mn,M,,,,,marine nepheloid (offshore muds)
+mv,M,,,,,marine wave (undalyuvial)
+mvf,M,F,,,,marine wave-fluvial (undaflyuvial)
+pl,O,,,,,paludal (bog)
+v,E,,,,,eolian

@@ -1,15 +1,15 @@
 {
  "sheet": "P-43-IX",
  "source": "raster scan",
- "projection": "eqdc",
- "rms_m": 0.3989486208275598,
- "max_res_m": 0.40346508326547337,
- "m_per_px": 16.970116149434993,
+ "projection": "tmerc",
+ "rms_m": 5.1894948755112775,
+ "max_res_m": 5.249545464536105,
+ "m_per_px": 16.92634297433385,
  "corner_residuals_m": [
-  0.4,
-  0.4,
-  0.4,
-  0.4
+  5.2,
+  5.2,
+  5.1,
+  5.1
  ],
  "corners": [
   {
@@ -21,29 +21,29 @@
     935.0,
     1063.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    3887.0,
-    1063.0
+    3893.0,
+    1064.0
    ],
    "snapped": [
-    3887.0,
-    1063.0
+    3893.0,
+    1064.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    3921.0,
-    5451.0
+    3928.0,
+    5453.0
    ],
    "snapped": [
-    3921.0,
-    5451.0
+    3928.0,
+    5453.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -54,33 +54,35 @@
     901.0,
     5451.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
+ "frame_sag_px": 5.9,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/P-43-IX/p-43-ix-r-ituyaha-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federac.jpg P-43-IX ../sources/legend_P-43-IX.csv ../work/jpgvec/P-43-IX.gpkg --datum 4284 --corners '935,1063;3893,1064;3928,5453;901,5451' --mmu 60 --no-snap",
  "unassigned_before_fill": 0.284,
- "area_km2": 3761.8040283310584,
+ "area_km2": 3765.0014017322005,
  "neatline_km2": 3765.507082843482,
- "cover_frac": 0.9990165854343243,
- "n_polygons": 2343,
+ "cover_frac": 0.9998657070348944,
+ "n_polygons": 2349,
  "units": {
   "#fbface": {
    "index": "aH",
-   "px": 339590,
-   "direct_frac": 0.715
+   "px": 338885,
+   "direct_frac": 0.718
   },
   "#f1f8c4": {
    "index": "a1IIIsr-H",
-   "px": 33849,
-   "direct_frac": 0.453
+   "px": 33789,
+   "direct_frac": 0.454
   },
   "#e8f6b6": {
    "index": "a2IIIkr",
-   "px": 554452,
-   "direct_frac": 0.632
+   "px": 557787,
+   "direct_frac": 0.633
   },
   "#b7efdb": {
    "index": "la3IIIer",
-   "px": 1277235,
+   "px": 1280300,
    "direct_frac": 0.105
   },
   "#a4e9d1": {
@@ -90,7 +92,7 @@
   },
   "#88b9da": {
    "index": "lmIIsh-tz",
-   "px": 10881095,
+   "px": 10916752,
    "direct_frac": 0.78
   },
   "#cdee8e": {

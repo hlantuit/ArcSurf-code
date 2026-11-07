@@ -3,7 +3,10 @@
 editor of ESSD): the Russian sources and the Labrador 1:50k layer (GSNL permission of 2026-10-13) are released, and so
 are the two research maps of PAGE21, which are PANGAEA data sets, and the GEUS-derived Greenland layer (GEUS granted
 CC BY 4.0 for it on 2026-10-22, correspondence/2026-10-22_GEUS_CC-BY_permission_received.txt; the licence text carries
-the statement GEUS asked for). --no-greenland leaves Greenland CC BY-SA. Written, without a re-merge, into every copy
+the statement GEUS asked for), and the two Ontario products (the Ministry of Energy and Mines granted CC BY 4.0 for the
+OGS-derived component in November 2026, correspondence/2026-11-06_OGS_CC-BY_permission_received.txt; each licence text
+carries the Crown copyright credit with the year of publication and the statement the Ministry asked for).
+--no-greenland leaves Greenland CC BY-SA. Written, without a re-merge, into every copy
 that carries the fields (the licence is uniform within each source, so the dissolve groups do not change):
   work/std and work/xw GeoPackages of the sources, the tiles of work/final_<tag> (rewritten in place: final_<tag> is
   the merge output itself), and, when they exist, work/dissolve_<tag>/final/*.parquet and <addendum>/polygon_context.
@@ -25,10 +28,15 @@ PAGE21 = 'PANGAEA data set (PAGE21)'
 GEUS = ('Geological Survey of Denmark and Greenland (GEUS); the GEUS-derived component of ArcSurf is published under '
         'CC BY 4.0 with separate permission from GEUS (2026-10-22); the original GEUS datasets remain available from '
         'GEUS Dataverse under CC BY-SA 4.0')
+OGS = ("{} (© King's Printer for Ontario, {}); the OGS-derived component of ArcSurf is published under CC BY 4.0 "
+       "with separate permission from the King's Printer for Ontario (November 2026); the original OGS data sets remain "
+       "available from the Ontario Geological Survey under the Ontario Ministry of Energy and Mines Terms of Use")
 RULES = [('ru_vsegei_pdf', None, RU, 'open'), ('ru_vsegei_preview', None, RU, 'open'),
          ('ru_vsegei200', None, RU, 'open'), ('ru_vsegei_q2500', None, RU, 'open'),
          ('ca_nl_labrador', 'layer11', NL, 'open'),
-         ('ru_lena_peter2014', None, PAGE21, 'open'), ('ru_kytalyk_base', None, PAGE21, 'open')]
+         ('ru_lena_peter2014', None, PAGE21, 'open'), ('ru_kytalyk_base', None, PAGE21, 'open'),
+         ('ca_on_eds014', None, OGS.format('Ontario Geological Survey, Data Set 14—Revised', 2000), 'open'),
+         ('ca_on_fnpmp', None, OGS.format('Ontario Geological Survey, Far North Predictive Mapping', 2021), 'open')]
 W = PL.W
 
 

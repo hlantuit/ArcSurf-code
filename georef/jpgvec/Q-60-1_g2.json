@@ -1,15 +1,15 @@
 {
  "sheet": "Q-60-1_g2",
  "source": "raster scan",
- "projection": "tmerc_utm",
- "rms_m": 1378.62194075667,
- "max_res_m": 1478.2900372267136,
- "m_per_px": 84.60228802124539,
+ "projection": "eqdc",
+ "rms_m": 1359.1316361881254,
+ "max_res_m": 1455.4425946057663,
+ "m_per_px": 84.61274349926529,
  "corner_residuals_m": [
-  1473.5,
-  1478.3,
-  1276.3,
-  1271.5
+  1455.4,
+  1454.3,
+  1255.5,
+  1256.6
  ],
  "corners": [
   {
@@ -21,18 +21,18 @@
     696.0,
     731.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    6653.0,
-    647.0
+    6654.0,
+    626.0
    ],
    "snapped": [
-    6653.0,
-    647.0
+    6654.0,
+    626.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -43,7 +43,7 @@
     7206.0,
     5855.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -54,21 +54,21 @@
     305.0,
     5972.0
    ],
-   "ok": "rejected (moved > 15 px)"
+   "ok": "measured"
   }
  ],
- "frame_sag_px": 162.6,
- "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga_1m/Q-60,1_g2/q-601-anadyr-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federacii-kart.jpg Q-60-1_g2 ../sources/legend_Q-60-1_g2.csv ../work/facefix/Q-60-1_g2.gpkg --lonlat 174,64,186,68 --datum 4284 --corners '696,731;6653,647;7206,5855;305,5972'",
+ "frame_sag_px": 165.5,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga_1m/Q-60,1_g2/q-601-anadyr-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federacii-kart.jpg Q-60-1_g2 ../sources/legend_Q-60-1_g2.csv ../work/facefix/Q-60-1_g2.gpkg --lonlat 174,64,186,68 --datum 4284 --corners '696,731;6654,626;7206,5855;305,5972' --no-snap",
  "unassigned_before_fill": 0.15,
- "area_km2": 242975.50464492344,
+ "area_km2": 242977.9344640758,
  "neatline_km2": 242975.8341536979,
- "cover_frac": 0.9999986438619477,
- "n_polygons": 26692,
+ "cover_frac": 1.000008644112223,
+ "n_polygons": 26775,
  "units": {
   "#e05d59": {
    "index": "cIII-IV",
-   "px": 59929,
-   "direct_frac": 0.649
+   "px": 59958,
+   "direct_frac": 0.648
   },
   "#ee776b": {
    "index": "cIV",
@@ -77,38 +77,38 @@
   },
   "#d44444": {
    "index": "c",
-   "px": 3463249,
+   "px": 3463578,
    "direct_frac": 0.649
   },
   "#da4853": {
    "index": "s",
-   "px": 617936,
+   "px": 618607,
    "direct_frac": 0.548
   },
   "#f3ee89": {
    "index": "aIV",
-   "px": 308932,
-   "direct_frac": 0.608
+   "px": 309559,
+   "direct_frac": 0.607
   },
   "#b1c065": {
    "index": "a1IV1",
-   "px": 1643834,
+   "px": 1645488,
    "direct_frac": 0.541
   },
   "#99af65": {
    "index": "a1III4-IV1",
-   "px": 256917,
+   "px": 257049,
    "direct_frac": 0.484
   },
   "#8ba764": {
    "index": "a2III3",
-   "px": 110624,
-   "direct_frac": 0.535
+   "px": 110758,
+   "direct_frac": 0.534
   },
   "#789755": {
    "index": "a3III1",
-   "px": 124047,
-   "direct_frac": 0.593
+   "px": 124196,
+   "direct_frac": 0.592
   },
   "#688b4a": {
    "index": "a4II3",
@@ -117,22 +117,22 @@
   },
   "#edb86c": {
    "index": "pIV",
-   "px": 21298,
-   "direct_frac": 0.583
+   "px": 21487,
+   "direct_frac": 0.581
   },
   "#96bef8": {
    "index": "lIV",
-   "px": 179523,
+   "px": 181241,
    "direct_frac": 0.619
   },
   "#7eabf6": {
    "index": "lIV2-3",
-   "px": 144268,
-   "direct_frac": 0.625
+   "px": 144198,
+   "direct_frac": 0.626
   },
   "#6493f0": {
    "index": "lIII4-IV1",
-   "px": 1165176,
+   "px": 1165172,
    "direct_frac": 0.561
   },
   "#588bf7": {
@@ -162,47 +162,47 @@
   },
   "#bb6552": {
    "index": "gII4",
-   "px": 179740,
+   "px": 179745,
    "direct_frac": 0.659
   },
   "#ae5247": {
    "index": "gII2",
-   "px": 4134758,
+   "px": 4135104,
    "direct_frac": 0.46
   },
   "#909c5a": {
    "index": "fIII4",
-   "px": 220040,
-   "direct_frac": 0.475
+   "px": 220719,
+   "direct_frac": 0.474
   },
   "#83904e": {
    "index": "fIII2",
-   "px": 1017442,
-   "direct_frac": 0.633
+   "px": 1018064,
+   "direct_frac": 0.632
   },
   "#758442": {
    "index": "fII4",
-   "px": 348771,
+   "px": 348778,
    "direct_frac": 0.6
   },
   "#64763c": {
    "index": "fII2",
-   "px": 1451080,
+   "px": 1451757,
    "direct_frac": 0.541
   },
   "#b3824b": {
    "index": "g,fII2",
-   "px": 1020207,
+   "px": 1020858,
    "direct_frac": 0.785
   },
   "#5b8898": {
    "index": "lgIII2",
-   "px": 112686,
+   "px": 112673,
    "direct_frac": 0.334
   },
   "#447379": {
    "index": "lgII2",
-   "px": 404966,
+   "px": 404957,
    "direct_frac": 0.428
   },
   "#af8170": {
@@ -222,17 +222,17 @@
   },
   "#825046": {
    "index": "gmI",
-   "px": 302496,
+   "px": 302502,
    "direct_frac": 0.174
   },
   "#908c82": {
    "index": "tIV",
-   "px": 139681,
-   "direct_frac": 0.335
+   "px": 140636,
+   "direct_frac": 0.332
   },
   "#b3b9f5": {
    "index": "mIV",
-   "px": 26632,
+   "px": 26624,
    "direct_frac": 0.584
   },
   "#5e6fcb": {
@@ -242,17 +242,17 @@
   },
   "#6f77cc": {
    "index": "m2III3",
-   "px": 609892,
+   "px": 609989,
    "direct_frac": 0.352
   },
   "#5d67bf": {
    "index": "m3III2",
-   "px": 26069,
+   "px": 26262,
    "direct_frac": 0.32
   },
   "#515ab2": {
    "index": "m3III1",
-   "px": 396823,
+   "px": 396750,
    "direct_frac": 0.524
   },
   "#454ea4": {
@@ -262,7 +262,7 @@
   },
   "#424993": {
    "index": "m5II1",
-   "px": 162005,
+   "px": 162080,
    "direct_frac": 0.109
   },
   "#42448b": {
@@ -282,67 +282,67 @@
   },
   "#8db0ae": {
    "index": "laIII4-IV1",
-   "px": 15217,
+   "px": 15270,
    "direct_frac": 0.367
   },
   "#7ba39f": {
    "index": "laIII3",
-   "px": 73101,
+   "px": 73071,
    "direct_frac": 0.499
   },
   "#68928e": {
    "index": "laIII2",
-   "px": 73196,
-   "direct_frac": 0.545
+   "px": 73475,
+   "direct_frac": 0.543
   },
   "#5a867b": {
    "index": "laIII1",
-   "px": 64977,
+   "px": 65030,
    "direct_frac": 0.51
   },
   "#507d6d": {
    "index": "laII3",
-   "px": 21440,
+   "px": 21260,
    "direct_frac": 0.582
   },
   "#457360": {
    "index": "laII1",
-   "px": 38815,
-   "direct_frac": 0.356
+   "px": 38914,
+   "direct_frac": 0.355
   },
   "#48775a": {
    "index": "laEII-I1",
-   "px": 20534,
-   "direct_frac": 0.54
+   "px": 20567,
+   "direct_frac": 0.539
   },
   "#e5ce6b": {
    "index": "apIV",
-   "px": 219665,
+   "px": 219689,
    "direct_frac": 0.538
   },
   "#a5c5cb": {
    "index": "amIV2-3",
-   "px": 111024,
-   "direct_frac": 0.46
+   "px": 111158,
+   "direct_frac": 0.459
   },
   "#93b9bb": {
    "index": "amIII3",
-   "px": 451070,
+   "px": 451072,
    "direct_frac": 0.833
   },
   "#7fa9ac": {
    "index": "amIII2",
-   "px": 670063,
+   "px": 670064,
    "direct_frac": 0.764
   },
   "#69989a": {
    "index": "amIII1",
-   "px": 83744,
-   "direct_frac": 0.592
+   "px": 83931,
+   "direct_frac": 0.591
   },
   "#ab9a7c": {
    "index": "l,bIV",
-   "px": 134068,
+   "px": 134288,
    "direct_frac": 0.59
   },
   "#f0ac70": {
@@ -352,38 +352,38 @@
   },
   "#e45645": {
    "index": "e,d",
-   "px": 595038,
+   "px": 595035,
    "direct_frac": 0.677
   },
   "#dd4e45": {
    "index": "dc",
-   "px": 4972918,
+   "px": 4973173,
    "direct_frac": 0.796
   },
   "#e25755": {
    "index": "ds",
-   "px": 365413,
+   "px": 365435,
    "direct_frac": 0.664
   },
   "#83a8f9": {
    "index": "s:m1IV",
-   "px": 674718,
-   "direct_frac": 0.694
+   "px": 676853,
+   "direct_frac": 0.692
   },
   "#90b4c8": {
    "index": "s:m3IV",
-   "px": 1410418,
+   "px": 1410277,
    "direct_frac": 0.795
   },
   "#89a8d3": {
    "index": "s:aIII-IV",
-   "px": 620520,
-   "direct_frac": 0.658
+   "px": 621169,
+   "direct_frac": 0.657
   },
   "#a8c4f8": {
    "index": "s:PREQ",
-   "px": 85413,
-   "direct_frac": 0.51
+   "px": 86095,
+   "direct_frac": 0.509
   },
   "#673b6d": {
    "index": "e'",
@@ -392,28 +392,28 @@
   },
   "#855286": {
    "index": "e''",
-   "px": 82536,
-   "direct_frac": 0.411
+   "px": 82962,
+   "direct_frac": 0.409
   },
   "#7b4c93": {
    "index": "PREQ,b",
-   "px": 62996,
+   "px": 63008,
    "direct_frac": 0.455
   },
   "#679af9": {
    "index": "s:m2'IV",
-   "px": 1599885,
+   "px": 1599696,
    "direct_frac": 0.766
   },
   "#7dadf7": {
    "index": "s:m2''IV",
-   "px": 80622,
-   "direct_frac": 0.627
+   "px": 82245,
+   "direct_frac": 0.619
   },
   "#ffffff": {
    "index": "WATER",
-   "px": 545079,
-   "direct_frac": 0.799
+   "px": 601727,
+   "direct_frac": 0.811
   }
  },
  "confusable_pairs": [

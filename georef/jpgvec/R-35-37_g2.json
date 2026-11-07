@@ -2,26 +2,26 @@
  "sheet": "R-35-37_g2",
  "source": "raster scan",
  "projection": "given",
- "rms_m": 136.41079399581642,
- "max_res_m": 146.8875033816263,
- "m_per_px": 84.01679711025245,
+ "rms_m": 55.17148425376929,
+ "max_res_m": 59.385720602647126,
+ "m_per_px": 84.02227143658666,
  "corner_residuals_m": [
-  146.7,
-  146.9,
-  125.2,
-  125.1
+  59.4,
+  59.4,
+  50.6,
+  50.6
  ],
  "corners": [
   {
    "approx": [
-    951.0,
-    686.0
+    952.0,
+    693.0
    ],
    "snapped": [
-    951.0,
-    686.0
+    952.0,
+    693.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -32,7 +32,7 @@
     7472.0,
     697.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -43,7 +43,7 @@
     8023.0,
     5941.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -54,25 +54,25 @@
     374.0,
     5935.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
- "frame_sag_px": 202.0,
- "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga_1m/R-_35_-37_g2/r-35-37-murmansk-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federacii-n_0.jpg R-35-37_g2 ../sources/legend_R-35-37_g2.csv ../work/facefix/R-35-37_g2.gpkg --lonlat 27,68,42,72 --datum 4284 --corners '951,686;7472,697;8023,5941;374,5935' --paper-nodata --paper-rgb '#ffffff' --proj '+proj=eqdc +lat_1=47 +lat_2=62 +lon_0=34.5'",
+ "frame_sag_px": 201.9,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga_1m/R-_35_-37_g2/r-35-37-murmansk-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federacii-n_0.jpg R-35-37_g2 ../sources/legend_R-35-37_g2.csv ../work/facefix/R-35-37_g2.gpkg --lonlat 27,68,42,72 --datum 4284 --corners '952,693;7472,697;8023,5941;374,5935' --paper-nodata --paper-rgb '#ffffff' --proj '+proj=eqdc +lat_1=47 +lat_2=62 +lon_0=34.5' --no-snap",
  "unassigned_before_fill": 0.445,
- "area_km2": 202841.91828926763,
+ "area_km2": 202802.07843280816,
  "neatline_km2": 255561.9189604906,
- "cover_frac": 0.7937094818912618,
- "n_polygons": 9561,
+ "cover_frac": 0.793553590682503,
+ "n_polygons": 9586,
  "units": {
   "#cefdfd": {
    "index": "s:mfIV",
-   "px": 2676838,
+   "px": 2676683,
    "direct_frac": 0.705
   },
   "#bcf3fb": {
    "index": "s:mnIV",
-   "px": 4387930,
+   "px": 4387973,
    "direct_frac": 0.615
   },
   "#ffff85": {
@@ -82,17 +82,17 @@
   },
   "#cbba94": {
    "index": "bIV",
-   "px": 617496,
+   "px": 617570,
    "direct_frac": 0.465
   },
   "#dbd4cd": {
    "index": "tIV",
-   "px": 763441,
-   "direct_frac": 0.479
+   "px": 754607,
+   "direct_frac": 0.478
   },
   "#fb9760": {
    "index": "edIII-IV",
-   "px": 647693,
+   "px": 647615,
    "direct_frac": 0.585
   },
   "#e5fa7f": {
@@ -102,7 +102,7 @@
   },
   "#8acefb": {
    "index": "lIIIos-IV",
-   "px": 1379863,
+   "px": 1379865,
    "direct_frac": 0.552
   },
   "#8194f9": {
@@ -117,7 +117,7 @@
   },
   "#f37547": {
    "index": "gkIIIos-IV",
-   "px": 2438587,
+   "px": 2438657,
    "direct_frac": 0.34
   },
   "#fab377": {
@@ -127,7 +127,7 @@
   },
   "#3b85a3": {
    "index": "lgIIIos",
-   "px": 403876,
+   "px": 403864,
    "direct_frac": 0.451
   },
   "#7c961e": {
@@ -137,22 +137,22 @@
   },
   "#f15731": {
    "index": "gkIIIos",
-   "px": 3037695,
+   "px": 3037760,
    "direct_frac": 0.599
   },
   "#fb794b": {
    "index": "gIIIvd",
-   "px": 345728,
+   "px": 345722,
    "direct_frac": 0.879
   },
   "#3458ef": {
    "index": "mIIImk",
-   "px": 11905143,
+   "px": 11905145,
    "direct_frac": 0.415
   },
   "#5872fc": {
    "index": "s:mIII",
-   "px": 210022,
+   "px": 210025,
    "direct_frac": 0.289
   },
   "#7d2a98": {

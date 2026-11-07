@@ -1,38 +1,38 @@
 {
  "sheet": "P-43-XXII",
  "source": "raster scan",
- "projection": "tmerc",
- "rms_m": 31.4750620476077,
- "max_res_m": 31.77528046145744,
- "m_per_px": 16.916558746428468,
+ "projection": "eqdc",
+ "rms_m": 5.831158004479653,
+ "max_res_m": 5.892367538617691,
+ "m_per_px": 16.939520910768948,
  "corner_residuals_m": [
-  31.8,
-  31.8,
-  31.2,
-  31.2
+  5.9,
+  5.9,
+  5.8,
+  5.8
  ],
  "corners": [
   {
    "approx": [
-    1663.0,
-    917.0
+    1672.0,
+    922.0
    ],
    "snapped": [
-    1663.0,
-    917.0
+    1672.0,
+    922.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    4763.0,
-    917.0
+    4766.0,
+    922.0
    ],
    "snapped": [
-    4763.0,
-    917.0
+    4766.0,
+    922.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -43,7 +43,7 @@
     4795.0,
     5309.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -54,39 +54,41 @@
     1635.0,
     5309.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
- "unassigned_before_fill": 0.154,
- "area_km2": 3931.527431443917,
+ "frame_sag_px": 6.1,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/P-43-XXII/p-43-xxii-pokachi-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federacii-i.jpg P-43-XXII ../sources/legend_P-43-XXII.csv ../work/jpgvec/P-43-XXII.gpkg --datum 4284 --corners '1672,922;4766,922;4795,5309;1635,5309' --mmu 60 --no-snap",
+ "unassigned_before_fill": 0.152,
+ "area_km2": 3935.2446064030087,
  "neatline_km2": 3935.445493209343,
- "cover_frac": 0.9990044172198074,
- "n_polygons": 3040,
+ "cover_frac": 0.9999489544940513,
+ "n_polygons": 2986,
  "units": {
   "#fbface": {
    "index": "aH",
-   "px": 1382526,
-   "direct_frac": 0.826
+   "px": 1374697,
+   "direct_frac": 0.831
   },
   "#f1f8c4": {
    "index": "a1IIIsr-H",
-   "px": 523881,
-   "direct_frac": 0.722
+   "px": 519331,
+   "direct_frac": 0.728
   },
   "#e8f6b6": {
    "index": "a2IIIkr",
-   "px": 677222,
-   "direct_frac": 0.893
+   "px": 676649,
+   "direct_frac": 0.894
   },
   "#b7efdb": {
    "index": "la3IIIer",
-   "px": 7158871,
-   "direct_frac": 0.806
+   "px": 7161671,
+   "direct_frac": 0.808
   },
   "#a4e9d1": {
    "index": "la4II-IIItz-kz",
-   "px": 3980095,
-   "direct_frac": 0.82
+   "px": 3974337,
+   "direct_frac": 0.822
   },
   "#cdee8e": {
    "index": "aIItb",

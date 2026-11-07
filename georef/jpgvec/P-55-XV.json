@@ -21,7 +21,7 @@
     4060.0,
     837.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -32,7 +32,7 @@
     7087.0,
     837.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -43,7 +43,7 @@
     7121.0,
     5225.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -54,306 +54,153 @@
     4026.0,
     5225.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
- "unassigned_before_fill": 0.154,
- "area_km2": 3847.1501438206565,
+ "frame_sag_px": 6.0,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/P-55-XV/p-55-xv-im-raskovoy-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federaci_0.jpg P-55-XV ../sources/legend_P-55-XV.csv ../work/jpgvec/P-55-XV.gpkg --datum 4284 --corners '4060,837;7087,837;7121,5225;4026,5225' --mmu 60 --no-snap",
+ "unassigned_before_fill": 0.089,
+ "area_km2": 3850.197892701843,
  "neatline_km2": 3850.7363862538987,
- "cover_frac": 0.9990686865904288,
- "n_polygons": 4304,
+ "cover_frac": 0.9998601582923261,
+ "n_polygons": 2462,
  "units": {
-  "#ffa389": {
-   "index": "d,sH",
-   "px": 4700015,
-   "direct_frac": 0.85
+  "#ffa087": {
+   "index": "d,sN2-H",
+   "px": 4585309,
+   "direct_frac": 0.878
   },
-  "#fbface": {
-   "index": "acnH",
-   "px": 675796,
-   "direct_frac": 0.625
+  "#e198d8": {
+   "index": "eN2-H",
+   "px": 5350,
+   "direct_frac": 0.828
   },
-  "#f6ebb6": {
-   "index": "a,pH",
-   "px": 2033,
-   "direct_frac": 0.257
+  "#f7a3b3": {
+   "index": "e,sN2-H",
+   "px": 174245,
+   "direct_frac": 0.929
   },
-  "#e19bd9": {
-   "index": "eH",
-   "px": 5985,
-   "direct_frac": 0.762
+  "#e19aa7": {
+   "index": "dr,sN2-H",
+   "px": 4495002,
+   "direct_frac": 0.873
   },
-  "#f7a5b4": {
-   "index": "e,sH",
-   "px": 4647031,
-   "direct_frac": 0.858
+  "#fbf9cc": {
+   "index": "agcnH",
+   "px": 675815,
+   "direct_frac": 0.671
   },
-  "#fab0a0": {
-   "index": "dr,sH",
-   "px": 26991,
-   "direct_frac": 0.169
+  "#a8c6e9": {
+   "index": "lbH2",
+   "px": 91865,
+   "direct_frac": 0.846
   },
-  "#b8c2c7": {
+  "#c6c7c7": {
    "index": "tH2",
-   "px": 383231,
-   "direct_frac": 0.103
+   "px": 81690,
+   "direct_frac": 0.375
   },
-  "#f7fbd9": {
-   "index": "ainH2",
-   "px": 12821,
-   "direct_frac": 0.038
+  "#f0f8c3": {
+   "index": "aginH2",
+   "px": 41536,
+   "direct_frac": 0.578
   },
-  "#f1f8c3": {
-   "index": "aprH2",
-   "px": 22360,
-   "direct_frac": 0.523
-  },
-  "#e9f1be": {
+  "#e7f6b7": {
    "index": "a1H1",
-   "px": 46794,
-   "direct_frac": 0.146
+   "px": 8726,
+   "direct_frac": 0.798
   },
-  "#f1d7a6": {
+  "#ebcd92": {
    "index": "d,aIII-H",
-   "px": 732846,
-   "direct_frac": 0.801
+   "px": 596149,
+   "direct_frac": 0.839
   },
-  "#e7f0b1": {
-   "index": "aIII",
-   "px": 7261,
-   "direct_frac": 0.439
-  },
-  "#e8f6b6": {
-   "index": "a2IIIht",
-   "px": 386227,
-   "direct_frac": 0.737
-  },
-  "#ccc190": {
-   "index": "fIIIht",
-   "px": 193813,
-   "direct_frac": 0.283
-  },
-  "#dcac82": {
-   "index": "gIIIht",
-   "px": 169236,
-   "direct_frac": 0.55
-  },
-  "#98d3ed": {
-   "index": "lIIIht",
-   "px": 87768,
-   "direct_frac": 0.855
-  },
-  "#ccdd98": {
-   "index": "a4IIIjg",
-   "px": 113946,
-   "direct_frac": 0.21
-  },
-  "#c7966a": {
-   "index": "gIIIjg",
-   "px": 1098095,
-   "direct_frac": 0.787
-  },
-  "#d8eaa0": {
-   "index": "a5IIIvc",
-   "px": 534,
-   "direct_frac": 0.036
-  },
-  "#d8f3a5": {
-   "index": "aII",
-   "px": 1200,
+  "#f6dd95": {
+   "index": "a,pIII-H",
+   "px": 140085,
    "direct_frac": 0.848
   },
-  "#cce89e": {
-   "index": "a6II",
-   "px": 21010,
-   "direct_frac": 0.717
+  "#dff5b6": {
+   "index": "a2IIIht",
+   "px": 359710,
+   "direct_frac": 0.791
   },
-  "#c0e086": {
-   "index": "aE-I",
-   "px": 569,
-   "direct_frac": 0.409
+  "#d9a980": {
+   "index": "gIIIht",
+   "px": 161953,
+   "direct_frac": 0.776
   },
-  "#b2de86": {
-   "index": "aN2-2",
-   "px": 81125,
-   "direct_frac": 0.017
+  "#beb587": {
+   "index": "fIIIht",
+   "px": 95155,
+   "direct_frac": 0.564
   },
-  "#ace88d": {
-   "index": "a10N2-1",
-   "px": 2530,
-   "direct_frac": 0.01
+  "#96dcc6": {
+   "index": "laIIIjg-kb",
+   "px": 916806,
+   "direct_frac": 0.884
   },
-  "#81c966": {
-   "index": "a11-13N1-N2",
-   "px": 894,
-   "direct_frac": 0.006
+  "#cce9af": {
+   "index": "a3IIIjg",
+   "px": 55043,
+   "direct_frac": 0.756
+  },
+  "#bf8b60": {
+   "index": "gIIIjg",
+   "px": 944021,
+   "direct_frac": 0.886
+  },
+  "#cbf1a3": {
+   "index": "a4IIIvc",
+   "px": 3225,
+   "direct_frac": 0.754
+  },
+  "#add984": {
+   "index": "aN2",
+   "px": 1452,
+   "direct_frac": 0.779
   },
   "#c27bd4": {
    "index": "PREQ",
-   "px": 11557,
-   "direct_frac": 0.641
+   "px": 10208,
+   "direct_frac": 0.713
   }
  },
  "confusable_pairs": [
   [
-   "acnH",
-   "a,pH",
-   7.8
+   "e,sN2-H",
+   "dr,sN2-H",
+   6.8
   ],
   [
-   "acnH",
-   "ainH2",
-   5.4
-  ],
-  [
-   "acnH",
-   "aprH2",
+   "agcnH",
+   "aginH2",
    5.6
   ],
   [
-   "acnH",
+   "aginH2",
    "a1H1",
-   6.3
+   5.8
   ],
   [
-   "a,pH",
-   "aprH2",
+   "aginH2",
+   "a2IIIht",
    7.6
   ],
   [
-   "a,pH",
    "a1H1",
-   7.5
-  ],
-  [
-   "aprH2",
-   "a1H1",
-   2.7
-  ],
-  [
-   "aprH2",
-   "aIII",
-   6.1
-  ],
-  [
-   "aprH2",
    "a2IIIht",
-   6.3
+   2.8
   ],
   [
    "a1H1",
-   "aIII",
-   6.1
-  ],
-  [
-   "a1H1",
-   "a2IIIht",
-   6.9
-  ],
-  [
-   "aIII",
-   "a2IIIht",
-   2.6
-  ],
-  [
-   "aIII",
-   "a3IIIkb",
-   8.0
-  ],
-  [
-   "aIII",
-   "a5IIIvc",
-   7.2
+   "a3IIIjg",
+   7.9
   ],
   [
    "a2IIIht",
-   "a3IIIkb",
-   7.2
-  ],
-  [
-   "a2IIIht",
-   "a5IIIvc",
-   7.2
-  ],
-  [
-   "a3IIIkb",
-   "a5IIIvc",
-   3.9
-  ],
-  [
-   "a3IIIkb",
-   "aII",
-   3.9
-  ],
-  [
-   "a3IIIkb",
-   "a6II",
-   6.7
-  ],
-  [
-   "a4IIIjg",
-   "a5IIIvc",
-   4.9
-  ],
-  [
-   "a4IIIjg",
-   "a6II",
-   5.6
-  ],
-  [
-   "a5IIIvc",
-   "aII",
-   4.5
-  ],
-  [
-   "a5IIIvc",
-   "a6II",
-   4.1
-  ],
-  [
-   "aII",
-   "a6II",
-   4.2
-  ],
-  [
-   "a7E-I",
-   "aE-I",
-   5.4
-  ],
-  [
-   "a7E-I",
-   "a8,9N2-2",
-   4.9
-  ],
-  [
-   "aE-I",
-   "a8,9N2-2",
-   5.9
-  ],
-  [
-   "aE-I",
-   "aN2-2",
-   4.9
-  ],
-  [
-   "a8,9N2-2",
-   "aN2-2",
-   5.1
-  ],
-  [
-   "a8,9N2-2",
-   "a10N2-1",
-   5.9
-  ],
-  [
-   "aN2-2",
-   "a10N2-1",
-   6.4
-  ],
-  [
-   "aN2-1",
-   "a11-13N1-N2",
-   7.8
+   "a3IIIjg",
+   5.7
   ]
  ],
  "overprint": null,

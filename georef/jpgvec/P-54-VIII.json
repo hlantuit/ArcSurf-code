@@ -1,15 +1,15 @@
 {
  "sheet": "P-54-VIII",
  "source": "raster scan",
- "projection": "tmerc",
- "rms_m": 28.907314668811456,
- "max_res_m": 29.267622706676775,
- "m_per_px": 16.943107771670824,
+ "projection": "eqdc",
+ "rms_m": 1.0736273824145095,
+ "max_res_m": 1.0857535634931992,
+ "m_per_px": 16.93043171682724,
  "corner_residuals_m": [
-  29.3,
-  29.3,
-  28.5,
-  28.5
+  1.1,
+  1.1,
+  1.1,
+  1.1
  ],
  "corners": [
   {
@@ -21,18 +21,18 @@
     343.0,
     816.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    3295.0,
+    3302.0,
     816.0
    ],
    "snapped": [
-    3295.0,
+    3302.0,
     816.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -43,7 +43,7 @@
     3336.0,
     5204.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -54,48 +54,50 @@
     309.0,
     5204.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
+ "frame_sag_px": 5.9,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/P-54-VIII/p-54-viii-r-vost-handyga-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-fed_1.jpg P-54-VIII ../sources/legend_P-54-VIII.csv ../work/jpgvec/P-54-VIII.gpkg --datum 4284 --corners '343,816;3302,816;3336,5204;309,5204' --mmu 60 --no-snap",
  "unassigned_before_fill": 0.138,
- "area_km2": 3762.043396004352,
+ "area_km2": 3765.2108172226626,
  "neatline_km2": 3765.496313094543,
- "cover_frac": 0.9990830114271567,
- "n_polygons": 6004,
+ "cover_frac": 0.9999241810778337,
+ "n_polygons": 6027,
  "units": {
   "#ffc08c": {
    "index": "ed",
-   "px": 359631,
+   "px": 359806,
    "direct_frac": 0.844
   },
   "#f29a7b": {
    "index": "c",
-   "px": 4056630,
+   "px": 4059266,
    "direct_frac": 0.735
   },
   "#ffaa81": {
    "index": "cd",
-   "px": 1823655,
-   "direct_frac": 0.868
+   "px": 1827700,
+   "direct_frac": 0.866
   },
   "#ffb39b": {
    "index": "ds",
-   "px": 874105,
-   "direct_frac": 0.821
+   "px": 880604,
+   "direct_frac": 0.819
   },
   "#fbface": {
    "index": "aH",
-   "px": 333765,
+   "px": 334139,
    "direct_frac": 0.698
   },
   "#f8e6ba": {
    "index": "pH",
-   "px": 111739,
-   "direct_frac": 0.681
+   "px": 111645,
+   "direct_frac": 0.68
   },
   "#eab68a": {
    "index": "gIII4",
-   "px": 82824,
+   "px": 82880,
    "direct_frac": 0.647
   },
   "#e8f6b7": {
@@ -105,32 +107,32 @@
   },
   "#e3f4a5": {
    "index": "aIII3+4",
-   "px": 135980,
+   "px": 136272,
    "direct_frac": 0.798
   },
   "#e4a774": {
    "index": "gIII2",
-   "px": 1050935,
-   "direct_frac": 0.8
+   "px": 1055007,
+   "direct_frac": 0.799
   },
   "#cbd782": {
    "index": "fIII2",
-   "px": 334797,
+   "px": 336170,
    "direct_frac": 0.797
   },
   "#e8c57d": {
    "index": "a,gIII1-2",
-   "px": 749762,
+   "px": 751780,
    "direct_frac": 0.824
   },
   "#dc9358": {
    "index": "gII",
-   "px": 687554,
-   "direct_frac": 0.716
+   "px": 689336,
+   "direct_frac": 0.715
   },
   "#c27bd4": {
    "index": "PREQ",
-   "px": 2514953,
+   "px": 2518298,
    "direct_frac": 0.723
   }
  },

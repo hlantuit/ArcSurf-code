@@ -1,15 +1,15 @@
 {
  "sheet": "M-48-V",
  "source": "raster scan",
- "projection": "tmerc",
- "rms_m": 0.5454144789227063,
- "max_res_m": 0.5494110034705956,
- "m_per_px": 16.95489701664808,
+ "projection": "eqdc",
+ "rms_m": 8.289681791954626,
+ "max_res_m": 8.348321064164338,
+ "m_per_px": 16.93687524353719,
  "corner_residuals_m": [
-  0.5,
-  0.5,
-  0.5,
-  0.5
+  8.3,
+  8.3,
+  8.2,
+  8.2
  ],
  "corners": [
   {
@@ -21,136 +21,138 @@
     210.0,
     838.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    4259.0,
+    4266.0,
     838.0
    ],
    "snapped": [
-    4259.0,
+    4266.0,
     838.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    4285.0,
-    5226.0
+    4296.0,
+    5218.0
    ],
    "snapped": [
-    4285.0,
-    5226.0
+    4296.0,
+    5218.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    176.0,
-    5226.0
+    182.0,
+    5218.0
    ],
    "snapped": [
-    176.0,
-    5226.0
+    182.0,
+    5218.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
- "unassigned_before_fill": 0.071,
- "area_km2": 5126.497383434495,
+ "frame_sag_px": 7.0,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/M-48-V/m-48-v-kamensk-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federacii-izd_0.jpg M-48-V ../sources/legend_M-48-V.csv ../work/jpgvec/M-48-V.gpkg --datum 4284 --corners '210,838;4266,838;4296,5218;182,5218' --mmu 60 --no-snap",
+ "unassigned_before_fill": 0.07,
+ "area_km2": 5131.969909360797,
  "neatline_km2": 5132.083524324331,
- "cover_frac": 0.9989115257256902,
- "n_polygons": 2940,
+ "cover_frac": 0.9999778618249303,
+ "n_polygons": 2928,
  "units": {
   "#b583b4": {
    "index": "e",
-   "px": 508916,
+   "px": 510158,
    "direct_frac": 0.943
   },
   "#e29b65": {
    "index": "d",
-   "px": 1130761,
+   "px": 1139725,
    "direct_frac": 0.908
   },
   "#dd8e63": {
    "index": "e,d",
-   "px": 170613,
+   "px": 170970,
    "direct_frac": 0.85
   },
   "#da826c": {
    "index": "c",
-   "px": 872108,
-   "direct_frac": 0.881
+   "px": 873261,
+   "direct_frac": 0.882
   },
   "#ce7591": {
    "index": "dr",
-   "px": 8068153,
+   "px": 8072804,
    "direct_frac": 0.96
   },
   "#ca8d9f": {
    "index": "dr,s",
-   "px": 2753858,
-   "direct_frac": 0.968
+   "px": 2750185,
+   "direct_frac": 0.969
   },
   "#cfdda8": {
    "index": "aH2",
-   "px": 246940,
-   "direct_frac": 0.029
+   "px": 236735,
+   "direct_frac": 0.021
   },
   "#c7d99a": {
    "index": "aH",
-   "px": 604422,
-   "direct_frac": 0.808
+   "px": 606723,
+   "direct_frac": 0.811
   },
   "#92c8ea": {
    "index": "lH",
-   "px": 350110,
+   "px": 350419,
    "direct_frac": 0.113
   },
   "#98c7b3": {
    "index": "laH",
-   "px": 728093,
+   "px": 729220,
    "direct_frac": 0.787
   },
   "#a7a479": {
    "index": "plH",
-   "px": 544069,
-   "direct_frac": 0.887
+   "px": 543046,
+   "direct_frac": 0.89
   },
   "#b3d08c": {
    "index": "a1III4-H",
-   "px": 62065,
-   "direct_frac": 0.69
+   "px": 62478,
+   "direct_frac": 0.689
   },
   "#e3d477": {
    "index": "a,pIII-H",
-   "px": 450960,
+   "px": 451310,
    "direct_frac": 0.928
   },
   "#e1b572": {
    "index": "p,dIII-H",
-   "px": 622656,
+   "px": 627024,
    "direct_frac": 0.893
   },
   "#e3d572": {
    "index": "a,pIII",
-   "px": 90471,
+   "px": 90773,
    "direct_frac": 0.793
   },
   "#f7ec93": {
    "index": "vII-III",
-   "px": 10445,
-   "direct_frac": 0.778
+   "px": 12845,
+   "direct_frac": 0.808
   },
   "#8ac2a9": {
    "index": "laII1-2kj",
-   "px": 123447,
+   "px": 123535,
    "direct_frac": 0.879
   },
   "#7dba9b": {
    "index": "laE",
-   "px": 24804,
+   "px": 24809,
    "direct_frac": 0.736
   },
   "#75b198": {

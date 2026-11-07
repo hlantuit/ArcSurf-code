@@ -1,15 +1,15 @@
 {
  "sheet": "N-52-XIII",
  "source": "raster scan",
- "projection": "eqdc",
- "rms_m": 0.13983958838886873,
- "max_res_m": 0.14096536816941807,
- "m_per_px": 16.962402622356908,
+ "projection": "tmerc_utm",
+ "rms_m": 23.743959169999133,
+ "max_res_m": 23.960161925272978,
+ "m_per_px": 16.92787314656939,
  "corner_residuals_m": [
-  0.1,
-  0.1,
-  0.1,
-  0.1
+  23.9,
+  24.0,
+  23.6,
+  23.5
  ],
  "corners": [
   {
@@ -21,29 +21,29 @@
     155.0,
     817.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    3959.0,
-    817.0
+    3965.0,
+    820.0
    ],
    "snapped": [
-    3959.0,
-    817.0
+    3965.0,
+    820.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    3987.0,
-    5205.0
+    3996.0,
+    5202.0
    ],
    "snapped": [
-    3987.0,
-    5205.0
+    3996.0,
+    5202.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -54,59 +54,61 @@
     121.0,
     5205.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
+ "frame_sag_px": 6.8,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/N-52-XIII/n-52-xiii-zolotaya-gora-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-feder_1.jpg N-52-XIII ../sources/legend_N-52-XIII.csv ../work/jpgvec/N-52-XIII.gpkg --datum 4284 --corners '155,817;3965,820;3996,5202;121,5205' --mmu 60 --no-snap",
  "unassigned_before_fill": 0.156,
- "area_km2": 4822.155382806333,
+ "area_km2": 4827.091342288085,
  "neatline_km2": 4827.433823337967,
- "cover_frac": 0.9989065742328532,
- "n_polygons": 3189,
+ "cover_frac": 0.9999290552574276,
+ "n_polygons": 3190,
  "units": {
   "#c9cdd1": {
    "index": "tH",
-   "px": 636768,
+   "px": 638798,
    "direct_frac": 0.592
   },
   "#f5f2b6": {
    "index": "aH",
-   "px": 970038,
+   "px": 969885,
    "direct_frac": 0.693
   },
   "#dca3cb": {
    "index": "eIII-H",
-   "px": 404318,
-   "direct_frac": 0.752
+   "px": 404546,
+   "direct_frac": 0.751
   },
   "#f9cb97": {
    "index": "dIII-H",
-   "px": 8484878,
+   "px": 8504362,
    "direct_frac": 0.798
   },
   "#fbc596": {
    "index": "e,dIII-H",
-   "px": 2125478,
+   "px": 2130356,
    "direct_frac": 0.811
   },
   "#fbb48f": {
    "index": "c,dIII-H",
-   "px": 3724785,
+   "px": 3735539,
    "direct_frac": 0.729
   },
   "#fbae94": {
    "index": "dsIII-H",
-   "px": 218869,
-   "direct_frac": 0.805
+   "px": 219968,
+   "direct_frac": 0.806
   },
   "#f8d89f": {
    "index": "d,pIII-H",
-   "px": 69102,
-   "direct_frac": 0.672
+   "px": 69598,
+   "direct_frac": 0.679
   },
   "#dcec9b": {
    "index": "a1III?",
-   "px": 159922,
-   "direct_frac": 0.8
+   "px": 159995,
+   "direct_frac": 0.799
   },
   "#c6e585": {
    "index": "a2II?",
@@ -115,7 +117,7 @@
   },
   "#b8e283": {
    "index": "aI?",
-   "px": 13157,
+   "px": 13628,
    "direct_frac": 0.738
   },
   "#bd79c7": {

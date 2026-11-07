@@ -262,6 +262,16 @@ YEAR_COMPILED = [s for s in _G200 + _JPG200 if s in _YEAR200_PAGE and s not in _
 RASTER_SHEETS = _JPG200 + ['Q-39_g3', 'P-49_g3', 'N-49-50_g2', 'N-52-53_g2', 'O-49-50_g2', 'R-40-42_g2', 'M-52-53_g2', 'Q-35-37_g2', 'R-58-60_g2', 'N-50-51_g2', 'P-54-55_g2', 'O-55_g2', 'O-47-48_g2', 'Q-60-1_g2', 'P-60_g2', 'Q-2_g2', 'O-52-53_g2', 'O-53-54_g2', 'O-50-51_g2', 'M-46-47_g2', 'M-47-48_g2', 'M-50-51_g2', 'S-44-46_g2', 'M-53-55_g2', 'R-45-47_g2', 'R-35-37_g2', 'T-45-48_g3', 'S-39-40_pq', 'R-39-40_pq', 'S-41-42_pq', 'R-1-2_pq']   # Q-39 kqo1: map face is an embedded raster (jpgvec)
 
 
+def legend_rows(leg, key):
+    """Legend rows of crosswalk key '<sheet>|<index>'. Colours shared by two units ('mnH|mH2') give a combined key
+    whose units must share hclass; a legend row may itself be a combined unit (O-52-XXVI 'a1III3|fIII2', F with
+    GF), matched whole, as written."""
+    parts = set(key.split('|', 1)[1].split('|'))
+    r = leg[leg['index'].map(lambda i: set(i.split('|')) <= parts)]
+    assert len(r) and r['hclass'].nunique() == 1, f'{key}: legend rows {r["index"].tolist()} disagree'
+    return r
+
+
 def pdfvec(src='ru_vsegei_pdf', sheets=None, title='VSEGEI Gosgeolkarta sheets extracted from vector PDFs',
            licence='VSEGEI Gosgeolkarta sheet PDF via geokniga.org ("for familiarisation only")'):
     """VSEGEI sheets extracted from vector PDFs (pdf_to_polygons.py). Crosswalk key =
@@ -293,14 +303,11 @@ def pdfvec(src='ru_vsegei_pdf', sheets=None, title='VSEGEI Gosgeolkarta sheets e
         fp['src_id'], fp['src_sheet'] = src, sheet
         fps.append(fp[['src_id', 'src_sheet', 'geometry']])
         leg = pd.read_csv(f'{SRCDIR}/legend_{sheet}.csv', dtype=str, keep_default_na=False)
-        # colours shared by two units ('mnH|mH2'): combined key; both must share hclass
         for key in sorted(u['xkey'].unique()):
-            idx = key.split('|', 1)[1]
-            if idx == 'WATER':
+            if key.split('|', 1)[1] == 'WATER':
                 xw.append([key, 'H', '', '', '', '', 'water body (lake colour)'])
                 continue
-            r = leg[leg['index'].isin(idx.split('|'))]
-            assert len(r) and r['hclass'].nunique() == 1, f'{key}: legend rows {r["index"].tolist()} disagree'
+            r = legend_rows(leg, key)
             x = r.iloc[0]
             xw.append([key, x['hclass'], x['hclass2'], x['texture'], '', x['ice_rich'],
                        f'{sheet} legend k={"/".join(r["k"])}: ' + x['note']])
@@ -453,10 +460,18 @@ PREVIEW_SHEETS = {'P-48-49_g2pv': (1_000_000, 1989),
                   # sheets), 'new series' -> before 1992, 1982 per the geokniga record 44525 (was a 1980 placeholder). M-(44),45
                   # printed 81-90E (1970 per the geokniga record,
                   # unverified on the preview); eqdc 47/62 + 4 graticule ties 229 m
-                  'O-41-42_g2pv': (1_000_000, 1982), 'M-44-45_g2pv': (1_000_000, 1970)}
+                  'O-41-42_g2pv': (1_000_000, 1982), 'M-44-45_g2pv': (1_000_000, 1970),
+                  # batch pv_wr (2026-11-04/06): R-(60)-2 (o. Vrangelya), geokniga 43534, map-only preview (2000x1483 px, no legend
+                  # / imprint). SHIPPED = the R-(60) part 177-180E x 68-72N, which R-1-2_pq (face from 180 deg) and R-58-60_g2 (to
+                  # 177E) do not cover and which was Q2500: the west end of Wrangel Island (the 180 deg seam of the A0 review) and the
+                  # Chukotka mainland strip. Indices read on the map, hclass as on R-1-2_pq; eqdc 47/62, 4 corners + 26 graticule
+                  # ties (affine 717 m: page distortion); vs R-1-2_pq east of 180 deg: island 76.8 % primary / 86.4 % either,
+                  # mainland 68.1 % / 76.0 %. Year not on the preview or in our census: 1999 placeholder ('Российской Федерации'
+                  # title -> 1992 or later; Chukotka new-series neighbours 1998-2001)
+                  'R-60-2_g2pv': (1_000_000, 1999)}
 # preview years that are not print dates (meta lists): placeholders; 1:200k geokniga record (compilation) years
 # (1:1M record years are publication years: 10/12 exact against the imprints)
-PREVIEW_YEAR_PLACEHOLDER = ['N-44-V', 'P-37-VI']
+PREVIEW_YEAR_PLACEHOLDER = ['N-44-V', 'P-37-VI', 'R-60-2_g2pv']
 PREVIEW_YEAR_COMPILED = ['P-37-V', 'P-37-IV', 'P-39-XII', 'P-39-VIII', 'P-37-VII,VIII',
                          'R-46-XVII,XVIII', 'P-52-XXVII', 'P-58-XXIX', 'P-42-I', 'O-45-XXVII', 'O-45-XXVI', 'O-45-XX', 'O-45-XXXI',
                          'Q-38-XXIII,XXIV', 'Q-38-XXI,XXII', 'Q-36-III,IV', 'Q-38-XIX,XX', 'Q-38-XXIX,XXX', 'Q-37-XXII,XXIII,XXIV',

@@ -1,0 +1,26 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+AG,F,GF,mixed,unknown,unknown,"GSC symbol AG: genetic F, second GF"
+AM,F,M,mixed,unknown,unknown,"GSC symbol AM: genetic F, second M"
+Ac,F,,mixed,unknown,unknown,GSC symbol Ac: genetic F
+Ad,F,,mixed,unknown,unknown,GSC symbol Ad: genetic F
+Gk,GF,,gravel,unknown,unknown,GSC symbol Gk: genetic GF
+Go,GF,,gravel,unknown,unknown,GSC symbol Go: genetic GF
+Ln,L,,fines,unknown,unknown,GSC symbol Ln: genetic L
+Md,M,,fines,unknown,unknown,GSC symbol Md: genetic M
+Mn,M,,fines,unknown,unknown,GSC symbol Mn: genetic M
+Ms,M,,fines,unknown,unknown,GSC symbol Ms: genetic M
+Mw,M,,fines,unknown,unknown,GSC symbol Mw: genetic M
+NeedToFix,DROP,,unknown,unknown,unknown,NeedToFix: not a unit - dropped
+R,R,,unknown,unknown,unknown,GSC symbol R: genetic R
+R/AM,R,F,unknown,unknown,unknown,"GSC symbol R/AM: genetic R, second F"
+R/Mn,R,M,unknown,unknown,unknown,"GSC symbol R/Mn: genetic R, second M"
+R/T,R,T,unknown,unknown,unknown,"GSC symbol R/T: genetic R, second T"
+R/TM,R,T,unknown,unknown,unknown,"GSC symbol R/TM: genetic R, second T"
+R/Tr,R,T,unknown,unknown,unknown,"GSC symbol R/Tr: genetic R, second T"
+TM,T,M,diamicton,unknown,unknown,"GSC symbol TM: genetic T, second M"
+Th,T,,diamicton,unknown,unknown,GSC symbol Th: genetic T
+Tp,T,,diamicton,unknown,unknown,GSC symbol Tp: genetic T
+Tr,T,,diamicton,unknown,unknown,GSC symbol Tr: genetic T
+Ts,T,,diamicton,unknown,unknown,GSC symbol Ts: genetic T
+Unknown,DROP,,unknown,unknown,unknown,Unknown: not a unit - dropped
+Water,DROP,,unknown,unknown,unknown,Water: not a unit - dropped

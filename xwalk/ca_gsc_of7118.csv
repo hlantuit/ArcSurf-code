@@ -1,0 +1,13 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+Ap,F,,sand,unknown,unknown,"OF 7118 class Ap: Sand and minor silt: exposed or water-saturated; alluvial terraces, plains, deltas and fans; eolian veneers and dunes; intertidal flats"
+Mg,M,GL,fines,blanket,unknown,OF 7118 class Mg: Silt and clay: exposed thick marine or glaciolacustrine deposits with gullied slopes
+Ms_1,M,GL,fines,blanket,unknown,"OF 7118 class Ms_1: Silt, clay and fine sand: grass-covered; thick marine or glaciolacustrine deposits"
+Ms_2,M,GL,sand,unknown,unknown,OF 7118 class Ms_2: Fine sand and silt: grass- and lichen-covered; locally wave-washed; marine or glaciolacustrine deposits (Ms2 + SG2)
+O,O,,organic,unknown,unknown,"OF 7118 class O: Organics: saturated, poorly drained; shallow sedge fens and sphagnum bogs"
+SG_1,GF,M,gravel,unknown,unknown,"OF 7118 class SG_1: Sand and gravel: mainly grass- and/or lichen-covered; beaches, deltas, eskers, outwash terraces, ice-contact glaciofluvial deposits"
+Tb_1,T,,diamicton,blanket,unknown,"OF 7118 class Tb_1: Non-bouldery till: silty-sand diamicton; thick deposits, grass- and lichen-covered; blanket and streamlined till"
+Tb_2,T,,diamicton,blanket,unknown,OF 7118 class Tb_2: Bouldery till: silty-sand to sandy diamicton; thick streamlined till and till blankets with abundant lichen-covered boulders
+B,W,R,bouldery,unknown,unknown,OF 7118 class B: Boulders: exposed and lichen-covered felsenmeer and boulder fields
+Ct,T,,diamicton,unknown,unknown,OF 7118 class Ct: Carbonate-rich till: sandy-silt matrix-rich calcareous diamicton; solifluction stripes common
+R1,R,,unknown,unknown,unknown,OF 7118 class R1: Undifferentiated bedrock: exposed outcrop; sporadic boulders
+R2,R,T,unknown,veneer,unknown,OF 7118 class R2: Undifferentiated bedrock: lichen-covered outcrop and felsenmeer; patches of boulders and thin drift cover

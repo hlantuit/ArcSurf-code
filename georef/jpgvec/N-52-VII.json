@@ -2,14 +2,14 @@
  "sheet": "N-52-VII",
  "source": "raster scan",
  "projection": "tmerc",
- "rms_m": 1.9005831075053066,
- "max_res_m": 1.9163859827131091,
- "m_per_px": 16.956445490016968,
+ "rms_m": 10.305473725263516,
+ "max_res_m": 10.393846122107789,
+ "m_per_px": 16.951913300688265,
  "corner_residuals_m": [
-  1.9,
-  1.9,
-  1.9,
-  1.9
+  10.4,
+  10.4,
+  10.2,
+  10.2
  ],
  "corners": [
   {
@@ -21,7 +21,7 @@
     2135.0,
     1032.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -32,90 +32,92 @@
     5876.0,
     1032.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    5905.0,
-    5420.0
+    5910.0,
+    5413.0
    ],
    "snapped": [
-    5905.0,
-    5420.0
+    5910.0,
+    5413.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    2101.0,
-    5420.0
+    2104.0,
+    5413.0
    ],
    "snapped": [
-    2101.0,
-    5420.0
+    2104.0,
+    5413.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
+ "frame_sag_px": 6.8,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/N-52-VII/n-52-vii-dipkun-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federacii_1.jpg N-52-VII ../sources/legend_N-52-VII.csv ../work/jpgvec/N-52-VII.gpkg --datum 4284 --corners '2135,1032;5876,1032;5910,5413;2104,5413' --mmu 60 --no-snap",
  "unassigned_before_fill": 0.09,
- "area_km2": 4744.831844200398,
+ "area_km2": 4749.515942944187,
  "neatline_km2": 4749.537255749601,
- "cover_frac": 0.9990092905275126,
- "n_polygons": 8705,
+ "cover_frac": 0.9999955126564408,
+ "n_polygons": 8687,
  "units": {
   "#bf7fb1": {
    "index": "e",
-   "px": 203499,
+   "px": 203818,
    "direct_frac": 0.79
   },
   "#e182aa": {
    "index": "E",
-   "px": 2900298,
+   "px": 2900407,
    "direct_frac": 0.867
   },
   "#ee9694": {
    "index": "sII-H",
-   "px": 8125585,
+   "px": 8133149,
    "direct_frac": 0.882
   },
   "#e3959c": {
    "index": "dr,sII-H",
-   "px": 2146358,
-   "direct_frac": 0.783
+   "px": 2144610,
+   "direct_frac": 0.784
   },
   "#eda696": {
    "index": "d,sIII-H",
-   "px": 821383,
+   "px": 820194,
    "direct_frac": 0.551
   },
   "#f0be9d": {
    "index": "e,dIII-H",
-   "px": 892357,
+   "px": 893126,
    "direct_frac": 0.863
   },
   "#f0c4a1": {
    "index": "dIII-H",
-   "px": 113183,
-   "direct_frac": 0.56
+   "px": 106160,
+   "direct_frac": 0.574
   },
   "#bababa": {
    "index": "tH3",
-   "px": 181914,
+   "px": 181633,
    "direct_frac": 0.555
   },
   "#d9e9ba": {
    "index": "aH",
-   "px": 22519,
-   "direct_frac": 0.317
+   "px": 20364,
+   "direct_frac": 0.336
   },
   "#cce3af": {
    "index": "aIII3-4",
-   "px": 583641,
-   "direct_frac": 0.788
+   "px": 581932,
+   "direct_frac": 0.79
   },
   "#8ec8bd": {
    "index": "laIII3-4",
-   "px": 260698,
+   "px": 260792,
    "direct_frac": 0.723
   },
   "#9cc59b": {
@@ -125,8 +127,8 @@
   },
   "#afc48b": {
    "index": "fII2",
-   "px": 91808,
-   "direct_frac": 0.684
+   "px": 91810,
+   "direct_frac": 0.683
   },
   "#8dc584": {
    "index": "aII1b",

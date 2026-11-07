@@ -1,0 +1,13 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+O,O,,organic,unknown,unknown,"OF 7196 unit O: Organic deposits: peat and muck up to 2 m thick; bogs, depressions, poorly drained areas, valley bottoms; may contain ice-wedge polygons"
+C,C,,bouldery,unknown,unknown,"OF 7196 unit C: Colluvial deposits: angular pebbles, cobbles to boulders, up to 10 m thick; talus from weathering and frost shattering of bedrock along escarpments"
+E,E,,sand,unknown,unknown,"OF 7196 unit E: Eolian sediments: fine to medium sand, 1 m to at least 4 m thick; active and stabilized dunes and blow-outs; derived from glaciofluvial deposits"
+A,F,,mixed,unknown,unknown,"OF 7196 unit A: Alluvial sediments: silt to gravel, 1 m to at least 3 m thick; floodplains and alluvial fans of modern streams and rivers"
+L,GL,,fines,unknown,unknown,"OF 7196 unit L: Glaciolacustrine blanket and veneer: silt and sand, 1 to 3 m thick; temporary glacier-dammed lakes during deglaciation"
+D,GL,GF,sand,unknown,unknown,"OF 7196 unit D: Glaciolacustrine deltas: sand, gravel and cobbles, up to 5 m or more thick; temporary glacier-dammed lakes; kettles, braided paleochannels, ice-wedge polygons, beach ridges"
+G2,GF,,gravel,unknown,unknown,"OF 7196 unit G2: Outwash: sand and gravel, less than 3 m to at least 20 m thick; subaqueous deposits, subaerial fans and terraces"
+G1,GF,,gravel,unknown,unknown,"OF 7196 unit G1: Esker sediments: sand, gravel, cobbles and small boulders, 1 to at least 30 m thick; ridges up to 20 km long with flanking aprons"
+T3,T,,diamicton,unknown,unknown,"OF 7196 unit T3: Hummocky till: diamicton, compact, 3 m to at least 5 m thick; irregular to rolling terrain, low morainal ridges"
+T2,T,,diamicton,blanket,unknown,"OF 7196 unit T2: Till blanket: diamicton, moderately compact, 2 to 5 m thick; till plains and drumlinoid fields; may contain till veneer"
+T1,T,R,diamicton,veneer,unknown,"OF 7196 unit T1: Till veneer: diamicton, less than 1-2 m thick, discontinuous, rock structure visible; lag on washed bedrock; small patches of bedrock"
+R,R,,unknown,unknown,unknown,"OF 7196 unit R: Bedrock: undifferentiated sedimentary, volcanic, plutonic and metamorphic rocks; patches of till veneer and glaciofluvial sediments; shattered rock and meltwater scour"

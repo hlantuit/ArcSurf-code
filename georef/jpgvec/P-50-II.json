@@ -1,15 +1,15 @@
 {
  "sheet": "P-50-II",
  "source": "raster scan",
- "projection": "tmerc",
- "rms_m": 2.1372033823980865,
- "max_res_m": 2.162325045312173,
- "m_per_px": 16.964367531563724,
+ "projection": "tmerc_utm",
+ "rms_m": 7.381474013666277,
+ "max_res_m": 7.46845357935961,
+ "m_per_px": 16.922052057900974,
  "corner_residuals_m": [
-  2.2,
-  2.2,
-  2.1,
-  2.1
+  7.5,
+  7.5,
+  7.3,
+  7.3
  ],
  "corners": [
   {
@@ -21,29 +21,29 @@
     188.0,
     797.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    3071.0,
-    797.0
+    3079.0,
+    798.0
    ],
    "snapped": [
-    3071.0,
-    797.0
+    3079.0,
+    798.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    3106.0,
-    5185.0
+    3113.0,
+    5184.0
    ],
    "snapped": [
-    3106.0,
-    5185.0
+    3113.0,
+    5184.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -54,58 +54,60 @@
     154.0,
     5185.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
+ "frame_sag_px": 5.8,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/P-50-II/p-50-ii-zim-tas-yuryah-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federac_0.jpg P-50-II ../sources/legend_P-50-II.csv ../work/jpgvec/P-50-II.gpkg --datum 4284 --corners '188,797;3079,798;3113,5184;154,5185' --mmu 60 --no-snap",
  "unassigned_before_fill": 0.03,
- "area_km2": 3676.220024649059,
+ "area_km2": 3679.420216323806,
  "neatline_km2": 3679.7355513730417,
- "cover_frac": 0.9990446251707759,
- "n_polygons": 1144,
+ "cover_frac": 0.9999143049697911,
+ "n_polygons": 1141,
  "units": {
   "#c59cc6": {
    "index": "e",
-   "px": 3859175,
-   "direct_frac": 0.963
+   "px": 3878901,
+   "direct_frac": 0.962
   },
   "#b29680": {
    "index": "ed",
-   "px": 5530529,
+   "px": 5543416,
    "direct_frac": 0.973
   },
   "#efc094": {
    "index": "d",
-   "px": 2366696,
+   "px": 2375765,
    "direct_frac": 0.924
   },
   "#e69f89": {
    "index": "c",
-   "px": 56158,
+   "px": 56166,
    "direct_frac": 0.874
   },
   "#e69f8d": {
    "index": "ds",
-   "px": 178850,
+   "px": 178856,
    "direct_frac": 0.925
   },
   "#dfeac0": {
    "index": "aH",
-   "px": 180340,
+   "px": 180302,
    "direct_frac": 0.825
   },
   "#bdddd0": {
    "index": "laH",
-   "px": 140640,
-   "direct_frac": 0.847
+   "px": 139997,
+   "direct_frac": 0.851
   },
   "#b8e0fa": {
    "index": "lplH",
-   "px": 57559,
-   "direct_frac": 0.885
+   "px": 57572,
+   "direct_frac": 0.884
   },
   "#c7dea6": {
    "index": "a1IIIsr-H",
-   "px": 62105,
+   "px": 62330,
    "direct_frac": 0.87
   },
   "#bcd999": {
@@ -125,7 +127,7 @@
   },
   "#b197c6": {
    "index": "PREQ",
-   "px": 310646,
+   "px": 310972,
    "direct_frac": 0.854
   }
  },

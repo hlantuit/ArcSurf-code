@@ -1,15 +1,15 @@
 {
  "sheet": "P-43-XVI",
  "source": "raster scan",
- "projection": "tmerc",
- "rms_m": 16.326604032365577,
- "max_res_m": 16.496327428023505,
- "m_per_px": 16.918381175733632,
+ "projection": "eqdc",
+ "rms_m": 12.142114270063676,
+ "max_res_m": 12.270278441934352,
+ "m_per_px": 16.922473092601333,
  "corner_residuals_m": [
-  16.5,
-  16.5,
-  16.2,
-  16.2
+  12.3,
+  12.3,
+  12.0,
+  12.0
  ],
  "corners": [
   {
@@ -21,7 +21,7 @@
     1580.0,
     942.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -32,65 +32,67 @@
     4610.0,
     942.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
     4642.0,
-    5340.0
+    5329.0
    ],
    "snapped": [
     4642.0,
-    5340.0
+    5329.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    1548.0,
-    5340.0
+    1547.0,
+    5329.0
    ],
    "snapped": [
-    1548.0,
-    5340.0
+    1547.0,
+    5329.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
- "unassigned_before_fill": 0.186,
- "area_km2": 3846.9957410678844,
+ "frame_sag_px": 6.0,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/P-43-XVI/p-43-xvi-povhovskiy-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federaci.jpg P-43-XVI ../sources/legend_P-43-XVI.csv ../work/jpgvec/P-43-XVI.gpkg --datum 4284 --corners '1580,942;4610,942;4642,5329;1547,5329' --mmu 60 --no-snap",
+ "unassigned_before_fill": 0.185,
+ "area_km2": 3850.2379407004596,
  "neatline_km2": 3850.754954176092,
- "cover_frac": 0.9990237724412636,
- "n_polygons": 2524,
+ "cover_frac": 0.9998657371134272,
+ "n_polygons": 2497,
  "units": {
   "#fbface": {
    "index": "aH",
-   "px": 713643,
-   "direct_frac": 0.759
+   "px": 708170,
+   "direct_frac": 0.764
   },
   "#f1f8c4": {
    "index": "a1IIIsr-H",
-   "px": 163384,
-   "direct_frac": 0.413
+   "px": 163308,
+   "direct_frac": 0.414
   },
   "#e8f6b6": {
    "index": "a2IIIkr",
-   "px": 510432,
-   "direct_frac": 0.797
+   "px": 508810,
+   "direct_frac": 0.799
   },
   "#b7efdb": {
    "index": "la3IIIer",
-   "px": 1134574,
+   "px": 1127988,
    "direct_frac": 0.127
   },
   "#a4e9d1": {
    "index": "la4II-IIItz-kz",
-   "px": 7618881,
+   "px": 7612525,
    "direct_frac": 0.881
   },
   "#88b9da": {
    "index": "lmIIsh-tz",
-   "px": 3028703,
+   "px": 3029003,
    "direct_frac": 0.861
   },
   "#cdee8e": {
@@ -100,12 +102,12 @@
   },
   "#ace88d": {
    "index": "aItl",
-   "px": 11944,
+   "px": 11939,
    "direct_frac": 0.845
   },
   "#d998df": {
    "index": "gmN2ig",
-   "px": 284669,
+   "px": 284688,
    "direct_frac": 0.799
   }
  },

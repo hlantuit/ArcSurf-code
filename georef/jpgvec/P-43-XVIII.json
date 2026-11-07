@@ -1,15 +1,15 @@
 {
  "sheet": "P-43-XVIII",
  "source": "raster scan",
- "projection": "tmerc",
- "rms_m": 16.149689457786582,
- "max_res_m": 16.317682875571336,
- "m_per_px": 16.92943780494297,
+ "projection": "tmerc_utm",
+ "rms_m": 12.976025186712603,
+ "max_res_m": 13.12782578181702,
+ "m_per_px": 16.916160138385685,
  "corner_residuals_m": [
-  16.3,
-  16.3,
-  16.0,
-  16.0
+  13.1,
+  13.1,
+  12.8,
+  12.8
  ],
  "corners": [
   {
@@ -21,7 +21,7 @@
     1584.0,
     924.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -32,18 +32,18 @@
     4612.0,
     924.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    4642.0,
-    5309.0
+    4648.0,
+    5312.0
    ],
    "snapped": [
-    4642.0,
-    5309.0
+    4648.0,
+    5312.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -54,43 +54,45 @@
     1550.0,
     5309.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
+ "frame_sag_px": 6.0,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/P-43-XVIII/p-43-xviii-raduzhnyy-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federaci.jpg P-43-XVIII ../sources/legend_P-43-XVIII.csv ../work/jpgvec/P-43-XVIII.gpkg --datum 4284 --corners '1584,924;4612,924;4648,5312;1550,5309' --mmu 60 --no-snap",
  "unassigned_before_fill": 0.115,
- "area_km2": 3847.034476605017,
+ "area_km2": 3850.5159392689734,
  "neatline_km2": 3850.7560433825906,
- "cover_frac": 0.9990335490652624,
- "n_polygons": 1488,
+ "cover_frac": 0.9999376475396228,
+ "n_polygons": 1487,
  "units": {
   "#fbface": {
    "index": "aH",
-   "px": 804020,
+   "px": 804788,
    "direct_frac": 0.78
   },
   "#f1f8c4": {
    "index": "a1IIIsr-H",
-   "px": 151375,
+   "px": 151672,
    "direct_frac": 0.444
   },
   "#e8f6b6": {
    "index": "a2IIIkr",
-   "px": 716053,
+   "px": 716054,
    "direct_frac": 0.847
   },
   "#b7efdb": {
    "index": "la3IIIer",
-   "px": 263013,
+   "px": 263141,
    "direct_frac": 0.006
   },
   "#a4e9d1": {
    "index": "la4II-IIItz-kz",
-   "px": 5843177,
+   "px": 5868803,
    "direct_frac": 0.888
   },
   "#88b9da": {
    "index": "lmIIsh-tz",
-   "px": 5618515,
+   "px": 5621865,
    "direct_frac": 0.922
   },
   "#cdee8e": {

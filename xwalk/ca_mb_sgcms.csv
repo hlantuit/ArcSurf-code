@@ -7,8 +7,8 @@ Gs,GF,,,,,glaciofluvial (subtype)
 Lc,GL,,,,,glaciolacustrine
 Ls,GL,,,,,glaciolacustrine
 Lm,L,,,,,lacustrine
-M,GM,,,,,glaciomarine
-Ms,GM,,,,,glaciomarine
+M,M,,,,,"marine (Tyrrell Sea), as the GSC scans, CGM and the Ontario Far North map code it (2026-11-06, was GM)"
+Ms,M,,,,,"marine (Tyrrell Sea), as the GSC scans, CGM and the Ontario Far North map code it (2026-11-06, was GM)"
 O,O,,organic,,,wetland / organic
 R,R,,,,,rock
 Rc,R,,,,,rock (LegLink GENESIS 'Marine' - marine-washed bedrock)

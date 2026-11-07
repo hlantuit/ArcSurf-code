@@ -2,14 +2,14 @@
  "sheet": "Q-54-XXVII,XXVIII",
  "source": "raster scan",
  "projection": "eqdc",
- "rms_m": 12.142342559673134,
- "max_res_m": 12.289611068903469,
- "m_per_px": 16.932564414638044,
+ "rms_m": 7.961553187311191,
+ "max_res_m": 8.058811798968236,
+ "m_per_px": 16.93102706025216,
  "corner_residuals_m": [
-  12.3,
-  12.3,
-  12.0,
-  12.0
+  8.1,
+  8.1,
+  7.9,
+  7.9
  ],
  "corners": [
   {
@@ -21,7 +21,7 @@
     3933.0,
     787.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -32,103 +32,103 @@
     9437.0,
     787.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    9507.0,
-    5180.0
+    9506.0,
+    5174.0
    ],
    "snapped": [
-    9507.0,
-    5180.0
+    9506.0,
+    5174.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    3867.0,
-    5180.0
+    3865.0,
+    5174.0
    ],
    "snapped": [
-    3867.0,
-    5180.0
+    3865.0,
+    5174.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
  "frame_sag_px": 22.3,
- "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/Q-54-XXVII,XXVIII/q-54-xxvii-xxviii-uglovoy-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-fe_1.jpg Q-54-XXVII,XXVIII ../sources/legend_Q-54-XXVII,XXVIII.csv ../work/facefix/Q-54-XXVII,XXVIII.gpkg --datum 4284 --corners '3933,787;9437,787;9507,5180;3867,5180' --mmu 60",
- "unassigned_before_fill": 0.038,
- "area_km2": 7013.059701909389,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/Q-54-XXVII,XXVIII/q-54-xxvii-xxviii-uglovoy-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-fe_1.jpg Q-54-XXVII,XXVIII ../sources/legend_Q-54-XXVII,XXVIII.csv ../work/facefix/Q-54-XXVII,XXVIII.gpkg --datum 4284 --corners '3933,787;9437,787;9506,5174;3865,5174' --mmu 60 --no-snap",
+ "unassigned_before_fill": 0.037,
+ "area_km2": 7013.112130982838,
  "neatline_km2": 7013.164314678885,
- "cover_frac": 0.9999850833711003,
- "n_polygons": 5813,
+ "cover_frac": 0.9999925591796077,
+ "n_polygons": 5771,
  "units": {
   "#fbdbc1": {
    "index": "e,d",
-   "px": 3878343,
+   "px": 3877311,
    "direct_frac": 0.841
   },
   "#fbbe85": {
    "index": "c,d",
-   "px": 8145606,
+   "px": 8137848,
    "direct_frac": 0.9
   },
   "#fcaa59": {
    "index": "c",
-   "px": 2940286,
+   "px": 2939453,
    "direct_frac": 0.894
   },
   "#fbd0a7": {
    "index": "s",
-   "px": 1312490,
-   "direct_frac": 0.922
+   "px": 1309032,
+   "direct_frac": 0.924
   },
   "#faa46e": {
    "index": "d,s",
-   "px": 1577553,
+   "px": 1577035,
    "direct_frac": 0.91
   },
   "#b9c3c8": {
    "index": "tH2",
-   "px": 130076,
-   "direct_frac": 0.796
+   "px": 129763,
+   "direct_frac": 0.798
   },
   "#e9ee73": {
    "index": "aH2",
-   "px": 1036069,
-   "direct_frac": 0.893
+   "px": 1035077,
+   "direct_frac": 0.894
   },
   "#d6e043": {
    "index": "a1III4-H1",
-   "px": 943666,
-   "direct_frac": 0.887
+   "px": 942418,
+   "direct_frac": 0.888
   },
   "#ebd8be": {
    "index": "gIII4",
-   "px": 37529,
-   "direct_frac": 0.327
+   "px": 30064,
+   "direct_frac": 0.381
   },
   "#f4ee97": {
    "index": "a2III3-4",
-   "px": 617894,
-   "direct_frac": 0.927
+   "px": 615929,
+   "direct_frac": 0.93
   },
   "#e8d240": {
    "index": "fIII2",
-   "px": 711042,
+   "px": 711015,
    "direct_frac": 0.93
   },
   "#cba265": {
    "index": "gIII2",
-   "px": 3045273,
-   "direct_frac": 0.946
+   "px": 3039539,
+   "direct_frac": 0.947
   },
   "#dddc2e": {
    "index": "a3III1-2",
-   "px": 29244,
-   "direct_frac": 0.852
+   "px": 29221,
+   "direct_frac": 0.853
   },
   "#d4d718": {
    "index": "a4II2-3",

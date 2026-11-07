@@ -1,0 +1,192 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+Q25|LE|W,E,,,,,Q2500 index LE: L-unit outside NE Siberia: loess (provisional rule)
+Q25|LE|NE,Y,L,,,,"Q2500 index LE: L-unit in NE Siberia (>=100E, >=60N): Ice Complex (provisional rule)"
+Q25|LIII|NE,Y,L,,,,"Q2500 index LIII: L-unit in NE Siberia (>=100E, >=60N): Ice Complex (provisional rule)"
+Q25|LIII|W,E,,,,,Q2500 index LIII: L-unit outside NE Siberia: loess (provisional rule)
+Q25|WATER,H,,,,,Q2500 index WATER: water fill
+"Q25|a,fH",F,,,,,"Q2500 index a,fH: alluvial"
+"Q25|a,fI",F,,,,,"Q2500 index a,fI: alluvial"
+"Q25|a,fII",F,,,,,"Q2500 index a,fII: alluvial"
+"Q25|a,fIII",F,,,,,"Q2500 index a,fIII: alluvial"
+"Q25|a,pII-III",F,,,,,"Q2500 index a,pII-III: alluvial"
+"Q25|a,pIII",F,,,,,"Q2500 index a,pIII: alluvial"
+Q25|aE,F,,,,,Q2500 index aE: alluvial
+Q25|aE-I,F,,,,,Q2500 index aE-I: alluvial
+Q25|aEI,F,,,,,Q2500 index aEI: alluvial
+Q25|aEII,F,,,,,Q2500 index aEII: alluvial
+Q25|aH,F,,,,,Q2500 index aH: alluvial
+Q25|aI,F,,,,,Q2500 index aI: alluvial
+Q25|aI-II,F,,,,,Q2500 index aI-II: alluvial
+Q25|aII,F,,,,,Q2500 index aII: alluvial
+Q25|aII-III,F,,,,,Q2500 index aII-III: alluvial
+Q25|aIII,F,,,,,Q2500 index aIII: alluvial
+Q25|aIII-H,F,,,,,Q2500 index aIII-H: alluvial
+Q25|aN,F,,,,,Q2500 index aN: alluvial
+Q25|amH,F,M,,,,Q2500 index amH: alluvial-marine
+Q25|amH|lgIII,F,M,,,,Q2500 index amH|lgIII: alluvial-marine
+Q25|amI,F,M,,,,Q2500 index amI: alluvial-marine
+Q25|amII,F,M,,,,Q2500 index amII: alluvial-marine
+Q25|amII-III,F,M,,,,Q2500 index amII-III: alluvial-marine
+Q25|amIII,F,M,,,,Q2500 index amIII: alluvial-marine
+"Q25|c,dII-H",C,,,,,"Q2500 index c,dII-H: colluvial"
+"Q25|c,dIII-H",C,,,,,"Q2500 index c,dIII-H: colluvial"
+"Q25|c,dlII-H",C,,,,,"Q2500 index c,dlII-H: colluvial"
+"Q25|c,drIII-H",C,,,,,"Q2500 index c,drIII-H: colluvial"
+"Q25|c,gIII-H",C,,,,,"Q2500 index c,gIII-H: colluvial"
+"Q25|c,sIII-H",C,,,,,"Q2500 index c,sIII-H: colluvial"
+Q25|cH,C,,,,,Q2500 index cH: colluvial
+Q25|cIII-H,C,,,,,Q2500 index cIII-H: colluvial
+"Q25|d,aIII-H",C,,,,,"Q2500 index d,aIII-H: deluvial (slope wash)"
+"Q25|d,dlIII-H",C,,,,,"Q2500 index d,dlIII-H: deluvial (slope wash)"
+"Q25|d,drIII-H",C,,,,,"Q2500 index d,drIII-H: deluvial (slope wash)"
+"Q25|d,sIII-H",C,,,,,"Q2500 index d,sIII-H: deluvial (slope wash)"
+Q25|dII-III,C,,,,,Q2500 index dII-III: deluvial (slope wash)
+Q25|dIII,C,,,,,Q2500 index dIII: deluvial (slope wash)
+Q25|dIII-H,C,,,,,Q2500 index dIII-H: deluvial (slope wash)
+"Q25|dr,sIII-H",C,,,,,"Q2500 index dr,sIII-H: deluvial (slope wash) (prefix 'dr' matched 'd')"
+Q25|drIII-H,C,,,,,Q2500 index drIII-H: deluvial (slope wash) (prefix 'dr' matched 'd')
+"Q25|e,dIII-H",W,,,,,"Q2500 index e,dIII-H: eluvial"
+"Q25|e,drIII-H",W,,,,,"Q2500 index e,drIII-H: eluvial"
+"Q25|f,lgI",GF,,,,,"Q2500 index f,lgI: fluvioglacial"
+"Q25|f,lgII",GF,,,,,"Q2500 index f,lgII: fluvioglacial"
+"Q25|f,lgIII",GF,,,,,"Q2500 index f,lgIII: fluvioglacial"
+Q25|fH,GF,,,,,Q2500 index fH: fluvioglacial
+Q25|fI,GF,,,,,Q2500 index fI: fluvioglacial
+Q25|fII,GF,,,,,Q2500 index fII: fluvioglacial
+Q25|fIII,GF,,,,,Q2500 index fIII: fluvioglacial
+"Q25|g,fII",T,,,,,"Q2500 index g,fII: glacial (moraine)"
+"Q25|g,fIII",T,,,,,"Q2500 index g,fIII: glacial (moraine)"
+"Q25|g,fIII-H",T,,,,,"Q2500 index g,fIII-H: glacial (moraine)"
+"Q25|g,lgII",T,,,,,"Q2500 index g,lgII: glacial (moraine)"
+Q25|gH,T,,,,,Q2500 index gH: glacial (moraine)
+Q25|gI,T,,,,,Q2500 index gI: glacial (moraine)
+Q25|gI-II,T,,,,,Q2500 index gI-II: glacial (moraine)
+Q25|gII,T,,,,,Q2500 index gII: glacial (moraine)
+Q25|gII-III,T,,,,,Q2500 index gII-III: glacial (moraine)
+Q25|gIII,T,,,,,Q2500 index gIII: glacial (moraine)
+Q25|gIII-H,T,,,,,Q2500 index gIII-H: glacial (moraine)
+Q25|gmI,GM,,,,,Q2500 index gmI: glaciomarine
+Q25|gmII|#b691ba,Q,,,,,"Q2500 index gmII: gm label from the colour vote on fill #b691ba, but mixed plains (F 32 %, L 21 %, E 20 %): unresolved"
+Q25|gmII,GM,,,,,Q2500 index gmII: glaciomarine
+Q25|gmII|#cb8fbf,W,C,,,,"Q2500 index gmII: gm label from the colour vote on fill #cb8fbf, but eluvium (W 54 %, C 35 %)"
+Q25|gmII|#d680b5,C,W,,,,"Q2500 index gmII: gm label from the colour vote on fill #d680b5, but mountain-slope cover (C 44 %, W 42 %)"
+Q25|gmIII,GM,,,,,Q2500 index gmIII: glaciomarine
+Q25|gmIII|#c59cc8,T,,,,,"Q2500 index gmIII: gm label from the colour vote on fill #c59cc8, but till (T 54 %)"
+"Q25|l,aE",L,,,,,"Q2500 index l,aE: lacustrine"
+"Q25|l,aE-I",L,,,,,"Q2500 index l,aE-I: lacustrine"
+"Q25|l,aEII",L,,,,,"Q2500 index l,aEII: lacustrine"
+"Q25|l,aH",L,,,,,"Q2500 index l,aH: lacustrine"
+"Q25|l,aI",L,,,,,"Q2500 index l,aI: lacustrine"
+"Q25|l,aI-II",L,,,,,"Q2500 index l,aI-II: lacustrine"
+"Q25|l,aII",L,,,,,"Q2500 index l,aII: lacustrine"
+"Q25|l,aII-III",L,,,,,"Q2500 index l,aII-III: lacustrine"
+"Q25|l,aIII",L,,,,,"Q2500 index l,aIII: lacustrine"
+"Q25|l,aIII-H",L,,,,,"Q2500 index l,aIII-H: lacustrine"
+"Q25|l,aN",L,,,,,"Q2500 index l,aN: lacustrine"
+"Q25|l,amE",L,,,,,"Q2500 index l,amE: lacustrine"
+"Q25|l,amH",L,,,,,"Q2500 index l,amH: lacustrine"
+"Q25|l,lgII",L,,,,,"Q2500 index l,lgII: lacustrine"
+"Q25|l,plH",L,,,,,"Q2500 index l,plH: lacustrine"
+"Q25|l,plIII",L,,,,,"Q2500 index l,plIII: lacustrine"
+"Q25|l,plIII-H",L,,,,,"Q2500 index l,plIII-H: lacustrine"
+Q25|lE,L,,,,,Q2500 index lE: lacustrine
+Q25|lH,L,,,,,Q2500 index lH: lacustrine
+Q25|lI,L,,,,,Q2500 index lI: lacustrine
+Q25|lI-II,L,,,,,Q2500 index lI-II: lacustrine
+Q25|lII,L,,,,,Q2500 index lII: lacustrine
+Q25|lIII,L,,,,,Q2500 index lIII: lacustrine
+Q25|lIII-H,L,,,,,Q2500 index lIII-H: lacustrine
+Q25|lN,L,,,,,Q2500 index lN: lacustrine
+"Q25|la,lgI-II",F,L,,,,"Q2500 index la,lgI-II: limnoalluvial"
+"Q25|la,lgII",F,L,,,,"Q2500 index la,lgII: limnoalluvial"
+"Q25|la,lgII-III",F,L,,,,"Q2500 index la,lgII-III: limnoalluvial"
+"Q25|la,lgIII",F,L,,,,"Q2500 index la,lgIII: limnoalluvial"
+"Q25|la,lgIII-H",F,L,,,,"Q2500 index la,lgIII-H: limnoalluvial"
+Q25|lgII,GL,,,,,Q2500 index lgII: glaciolacustrine
+Q25|lgIII,GL,,,,,Q2500 index lgIII: glaciolacustrine
+Q25|lgIII-H,GL,,,,,Q2500 index lgIII-H: glaciolacustrine
+Q25|lgII|amIII,GL,,,,,Q2500 index lgII|amIII: glaciolacustrine
+"Q25|lgII|l,lgIII",GL,,,,,"Q2500 index lgII|l,lgIII: glaciolacustrine"
+Q25|lgI|amIII,GL,,,,,Q2500 index lgI|amIII: glaciolacustrine
+"Q25|lgI|l,lgII",GL,,,,,"Q2500 index lgI|l,lgII: glaciolacustrine"
+"Q25|lh,lnH",L,,,,,"Q2500 index lh,lnH: lacustrine (prefix 'lh' matched 'l')"
+"Q25|lh,lnIII-H",L,,,,,"Q2500 index lh,lnIII-H: lacustrine (prefix 'lh' matched 'l')"
+Q25|lnH,L,,,,,Q2500 index lnH: lacustrine (prefix 'ln' matched 'l')
+Q25|lvH,L,,,,,Q2500 index lvH: lacustrine (prefix 'lv' matched 'l')
+"Q25|m,gmII-III",M,,,,,"Q2500 index m,gmII-III: marine"
+"Q25|m,gmII-III|INL",Q,,,,,"Q2500 index m,gmII-III: marine/glaciomarine label on an inland southern-Siberian tint (colour-vote mismatch): unresolved, coded Q"
+"Q25|m,gmIII|#9c85bd",C,R,,,,"Q2500 index m,gmIII: gm label from the colour vote on fill #9c85bd, but slope cover over bedrock (C 49 %, R 17 %)"
+"Q25|m,gmIII|#9f81b5",R,C,,,,"Q2500 index m,gmIII: gm label from the colour vote on fill #9f81b5, but bedrock with slope cover (finer maps: R 41 %, C 43 %)"
+"Q25|m,gmIII",M,,,,,"Q2500 index m,gmIII: marine"
+"Q25|m,gmIII|#ac92c0",C,W,,,,"Q2500 index m,gmIII: gm label from the colour vote on fill #ac92c0, but slope cover (C 36 %, W 20 %)"
+"Q25|m,gmIII|INL",Q,,,,,"Q2500 index m,gmIII: marine/glaciomarine label on an inland southern-Siberian tint (colour-vote mismatch): unresolved, coded Q"
+Q25|mE,M,,,,,Q2500 index mE: marine
+Q25|mE-I,M,,,,,Q2500 index mE-I: marine
+Q25|mH,M,,,,,Q2500 index mH: marine
+Q25|mH|INL,Q,,,,,"Q2500 index mH: marine/glaciomarine label on an inland southern-Siberian tint (colour-vote mismatch): unresolved, coded Q"
+Q25|mI,M,,,,,Q2500 index mI: marine
+Q25|mI-II,M,,,,,Q2500 index mI-II: marine
+Q25|mI-II|INL,Q,,,,,"Q2500 index mI-II: marine/glaciomarine label on an inland southern-Siberian tint (colour-vote mismatch): unresolved, coded Q"
+Q25|mII,M,,,,,Q2500 index mII: marine
+Q25|mII-III,M,,,,,Q2500 index mII-III: marine
+Q25|mIII,M,,,,,Q2500 index mIII: marine
+Q25|mIII|INL,Q,,,,,"Q2500 index mIII: marine/glaciomarine label on an inland southern-Siberian tint (colour-vote mismatch): unresolved, coded Q"
+Q25|mIII-H,M,,,,,Q2500 index mIII-H: marine
+Q25|mIII-H|INL,Q,,,,,"Q2500 index mIII-H: marine/glaciomarine label on an inland southern-Siberian tint (colour-vote mismatch): unresolved, coded Q"
+Q25|mN,M,,,,,Q2500 index mN: marine
+Q25|mbH,M,,,,,Q2500 index mbH: marine biogenic
+Q25|mbH|INL,Q,,,,,"Q2500 index mbH: marine/glaciomarine label on an inland southern-Siberian tint (colour-vote mismatch): unresolved, coded Q"
+"Q25|md,mvlIII-H",M,,,,,"Q2500 index md,mvlIII-H: marine (prefix 'md' matched 'm')"
+"Q25|md,mvlIII-H|INL",Q,,,,,"Q2500 index md,mvlIII-H: marine/glaciomarine label on an inland southern-Siberian tint (colour-vote mismatch): unresolved, coded Q"
+Q25|mdH,M,,,,,Q2500 index mdH: marine (prefix 'md' matched 'm')
+Q25|mdH|INL,Q,,,,,"Q2500 index mdH: marine/glaciomarine label on an inland southern-Siberian tint (colour-vote mismatch): unresolved, coded Q"
+"Q25|mf,mvH",M,F,,,,"Q2500 index mf,mvH: marine fluvial"
+"Q25|mf,mvH|INL",Q,,,,,"Q2500 index mf,mvH: marine/glaciomarine label on an inland southern-Siberian tint (colour-vote mismatch): unresolved, coded Q"
+"Q25|mf,mvIII",M,F,,,,"Q2500 index mf,mvIII: marine fluvial"
+"Q25|mf,mvIII|INL",Q,,,,,"Q2500 index mf,mvIII: marine/glaciomarine label on an inland southern-Siberian tint (colour-vote mismatch): unresolved, coded Q"
+Q25|mfH,M,F,,,,Q2500 index mfH: marine fluvial
+Q25|mfH|INL,Q,,,,,"Q2500 index mfH: marine/glaciomarine label on an inland southern-Siberian tint (colour-vote mismatch): unresolved, coded Q"
+Q25|mfIII,M,F,,,,Q2500 index mfIII: marine fluvial
+Q25|mfIII|INL,Q,,,,,"Q2500 index mfIII: marine/glaciomarine label on an inland southern-Siberian tint (colour-vote mismatch): unresolved, coded Q"
+Q25|mlH,M,L,,,,Q2500 index mlH: marine-lacustrine
+Q25|mlH|INL,Q,,,,,"Q2500 index mlH: marine/glaciomarine label on an inland southern-Siberian tint (colour-vote mismatch): unresolved, coded Q"
+Q25|mlIII,M,L,,,,Q2500 index mlIII: marine-lacustrine
+Q25|mnH,M,,,,,Q2500 index mnH: marine nepheloid (offshore muds)
+Q25|mnH|INL,Q,,,,,"Q2500 index mnH: marine/glaciomarine label on an inland southern-Siberian tint (colour-vote mismatch): unresolved, coded Q"
+Q25|mnIII,M,,,,,Q2500 index mnIII: marine nepheloid (offshore muds)
+"Q25|mp,mvIII|mIII",M,,,,,"Q2500 index mp,mvIII|mIII: marine (prefix 'mp' matched 'm')"
+"Q25|mp,mvIII|mIII|INL",Q,,,,,"Q2500 index mp,mvIII|mIII: marine/glaciomarine label on an inland southern-Siberian tint (colour-vote mismatch): unresolved, coded Q"
+Q25|mpH,M,,,,,Q2500 index mpH: marine (prefix 'mp' matched 'm')
+Q25|mpH|INL,Q,,,,,"Q2500 index mpH: marine/glaciomarine label on an inland southern-Siberian tint (colour-vote mismatch): unresolved, coded Q"
+Q25|mpIII,M,,,,,Q2500 index mpIII: marine (prefix 'mp' matched 'm')
+"Q25|mt,mnIII-H",M,,,,,"Q2500 index mt,mnIII-H: marine (prefix 'mt' matched 'm')"
+"Q25|mt,mnIII-H|INL",Q,,,,,"Q2500 index mt,mnIII-H: marine/glaciomarine label on an inland southern-Siberian tint (colour-vote mismatch): unresolved, coded Q"
+Q25|mtIII|INL,Q,,,,,"Q2500 index mtIII: marine/glaciomarine label on an inland southern-Siberian tint (colour-vote mismatch): unresolved, coded Q"
+Q25|mtIII,M,,,,,Q2500 index mtIII: marine (prefix 'mt' matched 'm')
+Q25|mvH,M,,,,,Q2500 index mvH: marine wave (undalyuvial)
+Q25|mvH|INL,Q,,,,,"Q2500 index mvH: marine/glaciomarine label on an inland southern-Siberian tint (colour-vote mismatch): unresolved, coded Q"
+"Q25|p,dII-III",F,,,,,"Q2500 index p,dII-III: proluvial (fans)"
+"Q25|p,dIII",F,,,,,"Q2500 index p,dIII: proluvial (fans)"
+"Q25|p,dIII-H",F,,,,,"Q2500 index p,dIII-H: proluvial (fans)"
+"Q25|p,dN",F,,,,,"Q2500 index p,dN: proluvial (fans)"
+Q25|pH,F,,,,,Q2500 index pH: proluvial (fans)
+"Q25|pIII-H|a,pIII-H",F,,,,,"Q2500 index pIII-H|a,pIII-H: proluvial (fans)"
+Q25|plH,O,,,,,Q2500 index plH: paludal (bog)
+Q25|sIII-H,C,,,,,Q2500 index sIII-H: solifluction
+"Q25|slvl,pH",C,,,,,"Q2500 index slvl,pH: solifluction (prefix 'slvl' matched 's')"
+Q25|vH,E,,,,,Q2500 index vH: eolian
+Q25|vIII-H,E,,,,,Q2500 index vIII-H: eolian
+"Q25|vlef,gN",R,V,,,,"Q2500 index vlef,gN: Neogene volcanics (Q2500 vlef/vlex ... N)"
+Q25|vlefE,V,,,,,Q2500 index vlefE: vlef/vlex = volcanic effusive / explosive (Q2500 legend)
+Q25|vlefH,V,,,,,Q2500 index vlefH: vlef/vlex = volcanic effusive / explosive (Q2500 legend)
+Q25|vlefI,V,,,,,Q2500 index vlefI: vlef/vlex = volcanic effusive / explosive (Q2500 legend)
+Q25|vlefII,V,,,,,Q2500 index vlefII: vlef/vlex = volcanic effusive / explosive (Q2500 legend)
+Q25|vlefII-III,V,,,,,Q2500 index vlefII-III: vlef/vlex = volcanic effusive / explosive (Q2500 legend)
+Q25|vlefIII,V,,,,,Q2500 index vlefIII: vlef/vlex = volcanic effusive / explosive (Q2500 legend)
+Q25|vlefIII-H,V,,,,,Q2500 index vlefIII-H: vlef/vlex = volcanic effusive / explosive (Q2500 legend)
+Q25|vlefN,R,V,,,,Q2500 index vlefN: Neogene volcanics (Q2500 vlef/vlex ... N)
+Q25|vlexE,V,,,,,Q2500 index vlexE: vlef/vlex = volcanic effusive / explosive (Q2500 legend)
+Q25|vlexH,V,,,,,Q2500 index vlexH: vlef/vlex = volcanic effusive / explosive (Q2500 legend)
+Q25|vlexII,V,,,,,Q2500 index vlexII: vlef/vlex = volcanic effusive / explosive (Q2500 legend)
+Q25|vlexII-III,V,,,,,Q2500 index vlexII-III: vlef/vlex = volcanic effusive / explosive (Q2500 legend)
+Q25|vlexIII,V,,,,,Q2500 index vlexIII: vlef/vlex = volcanic effusive / explosive (Q2500 legend)

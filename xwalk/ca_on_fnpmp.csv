@@ -1,0 +1,20 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+,Q,,unknown,,,keyword rule on OriginName ()
+?,Q,,unknown,,,keyword rule on OriginName (?)
+Anthropogenic Deposits,Q,,unknown,,,keyword rule on OriginName (Anthropogenic Deposits)
+Fluvial Deposits (abandoned),F,,mixed,,,keyword rule on OriginName (Fluvial Deposits (abandoned))
+Fluvial Deposits (recent),F,,mixed,,,keyword rule on OriginName (Fluvial Deposits (recent))
+Glacial Deposits,T,,diamicton,,,keyword rule on OriginName (Glacial Deposits)
+Glacial Deposits and Bedrock,T,R,diamicton,veneer,,keyword rule on OriginName (Glacial Deposits and Bedrock)
+Glaciofluvial Ice-contact Deposits,GF,,gravel,,,keyword rule on OriginName (Glaciofluvial Ice-contact Deposits)
+Glaciolacustrine Basin Deposits,GL,,fines,,,keyword rule on OriginName (Glaciolacustrine Basin Deposits)
+Glaciolacustrine Beach and Near-shore Deposits,GL,,sand,,,"keyword rule on OriginName (Glaciolacustrine Beach and Near-shore Deposits), corrected 2026-11-06: glaciolacustrine, not marine"
+Marine Basin Deposits,M,,fines,,,keyword rule on OriginName (Marine Basin Deposits)
+Marine Beach and Near-shore Deposits,M,,sand,,,keyword rule on OriginName (Marine Beach and Near-shore Deposits)
+Marine Deltaic Deposits,M,F,sand,,,"keyword rule on OriginName (Marine Deltaic Deposits), corrected 2026-11-06: marine delta, was Q"
+Marine Mudflat Deposits,M,,fines,,,keyword rule on OriginName (Marine Mudflat Deposits)
+Marine Salt Marsh Deposits,M,O,fines,,,keyword rule on OriginName (Marine Salt Marsh Deposits)
+Metamorphic and Igneous Rocks,R,,,,,keyword rule on OriginName (Metamorphic and Igneous Rocks)
+Organic Deposits (Bog),O,,organic,,,keyword rule on OriginName (Organic Deposits (Bog))
+Organic Deposits (Fen),O,,organic,,,keyword rule on OriginName (Organic Deposits (Fen))
+Sedimentary Rocks,R,,,,,keyword rule on OriginName (Sedimentary Rocks)

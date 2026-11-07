@@ -2,14 +2,14 @@
  "sheet": "M-47-48_g2",
  "source": "raster scan",
  "projection": "given",
- "rms_m": 188.35758027364207,
- "max_res_m": 196.62937803459334,
- "m_per_px": 84.82682831708316,
+ "rms_m": 206.61285289110702,
+ "max_res_m": 215.76067586726634,
+ "m_per_px": 84.81609014384551,
  "corner_residuals_m": [
-  196.6,
-  196.6,
-  179.7,
-  179.8
+  215.5,
+  215.8,
+  197.3,
+  197.1
  ],
  "corners": [
   {
@@ -21,18 +21,18 @@
     772.0,
     1118.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    7996.0,
-    1180.0
+    7998.0,
+    1189.0
    ],
    "snapped": [
-    7996.0,
-    1180.0
+    7998.0,
+    1189.0
    ],
-   "ok": "rejected (moved > 15 px)"
+   "ok": "measured"
   },
   {
    "approx": [
@@ -43,7 +43,7 @@
     8298.0,
     6429.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -54,21 +54,21 @@
     397.0,
     6359.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
- "frame_sag_px": 126.2,
- "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga_1m/M-_47_,48_g2/m-4748-ulan-ude-gosudarstvennaya-geologicheskaya-karta-sssr-novaya-seriya-karta-.jpg M-47-48_g2 ../sources/legend_M-47-48_g2.csv ../work/facefix/M-47-48_g2.gpkg --lonlat 99,48,108,52 --datum 4284 --corners '772,1118;7996,1180;8298,6429;397,6359' --paper-nodata --paper-rgb '#e7e0ce' --thin-units gIIIsr,gIIIz,gII,fIIIz:3 --proj '+proj=eqdc +lat_1=47 +lat_2=62 +lon_0=103.5'",
- "unassigned_before_fill": 0.469,
- "area_km2": 90268.65188003668,
+ "frame_sag_px": 126.1,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga_1m/M-_47_,48_g2/m-4748-ulan-ude-gosudarstvennaya-geologicheskaya-karta-sssr-novaya-seriya-karta-.jpg M-47-48_g2 ../sources/legend_M-47-48_g2.csv ../work/facefix/M-47-48_g2.gpkg --lonlat 99,48,108,52 --datum 4284 --corners '772,1118;7998,1189;8298,6429;397,6359' --paper-nodata --paper-rgb '#e7e0ce' --thin-units gIIIsr,gIIIz,gII,fIIIz:3 --proj '+proj=eqdc +lat_1=47 +lat_2=62 +lon_0=103.5' --no-snap",
+ "unassigned_before_fill": 0.468,
+ "area_km2": 90204.20635972518,
  "neatline_km2": 287040.6103438769,
- "cover_frac": 0.3144804206341888,
- "n_polygons": 14708,
+ "cover_frac": 0.3142559035519742,
+ "n_polygons": 14712,
  "units": {
   "#c4c691": {
    "index": "aIV",
-   "px": 593564,
-   "direct_frac": 0.367
+   "px": 593928,
+   "direct_frac": 0.366
   },
   "#e1cd68": {
    "index": "vIV",
@@ -77,12 +77,12 @@
   },
   "#a9b8b1": {
    "index": "lIV",
-   "px": 737493,
-   "direct_frac": 0.388
+   "px": 728912,
+   "direct_frac": 0.391
   },
   "#dad092": {
    "index": "apIV",
-   "px": 26474,
+   "px": 26395,
    "direct_frac": 0.424
   },
   "#d3b86a": {
@@ -92,22 +92,22 @@
   },
   "#b5bd7a": {
    "index": "aIII-IV",
-   "px": 268254,
-   "direct_frac": 0.432
+   "px": 268408,
+   "direct_frac": 0.431
   },
   "#b15667": {
    "index": "dsIII-IV",
-   "px": 292743,
+   "px": 292954,
    "direct_frac": 0.441
   },
   "#ca5769": {
    "index": "csIII-IV",
-   "px": 1219866,
+   "px": 1220114,
    "direct_frac": 0.535
   },
   "#c25b6b": {
    "index": "sIII-IV",
-   "px": 281676,
+   "px": 281618,
    "direct_frac": 0.352
   },
   "#749945": {
@@ -122,12 +122,12 @@
   },
   "#7ca154": {
    "index": "aIIIz",
-   "px": 38324,
-   "direct_frac": 0.393
+   "px": 38358,
+   "direct_frac": 0.392
   },
   "#82724d": {
    "index": "g+fIIIz",
-   "px": 864038,
+   "px": 864062,
    "direct_frac": 0.251
   },
   "#888d52": {
@@ -147,18 +147,18 @@
   },
   "#79a054": {
    "index": "aIIIks-z",
-   "px": 11821,
+   "px": 11807,
    "direct_frac": 0.372
   },
   "#e1c951": {
    "index": "vIII",
-   "px": 142511,
+   "px": 142508,
    "direct_frac": 0.73
   },
   "#8fa6a5": {
    "index": "lIII",
-   "px": 53894,
-   "direct_frac": 0.481
+   "px": 54103,
+   "direct_frac": 0.479
   },
   "#c0b666": {
    "index": "apIII",
@@ -167,12 +167,12 @@
   },
   "#dfd396": {
    "index": "pIII",
-   "px": 35231,
-   "direct_frac": 0.457
+   "px": 34948,
+   "direct_frac": 0.459
   },
   "#e17935": {
    "index": "dIII",
-   "px": 159264,
+   "px": 159431,
    "direct_frac": 0.332
   },
   "#dac361": {
@@ -182,7 +182,7 @@
   },
   "#b66e76": {
    "index": "bIII",
-   "px": 742684,
+   "px": 743238,
    "direct_frac": 0.348
   },
   "#88a4a4": {
@@ -202,12 +202,12 @@
   },
   "#bdad4e": {
    "index": "apII",
-   "px": 16425,
-   "direct_frac": 0.404
+   "px": 16550,
+   "direct_frac": 0.407
   },
   "#ca9143": {
    "index": "dpII",
-   "px": 176636,
+   "px": 176675,
    "direct_frac": 0.282
   },
   "#8d5e4c": {
@@ -217,17 +217,17 @@
   },
   "#4d8350": {
    "index": "laI-II",
-   "px": 296540,
+   "px": 296791,
    "direct_frac": 0.55
   },
   "#bc9655": {
    "index": "pI",
-   "px": 34766,
+   "px": 34834,
    "direct_frac": 0.246
   },
   "#8c7548": {
    "index": "apI",
-   "px": 356770,
+   "px": 356776,
    "direct_frac": 0.241
   },
   "#7da1a1": {
@@ -237,43 +237,43 @@
   },
   "#7fa024": {
    "index": "ad",
-   "px": 73441,
+   "px": 73452,
    "direct_frac": 0.65
   },
   "#e37425": {
    "index": "d",
-   "px": 69162,
-   "direct_frac": 0.676
+   "px": 69053,
+   "direct_frac": 0.677
   },
   "#e2763a": {
    "index": "e,d",
-   "px": 1374959,
+   "px": 1375760,
    "direct_frac": 0.261
   },
   "#c63523": {
    "index": "cd",
-   "px": 1188098,
+   "px": 1188309,
    "direct_frac": 0.583
   },
   "#c4342c": {
    "index": "c",
-   "px": 1640558,
+   "px": 1640779,
    "direct_frac": 0.394
   },
   "#de9699": {
    "index": "e",
-   "px": 727493,
+   "px": 727574,
    "direct_frac": 0.561
   },
   "#a65467": {
    "index": "bN2-Q1",
-   "px": 455272,
+   "px": 455410,
    "direct_frac": 0.253
   },
   "#9f949e": {
    "index": "PREQ",
-   "px": 82463,
-   "direct_frac": 0.231
+   "px": 77869,
+   "direct_frac": 0.238
   }
  },
  "confusable_pairs": [

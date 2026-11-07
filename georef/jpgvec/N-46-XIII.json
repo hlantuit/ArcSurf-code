@@ -1,15 +1,15 @@
 {
  "sheet": "N-46-XIII",
  "source": "raster scan",
- "projection": "eqdc",
- "rms_m": 0.1398395883875056,
- "max_res_m": 0.14096536819488392,
- "m_per_px": 16.962402622356723,
+ "projection": "tmerc",
+ "rms_m": 13.71034571951039,
+ "max_res_m": 13.827689435968486,
+ "m_per_px": 16.993178084581768,
  "corner_residuals_m": [
-  0.1,
-  0.1,
-  0.1,
-  0.1
+  13.8,
+  13.8,
+  13.6,
+  13.6
  ],
  "corners": [
   {
@@ -21,81 +21,83 @@
     3808.0,
     850.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    7612.0,
-    850.0
+    7602.0,
+    856.0
    ],
    "snapped": [
-    7612.0,
-    850.0
+    7602.0,
+    856.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    7640.0,
-    5238.0
+    7637.0,
+    5225.0
    ],
    "snapped": [
-    7640.0,
-    5238.0
+    7637.0,
+    5225.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    3774.0,
-    5238.0
+    3778.0,
+    5218.0
    ],
    "snapped": [
-    3774.0,
-    5238.0
+    3778.0,
+    5218.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
- "unassigned_before_fill": 0.246,
- "area_km2": 4820.654083080589,
+ "frame_sag_px": 6.8,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/N-46-XIII/n-46-xiii-sorsk-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federacii-iz_4.jpg N-46-XIII ../sources/legend_N-46-XIII.csv ../work/jpgvec/N-46-XIII.gpkg --datum 4284 --corners '3808,850;7602,856;7637,5225;3778,5218' --mmu 60 --no-snap",
+ "unassigned_before_fill": 0.247,
+ "area_km2": 4827.255858804097,
  "neatline_km2": 4827.44604523461,
- "cover_frac": 0.9985930527052237,
- "n_polygons": 11399,
+ "cover_frac": 0.9999606030955642,
+ "n_polygons": 11401,
  "units": {
   "#fdd386": {
    "index": "d",
-   "px": 629774,
+   "px": 629698,
    "direct_frac": 0.854
   },
   "#fe9464": {
    "index": "e,d",
-   "px": 3583751,
+   "px": 3584352,
    "direct_frac": 0.811
   },
   "#fe7969": {
    "index": "c",
-   "px": 470093,
+   "px": 470097,
    "direct_frac": 0.581
   },
   "#ffa97a": {
    "index": "d,c",
-   "px": 1045817,
+   "px": 1045533,
    "direct_frac": 0.813
   },
   "#fd6f81": {
    "index": "dr",
-   "px": 257760,
-   "direct_frac": 0.754
+   "px": 257085,
+   "direct_frac": 0.756
   },
   "#f4949e": {
    "index": "dr,c",
-   "px": 50971,
-   "direct_frac": 0.661
+   "px": 50993,
+   "direct_frac": 0.66
   },
   "#e0988e": {
    "index": "dr,s",
-   "px": 872782,
+   "px": 871634,
    "direct_frac": 0.806
   },
   "#f9a0cb": {
@@ -105,42 +107,42 @@
   },
   "#fca07f": {
    "index": "d,s",
-   "px": 542614,
+   "px": 541866,
    "direct_frac": 0.761
   },
   "#dfbb93": {
    "index": "d,p",
-   "px": 832841,
-   "direct_frac": 0.868
+   "px": 828585,
+   "direct_frac": 0.869
   },
   "#ccf097": {
    "index": "aH2",
-   "px": 134762,
+   "px": 134809,
    "direct_frac": 0.787
   },
   "#e3f8ab": {
    "index": "aH",
-   "px": 68770,
+   "px": 68773,
    "direct_frac": 0.811
   },
   "#d6d8d8": {
    "index": "l,plH2",
-   "px": 282166,
-   "direct_frac": 0.667
+   "px": 199366,
+   "direct_frac": 0.577
   },
   "#d09b90": {
    "index": "tH2",
-   "px": 326465,
-   "direct_frac": 0.494
+   "px": 323935,
+   "direct_frac": 0.491
   },
   "#dfdf95": {
    "index": "apIII-H",
-   "px": 194466,
+   "px": 194555,
    "direct_frac": 0.81
   },
   "#9fe2f0": {
    "index": "lIII",
-   "px": 562240,
+   "px": 562300,
    "direct_frac": 0.701
   },
   "#b9ea7b": {
@@ -150,37 +152,37 @@
   },
   "#a1dc6a": {
    "index": "a6IIsb",
-   "px": 55526,
+   "px": 55532,
    "direct_frac": 0.733
   },
   "#94d364": {
    "index": "a7I-IItr",
-   "px": 56147,
-   "direct_frac": 0.387
+   "px": 56014,
+   "direct_frac": 0.388
   },
   "#90d265": {
    "index": "aI",
-   "px": 66469,
-   "direct_frac": 0.309
+   "px": 66599,
+   "direct_frac": 0.308
   },
   "#d0d18a": {
    "index": "a,pI",
-   "px": 673494,
+   "px": 672549,
    "direct_frac": 0.523
   },
   "#99dbb9": {
    "index": "laN2-Eks",
-   "px": 832897,
+   "px": 832656,
    "direct_frac": 0.565
   },
   "#c4946f": {
    "index": "dpN2-Eks",
-   "px": 2944677,
+   "px": 2943887,
    "direct_frac": 0.482
   },
   "#ac91ad": {
    "index": "PREQ",
-   "px": 2232824,
+   "px": 2231695,
    "direct_frac": 0.729
   }
  },

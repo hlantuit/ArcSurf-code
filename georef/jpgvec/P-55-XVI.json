@@ -21,7 +21,7 @@
     3806.0,
     838.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -32,7 +32,7 @@
     6833.0,
     838.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -43,7 +43,7 @@
     6867.0,
     5226.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -54,286 +54,148 @@
     3772.0,
     5226.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
- "unassigned_before_fill": 0.104,
- "area_km2": 3847.004171087027,
+ "frame_sag_px": 6.0,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/P-55-XVI/p-55-xvi-istok-r-kolyma-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-fede_0.jpg P-55-XVI ../sources/legend_P-55-XVI.csv ../work/jpgvec/P-55-XVI.gpkg --datum 4284 --corners '3806,838;6833,838;6867,5226;3772,5226' --mmu 60 --no-snap",
+ "unassigned_before_fill": 0.096,
+ "area_km2": 3850.241506700265,
  "neatline_km2": 3850.7353567063747,
- "cover_frac": 0.9990310459500029,
- "n_polygons": 4301,
+ "cover_frac": 0.9998717517667762,
+ "n_polygons": 3395,
  "units": {
-  "#ffa389": {
-   "index": "d,sH",
-   "px": 1714894,
-   "direct_frac": 0.844
+  "#ffa087": {
+   "index": "d,sN2-H",
+   "px": 1725707,
+   "direct_frac": 0.851
   },
-  "#fbface": {
-   "index": "acnH",
-   "px": 1278388,
-   "direct_frac": 0.681
+  "#e198d8": {
+   "index": "eN2-H",
+   "px": 10347,
+   "direct_frac": 0.835
   },
-  "#f6ebb6": {
-   "index": "a,pH",
-   "px": 2067,
-   "direct_frac": 0.248
+  "#f7a3b3": {
+   "index": "e,sN2-H",
+   "px": 152229,
+   "direct_frac": 0.891
   },
-  "#e19bd9": {
-   "index": "eH",
-   "px": 10793,
-   "direct_frac": 0.808
+  "#e19aa7": {
+   "index": "dr,sN2-H",
+   "px": 7898639,
+   "direct_frac": 0.868
   },
-  "#f7a5b4": {
-   "index": "e,sH",
-   "px": 8015712,
-   "direct_frac": 0.849
+  "#fbf9cc": {
+   "index": "agcnH",
+   "px": 1307091,
+   "direct_frac": 0.702
   },
-  "#fab0a0": {
-   "index": "dr,sH",
-   "px": 5869,
-   "direct_frac": 0.576
+  "#a8c6e9": {
+   "index": "lbH2",
+   "px": 73,
+   "direct_frac": 0.137
   },
-  "#b8c2c7": {
+  "#c6c7c7": {
    "index": "tH2",
-   "px": 239889,
-   "direct_frac": 0.495
+   "px": 247934,
+   "direct_frac": 0.509
   },
-  "#f7fbd9": {
-   "index": "ainH2",
-   "px": 17031,
-   "direct_frac": 0.135
+  "#f0f8c3": {
+   "index": "aginH2",
+   "px": 52106,
+   "direct_frac": 0.629
   },
-  "#f1f8c3": {
-   "index": "aprH2",
-   "px": 17709,
-   "direct_frac": 0.855
-  },
-  "#e9f1be": {
+  "#e7f6b7": {
    "index": "a1H1",
-   "px": 66779,
-   "direct_frac": 0.341
+   "px": 228235,
+   "direct_frac": 0.813
   },
-  "#f1d7a6": {
+  "#ebcd92": {
    "index": "d,aIII-H",
-   "px": 1019149,
+   "px": 926261,
+   "direct_frac": 0.822
+  },
+  "#f6dd95": {
+   "index": "a,pIII-H",
+   "px": 121237,
    "direct_frac": 0.788
   },
-  "#e7f0b1": {
-   "index": "aIII",
-   "px": 18309,
-   "direct_frac": 0.375
-  },
-  "#e8f6b6": {
+  "#dff5b6": {
    "index": "a2IIIht",
-   "px": 551464,
-   "direct_frac": 0.768
+   "px": 334839,
+   "direct_frac": 0.77
   },
-  "#ccc190": {
-   "index": "fIIIht",
-   "px": 70546,
-   "direct_frac": 0.349
-  },
-  "#dcac82": {
+  "#d9a980": {
    "index": "gIIIht",
-   "px": 25449,
-   "direct_frac": 0.507
+   "px": 60782,
+   "direct_frac": 0.557
   },
-  "#ccdd98": {
-   "index": "a4IIIjg",
-   "px": 124413,
-   "direct_frac": 0.499
+  "#beb587": {
+   "index": "fIIIht",
+   "px": 61006,
+   "direct_frac": 0.339
   },
-  "#c7966a": {
+  "#cce9af": {
+   "index": "a3IIIjg",
+   "px": 200238,
+   "direct_frac": 0.66
+  },
+  "#bf8b60": {
    "index": "gIIIjg",
-   "px": 125798,
-   "direct_frac": 0.384
+   "px": 52764,
+   "direct_frac": 0.354
   },
-  "#d8f3a5": {
-   "index": "aII",
-   "px": 3429,
-   "direct_frac": 0.862
+  "#cbf1a3": {
+   "index": "a4IIIvc",
+   "px": 16014,
+   "direct_frac": 0.706
   },
-  "#cce89e": {
-   "index": "a6II",
-   "px": 73184,
-   "direct_frac": 0.829
-  },
-  "#c0e086": {
-   "index": "aE-I",
-   "px": 1624,
-   "direct_frac": 0.654
-  },
-  "#b2de86": {
-   "index": "aN2-2",
-   "px": 36595,
-   "direct_frac": 0.795
+  "#add984": {
+   "index": "aN2",
+   "px": 37075,
+   "direct_frac": 0.859
   },
   "#c27bd4": {
    "index": "PREQ",
-   "px": 12577,
-   "direct_frac": 0.607
+   "px": 10768,
+   "direct_frac": 0.697
   }
  },
  "confusable_pairs": [
   [
-   "acnH",
-   "a,pH",
-   7.8
+   "e,sN2-H",
+   "dr,sN2-H",
+   6.8
   ],
   [
-   "acnH",
-   "ainH2",
-   5.4
-  ],
-  [
-   "acnH",
-   "aprH2",
+   "agcnH",
+   "aginH2",
    5.6
   ],
   [
-   "acnH",
+   "aginH2",
    "a1H1",
-   6.3
+   5.8
   ],
   [
-   "a,pH",
-   "aprH2",
+   "aginH2",
+   "a2IIIht",
    7.6
   ],
   [
-   "a,pH",
    "a1H1",
-   7.5
-  ],
-  [
-   "aprH2",
-   "a1H1",
-   2.7
-  ],
-  [
-   "aprH2",
-   "aIII",
-   6.1
-  ],
-  [
-   "aprH2",
    "a2IIIht",
-   6.3
+   2.8
   ],
   [
    "a1H1",
-   "aIII",
-   6.1
-  ],
-  [
-   "a1H1",
-   "a2IIIht",
-   6.9
-  ],
-  [
-   "aIII",
-   "a2IIIht",
-   2.6
-  ],
-  [
-   "aIII",
-   "a3IIIkb",
-   8.0
-  ],
-  [
-   "aIII",
-   "a5IIIvc",
-   7.2
+   "a3IIIjg",
+   7.9
   ],
   [
    "a2IIIht",
-   "a3IIIkb",
-   7.2
-  ],
-  [
-   "a2IIIht",
-   "a5IIIvc",
-   7.2
-  ],
-  [
-   "a3IIIkb",
-   "a5IIIvc",
-   3.9
-  ],
-  [
-   "a3IIIkb",
-   "aII",
-   3.9
-  ],
-  [
-   "a3IIIkb",
-   "a6II",
-   6.7
-  ],
-  [
-   "a4IIIjg",
-   "a5IIIvc",
-   4.9
-  ],
-  [
-   "a4IIIjg",
-   "a6II",
-   5.6
-  ],
-  [
-   "a5IIIvc",
-   "aII",
-   4.5
-  ],
-  [
-   "a5IIIvc",
-   "a6II",
-   4.1
-  ],
-  [
-   "aII",
-   "a6II",
-   4.2
-  ],
-  [
-   "a7E-I",
-   "aE-I",
-   5.4
-  ],
-  [
-   "a7E-I",
-   "a8,9N2-2",
-   4.9
-  ],
-  [
-   "aE-I",
-   "a8,9N2-2",
-   5.9
-  ],
-  [
-   "aE-I",
-   "aN2-2",
-   4.9
-  ],
-  [
-   "a8,9N2-2",
-   "aN2-2",
-   5.1
-  ],
-  [
-   "a8,9N2-2",
-   "a10N2-1",
-   5.9
-  ],
-  [
-   "aN2-2",
-   "a10N2-1",
-   6.4
-  ],
-  [
-   "aN2-1",
-   "a11-13N1-N2",
-   7.8
+   "a3IIIjg",
+   5.7
   ]
  ],
  "overprint": null,

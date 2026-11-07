@@ -97,13 +97,14 @@ A veneer or a stated maximum on a deep profile (marine, fluvial fines, lacustrin
 - **Field capacity and saturated hydraulic conductivity** are rarely published per deposit type. Most templates use the generic 1e-5 m s⁻¹, and field capacities marked (i) are interpretations.
 - **Regional bias.** The till, colluvium and regolith values come from coarse, sandy tills in southern Norway. Fine-grained Arctic lowland tills have no published set.
 - **Salinity** of marine pore water cannot be represented in this CryoGrid class.
-- **Map thickness is rare.** Tier 1 covers 8.5 % of the domain (tier 1a 1.56 %, tier 1b 6.91 %). The Russian sheets, which cover half of the domain, give no thickness in the descriptions we extracted.
+- **Map thickness is rare.** Tier 1 covers 7.7 % of the domain (tier 1a 1.45 %, tier 1b 6.29 %). The Russian sheets, which cover half of the domain, give no thickness in the descriptions we extracted.
 - **Literature values.** The values rest on the published model literature; they are not calibrated against measurements on samples.
 
 ## Licence and citation
 
-- All files: CC BY 4.0. The addendum covers every polygon of the ArcSurf geology (5,465,326 polygons); join its rows to the geology on `asid`.
+- All files: CC BY 4.0. The addendum covers every polygon of the ArcSurf geology (5,505,230 polygons); join its rows to the geology on `asid`.
 - Greenland: the rows of the Greenland polygons are derived from the maps of the Geological Survey of Denmark and Greenland (GEUS): the seamless 1:500 000 geological map of Greenland, version 3.0 (Kokfelt, T. F., et al., GEUS Dataverse, https://doi.org/10.22008/FK2/FWX5ET, 2023), and the 1:100 000 sheets Pannertooq 72 V.2 Syd (https://doi.org/10.22008/FK2/IBHIZL), Nuugaatsiaq 71 V.2 Nord (https://doi.org/10.22008/FK2/PGSMJH) and Maarmorilik 71 V.2 Syd (https://doi.org/10.22008/FK2/07OYKX). The original GEUS datasets remain available from GEUS Dataverse under CC BY-SA 4.0; the GEUS-derived component of ArcSurf is published under CC BY 4.0 with separate permission from GEUS (22 October 2026). Please cite the GEUS datasets when using these rows.
+- Ontario: the rows of the polygons derived from the maps of the Ontario Geological Survey (`src_id` `ca_on_eds014`, `ca_on_fnpmp`): Ontario Geological Survey 2000, Quaternary geology, seamless coverage of the province of Ontario, Data Set 14—Revised, © King's Printer for Ontario, 2000; Ontario Geological Survey 2021, Far North Predictive Mapping, OGSEarth, © King's Printer for Ontario, 2021. The original OGS data sets remain available from the Ontario Geological Survey under the Ontario Ministry of Energy and Mines Terms of Use; the OGS-derived component of ArcSurf is published under CC BY 4.0 with separate permission from the King's Printer for Ontario.
 - Labrador: the rows of the polygons of the 1:50 000 layer of the Newfoundland and Labrador GeoScience Atlas (`src_id` `ca_nl_labrador`) are reproduced with the written permission of the Geological Survey of Newfoundland and Labrador; the conditions of that permission are stated in the metadata of this dataset and must be observed.
 
 When using the addendum, please cite it, the ArcSurf geology and the data paper.

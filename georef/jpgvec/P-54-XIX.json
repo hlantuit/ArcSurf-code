@@ -1,15 +1,15 @@
 {
  "sheet": "P-54-XIX",
  "source": "raster scan",
- "projection": "tmerc",
- "rms_m": 7.2857692942595484,
- "max_res_m": 7.365819002534408,
- "m_per_px": 16.956946215997768,
+ "projection": "tmerc_utm",
+ "rms_m": 2.447189695656673,
+ "max_res_m": 2.473902469404159,
+ "m_per_px": 16.91998300130852,
  "corner_residuals_m": [
-  7.4,
-  7.4,
-  7.2,
-  7.2
+  2.5,
+  2.5,
+  2.4,
+  2.4
  ],
  "corners": [
   {
@@ -21,29 +21,29 @@
     1607.0,
     833.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    4695.0,
+    4703.0,
     833.0
    ],
    "snapped": [
-    4695.0,
+    4703.0,
     833.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    4730.0,
-    5221.0
+    4737.0,
+    5220.0
    ],
    "snapped": [
-    4730.0,
-    5221.0
+    4737.0,
+    5220.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -54,91 +54,88 @@
     1573.0,
     5221.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
- "unassigned_before_fill": 0.229,
- "area_km2": 3931.493067696144,
+ "frame_sag_px": 6.1,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/P-54-XIX/p-54-xix-evkandzhinskiy-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-feder_1.jpg P-54-XIX ../sources/legend_P-54-XIX.csv ../work/jpgvec/P-54-XIX.gpkg --datum 4284 --corners '1607,833;4703,833;4737,5220;1573,5221' --mmu 60 --no-snap",
+ "unassigned_before_fill": 0.106,
+ "area_km2": 3935.1098159333815,
  "neatline_km2": 3935.4340496080845,
- "cover_frac": 0.9989985902794298,
- "n_polygons": 4286,
+ "cover_frac": 0.9999176117117919,
+ "n_polygons": 9091,
  "units": {
-  "#f29a7b": {
+  "#e9ab84": {
+   "index": "ed",
+   "px": 530258,
+   "direct_frac": 0.809
+  },
+  "#e2907a": {
    "index": "c",
-   "px": 10004969,
-   "direct_frac": 0.777
+   "px": 6232521,
+   "direct_frac": 0.874
   },
-  "#ffb39b": {
+  "#e4997c": {
+   "index": "cd",
+   "px": 3194439,
+   "direct_frac": 0.896
+  },
+  "#e69f8d": {
    "index": "ds",
-   "px": 404651,
-   "direct_frac": 0.789
+   "px": 639214,
+   "direct_frac": 0.658
   },
-  "#fbface": {
+  "#e0eab5": {
    "index": "aH",
-   "px": 445,
-   "direct_frac": 0.013
+   "px": 538488,
+   "direct_frac": 0.786
   },
-  "#f8e6ba": {
+  "#efd69e": {
    "index": "pH",
-   "px": 98786,
-   "direct_frac": 0.782
+   "px": 107916,
+   "direct_frac": 0.84
   },
-  "#eab68a": {
-   "index": "gIII4",
-   "px": 1595190,
-   "direct_frac": 0.548
+  "#d3a584": {
+   "index": "gIII",
+   "px": 1114763,
+   "direct_frac": 0.654
   },
-  "#e8f6b7": {
-   "index": "aIII4",
-   "px": 594996,
-   "direct_frac": 0.722
+  "#bcc888": {
+   "index": "fIII",
+   "px": 379018,
+   "direct_frac": 0.701
   },
-  "#e4a774": {
-   "index": "gIII2",
-   "px": 625655,
-   "direct_frac": 0.624
+  "#cc9775": {
+   "index": "gII?",
+   "px": 697814,
+   "direct_frac": 0.727
   },
-  "#cbd782": {
-   "index": "fIII2",
-   "px": 306763,
-   "direct_frac": 0.647
-  },
-  "#e8c57d": {
-   "index": "a,gIII1-2",
-   "px": 18219,
-   "direct_frac": 0.687
-  },
-  "#dc9358": {
-   "index": "gII",
-   "px": 45017,
-   "direct_frac": 0.737
-  },
-  "#c27bd4": {
+  "#997cb6": {
    "index": "PREQ",
-   "px": 6839,
-   "direct_frac": 0.016
+   "px": 311336,
+   "direct_frac": 0.59
   }
  },
  "confusable_pairs": [
   [
-   "ed",
-   "gIII4",
-   7.7
+   "c",
+   "cd",
+   4.9
   ],
   [
    "c",
+   "ds",
+   7.7
+  ],
+  [
    "cd",
-   7.1
+   "ds",
+   6.9
   ],
   [
-   "gIII4",
-   "gIII2",
-   7.9
-  ],
-  [
-   "aIII3",
-   "aIII1",
-   5.3
+   "gIII",
+   "gII?",
+   5.8
   ]
  ],
  "overprint": null,

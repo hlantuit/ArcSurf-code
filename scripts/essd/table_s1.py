@@ -41,7 +41,7 @@ readme = pd.DataFrame({'Column': list(t.columns), 'Content': [
     'Full reference of the individual sheet, where the sheet was published on its own',
     'In-text citation of the source dataset',
     'Full reference of the source dataset']})
-with pd.ExcelWriter(OUT + '.xlsx') as w:
+with pd.ExcelWriter(OUT + '.xlsx', engine='openpyxl') as w:   # pandas 3 picks xlsxwriter, which has no book.properties
     pd.DataFrame({'Table S1': ['Source sheets of ArcSurf version 1.0: every map sheet, tile or map that contributes polygons '
                                'to the map, with its scale, publication year, licence and area.',
                                f'{len(t):,} sheets of {t["Source ID"].nunique()} source datasets.']}).to_excel(

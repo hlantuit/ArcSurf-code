@@ -2,14 +2,14 @@
  "sheet": "P-55-XII",
  "source": "raster scan",
  "projection": "eqdc",
- "rms_m": 0.3989486208290059,
- "max_res_m": 0.4034650832909392,
- "m_per_px": 16.97011614943519,
+ "rms_m": 1.1697525602844632,
+ "max_res_m": 1.1829600488490541,
+ "m_per_px": 16.92477765644046,
  "corner_residuals_m": [
-  0.4,
-  0.4,
-  0.4,
-  0.4
+  1.2,
+  1.2,
+  1.2,
+  1.2
  ],
  "corners": [
   {
@@ -21,29 +21,29 @@
     530.0,
     837.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    3482.0,
+    3490.0,
     837.0
    ],
    "snapped": [
-    3482.0,
+    3490.0,
     837.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    3516.0,
+    3524.0,
     5225.0
    ],
    "snapped": [
-    3516.0,
+    3524.0,
     5225.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -54,18 +54,20 @@
     496.0,
     5225.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
- "unassigned_before_fill": 0.085,
- "area_km2": 3761.8925297717506,
+ "frame_sag_px": 5.9,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/P-55-XII/p-55-xii-shturmovoy-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federacii_1.jpg P-55-XII ../sources/legend_P-55-XII.csv ../work/jpgvec/P-55-XII.gpkg --datum 4284 --corners '530,837;3490,837;3524,5225;496,5225' --mmu 60 --no-snap",
+ "unassigned_before_fill": 0.084,
+ "area_km2": 3765.079016244659,
  "neatline_km2": 3765.4868844216962,
- "cover_frac": 0.999045447571517,
- "n_polygons": 6707,
+ "cover_frac": 0.9998916824863407,
+ "n_polygons": 6731,
  "units": {
   "#ffa389": {
    "index": "d,sH",
-   "px": 173214,
+   "px": 173640,
    "direct_frac": 0.625
   },
   "#f6ebb6": {
@@ -75,23 +77,23 @@
   },
   "#e19bd9": {
    "index": "eH",
-   "px": 32730,
+   "px": 32731,
    "direct_frac": 0.741
   },
   "#f7a5b4": {
    "index": "e,sH",
-   "px": 6345326,
+   "px": 6363613,
    "direct_frac": 0.859
   },
   "#fab0a0": {
    "index": "dr,sH",
-   "px": 2724796,
+   "px": 2737888,
    "direct_frac": 0.842
   },
   "#b8c2c7": {
    "index": "tH2",
-   "px": 195238,
-   "direct_frac": 0.511
+   "px": 196246,
+   "direct_frac": 0.512
   },
   "#f7fbd9": {
    "index": "ainH2",
@@ -100,47 +102,47 @@
   },
   "#f1f8c3": {
    "index": "aprH2",
-   "px": 43283,
-   "direct_frac": 0.743
+   "px": 43834,
+   "direct_frac": 0.744
   },
   "#e9f1be": {
    "index": "a1H1",
-   "px": 127029,
-   "direct_frac": 0.485
+   "px": 127627,
+   "direct_frac": 0.486
   },
   "#f1d7a6": {
    "index": "d,aIII-H",
-   "px": 625788,
+   "px": 628012,
    "direct_frac": 0.836
   },
   "#e7f0b1": {
    "index": "aIII",
-   "px": 374772,
+   "px": 375351,
    "direct_frac": 0.448
   },
   "#e8f6b6": {
    "index": "a2IIIht",
-   "px": 600666,
+   "px": 604742,
    "direct_frac": 0.745
   },
   "#ccc190": {
    "index": "fIIIht",
-   "px": 99042,
-   "direct_frac": 0.416
+   "px": 99419,
+   "direct_frac": 0.417
   },
   "#dcac82": {
    "index": "gIIIht",
-   "px": 539892,
+   "px": 540504,
    "direct_frac": 0.787
   },
   "#ccdd98": {
    "index": "a4IIIjg",
-   "px": 121715,
+   "px": 122322,
    "direct_frac": 0.557
   },
   "#c7966a": {
    "index": "gIIIjg",
-   "px": 63109,
+   "px": 63180,
    "direct_frac": 0.181
   },
   "#d8eaa0": {
@@ -150,33 +152,33 @@
   },
   "#d8f3a5": {
    "index": "aII",
-   "px": 289651,
-   "direct_frac": 0.826
+   "px": 290031,
+   "direct_frac": 0.825
   },
   "#cce89e": {
    "index": "a6II",
-   "px": 230307,
-   "direct_frac": 0.688
+   "px": 233333,
+   "direct_frac": 0.689
   },
   "#c0e086": {
    "index": "aE-I",
-   "px": 17222,
+   "px": 17231,
    "direct_frac": 0.652
   },
   "#beeb8d": {
    "index": "a8,9N2-2",
-   "px": 210011,
+   "px": 210108,
    "direct_frac": 0.804
   },
   "#b2de86": {
    "index": "aN2-2",
-   "px": 13666,
+   "px": 13855,
    "direct_frac": 0.445
   },
   "#8dda6b": {
    "index": "aN2-1",
-   "px": 9661,
-   "direct_frac": 0.743
+   "px": 9775,
+   "direct_frac": 0.739
   },
   "#81c966": {
    "index": "a11-13N1-N2",

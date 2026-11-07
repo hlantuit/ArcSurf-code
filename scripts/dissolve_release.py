@@ -14,6 +14,9 @@ asid of the polygon it belongs to.
                                holds its representative point
   pass 2 (whole domain)        patches within EDGE of their tile's edge are joined to patches of OTHER tiles with the
                                same KEY within TOL -> components -> union -> final polygons
+  closing (both passes)        parts of one union that still run along each other within TOL for more than CONTACT
+                               (a micro-gap: the boundaries touch only at points) are joined one way, the smaller part
+                               snapped onto the larger one's vertices (merge 48 left 76,433 such pairs; see _close)
   ids                          final polygons sorted by the tile that holds their representative point, then y
                                descending, then x -> asid 1..N (the same input gives the same ids)
 
@@ -60,6 +63,8 @@ INTS = ('scale_den', 'pub_year', 'ice_year')
 TOL = 0.01       # m: contact tolerance and snap-rounding grid (the merge's own GRID_M)
 EDGE = 1.0       # m: a patch this close to its tile's edge may continue in the next tile
 SNAP_MAX = 5e9   # vertex pairs a group's snap may compare (GEOS snap is all-pairs); beyond: the 1 cm grid union
+CONTACT = 1.0    # m: parts of one union that run along each other within TOL for longer than this are joined (the
+                 # release check, dissolve_check.py, counts the pairs over 1 m)
 TILE = 100_000
 NA = '\x00'      # missing value inside the key (distinct from '')
 A = argparse.Namespace()
@@ -167,6 +172,112 @@ def _snap_to_neighbours(geoms, nbr):
     return out
 
 
+def _contact(a, b):
+    """length (m) along which b's boundary runs within TOL of a's (as dissolve_check._contact): both boundaries are
+    clipped to the pair's common box grown by TOL + 1 m before the buffer"""
+    ax0, ay0, ax1, ay1 = a.bounds
+    bx0, by0, bx1, by1 = b.bounds
+    box = (max(ax0, bx0) - TOL - 1.0, max(ay0, by0) - TOL - 1.0, min(ax1, bx1) + TOL + 1.0, min(ay1, by1) + TOL + 1.0)
+    try:
+        ca = shapely.clip_by_rect(shapely.boundary(a), *box)
+        cb = shapely.clip_by_rect(shapely.boundary(b), *box)
+        return float(shapely.length(shapely.intersection(cb, shapely.buffer(ca, TOL))))
+    except shapely.errors.GEOSException:          # unknown: offer the join, which keeps only one valid polygon
+        return float('inf')
+
+
+def _snap_onto(p, u, tol):
+    """p with its vertices snapped onto u's vertices within tol (and those vertices inserted into its segments). The
+    reference is u's boundary near p only: GEOS snap compares every vertex pair, and u can hold a million vertices"""
+    x0, y0, x1, y1 = p.bounds
+    r = 2 * tol
+    ref = shapely.get_coordinates(shapely.clip_by_rect(shapely.boundary(u), x0 - r, y0 - r, x1 + r, y1 + r))
+    return shapely.snap(p, shapely.multipoints(ref), tol) if len(ref) else p
+
+
+def _snap_near(u, p, tol):
+    """the reverse of _snap_onto: u snapped onto p's vertices within tol (inserted into u's segments, u's vertices moved
+    onto them). Needed where p's vertices lie within tol of u's SEGMENTS but of none of u's vertices (merge 48 test:
+    small quadrilaterals 1-9 m wide along long edges), which a snap of p onto u cannot close. Only p's vertices within
+    2 tol of u are offered"""
+    xy = shapely.get_coordinates(p)
+    bd = shapely.boundary(u)
+    shapely.prepare(bd)
+    near = shapely.dwithin(bd, shapely.points(xy), 2 * tol)
+    return shapely.snap(u, shapely.multipoints(xy[near]), tol) if near.any() else u
+
+
+def _close(parts):
+    """Parts of one union that still run along each other within TOL for more than CONTACT are joined. Their
+    boundaries touch only at points (relate FF2F01212) and are otherwise apart by a micro-gap of < 1 cm: the coverage
+    union keeps them apart, and so can the snap to neighbours (each side snapped to the OTHER side's original vertices,
+    so the two can miss each other again). Merge 48 left 76,433 such pairs (96 % with a sliver of <= 6 vertices; the
+    longest 25.8 km). A one-way snap closes them: the smaller part is snapped onto the vertices of the growing union
+    (TOL, then 2 TOL), so the larger part keeps its boundary, and the two are unioned. A join is kept only as one valid
+    polygon with their area. On 52 sampled pairs of merge 48, 1 cm closed 51 and 2 cm all, with area changes of at most
+    0.05 m2; the 1 cm grid union closed 58 % and changed the area by up to 144 m2. Where that fails (the smaller part's
+    vertices lie on the union's segments, not near its vertices), the union is snapped onto the part's vertices instead
+    (_snap_near; moves union vertices by <= 2 TOL, so the area may change by up to 2 m2 or 1e-7 of it). Parts are
+    visited from the largest along the contacts, so each one is offered to a union it touches.
+    Returns (parts, joined, left): left = parts with a long contact that would not join"""
+    if len(parts) < 2:
+        return parts, 0, 0
+    g = np.asarray(parts, dtype=object)
+    x0, y0, x1, y1 = shapely.bounds(g).T
+    a, b = shapely.STRtree(g).query(shapely.box(x0 - TOL, y0 - TOL, x1 + TOL, y1 + TOL))
+    m = a < b
+    a, b = a[m], b[m]
+    if len(a):
+        m = shapely.dwithin(g[a], g[b], TOL)
+        a, b = a[m], b[m]
+    if len(a):
+        m = np.array([_contact(g[i], g[j]) > CONTACT for i, j in zip(a, b)], dtype=bool)
+        a, b = a[m], b[m]
+    if not len(a):
+        return parts, 0, 0
+    nc, lab = _components(a, b, len(g))
+    adj = [[] for _ in range(len(g))]
+    for i, j in zip(a.tolist(), b.tolist()):
+        adj[i].append(j)
+        adj[j].append(i)
+    area = shapely.area(g)
+    out, joined, left = [], 0, 0
+    for c in range(nc):
+        mem = np.flatnonzero(lab == c)
+        if len(mem) == 1:
+            out.append(g[mem[0]])
+            continue
+        start = int(mem[np.lexsort((mem, -area[mem]))[0]])     # the largest part (ties: the first)
+        order, seen, k = [start], {start}, 0
+        while k < len(order):                                  # breadth first along the contacts, larger first
+            for j in sorted(adj[order[k]], key=lambda t: (-area[t], t)):
+                if j not in seen:
+                    seen.add(j)
+                    order.append(j)
+            k += 1
+        u, rest = g[start], []
+        for j in order[1:]:
+            p, ok = g[j], False
+            tot = u.area + p.area
+            for tol, fwd in ((TOL, True), (2 * TOL, True), (TOL, False), (2 * TOL, False)):
+                try:
+                    v = _polys(shapely.union(u, _snap_onto(p, u, tol)) if fwd else
+                               shapely.union(_snap_near(u, p, tol), p))
+                except shapely.errors.GEOSException:
+                    continue
+                if len(v) == 1 and (_area_ok(v, tot) if fwd else
+                                    v[0].is_valid and abs(v[0].area - tot) <= max(2.0, 1e-7 * tot)):
+                    u, ok = v[0], True
+                    break
+            joined += ok
+            if not ok:
+                rest.append(p)
+        out.append(u)
+        out.extend(rest)
+        left += len(rest)
+    return out, joined, left
+
+
 def _union(geoms, nbr):
     """Exact first, so that a merged polygon keeps its boundary vertices and still fits its unmerged neighbours:
     ('cov', parts)    the pieces form a valid coverage (shared edges match vertex for vertex): coverage union
@@ -175,20 +286,22 @@ def _union(geoms, nbr):
                       at points or across micro-gaps; telling the two apart pair by pair (snap + relate on large
                       polygons) cost up to 15 min per tile, so a multi-part result goes to the next step.
     ('snapto', parts) every piece snapped to its neighbours, then the float union; any number of parts is accepted
-                      (what still stands apart met only at points, as in any single-part dissolve)
-    ('snap', parts)   1 cm snap-rounded union (moves the merged polygon's vertices by < 1 cm)
-    ('keep', geoms)   last resort: nothing merges cleanly, the pieces stay as they are (no area is lost)"""
+                      once _close has joined the parts that still run along each other (micro-gaps); the rest met
+                      only at points, as in any single-part dissolve
+    ('snap', parts)   1 cm snap-rounded union (moves the merged polygon's vertices by < 1 cm), then _close
+    ('keep', geoms)   last resort: nothing merges cleanly, the pieces stay as they are (no area is lost), then _close
+    Returns (mode, parts, joined, left), joined / left as from _close."""
     geoms = np.asarray(geoms, dtype=object)
     total = float(shapely.area(geoms).sum())
     try:
         if shapely.coverage_is_valid(geoms):
             parts = _polys(shapely.coverage_union_all(geoms))
             if len(parts) == 1 and _area_ok(parts, total):
-                return 'cov', parts
+                return 'cov', parts, 0, 0
         else:
             parts = _polys(shapely.union_all(geoms))
             if len(parts) == 1 and _area_ok(parts, total):
-                return 'float', parts
+                return 'float', parts, 0, 0
     except shapely.errors.GEOSException:
         pass
     try:
@@ -196,7 +309,7 @@ def _union(geoms, nbr):
         if snapped is not None:
             parts = _polys(shapely.union_all(snapped))
             if _area_ok(parts, total):
-                return 'snapto', parts
+                return ('snapto',) + _close(parts)
     except shapely.errors.GEOSException:
         pass
     try:
@@ -208,8 +321,8 @@ def _union(geoms, nbr):
     # union fails (merge 44: groups of mm-thin slivers in British Columbia collapsed to nothing), keep the pieces
     if parts and all(p.is_valid for p in parts) and \
             abs(sum(p.area for p in parts) - total) <= max(100.0, 1e-6 * total):
-        return 'snap', parts
-    return 'keep', list(geoms)
+        return ('snap',) + _close(parts)
+    return ('keep',) + _close(list(geoms))
 
 
 def _assign(members, parts):
@@ -321,13 +434,15 @@ def pass1(f):
         worst = 0.0
         groups = _groups(lab, nc)
         nbrs = _neighbours(a, b, n, groups)
-        nfloat = nsnapto = nsnap = nkeep = 0
+        nfloat = nsnapto = nsnap = nkeep = njoin = nleft = 0
         for mem, nbr in zip(groups, nbrs):
-            mode, parts = _union(geoms[mem], nbr)
+            mode, parts, nj, nl = _union(geoms[mem], nbr)
             nfloat += mode == 'float'
             nsnapto += mode == 'snapto'
             nsnap += mode == 'snap'
             nkeep += mode == 'keep'
+            njoin += nj
+            nleft += nl
             idx = _assign(geoms[mem], parts)
             piece_patch[mem] = len(pg) + idx
             d = abs(sum(p.area for p in parts) - float(shapely.area(geoms[mem]).sum()))
@@ -369,7 +484,7 @@ def pass1(f):
         os.replace(tmp, outp)
         area_out = float(p['area_km2'].sum() * 1e6)
         return tid, (f'ok\t{n}\t{npatch}\t{len(groups)}\t{nfloat}\t{nsnapto}\t{nsnap}\t{int(orphan.sum())}\t{int(p["edge"].sum())}\t'
-                     f'{area_in:.1f}\t{area_out:.1f}\t{worst:.3f}\t{time.time() - t0:.1f}\t{nkeep}')
+                     f'{area_in:.1f}\t{area_out:.1f}\t{worst:.3f}\t{time.time() - t0:.1f}\t{nkeep}\t{njoin}\t{nleft}')
     except Exception:
         return tid, 'ERROR\t' + traceback.format_exc().replace('\n', ' | ')[-800:]
 
@@ -378,13 +493,13 @@ def pass1(f):
 def _union_job(job):
     cid, wkbs, nbr = job
     geoms = shapely.from_wkb(wkbs)
-    mode, parts = _union(geoms, nbr)
+    mode, parts, nj, nl = _union(geoms, nbr)
     idx = _assign(geoms, parts)
     rep = _rep_members(geoms, parts, idx)
     rp = shapely.point_on_surface(np.asarray(parts, dtype=object))
     d = abs(sum(p.area for p in parts) - float(shapely.area(geoms).sum()))
     return (cid, shapely.to_wkb(np.asarray(parts, dtype=object)), idx, shapely.get_x(rp), shapely.get_y(rp), d, mode,
-            rep)
+            rep, nj, nl)
 
 
 def _p1_files():
@@ -425,15 +540,17 @@ def pass2():
     wk = E['geometry'].to_numpy()
     res = {}
     worst = (0.0, -1)
-    nfloat = nsnapto = nsnap = nkeep = 0
+    nfloat = nsnapto = nsnap = nkeep = njoin = nleft = 0
     with Pool(A.workers) as pool:
-        for k, (cid, pw, idx, rx, ry, d, mode, rep) in enumerate(
+        for k, (cid, pw, idx, rx, ry, d, mode, rep, nj, nl) in enumerate(
                 pool.imap_unordered(_union_job, ((i, list(wk[groups[i]]), nbrs[i]) for i in jobs), chunksize=1)):
             res[cid] = (pw, idx, rx, ry, rep)
             nfloat += mode == 'float'
             nsnapto += mode == 'snapto'
             nsnap += mode == 'snap'
             nkeep += mode == 'keep'
+            njoin += nj
+            nleft += nl
             if d > worst[0]:
                 worst = (d, cid)
             if k % 20000 == 0:
@@ -549,12 +666,19 @@ def pass2():
     pq.write_table(PT, f'{A.out}/piece_asid.parquet')
     area_p1 = float(meta['area_km2'].sum())
     n_used = len(np.unique(PT.column('asid').to_numpy()))
+    p1c, tids = {}, {os.path.basename(f)[:-8] for f in files}     # pass-1 joins: the last 'ok' line of each tile
+    for line in open(f'{A.out}/report_p1.tsv', errors='replace'):
+        f = line.rstrip('\n').split('\t')
+        if len(f) >= 17 and f[1] == 'ok' and f[0] in tids:
+            p1c[f[0]] = (int(f[15]), int(f[16]))
     lines = [f'tiles {len(files)}', f'pieces {PT.num_rows:,}', f'pass-1 patches {len(meta):,}',
              f'final polygons {n_written:,} (asid 1..{len(F):,})',
              f'polygons holding at least one piece {n_used:,} (the rest are parts split off by the 1 cm snap)',
              f'cross-tile components {len(groups):,}; largest {max((len(g) for g in groups), default=0)} patches; '
              f'unions: {len(groups) - nfloat - nsnapto - nsnap:,} coverage, {nfloat:,} floating-point, '
              f'{nsnapto:,} snapped to the group, {nsnap:,} 1 cm snap-rounded, {nkeep:,} kept as pieces',
+             f'micro-gap joins (_close): pass 1 {sum(v[0] for v in p1c.values()):,} joined, '
+             f'{sum(v[1] for v in p1c.values()):,} left apart; pass 2 {njoin:,} joined, {nleft:,} left apart',
              f'area pass-1 {area_p1:,.3f} km2, final {area_final:,.3f} km2, '
              f'difference {area_final - area_p1:+.6f} km2',
              f'worst union area change {worst[0]:.3f} m2 (component {worst[1]})',

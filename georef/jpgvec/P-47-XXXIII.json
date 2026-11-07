@@ -1,15 +1,15 @@
 {
  "sheet": "P-47-XXXIII",
  "source": "raster scan",
- "projection": "tmerc",
- "rms_m": 2.5793090456603256,
- "max_res_m": 2.6057128972424835,
- "m_per_px": 16.960582995709668,
+ "projection": "tmerc_utm",
+ "rms_m": 10.032835127143027,
+ "max_res_m": 10.139167670754526,
+ "m_per_px": 16.926921981706048,
  "corner_residuals_m": [
-  2.6,
-  2.6,
-  2.6,
-  2.6
+  10.1,
+  10.1,
+  9.9,
+  9.9
  ],
  "corners": [
   {
@@ -21,29 +21,29 @@
     3298.0,
     818.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    6520.0,
-    818.0
+    6526.0,
+    820.0
    ],
    "snapped": [
-    6520.0,
-    818.0
+    6526.0,
+    820.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    6553.0,
+    6560.0,
     5206.0
    ],
    "snapped": [
-    6553.0,
+    6560.0,
     5206.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -54,78 +54,80 @@
     3264.0,
     5206.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
+ "frame_sag_px": 6.2,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/P-47-XXXIII/p-47-xxxiii-osharovo-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federaci_0.jpg P-47-XXXIII ../sources/legend_P-47-XXXIII.csv ../work/jpgvec/P-47-XXXIII.gpkg --datum 4284 --corners '3298,818;6526,820;6560,5206;3264,5206' --mmu 60 --no-snap",
  "unassigned_before_fill": 0.07,
- "area_km2": 4099.190762751565,
+ "area_km2": 4103.029312729315,
  "neatline_km2": 4103.134526284035,
- "cover_frac": 0.9990388412792203,
- "n_polygons": 6107,
+ "cover_frac": 0.999974357761354,
+ "n_polygons": 6126,
  "units": {
   "#b684b5": {
    "index": "e",
-   "px": 95280,
+   "px": 95392,
    "direct_frac": 0.892
   },
   "#db836d": {
    "index": "c",
-   "px": 392571,
+   "px": 393520,
    "direct_frac": 0.756
   },
   "#d2869d": {
    "index": "dr",
-   "px": 2781674,
+   "px": 2786560,
    "direct_frac": 0.873
   },
   "#d3808a": {
    "index": "dr,s",
-   "px": 4553492,
+   "px": 4565942,
    "direct_frac": 0.849
   },
   "#dd8481": {
    "index": "s",
-   "px": 4513579,
+   "px": 4529013,
    "direct_frac": 0.934
   },
   "#a7a479": {
    "index": "pl",
-   "px": 115773,
-   "direct_frac": 0.562
+   "px": 116316,
+   "direct_frac": 0.565
   },
   "#d2df99": {
    "index": "aH",
-   "px": 812131,
-   "direct_frac": 0.818
+   "px": 813570,
+   "direct_frac": 0.819
   },
   "#c7d99b": {
    "index": "a1IIIsr-H",
-   "px": 444795,
+   "px": 444914,
    "direct_frac": 0.601
   },
   "#bed48b": {
    "index": "a2IIIkr-sr",
-   "px": 58023,
-   "direct_frac": 0.754
+   "px": 58437,
+   "direct_frac": 0.755
   },
   "#b3cf7b": {
    "index": "a3IIIkz-mr",
-   "px": 48105,
+   "px": 48327,
    "direct_frac": 0.834
   },
   "#7dba9b": {
    "index": "a,l4IIsr-tz",
-   "px": 32924,
-   "direct_frac": 0.638
+   "px": 33936,
+   "direct_frac": 0.642
   },
   "#7cb991": {
    "index": "a,l5IItb-sm",
-   "px": 24425,
-   "direct_frac": 0.844
+   "px": 24730,
+   "direct_frac": 0.845
   },
   "#76bbe5": {
    "index": "l6IIlb",
-   "px": 404062,
+   "px": 405264,
    "direct_frac": 0.876
   },
   "#9a7eb1": {

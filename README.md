@@ -27,7 +27,7 @@ With these files and the published source maps (Appendix A of the paper; `source
 7. **Addendum:** polygon context and CryoGrid stratigraphies.
 8. **Exports:** the release (`export_release.py`, `export_addendum_release.py`), split into one GeoPackage per geometry for the repository (`split_release_by_geometry.py`); statistics and figures of the paper.
 
-The scripts were run on the Albedo high-performance computer of the Alfred Wegener Institute (SLURM wrappers `run_py.sh`, `run_dissolve.sh`, `run_merge46.sh`); paths in the scripts point to its file system. Python 3.11 with GeoPandas 1.1, Shapely 2.1 (GEOS 3.14.1), pyogrio 0.12, pandas 3.0, NumPy 2.4, SciPy 1.17, PyMuPDF and Pillow.
+The scripts were run on the Albedo high-performance computer of the Alfred Wegener Institute (SLURM wrappers `run_py.sh`, `run_dissolve.sh`, `run_merge49.sh`); paths in the scripts point to its file system. Python 3.11 with GeoPandas 1.1, Shapely 2.1 (GEOS 3.14.1), pyogrio 0.12, pandas 3.0, NumPy 2.4, SciPy 1.17, PyMuPDF and Pillow.
 
 ## Licence
 

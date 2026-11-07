@@ -1,0 +1,38 @@
+k,fill,index,description_ru,hclass,hclass2,texture,ice_rich,note
+0,#c8719e,e,Элювиальные отложения,W,,bouldery,,"GGK-1000 R-(60)-2 (o. Vrangelya), ""Karta chetvertichnykh obrazovaniy"" (Gosgeolkarta RF, VSEGEI new series; print year not on the preview), geokniga record 43534; RASTER = 2000x1483 px PREVIEW (~0.29 km/px), downloaded 2026-09-30, internal_only (""for familiarisation only""). NO LEGEND ON THE PREVIEW: indices read from the map labels at 4x (e, ec, dc, ds, LaIII, aIV, mIV on Wrangel Island), descriptions reconstructed from the VSEGEI genetic letters, hclass / texture as on the 3rd-generation R-1,2 sheet (legend_R-1-2_pq.csv) for the same indices; tints = flat-pixel k-means centres over the island identified by the labels (work/pv_wr/tints_wr.py). The face spans 177E-168W, 68-72N; SHIPPED: the R-(60) part 177-180E x 68-72N, which the 3rd-generation R-1,2 sheet does not cover (its face starts at 180 deg): the west end of Wrangel Island and the Chukotka mainland strip (H.L. 2026-11-06: ""Extract it now""). Mainland units read the same way (gIII1/gIII2, fIII1/fIII2, aIII1-2, mIII, aIV labels); the light-green strips carry both fIII and aIII labels and form one unit fIII,aIII (GF/F, as shared-colour groups on other preview sheets); dark-violet patches in cirques (no legend) are filled from their neighbours, as on Q-58,59. Frame: 4 corners on the inner face line read at 16x (--no-snap) + 26 graticule crossings (meridians every 1 deg, parallels every 40'; rows 68 40' to 71 20'; every crossing whose darkness profiles have prominence >= 3, work/pv_wr/ties_wr.py); --proj eqdc 47/62 lon_0 184.5 (sheet-local cones leave 9-11 px at the corners against 4-5 px); affine 717 m rms over corners + ties (page distortion), the spline passes through all 30 points. Checks against the independent 3rd-generation R-1-2_pq east of 180 deg: Wrangel Island 76.8 % primary hclass agreement (kappa 0.63), 86.4 % primary-or-secondary over 5,271 km2; Chukotka mainland 68.1 % (kappa 0.57), 76.0 % over 8,239 km2 (dc 80 %, mIII 88 %, aIV 85 %, ds 76 %, fIII 60 %; the e / ec blobs (W) 36-39 %: the 3rd generation maps many of them as slope deposits). OSM coast: island median 515 m (west end) / 636 m, R-1-2_pq 695 m; mainland 709 m west / 695 m east of 180 deg, R-1-2_pq 461 m; west of 180 deg the mainland coast lies ~1.9 km north of OSM although the graticule there is pinned by ties (the sheet's own coast drawing, cf. the plate misregistration on Q-58,59). Shipped with --clip-lonlat 177,68,180,72 (work/pv_wr/run_wr.sh): 51,102 km2 box, 1,659 polygons, 12 units; the island part was shipped alone first (work/pv_wr/island_v1_*)."
+1,#c3708e,e,Элювиальные отложения,W,,bouldery,,small purple blobs: tints mixed with the surrounding dc by the JPEG
+2,#ef7a71,ec,Элювиально-коллювиальные отложения,W,C,bouldery,,
+3,#fb9c73,dc,Делювиально-коллювиальные отложения,C,,bouldery,,four seeds (print and JPEG drift)
+4,#f8a477,dc,Делювиально-коллювиальные отложения,C,,bouldery,,
+5,#fb956e,dc,Делювиально-коллювиальные отложения,C,,bouldery,,
+6,#f6aa7e,dc,Делювиально-коллювиальные отложения,C,,bouldery,,
+7,#f97965,ds,Делювиально-солифлюкционные отложения,C,,mixed,,
+8,#99edcc,laIII,"Озерно-аллювиальные отложения, верхнее звено",L,F,gravel,,"Tundra Akademii lowland (N) and the S coast plain; hatched print, four seeds"
+9,#9deed3,laIII,"Озерно-аллювиальные отложения, верхнее звено",L,F,gravel,,
+10,#97e1c7,laIII,"Озерно-аллювиальные отложения, верхнее звено",L,F,gravel,,
+11,#92dab9,laIII,"Озерно-аллювиальные отложения, верхнее звено",L,F,gravel,,
+12,#d9f5b8,aIV,Аллювиальные отложения (голоцен),F,,gravel,,narrow valley strips
+13,#bde0d8,mIV,Морские отложения (голоцен),M,,sand,,"spits, bars and coastal lowlands"
+14,#c1fcfb,s:mIV,Морские отложения шельфа (голоцен),M,,fines,,"sea floor (shelf, offshore; the merge clips to land), as the offshore units of R-1,2"
+15,#b6fafc,s:mIV,Морские отложения шельфа (голоцен),M,,fines,,
+16,#c9fafc,s:mIV,Морские отложения шельфа (голоцен),M,,fines,,
+17,#d276a0,e,Элювиальные отложения,W,,bouldery,,mainland seed
+18,#cd748c,e,Элювиальные отложения,W,,bouldery,,mainland seed
+19,#f8747b,ec,Элювиально-коллювиальные отложения,W,C,bouldery,,mainland seed
+20,#f2817e,ec,Элювиально-коллювиальные отложения,W,C,bouldery,,mainland seed
+21,#fb9e78,dc,Делювиально-коллювиальные отложения,C,,bouldery,,mainland seed
+22,#fbab7a,dc,Делювиально-коллювиальные отложения,C,,bouldery,,mainland seed
+23,#f8a57e,dc,Делювиально-коллювиальные отложения,C,,bouldery,,mainland seed
+24,#f89272,dc,Делювиально-коллювиальные отложения,C,,bouldery,,mainland seed
+25,#f78065,ds,Делювиально-солифлюкционные отложения,C,,mixed,,mainland seed
+26,#f97866,ds,Делювиально-солифлюкционные отложения,C,,mixed,,mainland seed
+27,#e47a65,ds,Делювиально-солифлюкционные отложения,C,,mixed,,mainland seed
+28,#9ddfbb,laIII,"Озерно-аллювиальные отложения, верхнее звено",L,F,gravel,,mainland seed
+29,#f3eebf,aIV,Аллювиальные отложения (голоцен),F,,gravel,,mainland seed
+30,#a1b7be,mIII,"Морские отложения, верхнее звено",M,,sand,,"marine terraces along the mainland coast (striped grey-blue; labels mIII, mIII1-2)"
+31,#c7e387,"fIII,aIII","Флювиогляциальные и аллювиальные отложения террас, верхнее звено",GF,F,gravel,,"light-green valley strips labelled fIII1, fIII2 and aIII1-2 on the same tint: one group"
+32,#c5e484,"fIII,aIII","Флювиогляциальные и аллювиальные отложения террас, верхнее звено",GF,F,gravel,,
+33,#b4bc81,fIII,"Флювиогляциальные отложения, верхнее звено",GF,,gravel,,olive valley fills labelled fIII2
+34,#c3cb92,fIII,"Флювиогляциальные отложения, верхнее звено",GF,,gravel,,
+35,#eeb37c,gIII,"Ледниковые отложения (морены), верхнее звено",T,,diamicton,,"tan moraines outlined in brown, labelled gIII2 (and gIII1); mainland only, dE <= 6 and a 1-px opening (tan is ~7 dE from the salmon dc and from brown linework)"
+36,#e7aa75,gIII,"Ледниковые отложения (морены), верхнее звено",T,,diamicton,,

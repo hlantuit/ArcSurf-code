@@ -1,8 +1,8 @@
 xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
 noatak|Ba,R,,unknown,unknown,unknown,"BEDROCK, ALPINE :: rule-classified from name"
 noatak|c,C,,unknown,unknown,unknown,"COLLUVIUM, UNDIVIDED :: rule-classified from name"
-noatak|(sd),H,,unknown,veneer,unknown,THIN AND GENERALLY DISCONTINUOUS DRIFT OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name; water body
-noatak|Bg,I,,unknown,unknown,unknown,"BEDROCK, GLACIER-SCOURED :: rule-classified from name"
+noatak|(sd),T,,unknown,veneer,unknown,THIN AND GENERALLY DISCONTINUOUS DRIFT OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name
+noatak|Bg,R,,unknown,unknown,unknown,"BEDROCK, GLACIER-SCOURED :: rule-classified from name"
 noatak|f,F,,unknown,unknown,unknown,"FAN DEPOSITS, UNDIFFERENTIATED :: rule-classified from name"
 noatak|tri,C,,bouldery,unknown,unknown,"TALUS RUBBLE, INACTIVE :: rule-classified from name"
 noatak|al,F,,unknown,unknown,unknown,"ALLUVIUM, UNDIVIDED :: rule-classified from name"
@@ -21,14 +21,14 @@ noatak|id1C,T,,unknown,unknown,unknown,DRIFT OF LATE ANISAK (ITKILLIK PHASE IC) 
 noatak|(s),C,,unknown,veneer,unknown,THIN AND GENERALLY DISCONTINUOUS SOLIFLUCTION DEPOSITS :: rule-classified from name
 noatak|io1C?,GF,,unknown,unknown,unknown,POSSIBLE OUTWASH OF LATE ANISAK (LATE ITKILLIK PHASE IC) AGE :: rule-classified from name
 noatak|ls,C,,unknown,unknown,unknown,LANDSLIDE DEPOSITS :: rule-classified from name
-noatak|sd?,H,,unknown,unknown,unknown,POSSIBLE DRIFT OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name; water body
+noatak|sd?,T,,unknown,unknown,unknown,POSSIBLE DRIFT OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name
 noatak|d?,T,,unknown,unknown,unknown,"POSSIBLE DRIFT, UNDIFFERENTIATED :: rule-classified from name"
 noatak|id,T,,unknown,unknown,unknown,"DRIFT OF ITKILLIK AGE, UNDIFFERENTIATED :: rule-classified from name"
 noatak|fa,F,,unknown,unknown,unknown,ACTIVE FAN DEPOSITS :: rule-classified from name
 noatak|id2,T,,unknown,unknown,unknown,DRIFT OF AVAN (ITKILLIK PHASE II) AGE :: rule-classified from name
 noatak|(d),T,,unknown,veneer,unknown,"THIN AND GENERALLY DISCONTINUOUS DRIFT, UNDIFFERENTIATED :: rule-classified from name"
 noatak|igl1B,GL,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF ANISAK (ITKILLIK PHASE IB) AGE :: rule-classified from name
-noatak|,Q,,unknown,unknown,unknown,EROSION SURFACE :: UNCLASSIFIED by rules - review
+noatak|,R,,unknown,unknown,unknown,EROSION SURFACE :: manual: EROSION SURFACE (bedrock erosion surface)
 noatak|igl1B/io1,GL,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF ANISAK (ITKILLIK PHASE IB) AGE OVER OUTWASH OF ITKILLIK PHASE I :: rule-classified from name
 noatak|id1C?,T,,unknown,unknown,unknown,POSSIBLE DRIFT OF LATE ANISAK (ITKILLIK PHASE IC) AGE :: rule-classified from name
 noatak|id1,T,,unknown,unknown,unknown,"DRIFT OF ITKILLIK PHASE I, UNDIVIDED :: rule-classified from name"
@@ -37,8 +37,8 @@ noatak|al1,F,,unknown,unknown,unknown,LOW ALLUVIAL-TERRACE DEPOSITS :: rule-clas
 noatak|Bs,R,,fines,unknown,unknown,"BEDROCK, SILT-COVERED :: rule-classified from name"
 noatak|ls?,C,,unknown,unknown,unknown,POSSIBLE LANDSLIDE DEPOSITS :: rule-classified from name
 noatak|io2,GF,,unknown,unknown,unknown,OUTWASH OF AVAN (ITKILLIK PHASE II) AGE :: rule-classified from name
-noatak|(ad)?,H,,unknown,veneer,unknown,THIN AND GENERALLY DISCONTINUOUS POSSIBLE DRIFT OF ANAKTUVUK RIVER AGE :: rule-classified from name; water body
-noatak|ad?,H,,unknown,unknown,unknown,POSSIBLE DRIFT OF ANAKTUVUK RIVER AGE :: rule-classified from name; water body
+noatak|(ad)?,T,,unknown,veneer,unknown,THIN AND GENERALLY DISCONTINUOUS POSSIBLE DRIFT OF ANAKTUVUK RIVER AGE :: rule-classified from name
+noatak|ad?,T,,unknown,unknown,unknown,POSSIBLE DRIFT OF ANAKTUVUK RIVER AGE :: rule-classified from name
 noatak|nd,T,,unknown,unknown,unknown,DRIFT OF NEOGLACIAL AGE :: rule-classified from name
 noatak|cd,T,,unknown,unknown,unknown,DRIFT OF CUTLER AGE :: rule-classified from name
 noatak|us/d,T,,fines,unknown,unknown,"UPLAND SILT DEPOSITS OVER DRIFT, UNDIFFERENTIATED :: rule-classified from name"
@@ -46,19 +46,19 @@ noatak|(id2),T,,unknown,veneer,unknown,THIN AND GENERALLY DISCONTINUOUS DRIFT OF
 noatak|io,GF,,unknown,unknown,unknown,OUTWASH OF ITKILLIK AGE :: rule-classified from name
 noatak|Be,F,,unknown,unknown,unknown,BEDROCK EXPOSED BY STREAM EROSION :: rule-classified from name
 noatak|B,R,,unknown,unknown,unknown,"BEDROCK, UNDIFFERENTIATED :: rule-classified from name"
-noatak|sd,H,,unknown,unknown,unknown,DRIFT OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name; water body
+noatak|sd,T,,unknown,unknown,unknown,DRIFT OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name
 noatak|tg,F,,gravel,unknown,unknown,"TERRACE GRAVEL, UNDIVIDED :: rule-classified from name"
 noatak|cgl,GL,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF CUTLER AGE :: rule-classified from name
 noatak|idt,F,M,unknown,unknown,unknown,DELTAIC DEPOSITS OF ITKILLIK AGE :: rule-classified from name; deltaic
 noatak|id3,T,,unknown,unknown,unknown,DRIFT OF LATE AVAN (LATE ITKILLIK PHASE II) READVANCE :: rule-classified from name
-noatak|cgl/sd,H,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF CUTLER AGE OVER DRIFT OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name; water body
-noatak|sdt,H,,unknown,unknown,unknown,DELTAIC DEPOSITS OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name; water body
+noatak|cgl/sd,GL,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF CUTLER AGE OVER DRIFT OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name
+noatak|sdt,F,M,unknown,unknown,unknown,DELTAIC DEPOSITS OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name; deltaic
 noatak|(d)?,T,,unknown,veneer,unknown,"THIN AND GENERALLY DISCONTINUOUS POSSIBLE DRIFT, UNDIFFERENTIATED :: rule-classified from name"
 noatak|igl1,GL,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF ITKILLIK PHASE I AGE :: rule-classified from name
 noatak|igl2,GL,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF AVAN (ITKILLIK PHASE II) AGE :: rule-classified from name
 noatak|fd,F,M,unknown,unknown,unknown,FAN-DELTA DEPOSITS :: rule-classified from name; deltaic
 noatak|id2?,T,,unknown,unknown,unknown,POSSIBLE DRIFT OF AVAN (ITKILLIK PHASE II) AGE :: rule-classified from name
-noatak|ad,H,,unknown,unknown,unknown,DRIFT OF ANAKTUVUK RIVER AGE :: rule-classified from name; water body
+noatak|ad,T,,unknown,unknown,unknown,DRIFT OF ANAKTUVUK RIVER AGE :: rule-classified from name
 noatak|igl/io1,GL,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF ITKILLIK AGE OVER OUTWASH OF ITKILLIK PHASE I :: rule-classified from name
 noatak|rgi?,R,,unknown,unknown,unknown,"POSSIBLE ROCK-GLACIER DEPOSITS, INACTIVE :: rule-classified from name"
 noatak|tg?,F,,gravel,unknown,unknown,"POSSIBLE TERRACE GRAVEL, UNDIVIDED :: rule-classified from name"
@@ -76,7 +76,7 @@ noatak|(id1),T,,unknown,veneer,unknown,"THIN AND GENERALLY DISCONTINUOUS DRIFT O
 noatak|dt,F,M,unknown,unknown,unknown,DELTAIC DEPOSITS :: rule-classified from name; deltaic
 noatak|io1,GF,,unknown,unknown,unknown,OUTWASH OF ITKILLIK PHASE I :: rule-classified from name
 noatak|igl?,GL,,unknown,unknown,unknown,POSSIBLE GLACIAL-LAKE DEPOSITS OF ITKILLIK AGE :: rule-classified from name
-noatak|gr,Q,,unknown,unknown,unknown,"GRAVEL DEPOSITS, UNDIFFERENTIATED :: UNCLASSIFIED by rules - review"
+noatak|gr,Q,,gravel,unknown,unknown,"GRAVEL DEPOSITS, UNDIFFERENTIATED :: manual: gravel deposits undifferentiated"
 noatak|nd2,T,,unknown,unknown,unknown,DRIFT OF LATE NEOGLACIAL AGE :: rule-classified from name
 noatak|igl/io2,GL,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF ITKILLIK AGE OVER OUTWASH OF AVAN (ITKILLIK PHASE II) AGE :: rule-classified from name
 noatak|(igl),GL,,unknown,veneer,unknown,THIN AND GENERALLY DISCONTINUOUS GLACIAL-LAKE DEPOSITS OF ITKILLIK AGE :: rule-classified from name
@@ -84,42 +84,42 @@ noatak|l,L,,unknown,unknown,unknown,LACUSTRINE DEPOSITS :: rule-classified from 
 noatak|(tri),C,,bouldery,veneer,unknown,"THIN AND GENERALLY DISCONTINUOUS TALUS RUBBLE, INACTIVE :: rule-classified from name"
 noatak|(tg),F,,gravel,veneer,unknown,"THIN AND GENERALLY DISCONTINUOUS TERRACE GRAVEL, UNDIVIDED :: rule-classified from name"
 noatak|igl2/io2?,GL,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF AVAN (ITKILLIK PHASE II) AGE OVER POSSIBLE OUTWASH OF AVAN (ITKILLIK PHASE II) AGE :: rule-classified from name
-noatak|sgl?,H,,unknown,unknown,unknown,POSSIBLE GLACIAL-LAKE DEPOSITS OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name; water body
+noatak|sgl?,GL,,unknown,unknown,unknown,POSSIBLE GLACIAL-LAKE DEPOSITS OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name
 noatak|id1A,T,,unknown,unknown,unknown,DRIFT OF MAKPIK (ITKILLIK PHASE IA) AGE :: rule-classified from name
-noatak|Bg?,I,,unknown,unknown,unknown,"POSSIBLE BEDROCK, GLACIER-SCOURED :: rule-classified from name"
+noatak|Bg?,R,,unknown,unknown,unknown,"POSSIBLE BEDROCK, GLACIER-SCOURED :: rule-classified from name"
 noatak|igl1A,GL,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF MAKPIK (ITKILLIK PHASE IA) AGE :: rule-classified from name
 noatak|id1B?,T,,unknown,unknown,unknown,POSSIBLE DRIFT OF ANISAK (ITKILLIK PHASE IB) AGE :: rule-classified from name
 noatak|pr?,C,,unknown,unknown,unknown,POSSIBLE PROTALUS RAMPART DEPOSITS :: rule-classified from name
 noatak|ik1,GF,,unknown,unknown,unknown,KAME AND KAME-TERRACE DEPOSITS :: rule-classified from name
 noatak|id1B,T,,unknown,unknown,unknown,DRIFT OF ANISAK (ITKILLIK PHASE IB) AGE :: rule-classified from name
 noatak|cd?,T,,unknown,unknown,unknown,POSSIBLE DRIFT OF CUTLER AGE :: rule-classified from name
-noatak|si,Q,,unknown,unknown,yes,ICE-RICH SILT DEPOSITS :: UNCLASSIFIED by rules - review
+noatak|si,Q,,fines,unknown,yes,ICE-RICH SILT DEPOSITS :: manual: ICE-RICH SILT (source states ice-rich)
 noatak|cgl?,GL,,unknown,unknown,unknown,POSSIBLE GLACIAL-LAKE DEPOSITS OF CUTLER AGE :: rule-classified from name
 noatak|igl2/id,GL,,unknown,unknown,unknown,"GLACIAL-LAKE DEPOSITS OF AVAN (ITKILLIK PHASE II) AGE OVER DRIFT OF ITKILLIK AGE, UNDIFFERENTIATED :: rule-classified from name"
 noatak|b,M,,unknown,unknown,unknown,BEACH DEPOSITS :: rule-classified from name
-noatak|(sd)?,H,,unknown,veneer,unknown,THIN AND GENERALLY DISCONTINUOUS POSSIBLE DRIFT OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name; water body
-noatak|gr?,Q,,unknown,unknown,unknown,"POSSIBLE GRAVEL DEPOSITS, UNDIFFERENTIATED :: UNCLASSIFIED by rules - review"
-noatak|so1,H,,unknown,unknown,unknown,OUTWASH OF EARLY SAGAVANIRKTOK RIVER AGE :: rule-classified from name; water body
-noatak|sgl,H,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name; water body
+noatak|(sd)?,T,,unknown,veneer,unknown,THIN AND GENERALLY DISCONTINUOUS POSSIBLE DRIFT OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name
+noatak|gr?,Q,,gravel,unknown,unknown,"POSSIBLE GRAVEL DEPOSITS, UNDIFFERENTIATED :: manual: possible gravel deposits"
+noatak|so1,GF,,unknown,unknown,unknown,OUTWASH OF EARLY SAGAVANIRKTOK RIVER AGE :: rule-classified from name
+noatak|sgl,GL,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name
 noatak|igl2/id1,GL,,unknown,unknown,unknown,"GLACIAL-LAKE DEPOSITS OF AVAN (ITKILLIK PHASE II) AGE OVER DRIFT OF ITKILLIK PHASE I, UNDIVIDED :: rule-classified from name"
-noatak|sd1,H,,unknown,unknown,unknown,DRIFT OF EARLY SAGAVANIRKTOK RIVER AGE :: rule-classified from name; water body
+noatak|sd1,T,,unknown,unknown,unknown,DRIFT OF EARLY SAGAVANIRKTOK RIVER AGE :: rule-classified from name
 noatak|igl2/B,GL,,unknown,unknown,unknown,"GLACIAL-LAKE DEPOSITS OF AVAN (ITKILLIK PHASE II) AGE OVER BEDROCK, UNDIFFERENTIATED :: rule-classified from name"
 noatak|igl1B/id1B,GL,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF ANISAK (ITKILLIK PHASE IB) AGE OVER DRIFT OF ANISAK (ITKILLIK PHASE IB) AGE :: rule-classified from name
 noatak|id1?,T,,unknown,unknown,unknown,"POSSIBLE DRIFT OF ITKILLIK PHASE I, UNDIVIDED :: rule-classified from name"
-noatak|so2,H,,unknown,unknown,unknown,OUTWASH OF LATE SAGAVANIRKTOK RIVER AGE :: rule-classified from name; water body
-noatak|sd2,H,,unknown,unknown,unknown,DRIFT OF LATE SAGAVANIRKTOK RIVER AGE :: rule-classified from name; water body
+noatak|so2,GF,,unknown,unknown,unknown,OUTWASH OF LATE SAGAVANIRKTOK RIVER AGE :: rule-classified from name
+noatak|sd2,T,,unknown,unknown,unknown,DRIFT OF LATE SAGAVANIRKTOK RIVER AGE :: rule-classified from name
 noatak|Bw,R,,unknown,unknown,unknown,"BEDROCK, WAVE-ERODED :: rule-classified from name"
 noatak|i-c,GF,,unknown,unknown,unknown,ICE-CONTACT MELTWATER DEPOSITS :: rule-classified from name
-noatak|(ad),H,,unknown,veneer,unknown,THIN AND GENERALLY DISCONTINUOUS DRIFT OF ANAKTUVUK RIVER AGE :: rule-classified from name; water body
+noatak|(ad),T,,unknown,veneer,unknown,THIN AND GENERALLY DISCONTINUOUS DRIFT OF ANAKTUVUK RIVER AGE :: rule-classified from name
 noatak|(id)?,T,,unknown,veneer,unknown,"THIN AND GENERALLY DISCONTINUOUS POSSIBLE DRIFT OF ITKILLIK AGE, UNDIFFERENTIATED :: rule-classified from name"
 noatak|igl1/cd?,GL,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF ITKILLIK PHASE I AGE OVER POSSIBLE DRIFT OF CUTLER AGE :: rule-classified from name
 noatak|igl1?,GL,,unknown,unknown,unknown,POSSIBLE GLACIAL-LAKE DEPOSITS OF ITKILLIK PHASE I AGE :: rule-classified from name
-noatak|igl1/sdt,H,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF ITKILLIK PHASE I AGE OVER DELTAIC DEPOSITS OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name; water body
-noatak|so,H,,unknown,unknown,unknown,OUTWASH OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name; water body
+noatak|igl1/sdt,GL,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF ITKILLIK PHASE I AGE OVER DELTAIC DEPOSITS OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name
+noatak|so,GF,,unknown,unknown,unknown,OUTWASH OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name
 noatak|b?,M,,unknown,unknown,unknown,POSSIBLE BEACH DEPOSITS :: rule-classified from name
 noatak|al/igl,GL,,unknown,unknown,unknown,"ALLUVIUM, UNDIVIDED OVER GLACIAL-LAKE DEPOSITS OF ITKILLIK AGE :: rule-classified from name"
-noatak|sa,Q,,unknown,unknown,unknown,SAND DEPOSIT :: UNCLASSIFIED by rules - review
-noatak|igl1/sd,H,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF ITKILLIK PHASE I AGE OVER DRIFT OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name; water body
+noatak|sa,Q,,sand,unknown,unknown,SAND DEPOSIT :: manual: sand deposit
+noatak|igl1/sd,GL,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF ITKILLIK PHASE I AGE OVER DRIFT OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name
 noatak|igl1B?,GL,,unknown,unknown,unknown,POSSIBLE GLACIAL-LAKE DEPOSITS OF ANISAK (ITKILLIK PHASE IB) AGE :: rule-classified from name
 noatak|igl1/id1A,GL,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF ITKILLIK PHASE I AGE OVER DRIFT OF MAKPIK (ITKILLIK PHASE IA) AGE :: rule-classified from name
 noatak|igl/B,GL,,unknown,unknown,unknown,"GLACIAL-LAKE DEPOSITS OF ITKILLIK AGE OVER BEDROCK, UNDIFFERENTIATED :: rule-classified from name"
@@ -129,15 +129,15 @@ noatak|igl2/id1B,GL,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF AVAN (ITKI
 noatak|ik3,GF,,unknown,unknown,unknown,KAME AND KAME-TERRACE DEPOSITS :: rule-classified from name
 noatak|s/igl1B,GL,,unknown,unknown,unknown,SOLIFLUCTION DEPOSITS OVER GLACIAL-LAKE DEPOSITS OF ANISAK (ITKILLIK PHASE IB) AGE :: rule-classified from name
 noatak|tg3,F,,gravel,unknown,unknown,"TERRACE GRAVEL, LOW-LEVEL :: rule-classified from name"
-noatak|so?,H,,unknown,unknown,unknown,POSSIBLE OUTWASH OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name; water body
+noatak|so?,GF,,unknown,unknown,unknown,POSSIBLE OUTWASH OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name
 noatak|tg1,F,,gravel,unknown,unknown,"TERRACE GRAVEL, HIGHEST-LEVEL :: rule-classified from name"
 noatak|io1A,GF,,unknown,unknown,unknown,OUTWASH OF MAKPIK (ITKILLIK PHASE IA) AGE :: rule-classified from name
-noatak|igl1/sd?,H,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF ITKILLIK PHASE I AGE OVER POSSIBLE DRIFT OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name; water body
+noatak|igl1/sd?,GL,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF ITKILLIK PHASE I AGE OVER POSSIBLE DRIFT OF SAGAVANIRKTOK RIVER AGE :: rule-classified from name
 noatak|igl1B/id,GL,,unknown,unknown,unknown,"GLACIAL-LAKE DEPOSITS OF ANISAK (ITKILLIK PHASE IB) AGE OVER DRIFT OF ITKILLIK AGE, UNDIFFERENTIATED :: rule-classified from name"
 noatak|(id1B),T,,unknown,veneer,unknown,THIN AND GENERALLY DISCONTINUOUS DRIFT OF ANISAK (ITKILLIK PHASE IB) AGE :: rule-classified from name
 noatak|sk,GF,,unknown,unknown,unknown,KAME AND KAME-TERRACE DEPOSITS :: rule-classified from name
 noatak|igl2/id2,GL,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF AVAN (ITKILLIK PHASE II) AGE OVER DRIFT OF AVAN (ITKILLIK PHASE II) AGE :: rule-classified from name
-noatak|us,Q,,unknown,unknown,unknown,UPLAND SILT DEPOSITS :: UNCLASSIFIED by rules - review
+noatak|us,E,,fines,unknown,unknown,UPLAND SILT DEPOSITS :: manual: upland silt (loess)
 noatak|s/id?,T,,unknown,unknown,unknown,"SOLIFLUCTION DEPOSITS OVER POSSIBLE DRIFT OF ITKILLIK AGE, UNDIFFERENTIATED :: rule-classified from name"
 noatak|fd?,F,M,unknown,unknown,unknown,POSSIBLE FAN-DELTA DEPOSITS :: rule-classified from name; deltaic
 noatak|igl2/id1A,GL,,unknown,unknown,unknown,GLACIAL-LAKE DEPOSITS OF AVAN (ITKILLIK PHASE II) AGE OVER DRIFT OF MAKPIK (ITKILLIK PHASE IA) AGE :: rule-classified from name
@@ -149,20 +149,20 @@ noatak|ml/id1,T,,unknown,unknown,unknown,"LACUSTRINE AND OTHER FINE-GRAINED DEPO
 noatak|(cd)?,T,,unknown,veneer,unknown,THIN AND GENERALLY DISCONTINUOUS POSSIBLE DRIFT OF CUTLER AGE :: rule-classified from name
 noatak|io1B,GF,,unknown,unknown,unknown,OUTWASH OF ANISAK (ITKILLIK PHASE IB) AGE :: rule-classified from name
 noatak|ik1A,GF,,unknown,unknown,unknown,KAME AND KAME-TERRACE DEPOSITS :: rule-classified from name
-noatak|ii1A,Q,,unknown,unknown,unknown,INWASH OF MAKPIK (ITKILLIK PHASE IA) AGE :: UNCLASSIFIED by rules - review
+noatak|ii1A,GF,,unknown,unknown,unknown,INWASH OF MAKPIK (ITKILLIK PHASE IA) AGE :: manual: inwash (Makpik)
 noatak|(cd),T,,unknown,veneer,unknown,THIN AND GENERALLY DISCONTINUOUS DRIFT OF CUTLER AGE :: rule-classified from name
 noatak|od,T,,unknown,unknown,unknown,OLDER DRIFT :: rule-classified from name
 noatak|io1?,GF,,unknown,unknown,unknown,POSSIBLE OUTWASH OF ITKILLIK PHASE I :: rule-classified from name
-noatak|ii1B,Q,,unknown,unknown,unknown,INWASH OF ANISAK (ITKILLIK PHASE IB) AGE :: UNCLASSIFIED by rules - review
+noatak|ii1B,GF,,unknown,unknown,unknown,INWASH OF ANISAK (ITKILLIK PHASE IB) AGE :: manual: inwash (Anisak)
 noatak|(io),GF,,unknown,veneer,unknown,"THIN AND GENERALLY DISCONTINUOUS OUTWASH OF ITKILLIK AGE, UNDIVIDED :: rule-classified from name"
 noatak|co?,GF,,unknown,unknown,unknown,"POSSIBLE OUTWASH OF CUTLER AGE :: rule-classified from name"
-noatak|fl,Q,,unknown,unknown,unknown,FLOW DEPOSITS :: UNCLASSIFIED by rules - review
+noatak|fl,C,,unknown,unknown,unknown,FLOW DEPOSITS :: manual: flow deposits
 noatak|ml/d?,T,,unknown,unknown,unknown,"LACUSTRINE AND OTHER FINE-GRAINED DEPOSITS OVER POSSIBLE DRIFT, UNDIFFERENTIATED :: rule-classified from name"
 noatak|ml2/id1B,T,,unknown,unknown,unknown,YOUNGER LACUSTRINE AND OTHER FINE-GRAINED DEPOSITS OVER DRIFT OF ANISAK (ITKILLIK PHASE IB) AGE :: rule-classified from name
 noatak|(id1)?,T,,unknown,veneer,unknown,"THIN AND GENERALLY DISCONTINUOUS POSSIBLE DRIFT OF ITKILLIK PHASE I, UNDIVIDED :: rule-classified from name"
 noatak|ml,L,,unknown,unknown,unknown,LACUSTRINE AND OTHER FINE-GRAINED DEPOSITS :: rule-classified from name
 noatak|igl1/id1,GL,,unknown,unknown,unknown,"GLACIAL-LAKE DEPOSITS OF ITKILLIK PHASE I AGE OVER DRIFT OF ITKILLIK PHASE I, UNDIVIDED :: rule-classified from name"
-noatak|(us),Q,,unknown,unknown,unknown,THIN AND GENERALLY DISCONTINUOUS UPLAND SILT DEPOSITS :: UNCLASSIFIED by rules - review
+noatak|(us),E,,fines,discontinuous,unknown,THIN AND GENERALLY DISCONTINUOUS UPLAND SILT DEPOSITS :: manual: thin discontinuous upland silt
 noatak|ml2,L,,unknown,unknown,unknown,YOUNGER LACUSTRINE AND OTHER FINE-GRAINED DEPOSITS :: rule-classified from name
 noatak|co,GF,,unknown,unknown,unknown,OUTWASH OF CUTLER AGE :: rule-classified from name
 noatak|ml1/id1,T,,unknown,unknown,unknown,"OLDER LACUSTRINE AND OTHER FINE-GRAINED DEPOSITS OVER DRIFT OF ITKILLIK PHASE I, UNDIVIDED :: rule-classified from name"
@@ -170,13 +170,13 @@ noatak|ik2,GF,,unknown,unknown,unknown,KAME AND KAME-TERRACE DEPOSITS :: rule-cl
 noatak|cm,C,,unknown,unknown,unknown,COLLUVIUM-FILLED MOUNTAIN VALLEY :: rule-classified from name
 noatak|igl2?,GL,,unknown,unknown,unknown,POSSIBLE GLACIAL-LAKE DEPOSITS OF AVAN (ITKILLIK PHASE II) AGE :: rule-classified from name
 noatak|ml2/id1,T,,unknown,unknown,unknown,"YOUNGER LACUSTRINE AND OTHER FINE-GRAINED DEPOSITS OVER DRIFT OF ITKILLIK PHASE I, UNDIVIDED :: rule-classified from name"
-noatak|grfn,Q,,unknown,unknown,unknown,"GRAVEL DEPOSITS, FINE-GRAINED :: UNCLASSIFIED by rules - review"
+noatak|grfn,Q,,fines,unknown,unknown,"GRAVEL DEPOSITS, FINE-GRAINED :: manual: fine-grained gravel deposits"
 noatak|(id1A),T,,unknown,veneer,unknown,THIN AND GENERALLY DISCONTINUOUS DRIFT OF MAKPIK (ITKILLIK PHASE IA) AGE :: rule-classified from name
 noatak|ml1?,L,,unknown,unknown,unknown,POSSIBLE OLDER LACUSTRINE AND OTHER FINE-GRAINED DEPOSITS :: rule-classified from name
 noatak|io1B?,GF,,unknown,unknown,unknown,POSSIBLE OUTWASH OF ANISAK (ITKILLIK PHASE IB) AGE :: rule-classified from name
 noatak|od?,T,,unknown,unknown,unknown,POSSIBLE OLDER DRIFT :: rule-classified from name
 noatak|l?,L,,unknown,unknown,unknown,POSSIBLE LACUSTRINE DEPOSITS :: rule-classified from name
-noatak|ii1,Q,,unknown,unknown,unknown,INWASH OF ITKILLIK PHASE I AGE :: UNCLASSIFIED by rules - review
+noatak|ii1,GF,,unknown,unknown,unknown,INWASH OF ITKILLIK PHASE I AGE :: manual: inwash (Itkillik I)
 noatak|rg?,R,,unknown,unknown,unknown,"POSSIBLE ROCK-GLACIER DEPOSITS, UNDIFFERENTIATED :: rule-classified from name"
 noatak|ik1?,GF,,unknown,unknown,unknown,POSSIBLE KAME AND KAME-TERRACE DEPOSITS :: rule-classified from name
 noatak|ml1/id1A,T,,unknown,unknown,unknown,OLDER LACUSTRINE AND OTHER FINE-GRAINED DEPOSITS OVER DRIFT OF MAKPIK (ITKILLIK PHASE IA) AGE :: rule-classified from name
@@ -184,7 +184,7 @@ noatak|fd1,F,M,unknown,unknown,unknown,"FAN-DELTA DEPOSITS, OLDER COMPONENT :: r
 noatak|ml1,L,,unknown,unknown,unknown,OLDER LACUSTRINE AND OTHER FINE-GRAINED DEPOSITS :: rule-classified from name
 noatak|alsa,F,,sand,unknown,unknown,"ALLUVIUM, SAND FACIES :: rule-classified from name"
 noatak|fd2,F,M,unknown,unknown,unknown,"FAN-DELTA DEPOSITS, YOUNGER COMPONENT :: rule-classified from name; deltaic"
-noatak|ii2,Q,,unknown,unknown,unknown,INWASH OF AVAN (ITKILLIK PHASE II) AGE :: UNCLASSIFIED by rules - review
+noatak|ii2,GF,,unknown,unknown,unknown,INWASH OF AVAN (ITKILLIK PHASE II) AGE :: manual: inwash (Avan)
 noatak|av,C,,unknown,unknown,unknown,AVALANCHE TRACKS AND DEPOSITS :: rule-classified from name
 noatak|fd1?,F,M,unknown,unknown,unknown,"POSSIBLE FAN-DELTA DEPOSITS, OLDER COMPONENT :: rule-classified from name; deltaic"
 noatak|nd1,T,,unknown,unknown,unknown,DRIFT OF EARLY NEOGLACIAL AGE :: rule-classified from name

@@ -2,14 +2,14 @@
  "sheet": "N-48-XXXIII",
  "source": "raster scan",
  "projection": "eqdc",
- "rms_m": 1.804634976559583,
- "max_res_m": 1.8180551029363414,
- "m_per_px": 16.96114371592164,
+ "rms_m": 6.510789001680559,
+ "max_res_m": 6.5583140380258556,
+ "m_per_px": 16.929567876077467,
  "corner_residuals_m": [
-  1.8,
-  1.8,
-  1.8,
-  1.8
+  6.6,
+  6.6,
+  6.5,
+  6.5
  ],
  "corners": [
   {
@@ -21,111 +21,113 @@
     2180.0,
     836.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    6169.0,
+    6177.0,
     836.0
    ],
    "snapped": [
-    6169.0,
+    6177.0,
     836.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    6195.0,
-    5224.0
+    6207.0,
+    5216.0
    ],
    "snapped": [
-    6195.0,
-    5224.0
+    6207.0,
+    5216.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    2146.0,
-    5224.0
+    2151.0,
+    5216.0
    ],
    "snapped": [
-    2146.0,
-    5224.0
+    2151.0,
+    5216.0
    ],
-   "ok": "rejected (moved > 15 px)"
+   "ok": "measured"
   }
  ],
- "unassigned_before_fill": 0.141,
- "area_km2": 5051.505874940691,
+ "frame_sag_px": 7.0,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/N-48-XXXIII/n-48-xxxiii-irkutsk-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federaci_0.jpg N-48-XXXIII ../sources/legend_N-48-XXXIII.csv ../work/jpgvec/N-48-XXXIII.gpkg --datum 4284 --corners '2180,836;6177,836;6207,5216;2151,5216' --mmu 60 --no-snap",
+ "unassigned_before_fill": 0.14,
+ "area_km2": 5056.859046487894,
  "neatline_km2": 5056.983159901801,
- "cover_frac": 0.9989168868497446,
- "n_polygons": 8236,
+ "cover_frac": 0.9999754570244784,
+ "n_polygons": 8189,
  "units": {
   "#9da6af": {
    "index": "tH",
-   "px": 875153,
+   "px": 874746,
    "direct_frac": 0.445
   },
   "#cfdda7": {
    "index": "aH",
-   "px": 1553597,
-   "direct_frac": 0.781
+   "px": 1546643,
+   "direct_frac": 0.784
   },
   "#f8efa4": {
    "index": "vH",
-   "px": 8424,
-   "direct_frac": 0.362
+   "px": 3837,
+   "direct_frac": 0.613
   },
   "#c0ba96": {
    "index": "plH",
-   "px": 1534302,
+   "px": 1535291,
    "direct_frac": 0.761
   },
   "#bc92ba": {
    "index": "eIII-H",
-   "px": 249314,
-   "direct_frac": 0.732
+   "px": 251613,
+   "direct_frac": 0.733
   },
   "#e6ab83": {
    "index": "dIII-H",
-   "px": 6677197,
+   "px": 6690222,
    "direct_frac": 0.839
   },
   "#e9b586": {
    "index": "edIII-H",
-   "px": 4443426,
-   "direct_frac": 0.869
+   "px": 4459189,
+   "direct_frac": 0.87
   },
   "#d88d78": {
    "index": "cIII-H",
-   "px": 669626,
+   "px": 673147,
    "direct_frac": 0.63
   },
   "#de9181": {
    "index": "dsIII-H",
-   "px": 150358,
+   "px": 150354,
    "direct_frac": 0.676
   },
   "#ecd18e": {
    "index": "pIII-H",
-   "px": 91076,
-   "direct_frac": 0.801
+   "px": 86623,
+   "direct_frac": 0.832
   },
   "#bed69a": {
    "index": "a1IIIkr-sr",
-   "px": 139035,
+   "px": 139023,
    "direct_frac": 0.778
   },
   "#b3d08b": {
    "index": "a2IIIkz-mr",
-   "px": 144529,
-   "direct_frac": 0.824
+   "px": 144651,
+   "direct_frac": 0.825
   },
   "#a9cb8e": {
    "index": "a3IIsr-tz",
-   "px": 279857,
+   "px": 279797,
    "direct_frac": 0.658
   },
   "#9bc47e": {
@@ -140,18 +142,18 @@
   },
   "#75b290": {
    "index": "laN2pd",
-   "px": 78168,
+   "px": 78221,
    "direct_frac": 0.604
   },
   "#70b4e5": {
    "index": "lN1bn",
-   "px": 246711,
+   "px": 246696,
    "direct_frac": 0.79
   },
   "#9a7eb1": {
    "index": "PREQ",
-   "px": 60378,
-   "direct_frac": 0.637
+   "px": 60892,
+   "direct_frac": 0.638
   }
  },
  "confusable_pairs": [

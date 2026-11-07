@@ -108,7 +108,8 @@ for lab in ok:
         org = idx.startswith('O/')
         minor = idx.startswith('o/')
         base = idx[2:] if (org or minor) else idx
-        r = leg[leg['index'].isin(base.split('|'))]
+        # a legend row may itself be a combined unit (A1686a 'Md|Mi'): matched whole, as written
+        r = leg[leg['index'].map(lambda i: set(i.split('|')) <= set(base.split('|')))]
         if not len(r):
             xw.append([key, 'Q', '', '', '', '', f'{lab}: index {idx} not in legend']); continue
         x = r.iloc[0]

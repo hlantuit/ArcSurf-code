@@ -1,0 +1,637 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+tuk25|MAb,M,,unknown,,,tuk25 MAb: tex - gen M age A morph b
+tuk25|MAp,M,,unknown,,,tuk25 MAp: tex - gen M age A morph p
+tuk25|O_hatch,O,,organic,,,cross-hatch overprint: organic deposits 2-15 ft thick
+tuk25|aGt,GF,,mixed,,,tuk25 aGt: tex a gen G age - morph t
+tuk25|aL,L,,mixed,,,tuk25 aL: tex a gen L age - morph -
+tuk25|aLMp,L,K,mixed,,,tuk25 aLMp: tex a gen L age M morph p
+tuk25|aLp,L,,mixed,,,tuk25 aLp: tex a gen L age - morph p
+tuk25|aMAb,M,,mixed,,,tuk25 aMAb: tex a gen M age A morph b
+tuk25|dCr,C,,diamicton,,,tuk25 dCr: tex d gen C age - morph r
+tuk25|dMk,T,,diamicton,,,tuk25 dMk: tex d gen M age - morph k
+tuk25|dMm,T,,diamicton,,,tuk25 dMm: tex d gen M age - morph m
+tuk25|fL,L,,fines,,,tuk25 fL: tex f gen L age - morph -
+tuk25|fLAp,L,,fines,,,tuk25 fLAp: tex f gen L age A morph p
+tuk25|fLMp,L,K,fines,,,tuk25 fLMp: tex f gen L age M morph p
+tuk25|fLp,L,,fines,,,tuk25 fLp: tex f gen L age - morph p
+tuk25|fLt,L,,fines,,,tuk25 fLt: tex f gen L age - morph t
+tuk25|fM,M,,fines,,,tuk25 fM: tex f gen M age - morph -
+tuk25|fMAp,M,,fines,,,tuk25 fMAp: tex f gen M age A morph p
+tuk25|gMAb,M,,gravel,,,tuk25 gMAb: tex g gen M age A morph b
+tuk25|sGm,GF,,sand,,,tuk25 sGm: tex s gen G age - morph m
+tuk25|sGt,GF,,sand,,,tuk25 sGt: tex s gen G age - morph t
+tuk25|wM,M,,organic,,,tuk25 wM: tex w gen M age - morph -
+m2_1981|10,M,,sand,blanket,,"m2_1981 10: Marine thick coarse grained sediment: sand, minor gravel, >2 m thick"
+m2_1981|10+14,M,F,sand,blanket,,"m2_1981 10+14: Marine thick coarse grained sediment: sand, minor gravel, >2 m thick | with Fluvial coarse grained sediments: dominantly sand, locally gravel"
+m2_1981|10/5+6,M,R,sand,veneer,,"m2_1981 10/5+6: Marine coarse grained veneer over coarse or fine grained marine-reworked rock: sand, minor gravel, <2 m thick, overlying unit 5+6"
+m2_1981|10/5n,M,R,sand,veneer,,"m2_1981 10/5n: Marine coarse grained veneer over coarse or fine grained marine-reworked rock: sand, minor gravel, <2 m thick, overlying unit 5; formation n: Christopher Fm (soft papery shale; weathers to silty clay or clay)"
+m2_1981|10/5p,M,R,sand,veneer,,"m2_1981 10/5p: Marine coarse grained veneer over coarse or fine grained marine-reworked rock: sand, minor gravel, <2 m thick, overlying unit 5; formation p: Kanguk Fm (soft acidic shale; weathers to clayey silt and shale fragments)"
+m2_1981|10/5q,M,R,sand,veneer,,"m2_1981 10/5q: Marine coarse grained veneer over coarse or fine grained marine-reworked rock: sand, minor gravel, <2 m thick, overlying unit 5; formation q: Eureka Sound Fm lower member (sandstone, siltstone, shale; weathers to fine sand to silty clay)"
+m2_1981|10/6m,M,R,sand,veneer,,"m2_1981 10/6m: Marine coarse grained veneer over coarse or fine grained marine-reworked rock: sand, minor gravel, <2 m thick, overlying unit 6; formation m: Isachsen Fm (sandstone, minor siltstone and shale; weathers to sand, minor silt and clay)"
+m2_1981|10/6r,M,R,sand,veneer,,"m2_1981 10/6r: Marine coarse grained veneer over coarse or fine grained marine-reworked rock: sand, minor gravel, <2 m thick, overlying unit 6; formation r: Eureka Sound Fm upper member (poorly to noncemented; weathers to sand, silt)"
+m2_1981|11,C,,mixed,,,m2_1981 11: Colluvial deposits: rubble to fines
+m2_1981|12,F,M,sand,,,"m2_1981 12: Deltaic sediments - coarse over fine: sand; minor fines, gravel; overlies fines"
+m2_1981|13,F,,fines,,,"m2_1981 13: Fluvial fine grained sediments: very fine sand, silt; minor clay, gravel"
+m2_1981|14,F,,sand,,,"m2_1981 14: Fluvial coarse grained sediments: dominantly sand, locally gravel"
+m2_1981|2n,R,W,fines,,,"m2_1981 2n: Fine grained rock/residual rock: shale, siltstone, minor sandstone; formation n: Christopher Fm (soft papery shale; weathers to silty clay or clay)"
+m2_1981|2p,R,W,fines,,,"m2_1981 2p: Fine grained rock/residual rock: shale, siltstone, minor sandstone; formation p: Kanguk Fm (soft acidic shale; weathers to clayey silt and shale fragments)"
+m2_1981|2q,R,W,fines,,,"m2_1981 2q: Fine grained rock/residual rock: shale, siltstone, minor sandstone; formation q: Eureka Sound Fm lower member (sandstone, siltstone, shale; weathers to fine sand to silty clay)"
+m2_1981|3m,R,W,sand,,,"m2_1981 3m: Coarse grained rock/residual rock: dominantly sandstone, noncemented to indurated; formation m: Isachsen Fm (sandstone, minor siltstone and shale; weathers to sand, minor silt and clay)"
+m2_1981|3o,R,W,sand,,,"m2_1981 3o: Coarse grained rock/residual rock: dominantly sandstone, noncemented to indurated; formation o: Hassel Fm (sandstone, poorly cemented; weathers to sand, silt)"
+m2_1981|3r,R,W,sand,,,"m2_1981 3r: Coarse grained rock/residual rock: dominantly sandstone, noncemented to indurated; formation r: Eureka Sound Fm upper member (poorly to noncemented; weathers to sand, silt)"
+m2_1981|4,R,,unknown,,,m2_1981 4: Dykes and sills
+m2_1981|5n,R,M,fines,,,m2_1981 5n: Fine grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 2; formation n: Christopher Fm (soft papery shale; weathers to silty clay or clay)
+m2_1981|5p,R,M,fines,,,m2_1981 5p: Fine grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 2; formation p: Kanguk Fm (soft acidic shale; weathers to clayey silt and shale fragments)
+m2_1981|5q,R,M,fines,,,"m2_1981 5q: Fine grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 2; formation q: Eureka Sound Fm lower member (sandstone, siltstone, shale; weathers to fine sand to silty clay)"
+m2_1981|5q+6r,R,M,fines,,,"m2_1981 5q+6r: Fine grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 2; formation q: Eureka Sound Fm lower member (sandstone, siltstone, shale; weathers to fine sand to silty clay) | with Coarse grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 3; formation r: Eureka Sound Fm upper member (poorly to noncemented; weathers to sand, silt)"
+m2_1981|6m,R,M,sand,,,"m2_1981 6m: Coarse grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 3; formation m: Isachsen Fm (sandstone, minor siltstone and shale; weathers to sand, minor silt and clay)"
+m2_1981|6o,R,M,sand,,,"m2_1981 6o: Coarse grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 3; formation o: Hassel Fm (sandstone, poorly cemented; weathers to sand, silt)"
+m2_1981|6r,R,M,sand,,,"m2_1981 6r: Coarse grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 3; formation r: Eureka Sound Fm upper member (poorly to noncemented; weathers to sand, silt)"
+m2_1981|9,M,,fines,blanket,,"m2_1981 9: Marine thick fine grained sediment: clay to fine sand, >2 m thick"
+m2_1981|9/5+6,M,R,fines,veneer,,"m2_1981 9/5+6: Marine fine grained veneer over fine rock: clay to fine sand, <2 m thick, overlying unit 5+6"
+m2_1981|9/5n,M,R,fines,veneer,,"m2_1981 9/5n: Marine fine grained veneer over fine rock: clay to fine sand, <2 m thick, overlying unit 5; formation n: Christopher Fm (soft papery shale; weathers to silty clay or clay)"
+m2_1981|9/5p,M,R,fines,veneer,,"m2_1981 9/5p: Marine fine grained veneer over fine rock: clay to fine sand, <2 m thick, overlying unit 5; formation p: Kanguk Fm (soft acidic shale; weathers to clayey silt and shale fragments)"
+m2_1981|9/5q,M,R,fines,veneer,,"m2_1981 9/5q: Marine fine grained veneer over fine rock: clay to fine sand, <2 m thick, overlying unit 5; formation q: Eureka Sound Fm lower member (sandstone, siltstone, shale; weathers to fine sand to silty clay)"
+m2_1981|9/5r,M,R,fines,veneer,,"m2_1981 9/5r: Marine fine grained veneer over fine rock: clay to fine sand, <2 m thick, overlying unit 5; formation r: Eureka Sound Fm upper member (poorly to noncemented; weathers to sand, silt)"
+m2_1981|9/6m,M,R,fines,veneer,,"m2_1981 9/6m: Marine fine grained veneer over fine rock: clay to fine sand, <2 m thick, overlying unit 6; formation m: Isachsen Fm (sandstone, minor siltstone and shale; weathers to sand, minor silt and clay)"
+m2_1981|9/6r,M,R,fines,veneer,,"m2_1981 9/6r: Marine fine grained veneer over fine rock: clay to fine sand, <2 m thick, overlying unit 6; formation r: Eureka Sound Fm upper member (poorly to noncemented; weathers to sand, silt)"
+m1_1981|1,R,,unknown,,,"m1_1981 1: Diapiric dome: gypsum, anhydrite, igneous rocks"
+m1_1981|10,M,,sand,blanket,,"m1_1981 10: Marine thick coarse grained sediment: sand, minor gravel, >2 m thick"
+m1_1981|10+14,M,F,sand,blanket,,"m1_1981 10+14: Marine thick coarse grained sediment: sand, minor gravel, >2 m thick | with Fluvial coarse grained sediments: dominantly sand, locally gravel"
+m1_1981|10/5+6,M,R,sand,veneer,,"m1_1981 10/5+6: Marine coarse grained veneer over coarse or fine grained marine-reworked rock: sand, minor gravel, <2 m thick, overlying unit 5+6"
+m1_1981|10/5+6m,M,R,sand,veneer,,"m1_1981 10/5+6m: Marine coarse grained veneer over coarse or fine grained marine-reworked rock: sand, minor gravel, <2 m thick, overlying unit 5+6; formation m: Isachsen Fm (sandstone, minor siltstone and shale; weathers to sand, minor silt and clay)"
+m1_1981|10/5j,M,R,sand,veneer,,"m1_1981 10/5j: Marine coarse grained veneer over coarse or fine grained marine-reworked rock: sand, minor gravel, <2 m thick, overlying unit 5; formation j: Awingak Fm (sandstone; weathers to sand, minor silt, rubble)"
+m1_1981|10/5n,M,R,sand,veneer,,"m1_1981 10/5n: Marine coarse grained veneer over coarse or fine grained marine-reworked rock: sand, minor gravel, <2 m thick, overlying unit 5; formation n: Christopher Fm (soft papery shale; weathers to silty clay or clay)"
+m1_1981|10/5p,M,R,sand,veneer,,"m1_1981 10/5p: Marine coarse grained veneer over coarse or fine grained marine-reworked rock: sand, minor gravel, <2 m thick, overlying unit 5; formation p: Kanguk Fm (soft acidic shale; weathers to clayey silt and shale fragments)"
+m1_1981|10/5r,M,R,sand,veneer,,"m1_1981 10/5r: Marine coarse grained veneer over coarse or fine grained marine-reworked rock: sand, minor gravel, <2 m thick, overlying unit 5; formation r: Eureka Sound Fm upper member (poorly to noncemented; weathers to sand, silt)"
+m1_1981|10/6+5,M,R,sand,veneer,,"m1_1981 10/6+5: Marine coarse grained veneer over coarse or fine grained marine-reworked rock: sand, minor gravel, <2 m thick, overlying unit 5+6"
+m1_1981|10/6a,M,R,sand,veneer,,"m1_1981 10/6a: Marine coarse grained veneer over coarse or fine grained marine-reworked rock: sand, minor gravel, <2 m thick, overlying unit 6; formation a: Bjorne Fm (sandstone; weathers to sand and rubble)"
+m1_1981|10/6b,M,R,sand,veneer,,"m1_1981 10/6b: Marine coarse grained veneer over coarse or fine grained marine-reworked rock: sand, minor gravel, <2 m thick, overlying unit 6; formation b: Schei Point Fm (siltstone, sandstone, indurated; weathers to rubble, minor silt and sand)"
+m1_1981|10/6e,M,R,sand,veneer,,"m1_1981 10/6e: Marine coarse grained veneer over coarse or fine grained marine-reworked rock: sand, minor gravel, <2 m thick, overlying unit 6; formation e: Heiberg Fm upper member (sandstone; weathers to sand, sandstone rubble)"
+m1_1981|10/6f,M,R,sand,veneer,,"m1_1981 10/6f: Marine coarse grained veneer over coarse or fine grained marine-reworked rock: sand, minor gravel, <2 m thick, overlying unit 6; formation f: Jaeger Fm (sandstone; weathers to silty sand, gravel, sandstone rubble)"
+m1_1981|10/6j,M,R,sand,veneer,,"m1_1981 10/6j: Marine coarse grained veneer over coarse or fine grained marine-reworked rock: sand, minor gravel, <2 m thick, overlying unit 6; formation j: Awingak Fm (sandstone; weathers to sand, minor silt, rubble)"
+m1_1981|10/6m,M,R,sand,veneer,,"m1_1981 10/6m: Marine coarse grained veneer over coarse or fine grained marine-reworked rock: sand, minor gravel, <2 m thick, overlying unit 6; formation m: Isachsen Fm (sandstone, minor siltstone and shale; weathers to sand, minor silt and clay)"
+m1_1981|10/6o,M,R,sand,veneer,,"m1_1981 10/6o: Marine coarse grained veneer over coarse or fine grained marine-reworked rock: sand, minor gravel, <2 m thick, overlying unit 6; formation o: Hassel Fm (sandstone, poorly cemented; weathers to sand, silt)"
+m1_1981|11,C,,mixed,,,m1_1981 11: Colluvial deposits: rubble to fines
+m1_1981|11+9,C,M,mixed,,,"m1_1981 11+9: Colluvial deposits: rubble to fines | with Marine thick fine grained sediment: clay to fine sand, >2 m thick"
+m1_1981|11/2,C,R,mixed,veneer,,"m1_1981 11/2: Colluvial deposits: rubble to fines; as a veneer over unit 2: Fine grained rock/residual rock: shale, siltstone, minor sandstone"
+m1_1981|12,F,M,sand,,,"m1_1981 12: Deltaic sediments - coarse over fine: sand; minor fines, gravel; overlies fines"
+m1_1981|13,F,,fines,,,"m1_1981 13: Fluvial fine grained sediments: very fine sand, silt; minor clay, gravel"
+m1_1981|14,F,,sand,,,"m1_1981 14: Fluvial coarse grained sediments: dominantly sand, locally gravel"
+m1_1981|2c,R,W,fines,,,"m1_1981 2c: Fine grained rock/residual rock: shale, siltstone, minor sandstone; formation c: Blaa Mountain Fm (shale, siltstone; weathers to clayey silt)"
+m1_1981|2d,R,W,mixed,,,"m1_1981 2d: Fine grained rock/residual rock: shale, siltstone, minor sandstone; formation d: Heiberg Fm lower member (sandstone and shale; weathers to sand, fines, rubble)"
+m1_1981|2d+4,R,W,mixed,,,"m1_1981 2d+4: Fine grained rock/residual rock: shale, siltstone, minor sandstone; formation d: Heiberg Fm lower member (sandstone and shale; weathers to sand, fines, rubble) | with Dykes and sills"
+m1_1981|2h,R,W,fines,,,"m1_1981 2h: Fine grained rock/residual rock: shale, siltstone, minor sandstone; formation h: Savik Fm (shale, minor sandstone; weathers to silty clay, silt, shale fragments)"
+m1_1981|2i,R,W,fines,,,"m1_1981 2i: Fine grained rock/residual rock: shale, siltstone, minor sandstone; formation i: Ringnes Fm (papery shale; weathers to clayey silt)"
+m1_1981|2k,R,W,fines,,,"m1_1981 2k: Fine grained rock/residual rock: shale, siltstone, minor sandstone; formation k: Deer Bay Fm (papery shale; weathers to clayey silt)"
+m1_1981|2n,R,W,fines,,,"m1_1981 2n: Fine grained rock/residual rock: shale, siltstone, minor sandstone; formation n: Christopher Fm (soft papery shale; weathers to silty clay or clay)"
+m1_1981|2p,R,W,fines,,,"m1_1981 2p: Fine grained rock/residual rock: shale, siltstone, minor sandstone; formation p: Kanguk Fm (soft acidic shale; weathers to clayey silt and shale fragments)"
+m1_1981|3b,R,W,bouldery,,,"m1_1981 3b: Coarse grained rock/residual rock: dominantly sandstone, noncemented to indurated; formation b: Schei Point Fm (siltstone, sandstone, indurated; weathers to rubble, minor silt and sand)"
+m1_1981|3c,R,W,sand,,,"m1_1981 3c: Coarse grained rock/residual rock: dominantly sandstone, noncemented to indurated; formation c: Blaa Mountain Fm (shale, siltstone; weathers to clayey silt)"
+m1_1981|3d,R,W,mixed,,,"m1_1981 3d: Coarse grained rock/residual rock: dominantly sandstone, noncemented to indurated; formation d: Heiberg Fm lower member (sandstone and shale; weathers to sand, fines, rubble)"
+m1_1981|3e,R,W,sand,,,"m1_1981 3e: Coarse grained rock/residual rock: dominantly sandstone, noncemented to indurated; formation e: Heiberg Fm upper member (sandstone; weathers to sand, sandstone rubble)"
+m1_1981|3f,R,W,mixed,,,"m1_1981 3f: Coarse grained rock/residual rock: dominantly sandstone, noncemented to indurated; formation f: Jaeger Fm (sandstone; weathers to silty sand, gravel, sandstone rubble)"
+m1_1981|3j,R,W,sand,,,"m1_1981 3j: Coarse grained rock/residual rock: dominantly sandstone, noncemented to indurated; formation j: Awingak Fm (sandstone; weathers to sand, minor silt, rubble)"
+m1_1981|3m,R,W,sand,,,"m1_1981 3m: Coarse grained rock/residual rock: dominantly sandstone, noncemented to indurated; formation m: Isachsen Fm (sandstone, minor siltstone and shale; weathers to sand, minor silt and clay)"
+m1_1981|3o,R,W,sand,,,"m1_1981 3o: Coarse grained rock/residual rock: dominantly sandstone, noncemented to indurated; formation o: Hassel Fm (sandstone, poorly cemented; weathers to sand, silt)"
+m1_1981|3p,R,W,sand,,,"m1_1981 3p: Coarse grained rock/residual rock: dominantly sandstone, noncemented to indurated; formation p: Kanguk Fm (soft acidic shale; weathers to clayey silt and shale fragments)"
+m1_1981|4,R,,unknown,,,m1_1981 4: Dykes and sills
+m1_1981|4+2d,R,,unknown,,,"m1_1981 4+2d: Dykes and sills | with Fine grained rock/residual rock: shale, siltstone, minor sandstone; formation d: Heiberg Fm lower member (sandstone and shale; weathers to sand, fines, rubble)"
+m1_1981|4+3o,R,,unknown,,,"m1_1981 4+3o: Dykes and sills | with Coarse grained rock/residual rock: dominantly sandstone, noncemented to indurated; formation o: Hassel Fm (sandstone, poorly cemented; weathers to sand, silt)"
+m1_1981|5+6,R,M,fines,,,m1_1981 5+6: Fine grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 2 | with Coarse grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 3
+m1_1981|5c,R,M,fines,,,"m1_1981 5c: Fine grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 2; formation c: Blaa Mountain Fm (shale, siltstone; weathers to clayey silt)"
+m1_1981|5d,R,M,mixed,,,"m1_1981 5d: Fine grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 2; formation d: Heiberg Fm lower member (sandstone and shale; weathers to sand, fines, rubble)"
+m1_1981|5h,R,M,fines,,,"m1_1981 5h: Fine grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 2; formation h: Savik Fm (shale, minor sandstone; weathers to silty clay, silt, shale fragments)"
+m1_1981|5i,R,M,fines,,,m1_1981 5i: Fine grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 2; formation i: Ringnes Fm (papery shale; weathers to clayey silt)
+m1_1981|5k,R,M,fines,,,m1_1981 5k: Fine grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 2; formation k: Deer Bay Fm (papery shale; weathers to clayey silt)
+m1_1981|5n,R,M,fines,,,m1_1981 5n: Fine grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 2; formation n: Christopher Fm (soft papery shale; weathers to silty clay or clay)
+m1_1981|5p,R,M,fines,,,m1_1981 5p: Fine grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 2; formation p: Kanguk Fm (soft acidic shale; weathers to clayey silt and shale fragments)
+m1_1981|6e,R,M,sand,,,"m1_1981 6e: Coarse grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 3; formation e: Heiberg Fm upper member (sandstone; weathers to sand, sandstone rubble)"
+m1_1981|6g,R,M,mixed,,,"m1_1981 6g: Coarse grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 3; formation g: Borden Island Fm (sandstone; weathers to silty sand, gravel, sandstone rubble)"
+m1_1981|6j,R,M,sand,,,"m1_1981 6j: Coarse grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 3; formation j: Awingak Fm (sandstone; weathers to sand, minor silt, rubble)"
+m1_1981|6m,R,M,sand,,,"m1_1981 6m: Coarse grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 3; formation m: Isachsen Fm (sandstone, minor siltstone and shale; weathers to sand, minor silt and clay)"
+m1_1981|6o,R,M,sand,,,"m1_1981 6o: Coarse grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 3; formation o: Hassel Fm (sandstone, poorly cemented; weathers to sand, silt)"
+m1_1981|6r,R,M,sand,,,"m1_1981 6r: Coarse grained marine-reworked rock: marine-reworked form of the clastic rock units of unit 3; formation r: Eureka Sound Fm upper member (poorly to noncemented; weathers to sand, silt)"
+m1_1981|8a,T,,diamicton,blanket,,m1_1981 8a: Amund Ringnes diamicton: thick silty stony clay
+m1_1981|8b,T,F,diamicton,veneer,,"m1_1981 8b: Cornwall and Graham diamicton: fines and gravel, 1-2 m thick overlying plateau gravel (unit 7a)"
+m1_1981|8b/7a,T,F,diamicton,veneer,,"m1_1981 8b/7a: Cornwall and Graham diamicton: fines and gravel, 1-2 m thick overlying plateau gravel (unit 7a); as a veneer over unit 7a: Plateau gravel (relict fluvial?): gravel to fines"
+m1_1981|8b/7a+2p,T,R,diamicton,veneer,,"m1_1981 8b/7a+2p: Cornwall and Graham diamicton: fines and gravel, 1-2 m thick overlying plateau gravel (unit 7a); as a veneer over unit 7a: Plateau gravel (relict fluvial?): gravel to fines | with Fine grained rock/residual rock: shale, siltstone, minor sandstone; formation p: Kanguk Fm (soft acidic shale; weathers to clayey silt and shale fragments)"
+m1_1981|9,M,,fines,blanket,,"m1_1981 9: Marine thick fine grained sediment: clay to fine sand, >2 m thick"
+m1_1981|9/5,M,R,fines,veneer,,"m1_1981 9/5: Marine fine grained veneer over fine rock: clay to fine sand, <2 m thick, overlying unit 5"
+m1_1981|9/5+6,M,R,fines,veneer,,"m1_1981 9/5+6: Marine fine grained veneer over fine rock: clay to fine sand, <2 m thick, overlying unit 5+6"
+m1_1981|9/5c,M,R,fines,veneer,,"m1_1981 9/5c: Marine fine grained veneer over fine rock: clay to fine sand, <2 m thick, overlying unit 5; formation c: Blaa Mountain Fm (shale, siltstone; weathers to clayey silt)"
+m1_1981|9/5d,M,R,fines,veneer,,"m1_1981 9/5d: Marine fine grained veneer over fine rock: clay to fine sand, <2 m thick, overlying unit 5; formation d: Heiberg Fm lower member (sandstone and shale; weathers to sand, fines, rubble)"
+m1_1981|9/5h,M,R,fines,veneer,,"m1_1981 9/5h: Marine fine grained veneer over fine rock: clay to fine sand, <2 m thick, overlying unit 5; formation h: Savik Fm (shale, minor sandstone; weathers to silty clay, silt, shale fragments)"
+m1_1981|9/5k,M,R,fines,veneer,,"m1_1981 9/5k: Marine fine grained veneer over fine rock: clay to fine sand, <2 m thick, overlying unit 5; formation k: Deer Bay Fm (papery shale; weathers to clayey silt)"
+m1_1981|9/5n,M,R,fines,veneer,,"m1_1981 9/5n: Marine fine grained veneer over fine rock: clay to fine sand, <2 m thick, overlying unit 5; formation n: Christopher Fm (soft papery shale; weathers to silty clay or clay)"
+m1_1981|9/5p,M,R,fines,veneer,,"m1_1981 9/5p: Marine fine grained veneer over fine rock: clay to fine sand, <2 m thick, overlying unit 5; formation p: Kanguk Fm (soft acidic shale; weathers to clayey silt and shale fragments)"
+m1_1981|9/6e,M,R,fines,veneer,,"m1_1981 9/6e: Marine fine grained veneer over fine rock: clay to fine sand, <2 m thick, overlying unit 6; formation e: Heiberg Fm upper member (sandstone; weathers to sand, sandstone rubble)"
+m1_1981|9/6m,M,R,fines,veneer,,"m1_1981 9/6m: Marine fine grained veneer over fine rock: clay to fine sand, <2 m thick, overlying unit 6; formation m: Isachsen Fm (sandstone, minor siltstone and shale; weathers to sand, minor silt and clay)"
+m1_1981|9/6o,M,R,fines,veneer,,"m1_1981 9/6o: Marine fine grained veneer over fine rock: clay to fine sand, <2 m thick, overlying unit 6; formation o: Hassel Fm (sandstone, poorly cemented; weathers to sand, silt)"
+m1_1981|9/8a,M,T,fines,veneer,,"m1_1981 9/8a: Marine fine grained sediment: clay to fine sand, <2 m thick; as a veneer over unit 8a: Amund Ringnes diamicton: thick silty stony clay"
+of294_096f|$Af,F,,fines,unknown,,of294_096f $Af: silt alluvial fan
+of294_096f|$Ap,F,,fines,unknown,,of294_096f $Ap: silt alluvial plain
+of294_096f|$sAfv,F,,fines,veneer,,"of294_096f $sAfv: silt/sand alluvial fan, veneer (<1.5 m)"
+of294_096f|Cv,C,,unknown,veneer,,of294_096f Cv: colluvial veneer (<1.5 m)
+of294_096f|Cx,C,,unknown,unknown,,of294_096f Cx: colluvial complex
+of294_096f|R,R,,unknown,unknown,,of294_096f R: bedrock
+of294_096f|R/Cv,R,C,unknown,unknown,,of294_096f R/Cv: bedrock with 5-15 % colluvial veneer (<1.5 m)
+of294_096f|R/tMv,R,T,unknown,unknown,,of294_096f R/tMv: bedrock with 5-15 % till morainal veneer (<1.5 m)
+of294_096f|Rk,R,,unknown,unknown,,of294_096f Rk: bedrock kettled / thermokarst (karst on bedrock)
+of294_096f|Rk/C,R,C,unknown,unknown,,of294_096f Rk/C: bedrock kettled / thermokarst (karst on bedrock) with 5-15 % colluvial
+of294_096f|Rk/tMv,R,T,unknown,unknown,,of294_096f Rk/tMv: bedrock kettled / thermokarst (karst on bedrock) with 5-15 % till morainal veneer (<1.5 m)
+of294_096f|Rks,R,,unknown,unknown,,"of294_096f Rks: bedrock kettled / thermokarst (karst on bedrock), striated"
+of294_096f|Rs/Cv,R,C,unknown,unknown,,of294_096f Rs/Cv: bedrock striated with 5-15 % colluvial veneer (<1.5 m)
+of294_096f|Rs/tMv,R,T,unknown,unknown,,of294_096f Rs/tMv: bedrock striated with 5-15 % till morainal veneer (<1.5 m)
+of294_096f|c$Lv,L,,fines,veneer,,of294_096f c$Lv: clay/silt lacustrine veneer (<1.5 m)
+of294_096f|fO,O,,organic,unknown,,of294_096f fO: fen organic
+of294_096f|fO//c$Lp,O,L,organic,veneer,,"of294_096f fO//c$Lp: fen organic, as a veneer over clay/silt lacustrine plain"
+of294_096f|fO/tMv,O,T,organic,unknown,,of294_096f fO/tMv: fen organic with 5-15 % till morainal veneer (<1.5 m)
+of294_096f|fpO,O,,organic,unknown,,of294_096f fpO: fen/peat organic
+of294_096f|fpO/tMp,O,T,organic,unknown,,of294_096f fpO/tMp: fen/peat organic with 5-15 % till morainal plain
+of294_096f|gAp,F,,gravel,unknown,,of294_096f gAp: gravel alluvial plain
+of294_096f|gtMv,T,,gravel,veneer,,of294_096f gtMv: gravel/till morainal veneer (<1.5 m)
+of294_096f|pO,O,,organic,unknown,,of294_096f pO: peat organic
+of294_096f|pO//Rk,O,R,organic,veneer,,"of294_096f pO//Rk: peat organic, as a veneer over bedrock kettled / thermokarst (karst on bedrock)"
+of294_096f|pfO,O,,organic,unknown,,of294_096f pfO: peat/fen organic
+of294_096f|pfO/tMp,O,T,organic,unknown,,of294_096f pfO/tMp: peat/fen organic with 5-15 % till morainal plain
+of294_096f|s$Ap,F,,sand,unknown,,of294_096f s$Ap: sand/silt alluvial plain
+of294_096f|s$Lp,L,,sand,unknown,,of294_096f s$Lp: sand/silt lacustrine plain
+of294_096f|sAp,F,,sand,unknown,,of294_096f sAp: sand alluvial plain
+of294_096f|sGhr,GF,,sand,unknown,,"of294_096f sGhr: sand glaciofluvial hummocky, ridged"
+of294_096f|sLpk/pfO,L,O,sand,unknown,,"of294_096f sLpk/pfO: sand lacustrine plain, kettled / thermokarst (karst on bedrock) with 5-15 % peat/fen organic"
+of294_096f|sgGh,GF,,gravel,unknown,,of294_096f sgGh: sand/gravel glaciofluvial hummocky
+of294_096f|sgGpc,GF,,gravel,unknown,,"of294_096f sgGpc: sand/gravel glaciofluvial plain, channelled"
+of294_096f|sgGt,GF,,gravel,unknown,,of294_096f sgGt: sand/gravel glaciofluvial terrace
+of294_096f|sgGth,GF,,gravel,unknown,,"of294_096f sgGth: sand/gravel glaciofluvial terrace, hummocky"
+of294_096f|tMd,T,,diamicton,unknown,,of294_096f tMd: till morainal drumlinoid
+of294_096f|tMp,T,,diamicton,unknown,,of294_096f tMp: till morainal plain
+of294_096f|tMp/sGv,T,GF,diamicton,unknown,,of294_096f tMp/sGv: till morainal plain with 5-15 % sand glaciofluvial veneer (<1.5 m)
+of294_096f|tMpd,T,,diamicton,unknown,,"of294_096f tMpd: till morainal plain, drumlinoid"
+of294_096f|tMpv,T,,diamicton,veneer,,"of294_096f tMpv: till morainal plain, veneer (<1.5 m)"
+of294_096f|tMv,T,,diamicton,veneer,,of294_096f tMv: till morainal veneer (<1.5 m)
+of294_096f|tMv-Rsk,T,R,diamicton,veneer,,"of294_096f tMv-Rsk: till morainal veneer (<1.5 m) with 16-49 % bedrock striated, kettled / thermokarst (karst on bedrock)"
+of294_096f|tMv-pfO,T,O,diamicton,veneer,,of294_096f tMv-pfO: till morainal veneer (<1.5 m) with 16-49 % peat/fen organic
+of294_096f|tMv/$Afv,T,F,diamicton,veneer,,"of294_096f tMv/$Afv: till morainal veneer (<1.5 m) with 5-15 % silt alluvial fan, veneer (<1.5 m)"
+of294_096f|tMv//R,T,R,diamicton,veneer,,"of294_096f tMv//R: till morainal veneer (<1.5 m), as a veneer over bedrock"
+of294_096f|tMv//Rh,T,R,diamicton,veneer,,"of294_096f tMv//Rh: till morainal veneer (<1.5 m), as a veneer over bedrock hummocky"
+of294_096f|tMv//Rk,T,R,diamicton,veneer,,"of294_096f tMv//Rk: till morainal veneer (<1.5 m), as a veneer over bedrock kettled / thermokarst (karst on bedrock)"
+of294_096f|tMv//Rs,T,R,diamicton,veneer,,"of294_096f tMv//Rs: till morainal veneer (<1.5 m), as a veneer over bedrock striated"
+of294_096f|tMv//Rsk,T,R,diamicton,veneer,,"of294_096f tMv//Rsk: till morainal veneer (<1.5 m), as a veneer over bedrock striated, kettled / thermokarst (karst on bedrock)"
+of294_096f|tMv/R,T,R,diamicton,veneer,,of294_096f tMv/R: till morainal veneer (<1.5 m) with 5-15 % bedrock
+of294_096f|tMvd,T,,diamicton,veneer,,"of294_096f tMvd: till morainal veneer (<1.5 m), drumlinoid"
+of294_096f|tMvh,T,,diamicton,veneer,,"of294_096f tMvh: till morainal veneer (<1.5 m), hummocky"
+of294_096f|tMvp,T,,diamicton,veneer,,"of294_096f tMvp: till morainal veneer (<1.5 m), plain"
+of294_096f|tMvp/sEv,T,E,diamicton,veneer,,"of294_096f tMvp/sEv: till morainal veneer (<1.5 m), plain with 5-15 % sand eolian veneer (<1.5 m)"
+of294_096f|tgMh,T,,diamicton,unknown,,of294_096f tgMh: till/gravel morainal hummocky
+of294_096f|tgMph,T,,diamicton,unknown,,"of294_096f tgMph: till/gravel morainal plain, hummocky"
+of1084|C3,C,R,mixed,,,"of1084 C3: LOAMY COLLUVIUM C^3: patchy veneer with rock outcrops on ridges and summits, blanket up to 3 m on lower slopes (Purcell Group lithologies)"
+of1084|Fc,F,,gravel,,,"of1084 Fc: ALLUVIUM Fc: dominantly channel sands and gravels and associated low terraces, minor overbank sediments"
+of1084|Fx,F,C,mixed,,,"of1084 Fx: ALLUVIUM Fx: complex of channel (Fc), overbank (Fo) and alluvial fan (Ff) sediments and colluvial aprons and cones"
+of1084|Gt,GF,,gravel,,,"of1084 Gt: GLACIOFLUVIAL SAND AND GRAVEL: terraces and deltas of meltwater and outlet channels, up to 15 m"
+of1084|I,I,,unknown,,,"of1084 I: ALPINE GLACIERS AND ICE CAPS: ice, semi-permanent snow, glacial debris; cirque glaciers, mountain ice caps, valley glaciers; locally loose bouldery glacial deposits and nunataks (GSC OF 1084, Kootenay Lake NM-11, Fulton, Rutter & Shetsen 1984)"
+of1084|M5v,T,R,diamicton,veneer,,"of1084 M5v: LOAMY TILL M^5 v (Bow Valley Till, Spy Hill drift, Ernst Till): thin and discontinuous, up to 2 m"
+of1084|MRb,T,,diamicton,blanket,,of1084 MRb: LOAMY AND SANDY LOAMY TILL M^R b: blanket up to 5 m
+of1084|MRm,T,,diamicton,blanket,,"of1084 MRm: LOAMY AND SANDY LOAMY TILL M^R m (Rocky Mountain lithologies), undulating, up to 30 m"
+of1084|MRv,T,R,diamicton,veneer,,"of1084 MRv: LOAMY AND SANDY LOAMY TILL M^R v: thin and discontinuous, up to 2 m"
+of1084|MTb,T,,diamicton,blanket,,of1084 MTb: LOAMY AND SANDY LOAMY TILL M^T b: blanket up to 5 m
+of1084|MTv,T,R,diamicton,veneer,,"of1084 MTv: LOAMY AND SANDY LOAMY TILL M^T v: thin and discontinuous, up to 2 m"
+of1084|Mb,T,,diamicton,blanket,,of1084 Mb: TILL blanket (texture prefix not legible)
+of1084|Mv,T,R,diamicton,veneer,,of1084 Mv: TILL veneer (texture prefix not legible)
+of1084|Ra,R,C,,,,"of1084 Ra: ROCK Ra: complex of rock and rock blanketed by colluvium and till in an alpine mountain area (cirques, aretes); locally talus cones, rubble aprons, small glaciers, rubbly till"
+of1084|Rs,R,C,,,,of1084 Rs: ROCK Rs: rock characterized by steep slopes or exposed by modern stream; minor rock covered by a veneer of colluvium and till
+of1084|dMb,T,,diamicton,blanket,,of1084 dMb: SAND LOAMY AND LOAMY TILL dMb: blanket up to 5 m
+of1084|dMv,T,R,diamicton,veneer,,"of1084 dMv: SAND LOAMY AND LOAMY TILL dMv: thin and discontinuous, up to 2 m"
+of1084|sM,T,,diamicton,,,of1084 sM: SANDY TILL (cover letter not legible)
+of1084|sMb,T,,diamicton,blanket,,of1084 sMb: SANDY TILL sMb: blanket up to 5 m
+of1084|sMv,T,R,diamicton,veneer,,"of1084 sMv: SANDY TILL sMv: thin and discontinuous, up to 2 m"
+of837|Fx,F,C,mixed,,,of837 Fx: FLUVIAL Fx: complex of channel and overbank deposits and colluvial and alluvial fans in mountain valleys
+of837|I,I,,unknown,,,of837 I: ALPINE GLACIERS AND ICE CAPS: ice and debris covered ice; minor glacial deposits and small areas of rock (nunataks)
+of837|Mb,T,,diamicton,blanket,,of837 Mb: TILL b (texture prefix not legible): continuous till cover 1-3 m
+of837|Mt,T,,diamicton,blanket,,of837 Mt: TILL t (texture prefix not legible): continuous till cover
+of837|Mv,T,R,diamicton,veneer,,of837 Mv: TILL v (texture prefix not legible): thin to discontinuous till
+of837|Ra,R,C,,,,"of837 Ra: ROCK WITH DISCONTINUOUS COLLUVIUM AND TILL, ALPINE MOUNTAINS Ra: aretes, cirques, glaciated valleys; discontinuous colluvial rubble, aprons and cones; till veneer on lower valley walls"
+of837|Rs,R,C,,,,"of837 Rs: ROCK WITH DISCONTINUOUS COLLUVIUM AND TILL, STEEP SLOPES Rs: discontinuous colluvial rubble, thin patches of till, < 2 m"
+of837|dMb,T,,diamicton,blanket,,of837 dMb: SANDY LOAMY TILL dMb: continuous till cover 1-3 m
+of837|dMv,T,R,diamicton,veneer,,"of837 dMv: SANDY LOAMY TILL dMv: thin to discontinuous till with scattered outcrops, < 2 m"
+of837|lMb,T,,diamicton,blanket,,of837 lMb: LOAMY TILL lMb: continuous till cover 1-3 m
+of837|lMv,T,R,diamicton,veneer,,of837 lMv: LOAMY TILL lMv: thin to discontinuous till with scattered outcrops
+of837|sM,T,,diamicton,,,of837 sM: SANDY TILL (cover letter not legible)
+of837|sMb,T,,diamicton,blanket,,of837 sMb: SANDY TILL sMb: continuous till cover 1-3 m
+of837|sMv,T,R,diamicton,veneer,,"of837 sMv: SANDY TILL sMv: thin to discontinuous till with scattered outcrops, < 2 m"
+of635_049d|1,R,W,mixed,,,"of635_049d 1: 1: Precambrian rock and residual rock: gneiss, granite, migmatite; generally covered by ca. 1 m of bouldery rubble to sand-size weathered rock, minor outcrop"
+of635_049d|10,C,,mixed,,,of635_049d 10: 10: Colluvium: bouldery gravel to fines
+of635_049d|10/3,C,R,mixed,veneer,,"of635_049d 10/3: 10: Colluvium: bouldery gravel to fines + 3: Clastic, minor calcareous, rock (Phanerozoic) (underlying)"
+of635_049d|10/3ab,C,R,mixed,veneer,,"of635_049d 10/3ab: 10: Colluvium: bouldery gravel to fines + 3a: Coarse-grained generally resistant clastic rock: weathers to rubble, coarse to fine sand, minor silt and clay (underlying) + 3b: Fine-grained recessive and resistant clastic rock: weathers to fines, platy shale and siltstone fragments (underlying)"
+of635_049d|10/3b,C,R,mixed,veneer,,"of635_049d 10/3b: 10: Colluvium: bouldery gravel to fines + 3b: Fine-grained recessive and resistant clastic rock: weathers to fines, platy shale and siltstone fragments (underlying)"
+of635_049d|10/3c,C,R,mixed,veneer,,"of635_049d 10/3c: 10: Colluvium: bouldery gravel to fines + 3c: Fine- and coarse-grained recessive rock (Eureka Sound Fm, poorly lithified): weathers to fines (dominantly fine sand and coarse silt), minor sandstone and siltstone rubble (underlying)"
+of635_049d|10/[3ab+4],C,R,mixed,veneer,,"of635_049d 10/[3ab+4]: 10: Colluvium: bouldery gravel to fines + 3a: Coarse-grained generally resistant clastic rock: weathers to rubble, coarse to fine sand, minor silt and clay (underlying) + 3b: Fine-grained recessive and resistant clastic rock: weathers to fines, platy shale and siltstone fragments (underlying) + 4: Plateau gravel: bouldery gravel, sand, fine sand and silt, minor peat layers; late Tertiary or early Pleistocene fluvial sediment sheet on a peneplain (underlying)"
+of635_049d|2a,R,W,gravel,,,"of635_049d 2a: 2a: Carbonate and calcareous clastic rock (Paleozoic), generally resistant, high relief: weathers to boulder to gravel size rubble, lesser interstitial sand and fines"
+of635_049d|2a+5/2a,R,T,gravel,,,"of635_049d 2a+5/2a: 2a: Carbonate and calcareous clastic rock (Paleozoic), generally resistant, high relief: weathers to boulder to gravel size rubble, lesser interstitial sand and fines + 5: Morainal deposits + 2a: Carbonate and calcareous clastic rock (Paleozoic), generally resistant, high relief: weathers to boulder to gravel size rubble, lesser interstitial sand and fines (underlying)"
+of635_049d|2a+5a/2,R,T,gravel,,,"of635_049d 2a+5a/2: 2a: Carbonate and calcareous clastic rock (Paleozoic), generally resistant, high relief: weathers to boulder to gravel size rubble, lesser interstitial sand and fines + 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt + 2: Carbonate and calcareous clastic rock (Paleozoic) (underlying)"
+of635_049d|2ab,R,W,gravel,,,"of635_049d 2ab: 2a: Carbonate and calcareous clastic rock (Paleozoic), generally resistant, high relief: weathers to boulder to gravel size rubble, lesser interstitial sand and fines + 2b: Carbonate and calcareous clastic rock (Paleozoic), generally recessive, moderate relief: weathers to gravel size or smaller shale and siltstone fragments, and fines dominantly silt size"
+of635_049d|2b,R,W,mixed,,,"of635_049d 2b: 2b: Carbonate and calcareous clastic rock (Paleozoic), generally recessive, moderate relief: weathers to gravel size or smaller shale and siltstone fragments, and fines dominantly silt size"
+of635_049d|2ba,R,W,mixed,,,"of635_049d 2ba: 2b: Carbonate and calcareous clastic rock (Paleozoic), generally recessive, moderate relief: weathers to gravel size or smaller shale and siltstone fragments, and fines dominantly silt size + 2a: Carbonate and calcareous clastic rock (Paleozoic), generally resistant, high relief: weathers to boulder to gravel size rubble, lesser interstitial sand and fines"
+of635_049d|3a,R,W,mixed,,,"of635_049d 3a: 3a: Coarse-grained generally resistant clastic rock: weathers to rubble, coarse to fine sand, minor silt and clay"
+of635_049d|3ab,R,W,mixed,,,"of635_049d 3ab: 3a: Coarse-grained generally resistant clastic rock: weathers to rubble, coarse to fine sand, minor silt and clay + 3b: Fine-grained recessive and resistant clastic rock: weathers to fines, platy shale and siltstone fragments"
+of635_049d|3b,R,W,fines,,,"of635_049d 3b: 3b: Fine-grained recessive and resistant clastic rock: weathers to fines, platy shale and siltstone fragments"
+of635_049d|3ba,R,W,fines,,,"of635_049d 3ba: 3b: Fine-grained recessive and resistant clastic rock: weathers to fines, platy shale and siltstone fragments + 3a: Coarse-grained generally resistant clastic rock: weathers to rubble, coarse to fine sand, minor silt and clay"
+of635_049d|3c,R,W,fines,,,"of635_049d 3c: 3c: Fine- and coarse-grained recessive rock (Eureka Sound Fm, poorly lithified): weathers to fines (dominantly fine sand and coarse silt), minor sandstone and siltstone rubble"
+of635_049d|4,F,,gravel,,,"of635_049d 4: 4: Plateau gravel: bouldery gravel, sand, fine sand and silt, minor peat layers; late Tertiary or early Pleistocene fluvial sediment sheet on a peneplain"
+of635_049d|4+5a/2,F,T,gravel,,,"of635_049d 4+5a/2: 4: Plateau gravel: bouldery gravel, sand, fine sand and silt, minor peat layers; late Tertiary or early Pleistocene fluvial sediment sheet on a peneplain + 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt + 2: Carbonate and calcareous clastic rock (Paleozoic) (underlying)"
+of635_049d|5,T,,diamicton,,,of635_049d 5: 5: Morainal deposits
+of635_049d|5/2b,T,R,diamicton,veneer,,"of635_049d 5/2b: 5: Morainal deposits + 2b: Carbonate and calcareous clastic rock (Paleozoic), generally recessive, moderate relief: weathers to gravel size or smaller shale and siltstone fragments, and fines dominantly silt size (underlying)"
+of635_049d|5a,T,,diamicton,,,of635_049d 5a: 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt
+of635_049d|5a/1,T,R,diamicton,veneer,,"of635_049d 5a/1: 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt + 1: Precambrian rock and residual rock: gneiss, granite, migmatite; generally covered by ca. 1 m of bouldery rubble to sand-size weathered rock, minor outcrop (underlying)"
+of635_049d|5a/2,T,R,diamicton,veneer,,of635_049d 5a/2: 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt + 2: Carbonate and calcareous clastic rock (Paleozoic) (underlying)
+of635_049d|5a/2a,T,R,diamicton,veneer,,"of635_049d 5a/2a: 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt + 2a: Carbonate and calcareous clastic rock (Paleozoic), generally resistant, high relief: weathers to boulder to gravel size rubble, lesser interstitial sand and fines (underlying)"
+of635_049d|5a/2b,T,R,diamicton,veneer,,"of635_049d 5a/2b: 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt + 2b: Carbonate and calcareous clastic rock (Paleozoic), generally recessive, moderate relief: weathers to gravel size or smaller shale and siltstone fragments, and fines dominantly silt size (underlying)"
+of635_049d|5a/3c,T,R,diamicton,veneer,,"of635_049d 5a/3c: 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt + 3c: Fine- and coarse-grained recessive rock (Eureka Sound Fm, poorly lithified): weathers to fines (dominantly fine sand and coarse silt), minor sandstone and siltstone rubble (underlying)"
+of635_049d|5a/4,T,F,diamicton,veneer,,"of635_049d 5a/4: 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt + 4: Plateau gravel: bouldery gravel, sand, fine sand and silt, minor peat layers; late Tertiary or early Pleistocene fluvial sediment sheet on a peneplain (underlying)"
+of635_049d|5a/[4+2b],T,F,diamicton,veneer,,"of635_049d 5a/[4+2b]: 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt + 4: Plateau gravel: bouldery gravel, sand, fine sand and silt, minor peat layers; late Tertiary or early Pleistocene fluvial sediment sheet on a peneplain (underlying) + 2b: Carbonate and calcareous clastic rock (Paleozoic), generally recessive, moderate relief: weathers to gravel size or smaller shale and siltstone fragments, and fines dominantly silt size (underlying)"
+of635_049d|5d,T,,diamicton,,,"of635_049d 5d: 5d: Neoglacial moraines: unstable sandy silty bouldery gravel, ice-cored, at modern ice margins"
+of635_049d|6b,M,,fines,blanket,,"of635_049d 6b: 6b: Fine-grained marine sediment: clay to fine sand, 1 to >10 m thick"
+of635_049d|6b/c,M,,fines,veneer,,"of635_049d 6b/c: 6b: Fine-grained marine sediment: clay to fine sand, 1 to >10 m thick + 6c: Relict coarse-grained beaches: sandy gravel and rubble beach berms and swales, 1-5 m thick (underlying)"
+of635_049d|6c,M,,gravel,,,"of635_049d 6c: 6c: Relict coarse-grained beaches: sandy gravel and rubble beach berms and swales, 1-5 m thick"
+of635_049d|6c/b,M,,gravel,veneer,,"of635_049d 6c/b: 6c: Relict coarse-grained beaches: sandy gravel and rubble beach berms and swales, 1-5 m thick + 6b: Fine-grained marine sediment: clay to fine sand, 1 to >10 m thick (underlying)"
+of635_049d|7a,GF,M,gravel,,,"of635_049d 7a: 7a: Coarse-grained relict proglacial delta sediment: sandy or silty bouldery gravel; ice-contact, valley train or spillway deposits at high Holocene sea level"
+of635_049d|7ab,GF,F,gravel,,,"of635_049d 7ab: 7a: Coarse-grained relict proglacial delta sediment: sandy or silty bouldery gravel; ice-contact, valley train or spillway deposits at high Holocene sea level + 7b: Coarse/fine-grained inactive delta sediment: sand, gravel, silt, over fine-grained marine bottomsets"
+of635_049d|7b,F,M,mixed,,,"of635_049d 7b: 7b: Coarse/fine-grained inactive delta sediment: sand, gravel, silt, over fine-grained marine bottomsets"
+of635_049d|7bc,F,M,mixed,,,"of635_049d 7bc: 7b: Coarse/fine-grained inactive delta sediment: sand, gravel, silt, over fine-grained marine bottomsets + 7c: Coarse-grained active delta sediment, nival regime: chiefly sand and gravel"
+of635_049d|7bc+6b,F,M,mixed,,,"of635_049d 7bc+6b: 7b: Coarse/fine-grained inactive delta sediment: sand, gravel, silt, over fine-grained marine bottomsets + 7c: Coarse-grained active delta sediment, nival regime: chiefly sand and gravel + 6b: Fine-grained marine sediment: clay to fine sand, 1 to >10 m thick"
+of635_049d|7bc+6b/c,F,M,mixed,,,"of635_049d 7bc+6b/c: 7b: Coarse/fine-grained inactive delta sediment: sand, gravel, silt, over fine-grained marine bottomsets + 7c: Coarse-grained active delta sediment, nival regime: chiefly sand and gravel + 6b: Fine-grained marine sediment: clay to fine sand, 1 to >10 m thick + 6c: Relict coarse-grained beaches: sandy gravel and rubble beach berms and swales, 1-5 m thick (underlying)"
+of635_049d|7bc+6c,F,M,mixed,,,"of635_049d 7bc+6c: 7b: Coarse/fine-grained inactive delta sediment: sand, gravel, silt, over fine-grained marine bottomsets + 7c: Coarse-grained active delta sediment, nival regime: chiefly sand and gravel + 6c: Relict coarse-grained beaches: sandy gravel and rubble beach berms and swales, 1-5 m thick"
+of635_049d|7bd,F,GF,mixed,,,"of635_049d 7bd: 7b: Coarse/fine-grained inactive delta sediment: sand, gravel, silt, over fine-grained marine bottomsets + 7d: Coarse-grained active delta sediment, glacial regime: coarser, many boulders"
+of635_049d|7c,F,,mixed,,,"of635_049d 7c: 7c: Coarse-grained active delta sediment, nival regime: chiefly sand and gravel"
+of635_049d|7d,GF,F,gravel,,,"of635_049d 7d: 7d: Coarse-grained active delta sediment, glacial regime: coarser, many boulders"
+of635_049d|8b,F,,gravel,,,"of635_049d 8b: 8b: Fluvial terrace and inactive fan sediment: sand, gravel, boulders, minor fines"
+of635_049d|8b+9+6c,F,M,gravel,,,"of635_049d 8b+9+6c: 8b: Fluvial terrace and inactive fan sediment: sand, gravel, boulders, minor fines + 9: Fluvial sediment, fine grained + 6c: Relict coarse-grained beaches: sandy gravel and rubble beach berms and swales, 1-5 m thick"
+of635_049d|8bc,F,,gravel,,,"of635_049d 8bc: 8b: Fluvial terrace and inactive fan sediment: sand, gravel, boulders, minor fines + 8c: Active valley flat and fan sediment, nival regime"
+of635_049d|8bd,F,GF,gravel,,,"of635_049d 8bd: 8b: Fluvial terrace and inactive fan sediment: sand, gravel, boulders, minor fines + 8d: Active valley train sediment, glacial regime"
+of635_049d|8c,F,,gravel,,,"of635_049d 8c: 8c: Active valley flat and fan sediment, nival regime"
+of635_049d|8d,GF,F,gravel,,,"of635_049d 8d: 8d: Active valley train sediment, glacial regime"
+of635_049d|8db,GF,F,gravel,,,"of635_049d 8db: 8d: Active valley train sediment, glacial regime + 8b: Fluvial terrace and inactive fan sediment: sand, gravel, boulders, minor fines"
+of635_049d|9a,F,,fines,,,"of635_049d 9a: 9a: Fluvial terrace sediment: fine sand to clay, minor gravel or coarse sand"
+of635_049d|H,H,,unknown,,,"of635_049d H: H: lake (halftone water screen on the map, inside OSM land; finalize_labels.py)"
+of635_049d|Ice,I,,unknown,,,"of635_049d Ice: Ice: Glacier ice (ice caps, outlet glaciers)"
+of635_049d|[10+5]/3,C,T,mixed,veneer,,"of635_049d [10+5]/3: 10: Colluvium: bouldery gravel to fines + 5: Morainal deposits + 3: Clastic, minor calcareous, rock (Phanerozoic) (underlying)"
+of635_049d|[4+5a]/3,F,T,gravel,veneer,,"of635_049d [4+5a]/3: 4: Plateau gravel: bouldery gravel, sand, fine sand and silt, minor peat layers; late Tertiary or early Pleistocene fluvial sediment sheet on a peneplain + 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt + 3: Clastic, minor calcareous, rock (Phanerozoic) (underlying)"
+of635_049d|[5a+10]/2a,T,C,diamicton,veneer,,"of635_049d [5a+10]/2a: 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt + 10: Colluvium: bouldery gravel to fines + 2a: Carbonate and calcareous clastic rock (Paleozoic), generally resistant, high relief: weathers to boulder to gravel size rubble, lesser interstitial sand and fines (underlying)"
+of635_049d|[5e+10]/3c,T,C,mixed,veneer,,"of635_049d [5e+10]/3c: 5e: Complex of morainal, fluvioglacial and rock units (indivisible at map scale) + 10: Colluvium: bouldery gravel to fines + 3c: Fine- and coarse-grained recessive rock (Eureka Sound Fm, poorly lithified): weathers to fines (dominantly fine sand and coarse silt), minor sandstone and siltstone rubble (underlying)"
+of635_049e|1,R,W,mixed,,,"of635_049e 1: 1: Precambrian rock and residual rock: gneiss, granite, migmatite; generally covered by ca. 1 m of bouldery rubble to sand-size weathered rock, minor outcrop"
+of635_049e|1+2a,R,W,mixed,,,"of635_049e 1+2a: 1: Precambrian rock and residual rock: gneiss, granite, migmatite; generally covered by ca. 1 m of bouldery rubble to sand-size weathered rock, minor outcrop + 2a: Carbonate and calcareous clastic rock (Paleozoic), generally resistant, high relief: weathers to boulder to gravel size rubble, lesser interstitial sand and fines"
+of635_049e|10,C,,mixed,,,of635_049e 10: 10: Colluvium: bouldery gravel to fines
+of635_049e|10/2a,C,R,mixed,veneer,,"of635_049e 10/2a: 10: Colluvium: bouldery gravel to fines + 2a: Carbonate and calcareous clastic rock (Paleozoic), generally resistant, high relief: weathers to boulder to gravel size rubble, lesser interstitial sand and fines (underlying)"
+of635_049e|10/2b,C,R,mixed,veneer,,"of635_049e 10/2b: 10: Colluvium: bouldery gravel to fines + 2b: Carbonate and calcareous clastic rock (Paleozoic), generally recessive, moderate relief: weathers to gravel size or smaller shale and siltstone fragments, and fines dominantly silt size (underlying)"
+of635_049e|10/3,C,R,mixed,veneer,,"of635_049e 10/3: 10: Colluvium: bouldery gravel to fines + 3: Clastic, minor calcareous, rock (Phanerozoic) (underlying)"
+of635_049e|10/3c,C,R,mixed,veneer,,"of635_049e 10/3c: 10: Colluvium: bouldery gravel to fines + 3c: Fine- and coarse-grained recessive rock (Eureka Sound Fm, poorly lithified): weathers to fines (dominantly fine sand and coarse silt), minor sandstone and siltstone rubble (underlying)"
+of635_049e|2,R,W,mixed,,,of635_049e 2: 2: Carbonate and calcareous clastic rock (Paleozoic)
+of635_049e|2a,R,W,gravel,,,"of635_049e 2a: 2a: Carbonate and calcareous clastic rock (Paleozoic), generally resistant, high relief: weathers to boulder to gravel size rubble, lesser interstitial sand and fines"
+of635_049e|2a+10/2,R,C,gravel,,,"of635_049e 2a+10/2: 2a: Carbonate and calcareous clastic rock (Paleozoic), generally resistant, high relief: weathers to boulder to gravel size rubble, lesser interstitial sand and fines + 10: Colluvium: bouldery gravel to fines + 2: Carbonate and calcareous clastic rock (Paleozoic) (underlying)"
+of635_049e|2a+5c/2a,R,T,gravel,,,"of635_049e 2a+5c/2a: 2a: Carbonate and calcareous clastic rock (Paleozoic), generally resistant, high relief: weathers to boulder to gravel size rubble, lesser interstitial sand and fines + 5c: Coarse-grained Holocene advance till: sandy bouldery gravel + 2a: Carbonate and calcareous clastic rock (Paleozoic), generally resistant, high relief: weathers to boulder to gravel size rubble, lesser interstitial sand and fines (underlying)"
+of635_049e|2b,R,W,mixed,,,"of635_049e 2b: 2b: Carbonate and calcareous clastic rock (Paleozoic), generally recessive, moderate relief: weathers to gravel size or smaller shale and siltstone fragments, and fines dominantly silt size"
+of635_049e|3,R,W,mixed,,,"of635_049e 3: 3: Clastic, minor calcareous, rock (Phanerozoic)"
+of635_049e|3a,R,W,mixed,,,"of635_049e 3a: 3a: Coarse-grained generally resistant clastic rock: weathers to rubble, coarse to fine sand, minor silt and clay"
+of635_049e|3b,R,W,fines,,,"of635_049e 3b: 3b: Fine-grained recessive and resistant clastic rock: weathers to fines, platy shale and siltstone fragments"
+of635_049e|3c,R,W,fines,,,"of635_049e 3c: 3c: Fine- and coarse-grained recessive rock (Eureka Sound Fm, poorly lithified): weathers to fines (dominantly fine sand and coarse silt), minor sandstone and siltstone rubble"
+of635_049e|4,F,,gravel,,,"of635_049e 4: 4: Plateau gravel: bouldery gravel, sand, fine sand and silt, minor peat layers; late Tertiary or early Pleistocene fluvial sediment sheet on a peneplain"
+of635_049e|5a,T,,diamicton,,,of635_049e 5a: 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt
+of635_049e|5a/2,T,R,diamicton,veneer,,of635_049e 5a/2: 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt + 2: Carbonate and calcareous clastic rock (Paleozoic) (underlying)
+of635_049e|5a/2a,T,R,diamicton,veneer,,"of635_049e 5a/2a: 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt + 2a: Carbonate and calcareous clastic rock (Paleozoic), generally resistant, high relief: weathers to boulder to gravel size rubble, lesser interstitial sand and fines (underlying)"
+of635_049e|5a/2b,T,R,diamicton,veneer,,"of635_049e 5a/2b: 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt + 2b: Carbonate and calcareous clastic rock (Paleozoic), generally recessive, moderate relief: weathers to gravel size or smaller shale and siltstone fragments, and fines dominantly silt size (underlying)"
+of635_049e|5a/3,T,R,diamicton,veneer,,"of635_049e 5a/3: 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt + 3: Clastic, minor calcareous, rock (Phanerozoic) (underlying)"
+of635_049e|5a/3a,T,R,diamicton,veneer,,"of635_049e 5a/3a: 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt + 3a: Coarse-grained generally resistant clastic rock: weathers to rubble, coarse to fine sand, minor silt and clay (underlying)"
+of635_049e|5a/3c,T,R,diamicton,veneer,,"of635_049e 5a/3c: 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt + 3c: Fine- and coarse-grained recessive rock (Eureka Sound Fm, poorly lithified): weathers to fines (dominantly fine sand and coarse silt), minor sandstone and siltstone rubble (underlying)"
+of635_049e|5a/4,T,F,diamicton,veneer,,"of635_049e 5a/4: 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt + 4: Plateau gravel: bouldery gravel, sand, fine sand and silt, minor peat layers; late Tertiary or early Pleistocene fluvial sediment sheet on a peneplain (underlying)"
+of635_049e|5b,T,,diamicton,,,"of635_049e 5b: 5b: Fine-grained 'Strathcona Fiord' till: gravelly fines or sand, >1 m thick"
+of635_049e|5c/2a,T,R,diamicton,veneer,,"of635_049e 5c/2a: 5c: Coarse-grained Holocene advance till: sandy bouldery gravel + 2a: Carbonate and calcareous clastic rock (Paleozoic), generally resistant, high relief: weathers to boulder to gravel size rubble, lesser interstitial sand and fines (underlying)"
+of635_049e|5ce/2a,T,R,diamicton,veneer,,"of635_049e 5ce/2a: 5c: Coarse-grained Holocene advance till: sandy bouldery gravel + 5e: Complex of morainal, fluvioglacial and rock units (indivisible at map scale) + 2a: Carbonate and calcareous clastic rock (Paleozoic), generally resistant, high relief: weathers to boulder to gravel size rubble, lesser interstitial sand and fines (underlying)"
+of635_049e|5d,T,,diamicton,,,"of635_049e 5d: 5d: Neoglacial moraines: unstable sandy silty bouldery gravel, ice-cored, at modern ice margins"
+of635_049e|5e,T,GF,mixed,,,"of635_049e 5e: 5e: Complex of morainal, fluvioglacial and rock units (indivisible at map scale)"
+of635_049e|5e/2,T,R,mixed,veneer,,"of635_049e 5e/2: 5e: Complex of morainal, fluvioglacial and rock units (indivisible at map scale) + 2: Carbonate and calcareous clastic rock (Paleozoic) (underlying)"
+of635_049e|6b,M,,fines,blanket,,"of635_049e 6b: 6b: Fine-grained marine sediment: clay to fine sand, 1 to >10 m thick"
+of635_049e|6c/b,M,,gravel,veneer,,"of635_049e 6c/b: 6c: Relict coarse-grained beaches: sandy gravel and rubble beach berms and swales, 1-5 m thick + 6b: Fine-grained marine sediment: clay to fine sand, 1 to >10 m thick (underlying)"
+of635_049e|7a,GF,M,gravel,,,"of635_049e 7a: 7a: Coarse-grained relict proglacial delta sediment: sandy or silty bouldery gravel; ice-contact, valley train or spillway deposits at high Holocene sea level"
+of635_049e|7ab,GF,F,gravel,,,"of635_049e 7ab: 7a: Coarse-grained relict proglacial delta sediment: sandy or silty bouldery gravel; ice-contact, valley train or spillway deposits at high Holocene sea level + 7b: Coarse/fine-grained inactive delta sediment: sand, gravel, silt, over fine-grained marine bottomsets"
+of635_049e|7b,F,M,mixed,,,"of635_049e 7b: 7b: Coarse/fine-grained inactive delta sediment: sand, gravel, silt, over fine-grained marine bottomsets"
+of635_049e|7bc,F,M,mixed,,,"of635_049e 7bc: 7b: Coarse/fine-grained inactive delta sediment: sand, gravel, silt, over fine-grained marine bottomsets + 7c: Coarse-grained active delta sediment, nival regime: chiefly sand and gravel"
+of635_049e|7c,F,,mixed,,,"of635_049e 7c: 7c: Coarse-grained active delta sediment, nival regime: chiefly sand and gravel"
+of635_049e|8a,GF,,gravel,,,of635_049e 8a: 8a: Relict valley train sediment: sandy or silty bouldery gravel; valley train from the early Holocene ice margin
+of635_049e|8b,F,,gravel,,,"of635_049e 8b: 8b: Fluvial terrace and inactive fan sediment: sand, gravel, boulders, minor fines"
+of635_049e|8c,F,,gravel,,,"of635_049e 8c: 8c: Active valley flat and fan sediment, nival regime"
+of635_049e|8d,GF,F,gravel,,,"of635_049e 8d: 8d: Active valley train sediment, glacial regime"
+of635_049e|9b,F,,fines,,,"of635_049e 9b: 9b: Active valley flat sediment, fine grained"
+of635_049e|H,H,,unknown,,,"of635_049e H: H: lake (halftone water screen on the map, inside OSM land; finalize_labels.py)"
+of635_049e|Ice,I,,unknown,,,"of635_049e Ice: Ice: Glacier ice (ice caps, outlet glaciers)"
+of635_049e|[10+5a]/2a,C,T,mixed,veneer,,"of635_049e [10+5a]/2a: 10: Colluvium: bouldery gravel to fines + 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt + 2a: Carbonate and calcareous clastic rock (Paleozoic), generally resistant, high relief: weathers to boulder to gravel size rubble, lesser interstitial sand and fines (underlying)"
+of635_049e|[2a+5c]/2a,R,T,gravel,veneer,,"of635_049e [2a+5c]/2a: 2a: Carbonate and calcareous clastic rock (Paleozoic), generally resistant, high relief: weathers to boulder to gravel size rubble, lesser interstitial sand and fines + 5c: Coarse-grained Holocene advance till: sandy bouldery gravel + 2a: Carbonate and calcareous clastic rock (Paleozoic), generally resistant, high relief: weathers to boulder to gravel size rubble, lesser interstitial sand and fines (underlying)"
+of635_049e|[4+5a]/3c,F,T,gravel,veneer,,"of635_049e [4+5a]/3c: 4: Plateau gravel: bouldery gravel, sand, fine sand and silt, minor peat layers; late Tertiary or early Pleistocene fluvial sediment sheet on a peneplain + 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt + 3c: Fine- and coarse-grained recessive rock (Eureka Sound Fm, poorly lithified): weathers to fines (dominantly fine sand and coarse silt), minor sandstone and siltstone rubble (underlying)"
+of635_049e|[5+10]/2a,T,C,diamicton,veneer,,"of635_049e [5+10]/2a: 5: Morainal deposits + 10: Colluvium: bouldery gravel to fines + 2a: Carbonate and calcareous clastic rock (Paleozoic), generally resistant, high relief: weathers to boulder to gravel size rubble, lesser interstitial sand and fines (underlying)"
+of635_049e|[5a+4]/3a,T,F,diamicton,veneer,,"of635_049e [5a+4]/3a: 5a: Undifferentiated till: dominantly gravelly bouldery sand or silt + 4: Plateau gravel: bouldery gravel, sand, fine sand and silt, minor peat layers; late Tertiary or early Pleistocene fluvial sediment sheet on a peneplain + 3a: Coarse-grained generally resistant clastic rock: weathers to rubble, coarse to fine sand, minor silt and clay (underlying)"
+of265_049c|$CR,C,R,fines,,,of265_049c $CR: $CR: colluvium (>75 %) and rock/residual
+of265_049c|$P,F,,fines,,,of265_049c $P: $P: Pleistocene/Pliocene preglacial fluvial gravels
+of265_049c|$RC,R,C,fines,,,of265_049c $RC: $RC: rock/residual (75-25 %) and colluvium
+of265_049c|$Rm,R,M,fines,,,of265_049c $Rm: $Rm: marine washed rock/residual
+of265_049c|$Rm&fsFd,R,F,fines,,,of265_049c $Rm&fsFd: $Rm: marine washed rock/residual + fsFd: fluvial delta
+of265_049c|$fFp,F,,fines,,,of265_049c $fFp: $fFp: fluvial plain
+of265_049c|$frCR,C,R,fines,,,of265_049c $frCR: $frCR: colluvium (>75 %) and rock/residual
+of265_049c|$gC,C,,fines,,,of265_049c $gC: $gC: colluvial deposits
+of265_049c|$gCR,C,R,fines,,,of265_049c $gCR: $gCR: colluvium (>75 %) and rock/residual
+of265_049c|$gCR+M?,C,T,fines,,,of265_049c $gCR+M?: $gCR: colluvium (>75 %) and rock/residual + M: moraine
+of265_049c|$gFt,F,,fines,,,of265_049c $gFt: $gFt: fluvial terrace (inactive floodplain)
+of265_049c|$gM?/gsP,T,F,fines,veneer,,of265_049c $gM?/gsP: $gM: moraine + gsP: Pleistocene/Pliocene preglacial fluvial gravels (underlying)
+of265_049c|$gRm+C,R,C,fines,,,of265_049c $gRm+C: $gRm: marine washed rock/residual + C: colluvial deposits
+of265_049c|$gbP+C,F,C,fines,,,of265_049c $gbP+C: $gbP: Pleistocene/Pliocene preglacial fluvial gravels + C: colluvial deposits
+of265_049c|$gm+C,M,C,fines,,,of265_049c $gm+C: $gm: marine plain + C: colluvial deposits
+of265_049c|$gmv/R,M,R,fines,veneer,,of265_049c $gmv/R: $gmv: marine veneer (<1 m) + R: rock/residual (underlying)
+of265_049c|$goRC,R,C,fines,,,of265_049c $goRC: $goRC: rock/residual (75-25 %) and colluvium
+of265_049c|$grCR+m,C,M,fines,,,of265_049c $grCR+m: $grCR: colluvium (>75 %) and rock/residual + m: marine plain
+of265_049c|$m+mb,M,,fines,,,of265_049c $m+mb: $m: marine plain + mb: marine beaches
+of265_049c|$mk,M,,fines,,,of265_049c $mk: $mk: marine plain
+of265_049c|$oRC,R,C,fines,,,of265_049c $oRC: $oRC: rock/residual (75-25 %) and colluvium
+of265_049c|$rC,C,,fines,,,of265_049c $rC: $rC: colluvial deposits
+of265_049c|$rCR,C,R,fines,,,of265_049c $rCR: $rCR: colluvium (>75 %) and rock/residual
+of265_049c|$rCRp,C,R,fines,,,of265_049c $rCRp: $rCRp: colluvium (>75 %) and rock/residual
+of265_049c|$rR,R,W,fines,,,of265_049c $rR: $rR: rock/residual
+of265_049c|$rRC,R,C,fines,,,of265_049c $rRC: $rRC: rock/residual (75-25 %) and colluvium
+of265_049c|$rbC+P,C,F,fines,,,of265_049c $rbC+P: $rbC: colluvial deposits + P: Pleistocene/Pliocene preglacial fluvial gravels
+of265_049c|C+Rm,C,R,unknown,,,of265_049c C+Rm: C: colluvial deposits + Rm: marine washed rock/residual
+of265_049c|FdIA,F,,unknown,,,of265_049c FdIA: FdIA: fluvial delta
+of265_049c|Fpt,F,,unknown,,,of265_049c Fpt: Fpt: floodplain and terrace indivisible
+of265_049c|Ft,F,,unknown,,,of265_049c Ft: Ft: fluvial terrace (inactive floodplain)
+of265_049c|H,H,,unknown,,,"of265_049c H: H: lake (halftone water screen on the map, inside OSM land; finalize_labels.py)"
+of265_049c|I,I,,unknown,,,of265_049c I: I: perennial ice
+of265_049c|P,F,,gravel,,,of265_049c P: P: Pleistocene/Pliocene preglacial fluvial gravels
+of265_049c|RC,R,C,unknown,,,of265_049c RC: RC: rock/residual (75-25 %) and colluvium
+of265_049c|RCp,R,C,unknown,,,of265_049c RCp: RCp: rock/residual (75-25 %) and colluvium
+of265_049c|Rp,R,W,unknown,,,of265_049c Rp: Rp: rock/residual
+of265_049c|bFpG,GF,F,bouldery,,,"of265_049c bFpG: bFpG: fluvial plain, glacial (age superscript G)"
+of265_049c|bMp,T,,bouldery,,,of265_049c bMp: bMp: moraine
+of265_049c|csRC,R,C,fines,,,of265_049c csRC: csRC: rock/residual (75-25 %) and colluvium
+of265_049c|fC+m,C,M,fines,,,of265_049c fC+m: fC: colluvial deposits + m: marine plain
+of265_049c|fCR,C,R,fines,,,of265_049c fCR: fCR: colluvium (>75 %) and rock/residual
+of265_049c|fCR+M?,C,T,fines,,,of265_049c fCR+M?: fCR: colluvium (>75 %) and rock/residual + M: moraine
+of265_049c|fCR+mv,C,M,fines,,,of265_049c fCR+mv: fCR: colluvium (>75 %) and rock/residual + mv: marine veneer (<1 m)
+of265_049c|fFf+C,F,C,fines,,,of265_049c fFf+C: fFf: fluvial/alluvial fan + C: colluvial deposits
+of265_049c|fRC,R,C,fines,,,of265_049c fRC: fRC: rock/residual (75-25 %) and colluvium
+of265_049c|fgC,C,,fines,,,of265_049c fgC: fgC: colluvial deposits
+of265_049c|fgC+Rm,C,R,fines,,,of265_049c fgC+Rm: fgC: colluvial deposits + Rm: marine washed rock/residual
+of265_049c|fgC+m,C,M,fines,,,of265_049c fgC+m: fgC: colluvial deposits + m: marine plain
+of265_049c|fgCR,C,R,fines,,,of265_049c fgCR: fgCR: colluvium (>75 %) and rock/residual
+of265_049c|fgCR+P,C,F,fines,,,of265_049c fgCR+P: fgCR: colluvium (>75 %) and rock/residual + P: Pleistocene/Pliocene preglacial fluvial gravels
+of265_049c|fgCR+m,C,M,fines,,,of265_049c fgCR+m: fgCR: colluvium (>75 %) and rock/residual + m: marine plain
+of265_049c|fgFdI,F,,fines,,,of265_049c fgFdI: fgFdI: fluvial delta
+of265_049c|fgFf,F,,fines,,,of265_049c fgFf: fgFf: fluvial/alluvial fan
+of265_049c|fgFpt,F,,fines,,,of265_049c fgFpt: fgFpt: floodplain and terrace indivisible
+of265_049c|fgRC,R,C,fines,,,of265_049c fgRC: fgRC: rock/residual (75-25 %) and colluvium
+of265_049c|fgm+C,M,C,fines,,,of265_049c fgm+C: fgm: marine plain + C: colluvial deposits
+of265_049c|fgmv/R,M,R,fines,veneer,,of265_049c fgmv/R: fgmv: marine veneer (<1 m) + R: rock/residual (underlying)
+of265_049c|fgoRC,R,C,fines,,,of265_049c fgoRC: fgoRC: rock/residual (75-25 %) and colluvium
+of265_049c|fgsm,M,,fines,,,of265_049c fgsm: fgsm: marine plain
+of265_049c|fm+C&gmb,M,C,fines,,,of265_049c fm+C&gmb: fm: marine plain + C: colluvial deposits + gmb: marine beaches
+of265_049c|foRCp,R,C,fines,,,of265_049c foRCp: foRCp: rock/residual (75-25 %) and colluvium
+of265_049c|frCR,C,R,fines,,,of265_049c frCR: frCR: colluvium (>75 %) and rock/residual
+of265_049c|frRC,R,C,fines,,,of265_049c frRC: frRC: rock/residual (75-25 %) and colluvium
+of265_049c|frgRC,R,C,fines,,,of265_049c frgRC: frgRC: rock/residual (75-25 %) and colluvium
+of265_049c|froRC,R,C,fines,,,of265_049c froRC: froRC: rock/residual (75-25 %) and colluvium
+of265_049c|fsCR,C,R,fines,,,of265_049c fsCR: fsCR: colluvium (>75 %) and rock/residual
+of265_049c|fsgm,M,,fines,,,of265_049c fsgm: fsgm: marine plain
+of265_049c|fsm,M,,fines,,,of265_049c fsm: fsm: marine plain
+of265_049c|fsm+C,M,C,fines,,,of265_049c fsm+C: fsm: marine plain + C: colluvial deposits
+of265_049c|fsrRC,R,C,fines,,,of265_049c fsrRC: fsrRC: rock/residual (75-25 %) and colluvium
+of265_049c|fsroCR,C,R,fines,,,of265_049c fsroCR: fsroCR: colluvium (>75 %) and rock/residual
+of265_049c|fsroRC,R,C,fines,,,of265_049c fsroRC: fsroRC: rock/residual (75-25 %) and colluvium
+of265_049c|g$Fp,F,,gravel,,,of265_049c g$Fp: g$Fp: fluvial plain
+of265_049c|g$Fpt,F,,gravel,,,of265_049c g$Fpt: g$Fpt: floodplain and terrace indivisible
+of265_049c|g$Ft,F,,gravel,,,of265_049c g$Ft: g$Ft: fluvial terrace (inactive floodplain)
+of265_049c|g$P,F,,gravel,,,of265_049c g$P: g$P: Pleistocene/Pliocene preglacial fluvial gravels
+of265_049c|g$m,M,,gravel,,,of265_049c g$m: g$m: marine plain
+of265_049c|g$mb,M,,gravel,,,of265_049c g$mb: g$mb: marine beaches
+of265_049c|gF,F,,gravel,,,of265_049c gF: gF: fluvial
+of265_049c|gFd,F,,gravel,,,of265_049c gFd: gFd: fluvial delta
+of265_049c|gFdAI,F,,gravel,,,of265_049c gFdAI: gFdAI: fluvial delta
+of265_049c|gFdI,F,,gravel,,,of265_049c gFdI: gFdI: fluvial delta
+of265_049c|gFdI+Ff&gfC,F,C,gravel,,,of265_049c gFdI+Ff&gfC: gFdI: fluvial delta + Ff: fluvial/alluvial fan + gfC: colluvial deposits
+of265_049c|gFdIA,F,,gravel,,,of265_049c gFdIA: gFdIA: fluvial delta
+of265_049c|gFf,F,,gravel,,,of265_049c gFf: gFf: fluvial/alluvial fan
+of265_049c|gFp,F,,gravel,,,of265_049c gFp: gFp: fluvial plain
+of265_049c|gFpG,GF,F,gravel,,,"of265_049c gFpG: gFpG: fluvial plain, glacial (age superscript G)"
+of265_049c|gFpt,F,,gravel,,,of265_049c gFpt: gFpt: floodplain and terrace indivisible
+of265_049c|gFt,F,,gravel,,,of265_049c gFt: gFt: fluvial terrace (inactive floodplain)
+of265_049c|gFtp,F,,gravel,,,of265_049c gFtp: gFtp: floodplain and terrace indivisible
+of265_049c|gM/P&fgCR,T,F,gravel,veneer,,of265_049c gM/P&fgCR: gM: moraine + P: Pleistocene/Pliocene preglacial fluvial gravels (underlying) + fgCR: colluvium (>75 %) and rock/residual
+of265_049c|gP,F,,gravel,,,of265_049c gP: gP: Pleistocene/Pliocene preglacial fluvial gravels
+of265_049c|gP&$oRC,F,R,gravel,,,of265_049c gP&$oRC: gP: Pleistocene/Pliocene preglacial fluvial gravels + $oRC: rock/residual (75-25 %) and colluvium
+of265_049c|gb$P,F,,gravel,,,of265_049c gb$P: gb$P: Pleistocene/Pliocene preglacial fluvial gravels
+of265_049c|gbFpt,F,,gravel,,,of265_049c gbFpt: gbFpt: floodplain and terrace indivisible
+of265_049c|gbFt,F,,gravel,,,of265_049c gbFt: gbFt: fluvial terrace (inactive floodplain)
+of265_049c|gfC+Ff,C,F,gravel,,,of265_049c gfC+Ff: gfC: colluvial deposits + Ff: fluvial/alluvial fan
+of265_049c|gfCR,C,R,gravel,,,of265_049c gfCR: gfCR: colluvium (>75 %) and rock/residual
+of265_049c|gfFd+C,F,C,gravel,,,of265_049c gfFd+C: gfFd: fluvial delta + C: colluvial deposits
+of265_049c|gfFf,F,,gravel,,,of265_049c gfFf: gfFf: fluvial/alluvial fan
+of265_049c|gfFp,F,,gravel,,,of265_049c gfFp: gfFp: fluvial plain
+of265_049c|gfFt,F,,gravel,,,of265_049c gfFt: gfFt: fluvial terrace (inactive floodplain)
+of265_049c|gfFt+m,F,M,gravel,,,of265_049c gfFt+m: gfFt: fluvial terrace (inactive floodplain) + m: marine plain
+of265_049c|gfM,T,,gravel,,,of265_049c gfM: gfM: moraine
+of265_049c|gfM/P+CR,T,F,gravel,veneer,,of265_049c gfM/P+CR: gfM: moraine + P: Pleistocene/Pliocene preglacial fluvial gravels (underlying) + CR: colluvium (>75 %) and rock/residual
+of265_049c|gfP,F,,gravel,,,of265_049c gfP: gfP: Pleistocene/Pliocene preglacial fluvial gravels
+of265_049c|gfm+F,M,F,gravel,,,of265_049c gfm+F: gfm: marine plain + F: fluvial
+of265_049c|gfmb,M,,gravel,,,of265_049c gfmb: gfmb: marine beaches
+of265_049c|gm,M,,gravel,,,of265_049c gm: gm: marine plain
+of265_049c|gmb,M,,gravel,,,of265_049c gmb: gmb: marine beaches
+of265_049c|gmb+FdI,M,F,gravel,,,of265_049c gmb+FdI: gmb: marine beaches + FdI: fluvial delta
+of265_049c|gmb+FdIA,M,F,gravel,,,of265_049c gmb+FdIA: gmb: marine beaches + FdIA: fluvial delta
+of265_049c|grmb,M,,gravel,,,of265_049c grmb: grmb: marine beaches
+of265_049c|gsFdI,F,,gravel,,,of265_049c gsFdI: gsFdI: fluvial delta
+of265_049c|gsFdIA,F,,gravel,,,of265_049c gsFdIA: gsFdIA: fluvial delta
+of265_049c|gsFf,F,,gravel,,,of265_049c gsFf: gsFf: fluvial/alluvial fan
+of265_049c|gsFp,F,,gravel,,,of265_049c gsFp: gsFp: fluvial plain
+of265_049c|gsFpt,F,,gravel,,,of265_049c gsFpt: gsFpt: floodplain and terrace indivisible
+of265_049c|gsFt,F,,gravel,,,of265_049c gsFt: gsFt: fluvial terrace (inactive floodplain)
+of265_049c|gsP,F,,gravel,,,of265_049c gsP: gsP: Pleistocene/Pliocene preglacial fluvial gravels
+of265_049c|gsfCR&gsFf,C,F,gravel,,,of265_049c gsfCR&gsFf: gsfCR: colluvium (>75 %) and rock/residual + gsFf: fluvial/alluvial fan
+of265_049c|gsfmb,M,,gravel,,,of265_049c gsfmb: gsfmb: marine beaches
+of265_049c|gsm,M,,gravel,,,of265_049c gsm: gsm: marine plain
+of265_049c|gsmb,M,,gravel,,,of265_049c gsmb: gsmb: marine beaches
+of265_049c|m+C,M,C,unknown,,,of265_049c m+C: m: marine plain + C: colluvial deposits
+of265_049c|oRC,R,C,unknown,,,of265_049c oRC: oRC: rock/residual (75-25 %) and colluvium
+of265_049c|r$C,C,,mixed,,,of265_049c r$C: r$C: colluvial deposits
+of265_049c|r$CR,C,R,mixed,,,of265_049c r$CR: r$CR: colluvium (>75 %) and rock/residual
+of265_049c|r$RC,R,C,mixed,,,of265_049c r$RC: r$RC: rock/residual (75-25 %) and colluvium
+of265_049c|r$oCR,C,R,mixed,,,of265_049c r$oCR: r$oCR: colluvium (>75 %) and rock/residual
+of265_049c|r$oRC,R,C,mixed,,,of265_049c r$oRC: r$oRC: rock/residual (75-25 %) and colluvium
+of265_049c|rR,R,W,mixed,,,of265_049c rR: rR: rock/residual
+of265_049c|rRC,R,C,mixed,,,of265_049c rRC: rRC: rock/residual (75-25 %) and colluvium
+of265_049c|rbR,R,W,mixed,,,of265_049c rbR: rbR: rock/residual
+of265_049c|rfCR,C,R,mixed,,,of265_049c rfCR: rfCR: colluvium (>75 %) and rock/residual
+of265_049c|rfRC,R,C,mixed,,,of265_049c rfRC: rfRC: rock/residual (75-25 %) and colluvium
+of265_049c|rfgoRC,R,C,mixed,,,of265_049c rfgoRC: rfgoRC: rock/residual (75-25 %) and colluvium
+of265_049c|rfoRC,R,C,mixed,,,of265_049c rfoRC: rfoRC: rock/residual (75-25 %) and colluvium
+of265_049c|rfoRC+M?,R,T,mixed,,,of265_049c rfoRC+M?: rfoRC: rock/residual (75-25 %) and colluvium + M: moraine
+of265_049c|rgfRC+M?,R,T,mixed,,,of265_049c rgfRC+M?: rgfRC: rock/residual (75-25 %) and colluvium + M: moraine
+of265_049c|rgmb+Ff,M,F,mixed,,,of265_049c rgmb+Ff: rgmb: marine beaches + Ff: fluvial/alluvial fan
+of265_049c|rmb,M,,mixed,,,of265_049c rmb: rmb: marine beaches
+of265_049c|roR,R,W,mixed,,,of265_049c roR: roR: rock/residual
+of265_049c|roRC,R,C,mixed,,,of265_049c roRC: roRC: rock/residual (75-25 %) and colluvium
+of265_049c|rsCR,C,R,mixed,,,of265_049c rsCR: rsCR: colluvium (>75 %) and rock/residual
+of265_049c|rsRC,R,C,mixed,,,of265_049c rsRC: rsRC: rock/residual (75-25 %) and colluvium
+of265_049c|rscRC,R,C,mixed,,,of265_049c rscRC: rscRC: rock/residual (75-25 %) and colluvium
+of265_049c|rsoRC,R,C,mixed,,,of265_049c rsoRC: rsoRC: rock/residual (75-25 %) and colluvium
+of265_049c|s$CR,C,R,sand,,,of265_049c s$CR: s$CR: colluvium (>75 %) and rock/residual
+of265_049c|s$Rm,R,M,sand,,,of265_049c s$Rm: s$Rm: marine washed rock/residual
+of265_049c|s$Rm+mv,R,M,sand,,,of265_049c s$Rm+mv: s$Rm: marine washed rock/residual + mv: marine veneer (<1 m)
+of265_049c|s$mv/R,M,R,sand,veneer,,of265_049c s$mv/R: s$mv: marine veneer (<1 m) + R: rock/residual (underlying)
+of265_049c|s$mv/R+Rm,M,R,sand,veneer,,of265_049c s$mv/R+Rm: s$mv: marine veneer (<1 m) + R: rock/residual (underlying) + Rm: marine washed rock/residual
+of265_049c|s$oRC,R,C,sand,,,of265_049c s$oRC: s$oRC: rock/residual (75-25 %) and colluvium
+of265_049c|s$oRC+Rm,R,C,sand,,,of265_049c s$oRC+Rm: s$oRC: rock/residual (75-25 %) and colluvium + Rm: marine washed rock/residual
+of265_049c|s$roRC,R,C,sand,,,of265_049c s$roRC: s$roRC: rock/residual (75-25 %) and colluvium
+of265_049c|sCR,C,R,sand,,,of265_049c sCR: sCR: colluvium (>75 %) and rock/residual
+of265_049c|sFd,F,,sand,,,of265_049c sFd: sFd: fluvial delta
+of265_049c|sFdA,F,,sand,,,of265_049c sFdA: sFdA: fluvial delta
+of265_049c|sFdAI,F,,sand,,,of265_049c sFdAI: sFdAI: fluvial delta
+of265_049c|sFdIA,F,,sand,,,of265_049c sFdIA: sFdIA: fluvial delta
+of265_049c|sFf,F,,sand,,,of265_049c sFf: sFf: fluvial/alluvial fan
+of265_049c|sFp,F,,sand,,,of265_049c sFp: sFp: fluvial plain
+of265_049c|sFpt,F,,sand,,,of265_049c sFpt: sFpt: floodplain and terrace indivisible
+of265_049c|sFt,F,,sand,,,of265_049c sFt: sFt: fluvial terrace (inactive floodplain)
+of265_049c|sRC,R,C,sand,,,of265_049c sRC: sRC: rock/residual (75-25 %) and colluvium
+of265_049c|sRm,R,M,sand,,,of265_049c sRm: sRm: marine washed rock/residual
+of265_049c|sfC+m,C,M,sand,,,of265_049c sfC+m: sfC: colluvial deposits + m: marine plain
+of265_049c|sfFdI,F,,sand,,,of265_049c sfFdI: sfFdI: fluvial delta
+of265_049c|sfFf,F,,sand,,,of265_049c sfFf: sfFf: fluvial/alluvial fan
+of265_049c|sfgFp+mb,F,M,sand,,,of265_049c sfgFp+mb: sfgFp: fluvial plain + mb: marine beaches
+of265_049c|sfgM/sgP,T,F,sand,veneer,,of265_049c sfgM/sgP: sfgM: moraine + sgP: Pleistocene/Pliocene preglacial fluvial gravels (underlying)
+of265_049c|sfm,M,,sand,,,of265_049c sfm: sfm: marine plain
+of265_049c|sfm+C,M,C,sand,,,of265_049c sfm+C: sfm: marine plain + C: colluvial deposits
+of265_049c|sfmk,M,,sand,,,of265_049c sfmk: sfmk: marine plain
+of265_049c|sfmk&pOv/m,M,O,sand,,,of265_049c sfmk&pOv/m: sfmk: marine plain + pOv: organic veneer + m: marine plain (underlying)
+of265_049c|sfmv/R,M,R,sand,veneer,,of265_049c sfmv/R: sfmv: marine veneer (<1 m) + R: rock/residual (underlying)
+of265_049c|sfrCR,C,R,sand,,,of265_049c sfrCR: sfrCR: colluvium (>75 %) and rock/residual
+of265_049c|sgCR,C,R,sand,,,of265_049c sgCR: sgCR: colluvium (>75 %) and rock/residual
+of265_049c|sgF,F,,sand,,,of265_049c sgF: sgF: fluvial
+of265_049c|sgFdA,F,,sand,,,of265_049c sgFdA: sgFdA: fluvial delta
+of265_049c|sgFf,F,,sand,,,of265_049c sgFf: sgFf: fluvial/alluvial fan
+of265_049c|sgFfI,F,,sand,,,of265_049c sgFfI: sgFfI: fluvial/alluvial fan
+of265_049c|sgFpt,F,,sand,,,of265_049c sgFpt: sgFpt: floodplain and terrace indivisible
+of265_049c|sgP,F,,sand,,,of265_049c sgP: sgP: Pleistocene/Pliocene preglacial fluvial gravels
+of265_049c|sgRC,R,C,sand,,,of265_049c sgRC: sgRC: rock/residual (75-25 %) and colluvium
+of265_049c|sgm+mb,M,,sand,,,of265_049c sgm+mb: sgm: marine plain + mb: marine beaches
+of265_049c|sgmb,M,,sand,,,of265_049c sgmb: sgmb: marine beaches
+of265_049c|sgmb&smk,M,,sand,,,of265_049c sgmb&smk: sgmb: marine beaches + smk: marine plain
+of265_049c|sgmb+m,M,,sand,,,of265_049c sgmb+m: sgmb: marine beaches + m: marine plain
+of265_049c|siFd,F,,fines,,,of265_049c siFd: siFd: fluvial delta
+of265_049c|sm+mb,M,,sand,,,of265_049c sm+mb: sm: marine plain + mb: marine beaches
+of265_049c|smb,M,,sand,,,of265_049c smb: smb: marine beaches
+of265_049c|smb+m,M,,sand,,,of265_049c smb+m: smb: marine beaches + m: marine plain
+of265_049c|smb+mk,M,,sand,,,of265_049c smb+mk: smb: marine beaches + mk: marine plain
+of265_049c|smk,M,,sand,,,of265_049c smk: smk: marine plain
+of265_049c|smk&sFpt&pOv/m,M,F,sand,,,of265_049c smk&sFpt&pOv/m: smk: marine plain + sFpt: floodplain and terrace indivisible + pOv: organic veneer + m: marine plain (underlying)
+of265_049c|smv&sgmb,M,,sand,veneer,,of265_049c smv&sgmb: smv: marine veneer (<1 m) + sgmb: marine beaches
+of265_049c|smv/Fd,M,F,sand,veneer,,of265_049c smv/Fd: smv: marine veneer (<1 m) + Fd: fluvial delta (underlying)
+of265_049c|smv/R,M,R,sand,veneer,,of265_049c smv/R: smv: marine veneer (<1 m) + R: rock/residual (underlying)
+of265_049c|smv/R&gsmb,M,R,sand,veneer,,of265_049c smv/R&gsmb: smv: marine veneer (<1 m) + R: rock/residual (underlying) + gsmb: marine beaches
+of265_049c|smv/R+m,M,R,sand,veneer,,of265_049c smv/R+m: smv: marine veneer (<1 m) + R: rock/residual (underlying) + m: marine plain
+of265_049c|srCR,C,R,sand,,,of265_049c srCR: srCR: colluvium (>75 %) and rock/residual
+of265_049c|srRC,R,C,sand,,,of265_049c srRC: srRC: rock/residual (75-25 %) and colluvium
+of265_059d|$Fp+FdA,F,,fines,,,of265_059d $Fp+FdA: $Fp: fluvial plain + FdA: fluvial delta
+of265_059d|$gRC&fgmv,R,M,fines,,,of265_059d $gRC&fgmv: $gRC: rock/residual (75-25 %) and colluvium + fgmv: marine veneer (<1 m)
+of265_059d|$mv/R,M,R,fines,veneer,,of265_059d $mv/R: $mv: marine veneer (<1 m) + R: rock/residual (underlying)
+of265_059d|$mv/R&srmb&pOv,M,R,fines,veneer,,of265_059d $mv/R&srmb&pOv: $mv: marine veneer (<1 m) + R: rock/residual (underlying) + srmb: marine beaches + pOv: organic veneer
+of265_059d|$mv/R&srmb&pOv~p,M,R,fines,veneer,,of265_059d $mv/R&srmb&pOv~p: $mv: marine veneer (<1 m) + R: rock/residual (underlying) + srmb: marine beaches + pOv~p: organic veneer
+of265_059d|$mv/R+C,M,R,fines,veneer,,of265_059d $mv/R+C: $mv: marine veneer (<1 m) + R: rock/residual (underlying) + C: colluvial deposits
+of265_059d|$oRC+Rm,R,C,fines,,,of265_059d $oRC+Rm: $oRC: rock/residual (75-25 %) and colluvium + Rm: marine washed rock/residual
+of265_059d|$rC,C,,fines,,,of265_059d $rC: $rC: colluvial deposits
+of265_059d|$rFp,F,,fines,,,of265_059d $rFp: $rFp: fluvial plain
+of265_059d|$rRC&fgmv,R,M,fines,,,of265_059d $rRC&fgmv: $rRC: rock/residual (75-25 %) and colluvium + fgmv: marine veneer (<1 m)
+of265_059d|$rmb&pOv,M,O,fines,,,of265_059d $rmb&pOv: $rmb: marine beaches + pOv: organic veneer
+of265_059d|$rmv/R+CR,M,R,fines,veneer,,of265_059d $rmv/R+CR: $rmv: marine veneer (<1 m) + R: rock/residual (underlying) + CR: colluvium (>75 %) and rock/residual
+of265_059d|$sC+Rm,C,R,fines,,,of265_059d $sC+Rm: $sC: colluvial deposits + Rm: marine washed rock/residual
+of265_059d|$sFdI,F,,fines,,,of265_059d $sFdI: $sFdI: fluvial delta
+of265_059d|$sRC+Rm,R,C,fines,,,of265_059d $sRC+Rm: $sRC: rock/residual (75-25 %) and colluvium + Rm: marine washed rock/residual
+of265_059d|$smv/R,M,R,fines,veneer,,of265_059d $smv/R: $smv: marine veneer (<1 m) + R: rock/residual (underlying)
+of265_059d|$smv/R+C~p,M,R,fines,veneer,,of265_059d $smv/R+C~p: $smv: marine veneer (<1 m) + R: rock/residual (underlying) + C~p: colluvial deposits
+of265_059d|$soCR,C,R,fines,,,of265_059d $soCR: $soCR: colluvium (>75 %) and rock/residual
+of265_059d|$soCR+m,C,M,fines,,,of265_059d $soCR+m: $soCR: colluvium (>75 %) and rock/residual + m: marine plain
+of265_059d|CR,C,R,unknown,,,of265_059d CR: CR: colluvium (>75 %) and rock/residual
+of265_059d|RC,R,C,unknown,,,of265_059d RC: RC: rock/residual (75-25 %) and colluvium
+of265_059d|f$CR,C,R,fines,,,of265_059d f$CR: f$CR: colluvium (>75 %) and rock/residual
+of265_059d|fRC,R,C,fines,,,of265_059d fRC: fRC: rock/residual (75-25 %) and colluvium
+of265_059d|fmv,M,,fines,veneer,,of265_059d fmv: fmv: marine veneer (<1 m)
+of265_059d|fmv/R,M,R,fines,veneer,,of265_059d fmv/R: fmv: marine veneer (<1 m) + R: rock/residual (underlying)
+of265_059d|fmv/R+m,M,R,fines,veneer,,of265_059d fmv/R+m: fmv: marine veneer (<1 m) + R: rock/residual (underlying) + m: marine plain
+of265_059d|frFp,F,,fines,,,of265_059d frFp: frFp: fluvial plain
+of265_059d|frRC,R,C,fines,,,of265_059d frRC: frRC: rock/residual (75-25 %) and colluvium
+of265_059d|frRC&fgmv,R,M,fines,,,of265_059d frRC&fgmv: frRC: rock/residual (75-25 %) and colluvium + fgmv: marine veneer (<1 m)
+of265_059d|frRC+mv,R,M,fines,,,of265_059d frRC+mv: frRC: rock/residual (75-25 %) and colluvium + mv: marine veneer (<1 m)
+of265_059d|frRC~p,R,C,fines,,,of265_059d frRC~p: frRC~p: rock/residual (75-25 %) and colluvium
+of265_059d|frRm,R,M,fines,,,of265_059d frRm: frRm: marine washed rock/residual
+of265_059d|frRm+mv/R,R,M,fines,,,of265_059d frRm+mv/R: frRm: marine washed rock/residual + mv: marine veneer (<1 m) + R: rock/residual (underlying)
+of265_059d|fsgmv/R,M,R,fines,veneer,,of265_059d fsgmv/R: fsgmv: marine veneer (<1 m) + R: rock/residual (underlying)
+of265_059d|fsm+FdA,M,F,fines,,,of265_059d fsm+FdA: fsm: marine plain + FdA: fluvial delta
+of265_059d|mv/Rp,M,R,unknown,veneer,,of265_059d mv/Rp: mv: marine veneer (<1 m) + Rp: rock/residual (underlying)
+of265_059d|rfRC+Rm,R,C,mixed,,,of265_059d rfRC+Rm: rfRC: rock/residual (75-25 %) and colluvium + Rm: marine washed rock/residual
+of265_059d|rfRCp,R,C,mixed,,,of265_059d rfRCp: rfRCp: rock/residual (75-25 %) and colluvium
+of265_059d|rfRC~p&fmv/R,R,M,mixed,,,of265_059d rfRC~p&fmv/R: rfRC~p: rock/residual (75-25 %) and colluvium + fmv: marine veneer (<1 m) + R: rock/residual (underlying)
+of265_059d|sroRC,R,C,sand,,,of265_059d sroRC: sroRC: rock/residual (75-25 %) and colluvium
+of1275|*R,R,W,unknown,,,"of1275 *R: *R: Rock (rock type number not legible); hummocky topography from glacial erosion (*) (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|*R2,R,W,mixed,,,"of1275 *R2: *R2: Consolidated calcareous clastic rock: calcareous sandstone, siltstone, argillaceous limestone (Ordovician-Devonian); weathers to gravel, sand or sandy silt; hummocky topography from glacial erosion (*) (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|*R2_,R,M,mixed,,,"of1275 *R2_: *R2_: Consolidated calcareous clastic rock: calcareous sandstone, siltstone, argillaceous limestone (Ordovician-Devonian); weathers to gravel, sand or sandy silt; hummocky topography from glacial erosion (*); marine-reworked surface, low lying and poorly drained (underlined) (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|*R3,R,W,mixed,,,"of1275 *R3: *R3: Carbonate and evaporite: limestone, dolomite, gypsum, anhydrite (Ordovician-Devonian); weathers to gravels and silty sand; hummocky topography from glacial erosion (*) (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|*R3_,R,M,mixed,,,"of1275 *R3_: *R3_: Carbonate and evaporite: limestone, dolomite, gypsum, anhydrite (Ordovician-Devonian); weathers to gravels and silty sand; hummocky topography from glacial erosion (*); marine-reworked surface, low lying and poorly drained (underlined) (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|*R5,R,W,mixed,,,"of1275 *R5: *R5: Consolidated noncalcareous coarse clastic rock: sandstone (Devonian); weathers to rubble, gravel and sand; hummocky topography from glacial erosion (*) (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|*cR5,R,W,sand,,,"of1275 *cR5: *cR5: Consolidated noncalcareous coarse clastic rock: sandstone (Devonian); weathers to rubble, gravel and sand; texture modifier c: sand; minor gravel or silt; hummocky topography from glacial erosion (*) (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|*dR5,R,W,bouldery,,,"of1275 *dR5: *dR5: Consolidated noncalcareous coarse clastic rock: sandstone (Devonian); weathers to rubble, gravel and sand; texture modifier d: rock fragments with minor sand or silt; hummocky topography from glacial erosion (*) (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|1a,T,R,diamicton,veneer,,"of1275 1a: 1a: Locally derived till veneer: thin (<2 m) veneer of silty or loamy diamicton, clasts mainly from local bedrock (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|1a/R2+5,T,R,diamicton,veneer,,"of1275 1a/R2+5: 1a/R2+5: thin discontinuous veneer of [Locally derived till veneer: thin (<2 m) veneer of silty or loamy diamicton, clasts mainly from local bedrock] over [Consolidated calcareous clastic rock: calcareous sandstone, siltstone, argillaceous limestone (Ordovician-Devonian); weathers to gravel, sand or sandy silt; with Consolidated noncalcareous coarse clastic rock (R5)] (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|1a/R3,T,R,diamicton,veneer,,"of1275 1a/R3: 1a/R3: thin discontinuous veneer of [Locally derived till veneer: thin (<2 m) veneer of silty or loamy diamicton, clasts mainly from local bedrock] over [Carbonate and evaporite: limestone, dolomite, gypsum, anhydrite (Ordovician-Devonian); weathers to gravels and silty sand] (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|1a_,T,M,diamicton,veneer,,"of1275 1a_: 1a_: Locally derived till veneer: thin (<2 m) veneer of silty or loamy diamicton, clasts mainly from local bedrock; marine-reworked surface, low lying and poorly drained (underlined) (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|1b,T,R,diamicton,veneer,,"of1275 1b: 1b: Mixed till veneer: thin (<2 m) veneer of silty or loamy diamicton, clasts from local and foreign bedrock (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|2a,M,,mixed,,,"of1275 2a: 2a: Raised deltas: stratified gravel, sand and silt deposited at higher sea levels; several to tens of metres thick (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|2b,M,,gravel,,,"of1275 2b: 2b: Raised beach deposits: coarse gravel with sand and silt in stepwise berms and swales; generally <2 m thick (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|2c,M,,fines,veneer,,"of1275 2c: 2c: Undifferentiated shore and nearshore deposits: fine sand and silt; discontinuous veneer generally <1 m thick (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|2c/*R2,M,R,fines,veneer,,"of1275 2c/*R2: 2c/*R2: thin discontinuous veneer of [Undifferentiated shore and nearshore deposits: fine sand and silt; discontinuous veneer generally <1 m thick] over [Consolidated calcareous clastic rock: calcareous sandstone, siltstone, argillaceous limestone (Ordovician-Devonian); weathers to gravel, sand or sandy silt; hummocky topography from glacial erosion (*)] (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|2c/*R3,M,R,fines,veneer,,"of1275 2c/*R3: 2c/*R3: thin discontinuous veneer of [Undifferentiated shore and nearshore deposits: fine sand and silt; discontinuous veneer generally <1 m thick] over [Carbonate and evaporite: limestone, dolomite, gypsum, anhydrite (Ordovician-Devonian); weathers to gravels and silty sand; hummocky topography from glacial erosion (*)] (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|2c/*R5,M,R,fines,veneer,,"of1275 2c/*R5: 2c/*R5: thin discontinuous veneer of [Undifferentiated shore and nearshore deposits: fine sand and silt; discontinuous veneer generally <1 m thick] over [Consolidated noncalcareous coarse clastic rock: sandstone (Devonian); weathers to rubble, gravel and sand; hummocky topography from glacial erosion (*)] (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|2c/R,M,R,fines,veneer,,"of1275 2c/R: 2c/R: thin discontinuous veneer of [Undifferentiated shore and nearshore deposits: fine sand and silt; discontinuous veneer generally <1 m thick] over [Rock (rock type number not legible)] (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|2c/R1,M,R,fines,veneer,,"of1275 2c/R1: 2c/R1: thin discontinuous veneer of [Undifferentiated shore and nearshore deposits: fine sand and silt; discontinuous veneer generally <1 m thick] over [Unconsolidated coarse clastic rock: gravel, sand, diamicton of Cretaceous to Tertiary age] (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|2c/R2,M,R,fines,veneer,,"of1275 2c/R2: 2c/R2: thin discontinuous veneer of [Undifferentiated shore and nearshore deposits: fine sand and silt; discontinuous veneer generally <1 m thick] over [Consolidated calcareous clastic rock: calcareous sandstone, siltstone, argillaceous limestone (Ordovician-Devonian); weathers to gravel, sand or sandy silt] (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|2c/R2+4,M,R,fines,veneer,,"of1275 2c/R2+4: 2c/R2+4: thin discontinuous veneer of [Undifferentiated shore and nearshore deposits: fine sand and silt; discontinuous veneer generally <1 m thick] over [Consolidated calcareous clastic rock: calcareous sandstone, siltstone, argillaceous limestone (Ordovician-Devonian); weathers to gravel, sand or sandy silt; with Weakly to moderately consolidated shale and siltstone (Devonian); weathers to silt or silty clay (R4)] (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|2c/R2+5,M,R,fines,veneer,,"of1275 2c/R2+5: 2c/R2+5: thin discontinuous veneer of [Undifferentiated shore and nearshore deposits: fine sand and silt; discontinuous veneer generally <1 m thick] over [Consolidated calcareous clastic rock: calcareous sandstone, siltstone, argillaceous limestone (Ordovician-Devonian); weathers to gravel, sand or sandy silt; with Consolidated noncalcareous coarse clastic rock (R5)] (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|2c/R2+R3,M,R,fines,veneer,,"of1275 2c/R2+R3: 2c/R2+R3: thin discontinuous veneer of [Undifferentiated shore and nearshore deposits: fine sand and silt; discontinuous veneer generally <1 m thick] over [Consolidated calcareous clastic rock: calcareous sandstone, siltstone, argillaceous limestone (Ordovician-Devonian); weathers to gravel, sand or sandy silt; with Carbonate and evaporite (R3)] (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|2c/R3,M,R,fines,veneer,,"of1275 2c/R3: 2c/R3: thin discontinuous veneer of [Undifferentiated shore and nearshore deposits: fine sand and silt; discontinuous veneer generally <1 m thick] over [Carbonate and evaporite: limestone, dolomite, gypsum, anhydrite (Ordovician-Devonian); weathers to gravels and silty sand] (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|2c/R3+5,M,R,fines,veneer,,"of1275 2c/R3+5: 2c/R3+5: thin discontinuous veneer of [Undifferentiated shore and nearshore deposits: fine sand and silt; discontinuous veneer generally <1 m thick] over [Carbonate and evaporite: limestone, dolomite, gypsum, anhydrite (Ordovician-Devonian); weathers to gravels and silty sand; with Consolidated noncalcareous coarse clastic rock (R5)] (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|2c/R5,M,R,fines,veneer,,"of1275 2c/R5: 2c/R5: thin discontinuous veneer of [Undifferentiated shore and nearshore deposits: fine sand and silt; discontinuous veneer generally <1 m thick] over [Consolidated noncalcareous coarse clastic rock: sandstone (Devonian); weathers to rubble, gravel and sand] (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|2c/cR5,M,R,fines,veneer,,"of1275 2c/cR5: 2c/cR5: thin discontinuous veneer of [Undifferentiated shore and nearshore deposits: fine sand and silt; discontinuous veneer generally <1 m thick] over [Consolidated noncalcareous coarse clastic rock: sandstone (Devonian); weathers to rubble, gravel and sand; texture modifier c: sand; minor gravel or silt] (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|2c/dR5,M,R,fines,veneer,,"of1275 2c/dR5: 2c/dR5: thin discontinuous veneer of [Undifferentiated shore and nearshore deposits: fine sand and silt; discontinuous veneer generally <1 m thick] over [Consolidated noncalcareous coarse clastic rock: sandstone (Devonian); weathers to rubble, gravel and sand; texture modifier d: rock fragments with minor sand or silt] (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|3a,F,,gravel,,,"of1275 3a: 3a: Modern floodplain deposits: stratified gravel with sand and silt; active braided channels and annually flooded terraces (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|3a+b,F,,gravel,,,"of1275 3a+b: 3a+b: Modern floodplain and older terrace deposits, undivided (3a + 3b): stratified gravel with sand and silt (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|3b,F,,gravel,,,"of1275 3b: 3b: Older terrace deposits: stratified and cobbly gravel with minor sand and silt; polygonised terrace surfaces (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|3c,F,,fines,,,"of1275 3c: 3c: Deltaic deposits: fine sand and silt, stratified, up to 50 m thick; possibly proglacial (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|4a,C,,fines,,,"of1275 4a: 4a: Colluvial fine grained deposits: loam or silty loam with minor carbonate clasts, commonly <2 m thick, on lower slopes and valley floors (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|4a/R2,C,R,fines,veneer,,"of1275 4a/R2: 4a/R2: thin discontinuous veneer of [Colluvial fine grained deposits: loam or silty loam with minor carbonate clasts, commonly <2 m thick, on lower slopes and valley floors] over [Consolidated calcareous clastic rock: calcareous sandstone, siltstone, argillaceous limestone (Ordovician-Devonian); weathers to gravel, sand or sandy silt] (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|4a/R4,C,R,fines,veneer,,"of1275 4a/R4: 4a/R4: thin discontinuous veneer of [Colluvial fine grained deposits: loam or silty loam with minor carbonate clasts, commonly <2 m thick, on lower slopes and valley floors] over [Weakly to moderately consolidated shale and siltstone (Devonian); weathers to silt or silty clay] (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|4b,C,,bouldery,,,"of1275 4b: 4b: Talus: coarse rock debris with variable fines, <1 to several metres thick, at the base of cliffs and steep slopes (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|R,R,W,unknown,,,"of1275 R: R: Rock (rock type number not legible) (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|R1,R,,mixed,,,"of1275 R1: R1: Unconsolidated coarse clastic rock: gravel, sand, diamicton of Cretaceous to Tertiary age (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|R2,R,W,mixed,,,"of1275 R2: R2: Consolidated calcareous clastic rock: calcareous sandstone, siltstone, argillaceous limestone (Ordovician-Devonian); weathers to gravel, sand or sandy silt (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|R2_,R,M,mixed,,,"of1275 R2_: R2_: Consolidated calcareous clastic rock: calcareous sandstone, siltstone, argillaceous limestone (Ordovician-Devonian); weathers to gravel, sand or sandy silt; marine-reworked surface, low lying and poorly drained (underlined) (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|R3,R,W,mixed,,,"of1275 R3: R3: Carbonate and evaporite: limestone, dolomite, gypsum, anhydrite (Ordovician-Devonian); weathers to gravels and silty sand (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|R4,R,W,fines,,,"of1275 R4: R4: Weakly to moderately consolidated shale and siltstone (Devonian); weathers to silt or silty clay (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|R5,R,W,mixed,,,"of1275 R5: R5: Consolidated noncalcareous coarse clastic rock: sandstone (Devonian); weathers to rubble, gravel and sand (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|R5_,R,M,mixed,,,"of1275 R5_: R5_: Consolidated noncalcareous coarse clastic rock: sandstone (Devonian); weathers to rubble, gravel and sand; marine-reworked surface, low lying and poorly drained (underlined) (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|aR1,R,,fines,,,"of1275 aR1: aR1: Unconsolidated coarse clastic rock: gravel, sand, diamicton of Cretaceous to Tertiary age; texture modifier a: fine grained: silt and clay (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|bR1,R,,mixed,,,"of1275 bR1: bR1: Unconsolidated coarse clastic rock: gravel, sand, diamicton of Cretaceous to Tertiary age; texture modifier b: mixed sand and gravel (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|cR2,R,W,sand,,,"of1275 cR2: cR2: Consolidated calcareous clastic rock: calcareous sandstone, siltstone, argillaceous limestone (Ordovician-Devonian); weathers to gravel, sand or sandy silt; texture modifier c: sand; minor gravel or silt (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|cR5,R,W,sand,,,"of1275 cR5: cR5: Consolidated noncalcareous coarse clastic rock: sandstone (Devonian); weathers to rubble, gravel and sand; texture modifier c: sand; minor gravel or silt (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of1275|dR5,R,W,bouldery,,,"of1275 dR5: dR5: Consolidated noncalcareous coarse clastic rock: sandstone (Devonian); weathers to rubble, gravel and sand; texture modifier d: rock fragments with minor sand or silt (GSC OF 1275, Edlund 1986, Bathurst Island area and Byam Martin Island, 1:250 000)"
+of48_097c|A,F,,mixed,,,"of48_097c A: A: alluvium and low terraces; flood plains, fans, deltas - mainly sand, gravel and silt (GSC OF 48, Klassen 1971, Franklin Bay 97C and Brock River 97D, 1:250 000)"
+of48_097c|Cx,C,R,mixed,,,"of48_097c Cx: Cx: colluvial complex: colluvium, bedrock, talus, slope deposits (GSC OF 48, Klassen 1971)"
+of48_097c|H,GF,,gravel,,,"of48_097c H: H: hummocky gravel (GSC OF 48, Klassen 1971)"
+of48_097c|L,L,O,fines,,,"of48_097c L: L: lacustrine deposits, extensive organic deposits, areas of thermokarst lakes, generally underlain by silt, sand and clay or peat (GSC OF 48, Klassen 1971)"
+of48_097c|M,T,GF,diamicton,,,"of48_097c M: M: moraine unit, subscript not legible on the scan (Mt hummocky terrain or Mx moraine complex: mainly till, locally gravel) (GSC OF 48, Klassen 1971)"
+of48_097c|Mt,T,GF,diamicton,,,"of48_097c Mt: Mt: hummocky terrain; mainly till but locally and in part gravel (GSC OF 48, Klassen 1971)"
+of48_097c|Mx,T,GF,diamicton,,,"of48_097c Mx: Mx: moraine complex; transverse ridges and hummocks, mainly till but in part and locally gravel (GSC OF 48, Klassen 1971)"
+of48_097c|R,T,R,unknown,discontinuous,,"of48_097c R: R: areas of thin and patchy drift, rock outcrop and soliflucted uplands (GSC OF 48, Klassen 1971); coded till first (thin drift is named first; on 97D the newer CGM 112 maps 72 % of these areas as till Tb/Th/Tv and 17 % as bedrock)"
+of48_097c|Tk,GF,,gravel,,,"of48_097c Tk: Tk: kettled terraces and outwash trains; dominantly sand and gravel (GSC OF 48, Klassen 1971)"
+of48_097c|To,GF,F,gravel,,,"of48_097c To: To: high terraces and outwash trains; dominantly sand and gravel (GSC OF 48, Klassen 1971)"
+of48_097c|UD,T,R,unknown,,,"of48_097c UD: No unit symbol: legend NOTE, areas not designated as one of the units comprise undifferentiated drift or thin undifferentiated drift on rock (GSC OF 48, Klassen 1971): drift (till-dominated) or thin drift on rock, undivided"

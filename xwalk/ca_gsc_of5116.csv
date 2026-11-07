@@ -1,0 +1,10 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+Ice,I,,unknown,unknown,unknown,Map 1536A unit Ice: Glacier ice
+8,C,,bouldery,unknown,yes,Map 1536A unit 8: Colluvium (scree): extensive accumulations of blocks 0.5-1.5 m with interstitial ice and sandy gravel at the bases of bedrock cliffs; in many places flowed downslope to form rock glaciers (rock-glacierized scree)
+7,GF,F,gravel,unknown,unknown,"Map 1536A unit 7: Active proglacial alluvium (outwash): sorted and stratified gravels and sands forming large floodplains, seasonally flooded, shifting braided channels"
+6,GF,F,gravel,unknown,unknown,Map 1536A unit 6: Inactive alluvium: predominantly terraced proglacial outwash gravels and sands; inactive to intermittently active alluvial fans of boulder gravel
+5,GL,T,mixed,unknown,unknown,"Map 1536A unit 5: Areas inundated by former glacier-dammed lakes: wave-modified till, beach sand and gravel, deltaic gravel, sand and silt, and bedrock"
+4,M,,mixed,blanket,unknown,"Map 1536A unit 4: Emerged marine sediment: mainly thick (>10 m) deltaic gravel, sand and silt, minor beach gravel and wave-modified till"
+3,T,,diamicton,blanket,unknown,"Map 1536A unit 3: Till (ground moraine): diamicton 1-2 m thick, ice cored near existing glaciers; 20-50 % gravel, >= 60 % sand, < 10 % clay; numerous small ice-moulded bedrock outcrops; locally rock-glacierized till"
+2,W,R,bouldery,veneer,unknown,"Map 1536A unit 2: Residuum: predominantly felsenmeer (blockfields) with interstitial grus, about 1 m thick over bedrock on broad summits; glacial erratics and till mixed in by cryoturbation"
+1,R,T,unknown,unknown,unknown,"Map 1536A unit 1: Bedrock: ice-moulded, hilly to gently rolling plateau surfaces with lakes and ponds, overlain in many places by small thin patches of till and erratic boulders; steep in deeply dissected areas"

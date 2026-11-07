@@ -2,121 +2,123 @@
  "sheet": "O-42-XV",
  "source": "raster scan",
  "projection": "tmerc",
- "rms_m": 199.95132861065616,
- "max_res_m": 203.23515890204462,
- "m_per_px": 17.125515888414444,
+ "rms_m": 36.274597814114486,
+ "max_res_m": 36.66946003444,
+ "m_per_px": 16.98318855284843,
  "corner_residuals_m": [
-  203.2,
-  203.1,
-  196.6,
-  196.7
+  36.7,
+  36.6,
+  35.9,
+  35.9
  ],
  "corners": [
   {
    "approx": [
-    1133.0,
-    372.0
+    1136.0,
+    374.0
    ],
    "snapped": [
-    1145.5,
-    375.5
+    1136.0,
+    374.0
    ],
-   "ok": true
+   "ok": "measured"
   },
   {
    "approx": [
-    4509.0,
+    4549.0,
     377.0
    ],
    "snapped": [
-    4509.0,
+    4549.0,
     377.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    4569.0,
-    4848.0
+    4577.0,
+    4753.0
    ],
    "snapped": [
-    4569.0,
-    4848.0
+    4577.0,
+    4753.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    1104.0,
-    4842.0
+    1094.0,
+    4743.0
    ],
    "snapped": [
-    1094.5,
-    4843.5
+    1094.0,
+    4743.0
    ],
-   "ok": true
+   "ok": "measured"
   }
  ],
- "unassigned_before_fill": 0.235,
- "area_km2": 4345.228141255449,
+ "frame_sag_px": 6.4,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/O-42-XV/o-42-xv-geologicheskaya-karta-sssr-seriya-tobolskaya-karta-chetvertichnyh-otlozhe.jpg O-42-XV ../sources/legend_O-42-XV.csv ../work/jpgvec/O-42-XV.gpkg --datum 4284 --corners '1136,374;4549,377;4577,4753;1094,4743' --mmu 60 --no-snap",
+ "unassigned_before_fill": 0.238,
+ "area_km2": 4349.866346688414,
  "neatline_km2": 4350.223406849835,
- "cover_frac": 0.9988517220548904,
- "n_polygons": 8278,
+ "cover_frac": 0.9999179214196543,
+ "n_polygons": 8141,
  "units": {
   "#dbdbd0": {
    "index": "hIV",
-   "px": 1092319,
-   "direct_frac": 0.745
+   "px": 819109,
+   "direct_frac": 0.708
   },
   "#fcfabe": {
    "index": "eolIV",
-   "px": 45269,
-   "direct_frac": 0.248
+   "px": 47285,
+   "direct_frac": 0.255
   },
   "#ebf7d3": {
    "index": "alIV2",
-   "px": 1318657,
+   "px": 1318886,
    "direct_frac": 0.571
   },
   "#dff7c3": {
    "index": "alIV1",
-   "px": 1430907,
+   "px": 1432624,
    "direct_frac": 0.688
   },
   "#f5e9ca": {
    "index": "d+plIII-IV",
-   "px": 453121,
-   "direct_frac": 0.407
+   "px": 451120,
+   "direct_frac": 0.404
   },
   "#c1c9c0": {
    "index": "l+hIII-IV",
-   "px": 3539938,
-   "direct_frac": 0.577
+   "px": 3596648,
+   "direct_frac": 0.579
   },
   "#d5faba": {
    "index": "alIII1",
-   "px": 1219103,
-   "direct_frac": 0.816
+   "px": 1217499,
+   "direct_frac": 0.817
   },
   "#fbe694": {
    "index": "prIII",
-   "px": 5800602,
+   "px": 5852068,
    "direct_frac": 0.784
   },
   "#e1f0d6": {
    "index": "lalIII",
-   "px": 237686,
-   "direct_frac": 0.565
+   "px": 214138,
+   "direct_frac": 0.544
   },
   "#cee4cb": {
    "index": "lalIIsm",
-   "px": 52797,
-   "direct_frac": 0.439
+   "px": 51333,
+   "direct_frac": 0.437
   },
   "#acddb8": {
    "index": "alIItb",
-   "px": 77153,
-   "direct_frac": 0.335
+   "px": 77239,
+   "direct_frac": 0.334
   },
   "#dfb9ce": {
    "index": "PREQ",

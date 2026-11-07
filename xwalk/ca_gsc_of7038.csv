@@ -1,0 +1,10 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+Mn,M,,gravel,unknown,unknown,"OF7038 Mn: marine littoral: sand and gravel, raised beaches"
+Mb,M,,fines,blanket,unknown,"OF7038 Mb: marine blanket: silt, clay, mud"
+GF,GF,,gravel,unknown,unknown,OF7038 GF: glaciofluvial sand and gravel (may include fluvial)
+Tv,T,R,diamicton,veneer,unknown,OF7038 Tv: till veneer < 1-2 m with outcrop
+Tb,T,,diamicton,blanket,unknown,OF7038 Tb: till blanket > 1-2 m
+T,T,,diamicton,unknown,unknown,"OF7038 T: carbonate till, undifferentiated"
+O,O,,organic,unknown,unknown,"OF7038 O: organic deposits: fen, bog"
+R,R,,unknown,unknown,unknown,"OF7038 R: crystalline bedrock, rubble; patches of till veneer"
+U,DROP,,unknown,unknown,unknown,OF7038 U: undifferentiated (wet ground / slopes >= 8 deg): dropped so a coarser source fills it

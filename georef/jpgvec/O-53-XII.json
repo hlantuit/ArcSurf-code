@@ -2,14 +2,14 @@
  "sheet": "O-53-XII",
  "source": "raster scan",
  "projection": "tmerc",
- "rms_m": 2.2346035567841773,
- "max_res_m": 2.2562685123775736,
- "m_per_px": 16.962471652438353,
+ "rms_m": 10.215143437954605,
+ "max_res_m": 10.317758197838524,
+ "m_per_px": 16.924973961227344,
  "corner_residuals_m": [
-  2.3,
-  2.3,
-  2.2,
-  2.2
+  10.3,
+  10.3,
+  10.1,
+  10.1
  ],
  "corners": [
   {
@@ -21,29 +21,29 @@
     593.0,
     818.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    3947.0,
+    3954.0,
     818.0
    ],
    "snapped": [
-    3947.0,
+    3954.0,
     818.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    3979.0,
-    5206.0
+    3987.0,
+    5204.0
    ],
    "snapped": [
-    3979.0,
-    5206.0
+    3987.0,
+    5204.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -54,65 +54,65 @@
     559.0,
     5206.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
  "frame_sag_px": 6.4,
- "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/O-53-XII/o-53-xii-verhove-r-iotkan-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-f_1.jpg O-53-XII ../sources/legend_O-53-XII.csv ../work/jpgvec/O-53-XII.gpkg --datum 4284 --corners '593,818;3947,818;3979,5206;559,5206' --mmu 60",
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/O-53-XII/o-53-xii-verhove-r-iotkan-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-f_1.jpg O-53-XII ../sources/legend_O-53-XII.csv ../work/jpgvec/O-53-XII.gpkg --datum 4284 --corners '593,818;3954,818;3987,5204;559,5206' --mmu 60 --no-snap",
  "unassigned_before_fill": 0.073,
- "area_km2": 4268.192592618377,
+ "area_km2": 4268.19736129227,
  "neatline_km2": 4268.4470728134065,
- "cover_frac": 0.9999403810822323,
- "n_polygons": 1493,
+ "cover_frac": 0.9999414982739914,
+ "n_polygons": 1494,
  "units": {
   "#d6cecc": {
    "index": "tH",
-   "px": 19385,
-   "direct_frac": 0.602
+   "px": 19308,
+   "direct_frac": 0.599
   },
   "#f9f9cd": {
    "index": "aH",
-   "px": 641490,
+   "px": 641639,
    "direct_frac": 0.773
   },
   "#ffd4b0": {
    "index": "e,dIII-H",
-   "px": 672006,
+   "px": 673067,
    "direct_frac": 0.909
   },
   "#ffc4a7": {
    "index": "d,cIII-H",
-   "px": 5507299,
+   "px": 5516498,
    "direct_frac": 0.89
   },
   "#f5c1a7": {
    "index": "d,drIII-H",
-   "px": 5290520,
+   "px": 5302536,
    "direct_frac": 0.881
   },
   "#ffc0aa": {
    "index": "d,sIII-H",
-   "px": 1766514,
+   "px": 1770013,
    "direct_frac": 0.891
   },
   "#f7d9ae": {
    "index": "p,dIII-H",
-   "px": 209196,
+   "px": 209542,
    "direct_frac": 0.884
   },
   "#ddf5b6": {
    "index": "a1III3-4",
-   "px": 337197,
+   "px": 338857,
    "direct_frac": 0.809
   },
   "#d5f2a4": {
    "index": "a2III1-2",
-   "px": 275811,
-   "direct_frac": 0.86
+   "px": 276881,
+   "direct_frac": 0.861
   },
   "#c9f0a3": {
    "index": "a3II",
-   "px": 157278,
+   "px": 157873,
    "direct_frac": 0.858
   }
  },

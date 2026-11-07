@@ -1,0 +1,6 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+svarðloysi,C,R,bouldery,,,scree / bare ground (no turf)
+hellusvað,R,,,,,bare rock flats
+mýra,O,,organic,,,mire
+vatn,DROP,,,,,water
+REGOLITH,W,T,mixed,veneer,,"thin till / regolith over basalt, INFERRED (infield, heath or no habitat polygon)"

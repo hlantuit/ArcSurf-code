@@ -2,14 +2,14 @@
  "sheet": "M-50-VII",
  "source": "raster scan",
  "projection": "tmerc",
- "rms_m": 2.901048774624825,
- "max_res_m": 2.9219991931677214,
- "m_per_px": 16.953211259701646,
+ "rms_m": 19.72274977771584,
+ "max_res_m": 19.87456593470415,
+ "m_per_px": 16.944959827848866,
  "corner_residuals_m": [
-  2.9,
-  2.9,
-  2.9,
-  2.9
+  19.9,
+  19.9,
+  19.6,
+  19.6
  ],
  "corners": [
   {
@@ -21,7 +21,7 @@
     765.0,
     1010.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -32,60 +32,62 @@
     4874.0,
     1010.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    4900.0,
-    5398.0
+    4908.0,
+    5389.0
    ],
    "snapped": [
-    4900.0,
-    5398.0
+    4908.0,
+    5389.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    731.0,
-    5398.0
+    735.0,
+    5389.0
    ],
    "snapped": [
-    731.0,
-    5398.0
+    735.0,
+    5389.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
- "unassigned_before_fill": 0.08,
- "area_km2": 5201.560764579531,
+ "frame_sag_px": 7.0,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/M-50-VII/m-50-vii-aginskoe-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federac_1.jpg M-50-VII ../sources/legend_M-50-VII.csv ../work/jpgvec/M-50-VII.gpkg --datum 4284 --corners '765,1010;4874,1010;4908,5389;735,5389' --mmu 60 --no-snap",
+ "unassigned_before_fill": 0.079,
+ "area_km2": 5207.121205083019,
  "neatline_km2": 5206.450702608953,
- "cover_frac": 0.9990607924075855,
- "n_polygons": 15996,
+ "cover_frac": 1.0001287830255898,
+ "n_polygons": 15934,
  "units": {
   "#d9b37b": {
    "index": "p,d",
-   "px": 13196,
-   "direct_frac": 0.479
+   "px": 11515,
+   "direct_frac": 0.522
   },
   "#db7187": {
    "index": "dr,s",
-   "px": 69861,
-   "direct_frac": 0.733
+   "px": 69984,
+   "direct_frac": 0.732
   },
   "#ec8979": {
    "index": "d,s",
-   "px": 3095239,
-   "direct_frac": 0.803
+   "px": 3094737,
+   "direct_frac": 0.804
   },
   "#e9796e": {
    "index": "c,dr",
-   "px": 676804,
+   "px": 676813,
    "direct_frac": 0.89
   },
   "#df868c": {
    "index": "d,dr",
-   "px": 2201092,
+   "px": 2200331,
    "direct_frac": 0.829
   },
   "#de84aa": {
@@ -95,88 +97,88 @@
   },
   "#ef996a": {
    "index": "c,d",
-   "px": 708118,
+   "px": 707890,
    "direct_frac": 0.775
   },
   "#ee9b77": {
    "index": "e,d",
-   "px": 788736,
-   "direct_frac": 0.846
+   "px": 789635,
+   "direct_frac": 0.848
   },
   "#e87877": {
    "index": "s",
-   "px": 102427,
-   "direct_frac": 0.792
+   "px": 102415,
+   "direct_frac": 0.793
   },
   "#cd818e": {
    "index": "dr",
-   "px": 2440535,
-   "direct_frac": 0.806
+   "px": 2438267,
+   "direct_frac": 0.807
   },
   "#e7785f": {
    "index": "c",
-   "px": 616614,
-   "direct_frac": 0.774
+   "px": 615833,
+   "direct_frac": 0.775
   },
   "#efa36a": {
    "index": "d",
-   "px": 1943788,
-   "direct_frac": 0.842
+   "px": 1946237,
+   "direct_frac": 0.843
   },
   "#b472a2": {
    "index": "e",
-   "px": 461547,
-   "direct_frac": 0.872
+   "px": 460525,
+   "direct_frac": 0.873
   },
   "#aeadab": {
    "index": "tH",
-   "px": 63769,
-   "direct_frac": 0.602
+   "px": 63481,
+   "direct_frac": 0.603
   },
   "#e9e29e": {
    "index": "a,pH",
-   "px": 39314,
-   "direct_frac": 0.773
+   "px": 41878,
+   "direct_frac": 0.78
   },
   "#98d3f5": {
    "index": "lH",
-   "px": 297001,
+   "px": 298154,
    "direct_frac": 0.825
   },
   "#f0dfae": {
    "index": "pH",
-   "px": 87018,
-   "direct_frac": 0.629
+   "px": 85538,
+   "direct_frac": 0.638
   },
   "#d1e7b7": {
    "index": "aH",
-   "px": 2416355,
+   "px": 2413874,
    "direct_frac": 0.818
   },
   "#d1a86a": {
    "index": "p,dIIIos-H",
-   "px": 124063,
-   "direct_frac": 0.622
+   "px": 123190,
+   "direct_frac": 0.626
   },
   "#cbe4ab": {
    "index": "a2IIIst-os",
-   "px": 859903,
-   "direct_frac": 0.772
+   "px": 856642,
+   "direct_frac": 0.775
   },
   "#8dca91": {
    "index": "a4IIIsv-tm",
-   "px": 40487,
-   "direct_frac": 0.741
+   "px": 40215,
+   "direct_frac": 0.746
   },
   "#68bd81": {
    "index": "a5II5-6br",
-   "px": 71946,
+   "px": 72173,
    "direct_frac": 0.86
   },
   "#67b27a": {
    "index": "a6II3-5hb",
-   "px": 284300,
-   "direct_frac": 0.803
+   "px": 284354,
+   "direct_frac": 0.808
   },
   "#31b3ec": {
    "index": "lPgl-Ecs",
@@ -190,7 +192,7 @@
   },
   "#9a5a9e": {
    "index": "PREQ",
-   "px": 236459,
+   "px": 236387,
    "direct_frac": 0.773
   },
   "#c09fc4": {

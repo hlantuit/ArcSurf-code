@@ -2,92 +2,92 @@
  "sheet": "Q-39_g3",
  "source": "raster scan",
  "projection": "eqdc",
- "rms_m": 70.91953859095564,
- "max_res_m": 76.24023026911331,
- "m_per_px": 126.45567279495407,
+ "rms_m": 112.81772747025224,
+ "max_res_m": 121.19743370948709,
+ "m_per_px": 127.1101828305825,
  "corner_residuals_m": [
-  76.2,
-  76.2,
-  65.2,
-  65.2
+  121.2,
+  121.2,
+  103.8,
+  103.8
  ],
  "corners": [
   {
    "approx": [
-    261.0,
-    76.0
+    268.0,
+    84.0
    ],
    "snapped": [
-    261.0,
-    76.0
+    268.0,
+    84.0
    ],
-   "ok": "rejected (moved > 15 px)"
+   "ok": "measured"
   },
   {
    "approx": [
-    2246.0,
-    76.0
+    2244.0,
+    84.0
    ],
    "snapped": [
-    2246.0,
-    76.0
+    2244.0,
+    84.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    2418.0,
-    3596.0
+    2410.0,
+    3590.0
    ],
    "snapped": [
-    2418.0,
-    3596.0
+    2410.0,
+    3590.0
    ],
-   "ok": "rejected (moved > 15 px)"
+   "ok": "measured"
   },
   {
    "approx": [
-    97.0,
-    3594.0
+    102.0,
+    3590.0
    ],
    "snapped": [
-    97.0,
-    3594.0
+    102.0,
+    3590.0
    ],
-   "ok": "rejected (moved > 15 px)"
+   "ok": "measured"
   }
  ],
- "frame_sag_px": 27.7,
- "argv": "jpg_to_polygons.py extract ../work/gk1m_leg/Q-39_g3_map.png Q-39_g3 ../sources/legend_Q-39_g3.csv ../work/facefix/Q-39_g3.gpkg --lonlat 48,64,54,68 --datum 4284 --corners '261,76;2246,76;2418,3596;97,3594' --mmu 30",
- "unassigned_before_fill": 0.148,
- "area_km2": 121480.84366300056,
+ "frame_sag_px": 27.6,
+ "argv": "jpg_to_polygons.py extract ../work/gk1m_leg/Q-39_g3_map.png Q-39_g3 ../sources/legend_Q-39_g3.csv ../work/facefix/Q-39_g3.gpkg --lonlat 48,64,54,68 --datum 4284 --corners '268,84;2244,84;2410,3590;102,3590' --mmu 30 --no-snap",
+ "unassigned_before_fill": 0.147,
+ "area_km2": 121480.484913145,
  "neatline_km2": 121489.0205685983,
- "cover_frac": 0.9999326942833232,
- "n_polygons": 13187,
+ "cover_frac": 0.9999297413427704,
+ "n_polygons": 12967,
  "units": {
   "#f7aac6": {
    "index": "e,dIII-H",
-   "px": 357674,
-   "direct_frac": 0.581
+   "px": 357572,
+   "direct_frac": 0.582
   },
   "#98d8de": {
    "index": "lIII-H",
-   "px": 15331,
-   "direct_frac": 0.502
+   "px": 14655,
+   "direct_frac": 0.509
   },
   "#fffa94": {
    "index": "vIIIpl-H",
-   "px": 3724,
+   "px": 3659,
    "direct_frac": 0.599
   },
   "#73f2a6": {
    "index": "amdIIIpl-H",
-   "px": 182852,
-   "direct_frac": 0.76
+   "px": 181638,
+   "direct_frac": 0.761
   },
   "#73bff2": {
    "index": "m?IIIpl-H",
-   "px": 1762,
+   "px": 1759,
    "direct_frac": 0.491
   },
   "#7ae6e6": {
@@ -97,68 +97,68 @@
   },
   "#ccff80": {
    "index": "ar-1IIIpl-H|a2IIIbz-pl",
-   "px": 380410,
+   "px": 379281,
    "direct_frac": 0.71
   },
   "#b8f1bd": {
    "index": "a1IIIpl-H",
-   "px": 699643,
+   "px": 698393,
    "direct_frac": 0.738
   },
   "#a6ffc2": {
    "index": "la2IIIpl-H|laoIIIbz",
-   "px": 96864,
+   "px": 96669,
    "direct_frac": 0.666
   },
   "#66ff94": {
    "index": "a,la2oIIIpl-H",
-   "px": 11691,
+   "px": 11719,
    "direct_frac": 0.646
   },
   "#f0ffb5": {
    "index": "aH",
-   "px": 186196,
-   "direct_frac": 0.768
+   "px": 164549,
+   "direct_frac": 0.808
   },
   "#a6ffff": {
    "index": "lH|l,lgIIIpl",
-   "px": 103574,
-   "direct_frac": 0.756
+   "px": 103893,
+   "direct_frac": 0.754
   },
   "#b5e0ff": {
    "index": "mH",
-   "px": 27150,
-   "direct_frac": 0.892
+   "px": 27209,
+   "direct_frac": 0.89
   },
   "#a6ffed": {
    "index": "mv,mfH",
-   "px": 47690,
-   "direct_frac": 0.857
+   "px": 47580,
+   "direct_frac": 0.858
   },
   "#a6dbff": {
    "index": "mpH",
-   "px": 46130,
-   "direct_frac": 0.853
+   "px": 46546,
+   "direct_frac": 0.846
   },
   "#a6ffc9": {
    "index": "amdH|lgnIIIpl|lgprIIIpl",
-   "px": 4795,
-   "direct_frac": 0.696
+   "px": 4662,
+   "direct_frac": 0.699
   },
   "#dcdcdc": {
    "index": "plH",
-   "px": 297340,
-   "direct_frac": 0.752
+   "px": 263100,
+   "direct_frac": 0.747
   },
   "#ebab80": {
    "index": "gbnIIIpl",
-   "px": 77871,
-   "direct_frac": 0.687
+   "px": 77663,
+   "direct_frac": 0.688
   },
   "#f1d1a7": {
    "index": "gkIIIpl",
-   "px": 389928,
-   "direct_frac": 0.718
+   "px": 388596,
+   "direct_frac": 0.719
   },
   "#d67a42": {
    "index": "gklIIIpl",
@@ -167,8 +167,8 @@
   },
   "#a3ba47": {
    "index": "fIIIpl",
-   "px": 272891,
-   "direct_frac": 0.686
+   "px": 272062,
+   "direct_frac": 0.688
   },
   "#80ff47": {
    "index": "a3IIIpl",
@@ -182,7 +182,7 @@
   },
   "#c4d48a": {
    "index": "a,lIIIls-bz",
-   "px": 21253,
+   "px": 20759,
    "direct_frac": 0.512
   },
   "#a6b56a": {
@@ -192,33 +192,33 @@
   },
   "#bac980": {
    "index": "a,lIIIbz",
-   "px": 179412,
+   "px": 179408,
    "direct_frac": 0.728
   },
   "#b3ff66": {
    "index": "a2IIIbz",
-   "px": 15536,
+   "px": 15488,
    "direct_frac": 0.784
   },
   "#12ebeb": {
    "index": "lIIIbz",
-   "px": 13148,
+   "px": 13151,
    "direct_frac": 0.487
   },
   "#c7875c": {
    "index": "gbnIIIls",
-   "px": 218568,
+   "px": 218481,
    "direct_frac": 0.632
   },
   "#bf7554": {
    "index": "gkIIIls",
-   "px": 84864,
+   "px": 84779,
    "direct_frac": 0.242
   },
   "#26ffff": {
    "index": "l,lgprIIIls|lIIcr",
-   "px": 381512,
-   "direct_frac": 0.767
+   "px": 380263,
+   "direct_frac": 0.77
   },
   "#26ff66": {
    "index": "la3IIIls|laoIIcr",
@@ -227,13 +227,13 @@
   },
   "#00cccc": {
    "index": "lIIIls",
-   "px": 2030,
-   "direct_frac": 0.411
+   "px": 2033,
+   "direct_frac": 0.41
   },
   "#80ccff": {
    "index": "mIIIsl",
-   "px": 12514,
-   "direct_frac": 0.772
+   "px": 12502,
+   "direct_frac": 0.773
   },
   "#00e619": {
    "index": "laoIIIsl",
@@ -242,13 +242,13 @@
   },
   "#e5c69f": {
    "index": "gbnIIvc",
-   "px": 3278293,
+   "px": 3276206,
    "direct_frac": 0.82
   },
   "#bd3d26": {
    "index": "gkIIvc",
-   "px": 31161,
-   "direct_frac": 0.409
+   "px": 31116,
+   "direct_frac": 0.41
   },
   "#c994ff": {
    "index": "gm?IIvc",
@@ -257,8 +257,8 @@
   },
   "#a3c747": {
    "index": "fIIvc",
-   "px": 57720,
-   "direct_frac": 0.685
+   "px": 57308,
+   "direct_frac": 0.687
   },
   "#66ffa3": {
    "index": "lgIIvc|lgnIIvc|lgprIIvc",
@@ -267,7 +267,7 @@
   },
   "#a1b066": {
    "index": "a,lIIrd",
-   "px": 14828,
+   "px": 14797,
    "direct_frac": 0.23
   },
   "#26ff7d": {
@@ -292,8 +292,8 @@
   },
   "#7ad49e": {
    "index": "ameIIcr",
-   "px": 8913,
-   "direct_frac": 0.407
+   "px": 8904,
+   "direct_frac": 0.408
   },
   "#1280eb": {
    "index": "mIIcr",
@@ -312,8 +312,8 @@
   },
   "#004dcc": {
    "index": "mIkl",
-   "px": 10536,
-   "direct_frac": 0.511
+   "px": 10581,
+   "direct_frac": 0.509
   },
   "#54b5bf": {
    "index": "lg,m?Ipr",
@@ -322,7 +322,7 @@
   },
   "#8a2e91": {
    "index": "PREQ",
-   "px": 15789,
+   "px": 15840,
    "direct_frac": 0.081
   }
  },

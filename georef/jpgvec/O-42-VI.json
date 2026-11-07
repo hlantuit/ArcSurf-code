@@ -2,101 +2,103 @@
  "sheet": "O-42-VI",
  "source": "raster scan",
  "projection": "tmerc_utm",
- "rms_m": 20.40262379817755,
- "max_res_m": 20.613457637706624,
- "m_per_px": 16.919364918198013,
+ "rms_m": 14.557147086880187,
+ "max_res_m": 14.707726576692375,
+ "m_per_px": 16.921837609011465,
  "corner_residuals_m": [
-  20.6,
-  20.6,
-  20.2,
-  20.2
+  14.7,
+  14.7,
+  14.4,
+  14.4
  ],
  "corners": [
   {
    "approx": [
     327.0,
-    1098.0
+    1097.0
    ],
    "snapped": [
     327.0,
-    1098.0
+    1097.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    3625.0,
-    1078.0
+    3624.0,
+    1079.0
    ],
    "snapped": [
-    3625.0,
-    1078.0
+    3624.0,
+    1079.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    3690.0,
-    6108.0
+    3691.0,
+    5497.0
    ],
    "snapped": [
-    3690.0,
-    6108.0
+    3691.0,
+    5497.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    327.0,
-    6122.0
+    328.0,
+    5511.0
    ],
    "snapped": [
-    327.0,
-    6122.0
+    328.0,
+    5511.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
- "unassigned_before_fill": 0.317,
- "area_km2": 4181.636819169492,
+ "frame_sag_px": 6.4,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/O-42-VI/o-42-vi-sorovskie-nezhil-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-fede.jpg O-42-VI ../sources/legend_O-42-VI.csv ../work/jpgvec/O-42-VI.gpkg --datum 4284 --corners '327,1097;3624,1079;3691,5497;328,5511' --mmu 60 --no-snap",
+ "unassigned_before_fill": 0.223,
+ "area_km2": 4185.8130593159985,
  "neatline_km2": 4186.091820972934,
- "cover_frac": 0.9989357610883922,
- "n_polygons": 10088,
+ "cover_frac": 0.9999334076582985,
+ "n_polygons": 10064,
  "units": {
   "#fffeb4": {
    "index": "dIV",
-   "px": 286675,
-   "direct_frac": 0.526
+   "px": 260743,
+   "direct_frac": 0.579
   },
   "#ffffc6": {
    "index": "aIV",
-   "px": 2175365,
-   "direct_frac": 0.066
+   "px": 264639,
+   "direct_frac": 0.485
   },
   "#fffeac": {
    "index": "a1III-IV",
-   "px": 175003,
-   "direct_frac": 0.535
+   "px": 173676,
+   "direct_frac": 0.539
   },
   "#ffe689": {
    "index": "dIII-IV",
-   "px": 200403,
-   "direct_frac": 0.447
+   "px": 200851,
+   "direct_frac": 0.448
   },
   "#fbff99": {
    "index": "a2III",
-   "px": 411738,
-   "direct_frac": 0.659
+   "px": 408576,
+   "direct_frac": 0.664
   },
   "#bef7e0": {
    "index": "la3III",
-   "px": 786170,
-   "direct_frac": 0.723
+   "px": 780818,
+   "direct_frac": 0.728
   },
   "#e7fe79": {
    "index": "a3III",
-   "px": 265022,
-   "direct_frac": 0.696
+   "px": 260838,
+   "direct_frac": 0.708
   },
   "#fe847b": {
    "index": "saIII",
@@ -105,33 +107,33 @@
   },
   "#a0dec3": {
    "index": "la4II-III",
-   "px": 4483880,
-   "direct_frac": 0.831
+   "px": 4477581,
+   "direct_frac": 0.832
   },
   "#fe4b54": {
    "index": "saII-III",
-   "px": 811,
+   "px": 813,
    "direct_frac": 0.2
   },
   "#6fb78b": {
    "index": "laIIsz",
-   "px": 6175485,
-   "direct_frac": 0.681
+   "px": 6176233,
+   "direct_frac": 0.682
   },
   "#afe35e": {
    "index": "aIItb",
-   "px": 280525,
-   "direct_frac": 0.62
+   "px": 272679,
+   "direct_frac": 0.638
   },
   "#6db7b6": {
    "index": "lgIsmk",
-   "px": 1474187,
-   "direct_frac": 0.618
+   "px": 1415940,
+   "direct_frac": 0.641
   },
   "#84c04d": {
    "index": "aItl",
-   "px": 23833,
-   "direct_frac": 0.359
+   "px": 23234,
+   "direct_frac": 0.368
   }
  },
  "confusable_pairs": [

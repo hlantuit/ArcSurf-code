@@ -1,15 +1,15 @@
 {
  "sheet": "O-52-I",
  "source": "raster scan",
- "projection": "eqdc",
- "rms_m": 3.970076444103106,
- "max_res_m": 4.008730697842111,
- "m_per_px": 16.968362230253657,
+ "projection": "tmerc_utm",
+ "rms_m": 9.281045000933547,
+ "max_res_m": 9.377439543345464,
+ "m_per_px": 16.927301794145116,
  "corner_residuals_m": [
-  4.0,
-  4.0,
-  3.9,
-  3.9
+  9.4,
+  9.4,
+  9.2,
+  9.2
  ],
  "corners": [
   {
@@ -21,29 +21,29 @@
     1699.0,
     835.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    4988.0,
+    4994.0,
     835.0
    ],
    "snapped": [
-    4988.0,
+    4994.0,
     835.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    5019.0,
-    5223.0
+    5028.0,
+    5221.0
    ],
    "snapped": [
-    5019.0,
-    5223.0
+    5028.0,
+    5221.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -54,54 +54,56 @@
     1665.0,
     5223.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
+ "frame_sag_px": 6.3,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/O-52-I/o-52-i-uste-r-nyogyuchey-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-feder_2.jpg O-52-I ../sources/legend_O-52-I.csv ../work/jpgvec/O-52-I.gpkg --datum 4284 --corners '1699,835;4994,835;5028,5221;1665,5223' --mmu 60 --no-snap",
  "unassigned_before_fill": 0.094,
- "area_km2": 4181.996655353126,
+ "area_km2": 4185.940170962757,
  "neatline_km2": 4186.092534913688,
- "cover_frac": 0.9990215506402688,
- "n_polygons": 5857,
+ "cover_frac": 0.9999636023452277,
+ "n_polygons": 5877,
  "units": {
   "#be90bf": {
    "index": "e",
-   "px": 1501110,
+   "px": 1502368,
    "direct_frac": 0.855
   },
   "#ebad85": {
    "index": "ed",
-   "px": 6374490,
+   "px": 6402078,
    "direct_frac": 0.82
   },
   "#b2d48c": {
    "index": "aH2",
-   "px": 155376,
+   "px": 155814,
    "direct_frac": 0.495
   },
   "#c0dca9": {
    "index": "aIIIsr-H",
-   "px": 1313021,
+   "px": 1315993,
    "direct_frac": 0.717
   },
   "#b4d69b": {
    "index": "a1IIIsr-H1",
-   "px": 32774,
+   "px": 32898,
    "direct_frac": 0.55
   },
   "#e4a589": {
    "index": "cdII-H",
-   "px": 1316365,
-   "direct_frac": 0.771
+   "px": 1319619,
+   "direct_frac": 0.77
   },
   "#e8a190": {
    "index": "dsII-H",
-   "px": 3061460,
+   "px": 3067466,
    "direct_frac": 0.874
   },
   "#e4cd9c": {
    "index": "adII-H",
-   "px": 803790,
-   "direct_frac": 0.829
+   "px": 806227,
+   "direct_frac": 0.828
   },
   "#7061a6": {
    "index": "PREQ",

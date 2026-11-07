@@ -1,15 +1,15 @@
 {
  "sheet": "O-52-II",
  "source": "raster scan",
- "projection": "eqdc",
- "rms_m": 3.9700764441006893,
- "max_res_m": 4.008730697827559,
- "m_per_px": 16.96836223025324,
+ "projection": "tmerc_utm",
+ "rms_m": 11.03533933328953,
+ "max_res_m": 11.149509305931893,
+ "m_per_px": 16.91707396259333,
  "corner_residuals_m": [
-  4.0,
-  4.0,
-  3.9,
-  3.9
+  11.1,
+  11.1,
+  10.9,
+  10.9
  ],
  "corners": [
   {
@@ -21,29 +21,29 @@
     1767.0,
     835.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    5056.0,
+    5064.0,
     835.0
    ],
    "snapped": [
-    5056.0,
+    5064.0,
     835.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    5087.0,
-    5223.0
+    5097.0,
+    5220.0
    ],
    "snapped": [
-    5087.0,
-    5223.0
+    5097.0,
+    5220.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -54,54 +54,56 @@
     1733.0,
     5223.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
+ "frame_sag_px": 6.3,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/O-52-II/o-52-ii-verhnyaya-amga-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federac_0.jpg O-52-II ../sources/legend_O-52-II.csv ../work/jpgvec/O-52-II.gpkg --datum 4284 --corners '1767,835;5064,835;5097,5220;1733,5223' --mmu 60 --no-snap",
  "unassigned_before_fill": 0.078,
- "area_km2": 4181.893622368649,
+ "area_km2": 4185.727214632039,
  "neatline_km2": 4186.091771901453,
- "cover_frac": 0.9989971195660391,
- "n_polygons": 3521,
+ "cover_frac": 0.9999129122605813,
+ "n_polygons": 3524,
  "units": {
   "#be90bf": {
    "index": "e",
-   "px": 1718230,
-   "direct_frac": 0.89
+   "px": 1721117,
+   "direct_frac": 0.889
   },
   "#ebad85": {
    "index": "ed",
-   "px": 7899296,
-   "direct_frac": 0.907
+   "px": 7928564,
+   "direct_frac": 0.906
   },
   "#b2d48c": {
    "index": "aH2",
-   "px": 127385,
+   "px": 127729,
    "direct_frac": 0.502
   },
   "#c0dca9": {
    "index": "aIIIsr-H",
-   "px": 1242330,
-   "direct_frac": 0.79
+   "px": 1246950,
+   "direct_frac": 0.789
   },
   "#b4d69b": {
    "index": "a1IIIsr-H1",
-   "px": 65551,
+   "px": 65777,
    "direct_frac": 0.631
   },
   "#e4a589": {
    "index": "cdII-H",
-   "px": 931703,
+   "px": 934608,
    "direct_frac": 0.801
   },
   "#e8a190": {
    "index": "dsII-H",
-   "px": 1999595,
-   "direct_frac": 0.884
+   "px": 2005555,
+   "direct_frac": 0.883
   },
   "#e4cd9c": {
    "index": "adII-H",
-   "px": 570920,
-   "direct_frac": 0.859
+   "px": 572926,
+   "direct_frac": 0.858
   },
   "#7061a6": {
    "index": "PREQ",

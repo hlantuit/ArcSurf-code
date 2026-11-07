@@ -1,15 +1,15 @@
 {
  "sheet": "P-50-I",
  "source": "raster scan",
- "projection": "tmerc",
- "rms_m": 2.1372033823966716,
- "max_res_m": 2.162325045232137,
- "m_per_px": 16.964367531563322,
+ "projection": "tmerc_utm",
+ "rms_m": 5.8368911874392095,
+ "max_res_m": 5.906667910914473,
+ "m_per_px": 16.92694269566506,
  "corner_residuals_m": [
-  2.2,
-  2.2,
-  2.1,
-  2.1
+  5.9,
+  5.9,
+  5.8,
+  5.8
  ],
  "corners": [
   {
@@ -21,29 +21,29 @@
     1557.0,
     795.0
    ],
-   "ok": "rejected (moved > 15 px)"
+   "ok": "measured"
   },
   {
    "approx": [
-    4440.0,
-    795.0
+    4447.0,
+    796.0
    ],
    "snapped": [
-    4440.0,
-    795.0
+    4447.0,
+    796.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    4475.0,
-    5183.0
+    4482.0,
+    5182.0
    ],
    "snapped": [
-    4475.0,
-    5183.0
+    4482.0,
+    5182.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -54,53 +54,55 @@
     1523.0,
     5183.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
- "unassigned_before_fill": 0.042,
- "area_km2": 3676.1989759408843,
+ "frame_sag_px": 5.8,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/P-50-I/p-50-i-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-federacii-izdanie-vto_0.jpg P-50-I ../sources/legend_P-50-I.csv ../work/jpgvec/P-50-I.gpkg --datum 4284 --corners '1557,795;4447,796;4482,5182;1523,5183' --mmu 60 --no-snap",
+ "unassigned_before_fill": 0.041,
+ "area_km2": 3679.448767689967,
  "neatline_km2": 3679.735892537302,
- "cover_frac": 0.9990388123768364,
- "n_polygons": 1019,
+ "cover_frac": 0.9999219713436724,
+ "n_polygons": 1016,
  "units": {
   "#c59cc6": {
    "index": "e",
-   "px": 3497916,
+   "px": 3506676,
    "direct_frac": 0.945
   },
   "#b29680": {
    "index": "ed",
-   "px": 5712729,
+   "px": 5737861,
    "direct_frac": 0.965
   },
   "#efc094": {
    "index": "d",
-   "px": 1513898,
+   "px": 1518056,
    "direct_frac": 0.906
   },
   "#e69f89": {
    "index": "c",
-   "px": 146414,
+   "px": 146845,
    "direct_frac": 0.875
   },
   "#e69f8d": {
    "index": "ds",
-   "px": 312032,
+   "px": 312363,
    "direct_frac": 0.912
   },
   "#dfeac0": {
    "index": "aH",
-   "px": 253516,
-   "direct_frac": 0.818
+   "px": 253677,
+   "direct_frac": 0.819
   },
   "#bdddd0": {
    "index": "laH",
-   "px": 285972,
-   "direct_frac": 0.86
+   "px": 285607,
+   "direct_frac": 0.861
   },
   "#b8e0fa": {
    "index": "lplH",
-   "px": 452986,
+   "px": 453781,
    "direct_frac": 0.901
   },
   "#c7dea6": {
@@ -110,8 +112,8 @@
   },
   "#bcd999": {
    "index": "a2IIIkr-sr",
-   "px": 21706,
-   "direct_frac": 0.848
+   "px": 21667,
+   "direct_frac": 0.849
   },
   "#b1d28b": {
    "index": "a3IIIkz-mr",
@@ -125,7 +127,7 @@
   },
   "#b197c6": {
    "index": "PREQ",
-   "px": 279850,
+   "px": 279996,
    "direct_frac": 0.831
   }
  },

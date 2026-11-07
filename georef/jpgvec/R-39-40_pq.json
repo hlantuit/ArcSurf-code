@@ -21,7 +21,7 @@
     897.0,
     977.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -32,7 +32,7 @@
     5783.0,
     978.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -43,7 +43,7 @@
     6300.0,
     6228.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -54,126 +54,126 @@
     380.0,
     6228.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
  "frame_sag_px": 145.9,
- "argv": "jpg_to_polygons.py extract ../work/gk1m_leg/R-39-40_pq_render.png R-39-40_pq ../sources/legend_R-39-40_pq.csv ../work/facefix/R-39-40_pq.gpkg --lonlat 48,68,60,72 --datum 4284 --corners '897,977;5783,978;6300,6228;380,6228' --dE 8",
- "unassigned_before_fill": 0.133,
- "area_km2": 204426.45267685904,
+ "argv": "jpg_to_polygons.py extract ../work/gk1m_leg/R-39-40_pq_render.png R-39-40_pq ../sources/legend_R-39-40_pq.csv ../work/facefix/R-39-40_pq.gpkg --lonlat 48,68,60,72 --datum 4284 --corners '897,977;5783,978;6300,6228;380,6228' --dE 8 --no-snap",
+ "unassigned_before_fill": 0.124,
+ "area_km2": 204426.13324328588,
  "neatline_km2": 204450.40680697485,
- "cover_frac": 0.9998828364761415,
- "n_polygons": 3389,
+ "cover_frac": 0.9998812740748817,
+ "n_polygons": 3509,
  "units": {
   "#edf0aa": {
    "index": "aH",
-   "px": 984002,
-   "direct_frac": 0.43
+   "px": 935343,
+   "direct_frac": 0.452
   },
   "#f3c7a1": {
    "index": "gH",
-   "px": 1932,
-   "direct_frac": 0.412
+   "px": 1806,
+   "direct_frac": 0.44
   },
   "#c8c3a4": {
    "index": "plH",
-   "px": 368780,
-   "direct_frac": 0.243
+   "px": 292786,
+   "direct_frac": 0.304
   },
   "#a0c6e9": {
    "index": "mH2+3",
-   "px": 3382577,
-   "direct_frac": 0.786
+   "px": 507288,
+   "direct_frac": 0.74
   },
   "#d29fc9": {
    "index": "eIII-H",
-   "px": 431768,
-   "direct_frac": 0.831
+   "px": 431858,
+   "direct_frac": 0.83
   },
   "#f9a25a": {
    "index": "dIII-H",
-   "px": 196144,
-   "direct_frac": 0.721
+   "px": 195255,
+   "direct_frac": 0.723
   },
   "#f8a79e": {
    "index": "c,drIII-H",
-   "px": 7598,
-   "direct_frac": 0.802
+   "px": 7619,
+   "direct_frac": 0.8
   },
   "#fcbf94": {
    "index": "e,dIII-H",
-   "px": 408933,
+   "px": 409187,
    "direct_frac": 0.751
   },
   "#f69780": {
    "index": "d,sIII-H",
-   "px": 491173,
+   "px": 491311,
    "direct_frac": 0.732
   },
   "#93d2c1": {
    "index": "laIII-H",
-   "px": 45880,
-   "direct_frac": 0.662
+   "px": 41222,
+   "direct_frac": 0.736
   },
   "#89ccd2": {
    "index": "l,plIII-H",
-   "px": 75197,
-   "direct_frac": 0.756
+   "px": 74882,
+   "direct_frac": 0.76
   },
   "#8ebce5": {
    "index": "m2IIIpu-H",
-   "px": 1696797,
-   "direct_frac": 0.871
+   "px": 1686610,
+   "direct_frac": 0.877
   },
   "#90b3de": {
    "index": "mIII4-H1",
-   "px": 16870611,
+   "px": 16870448,
    "direct_frac": 0.933
   },
   "#92d3c9": {
    "index": "amIIIpu",
-   "px": 81317,
-   "direct_frac": 0.078
+   "px": 8366,
+   "direct_frac": 0.68
   },
   "#efb480": {
    "index": "gIIIhn",
-   "px": 114749,
+   "px": 114695,
    "direct_frac": 0.689
   },
   "#7fcbae": {
    "index": "a,lIIIbz",
-   "px": 6058,
-   "direct_frac": 0.677
+   "px": 6000,
+   "direct_frac": 0.684
   },
   "#7ab2e0": {
    "index": "mIIIbz",
-   "px": 260708,
-   "direct_frac": 0.696
+   "px": 261329,
+   "direct_frac": 0.694
   },
   "#7bafde": {
    "index": "mIIIkr",
-   "px": 257860,
-   "direct_frac": 0.75
+   "px": 258456,
+   "direct_frac": 0.749
   },
   "#7da7d9": {
    "index": "mIIIkm",
-   "px": 200471,
-   "direct_frac": 0.698
+   "px": 200139,
+   "direct_frac": 0.699
   },
   "#80a0d3": {
    "index": "mIIIst",
-   "px": 109993,
+   "px": 109943,
    "direct_frac": 0.637
   },
   "#5ea7dc": {
    "index": "mIII1?",
-   "px": 309677,
-   "direct_frac": 0.865
+   "px": 309950,
+   "direct_frac": 0.864
   },
   "#2db990": {
    "index": "a,lIIcr",
-   "px": 22387,
-   "direct_frac": 0.705
+   "px": 22104,
+   "direct_frac": 0.714
   },
   "#5dc4b4": {
    "index": "amII",
@@ -182,33 +182,43 @@
   },
   "#bc8cbf": {
    "index": "gmIItu",
-   "px": 151830,
-   "direct_frac": 0.71
+   "px": 150281,
+   "direct_frac": 0.717
   },
   "#3696d2": {
    "index": "mIIcr",
-   "px": 397686,
-   "direct_frac": 0.73
+   "px": 396001,
+   "direct_frac": 0.733
   },
   "#428ccb": {
    "index": "mIjan?",
-   "px": 342864,
+   "px": 342549,
    "direct_frac": 0.778
   },
   "#b37ab4": {
    "index": "gmIkp?",
-   "px": 1390399,
-   "direct_frac": 0.702
+   "px": 1393873,
+   "direct_frac": 0.7
   },
   "#a863a8": {
    "index": "gmE-Irg",
-   "px": 311478,
+   "px": 311394,
    "direct_frac": 0.682
   },
   "#4b83c3": {
    "index": "mN2kl",
-   "px": 13777,
-   "direct_frac": 0.499
+   "px": 13875,
+   "direct_frac": 0.498
+  },
+  "#afceec": {
+   "index": "mH",
+   "px": 2789903,
+   "direct_frac": 0.817
+  },
+  "#b3dfd7": {
+   "index": "amH",
+   "px": 298173,
+   "direct_frac": 0.675
   }
  },
  "confusable_pairs": [
@@ -216,6 +226,11 @@
    "mH2+3",
    "m2IIIpu-H",
    5.5
+  ],
+  [
+   "mH2+3",
+   "mH",
+   4.6
   ],
   [
    "e,dIII-H",

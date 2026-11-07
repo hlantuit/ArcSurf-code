@@ -1,0 +1,117 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+Af,F,,unknown,unknown,unknown,OF 7289 Af: alluvial fan
+Ap,F,,unknown,unknown,unknown,OF 7289 Ap: alluvial plain
+At,F,,unknown,unknown,unknown,OF 7289 At: alluvial terrace
+Av,F,,unknown,veneer,unknown,OF 7289 Av: alluvial veneer (<1.5 m)
+Ax,F,,unknown,unknown,unknown,OF 7289 Ax: alluvial complex
+B547:Af,F,,unknown,unknown,unknown,OF 7289 (Bulletin 547 legend) Af: Alluvial fan
+B547:Ap,F,,unknown,unknown,unknown,OF 7289 (Bulletin 547 legend) Ap: Alluvial plain
+B547:At,F,,unknown,unknown,unknown,OF 7289 (Bulletin 547 legend) At: Alluvial terrace
+B547:C,C,,unknown,unknown,unknown,OF 7289 (Bulletin 547 legend) C: Colluvium
+B547:Cz,C,,unknown,unknown,unknown,OF 7289 (Bulletin 547 legend) Cz: Colluvial complex
+B547:Gp,GF,,gravel,unknown,unknown,OF 7289 (Bulletin 547 legend) Gp: Glaciofluvial outwash plain
+B547:Gx,GF,,gravel,unknown,unknown,OF 7289 (Bulletin 547 legend) Gx: Glaciofluvial ice contact deposits
+B547:Lpc,L,,sand,unknown,unknown,"OF 7289 (Bulletin 547 legend) Lpc: Lacustrine plain, coarse grained sediments"
+B547:Lpf,L,,fines,unknown,unknown,"OF 7289 (Bulletin 547 legend) Lpf: Lacustrine plain, fine grained sediments"
+B547:Mb,T,,diamicton,blanket,unknown,OF 7289 (Bulletin 547 legend) Mb: Moraine blanket
+B547:Md,T,,diamicton,unknown,unknown,OF 7289 (Bulletin 547 legend) Md: Drumlinoid plain
+B547:Mh,T,,diamicton,unknown,unknown,OF 7289 (Bulletin 547 legend) Mh: Hummocky moraine
+B547:Mp,T,,diamicton,unknown,unknown,OF 7289 (Bulletin 547 legend) Mp: Moraine plain
+B547:Mv,T,,diamicton,veneer,unknown,OF 7289 (Bulletin 547 legend) Mv: Moraine veneer
+B547:R,R,,unknown,unknown,unknown,OF 7289 (Bulletin 547 legend) R: Bedrock
+B547:fpO,O,,organic,unknown,unknown,OF 7289 (Bulletin 547 legend) fpO: Fen dominant peatland
+B547:pfO,O,,organic,unknown,unknown,OF 7289 (Bulletin 547 legend) pfO: Bog dominant peatland
+C,C,,unknown,unknown,unknown,OF 7289 C: colluvial
+Cf,C,,unknown,unknown,unknown,OF 7289 Cf: colluvial fan
+Cv,C,,unknown,veneer,unknown,OF 7289 Cv: colluvial veneer (<1.5 m)
+Cx,C,,unknown,unknown,unknown,OF 7289 Cx: colluvial complex
+E,E,,sand,unknown,unknown,OF 7289 E: eolian
+Er,E,,sand,unknown,unknown,OF 7289 Er: eolian ridged
+G,GF,,gravel,unknown,unknown,OF 7289 G: glaciofluvial
+GL,GL,,fines,unknown,unknown,OF 7289 GL: glaciolacustrine
+GLk,GL,,fines,unknown,unknown,OF 7289 GLk: glaciolacustrine kettled / thermokarst
+GLp,GL,,fines,unknown,unknown,OF 7289 GLp: glaciolacustrine plain
+Gc,GF,,gravel,unknown,unknown,OF 7289 Gc: glaciofluvial channelled
+Gf,GF,,gravel,unknown,unknown,OF 7289 Gf: glaciofluvial fan
+Gh,GF,,gravel,unknown,unknown,OF 7289 Gh: glaciofluvial hummocky
+Gk,GF,,gravel,unknown,unknown,OF 7289 Gk: glaciofluvial kettled / thermokarst
+Gm,GF,,gravel,unknown,unknown,OF 7289 Gm: glaciofluvial rolling
+Gp,GF,,gravel,unknown,unknown,OF 7289 Gp: glaciofluvial plain
+Gr,GF,,gravel,unknown,unknown,OF 7289 Gr: glaciofluvial ridged
+Gt,GF,,gravel,unknown,unknown,OF 7289 Gt: glaciofluvial terrace
+Gv,GF,,gravel,veneer,unknown,OF 7289 Gv: glaciofluvial veneer (<1.5 m)
+Gx,GF,,gravel,unknown,unknown,OF 7289 Gx: glaciofluvial complex
+Lb,L,,unknown,unknown,unknown,OF 7289 Lb: lacustrine beach
+Lh,L,,fines,unknown,unknown,OF 7289 Lh: lacustrine hummocky
+Lp,L,,fines,unknown,unknown,OF 7289 Lp: lacustrine plain
+Lr,L,,fines,unknown,unknown,OF 7289 Lr: lacustrine ridged
+Lt,L,,fines,unknown,unknown,OF 7289 Lt: lacustrine terrace
+Lx,L,,fines,unknown,unknown,OF 7289 Lx: lacustrine complex
+M,T,,diamicton,unknown,unknown,OF 7289 M: morainal
+Md,T,,diamicton,unknown,unknown,OF 7289 Md: morainal drumlinoid
+Mh,T,,diamicton,unknown,unknown,OF 7289 Mh: morainal hummocky
+Mm,T,,diamicton,unknown,unknown,OF 7289 Mm: morainal rolling
+Mp,T,,diamicton,unknown,unknown,OF 7289 Mp: morainal plain
+Mr,T,,diamicton,unknown,unknown,OF 7289 Mr: morainal ridged
+Ms,T,,diamicton,unknown,unknown,OF 7289 Ms: morainal striated (fluted)
+Mt,T,,diamicton,unknown,unknown,OF 7289 Mt: morainal terrace
+Mv,T,,diamicton,veneer,unknown,OF 7289 Mv: morainal veneer (<1.5 m)
+Mx,T,,diamicton,unknown,unknown,OF 7289 Mx: morainal complex
+O,O,,organic,unknown,unknown,OF 7289 O: organic
+Ok,O,,organic,unknown,unknown,OF 7289 Ok: organic kettled / thermokarst
+Ov,O,,organic,veneer,unknown,OF 7289 Ov: organic veneer (<1.5 m)
+P,F,,unknown,unknown,unknown,OF 7289 P: piedmont (mountain-front fans and aprons)
+R,R,,unknown,unknown,unknown,OF 7289 R: bedrock
+R:C,C,,unknown,unknown,unknown,OF 7289 Rampton C: colluvial
+R:C|1,C,,unknown,unknown,unknown,OF 7289 Rampton C1: colluvial (floodplain and low-level terrace)
+R:C|2,C,,unknown,unknown,unknown,OF 7289 Rampton C2: colluvial (terrace level 2)
+R:E,E,,sand,unknown,unknown,OF 7289 Rampton E: eolian
+R:F,F,,unknown,unknown,unknown,OF 7289 Rampton F: fluvial
+"R:F,Y",F,M,unknown,unknown,unknown,"OF 7289 Rampton F,Y: fluvial with marine"
+"R:F,Y|Z",F,M,unknown,unknown,unknown,"OF 7289 Rampton F,YZ: fluvial with marine (process still active)"
+R:F|1,F,,unknown,unknown,unknown,OF 7289 Rampton F1: fluvial (floodplain and low-level terrace)
+R:F|2,F,,unknown,unknown,unknown,OF 7289 Rampton F2: fluvial (terrace level 2)
+R:F|3,F,,unknown,unknown,unknown,OF 7289 Rampton F3: fluvial (intermediate level terrace)
+R:F|4,F,,unknown,unknown,unknown,OF 7289 Rampton F4: fluvial (high level terrace)
+R:F|A,F,,unknown,unknown,unknown,OF 7289 Rampton FA: fluvial (active deposition)
+R:F|G,GF,,gravel,unknown,unknown,OF 7289 Rampton FG: fluvial (glacial) = glaciofluvial
+R:F|Z,F,,unknown,unknown,unknown,OF 7289 Rampton FZ: fluvial (process still active)
+R:G,GF,,gravel,unknown,unknown,OF 7289 Rampton G: glaciofluvial
+"R:G,F|1",GF,F,gravel,unknown,unknown,"OF 7289 Rampton G,F1: glaciofluvial with fluvial (floodplain and low-level terrace)"
+R:G|1,GF,,gravel,unknown,unknown,OF 7289 Rampton G1: glaciofluvial (floodplain and low-level terrace)
+R:L,L,,fines,unknown,unknown,OF 7289 Rampton L: lacustrine
+R:L|F,L,,fines,unknown,unknown,OF 7289 Rampton LF: lacustrine (fluvial)
+R:L|G,GL,,fines,unknown,unknown,OF 7289 Rampton LG: lacustrine (glacial) = glaciolacustrine
+R:L|K,K,L,unknown,unknown,unknown,OF 7289 Rampton LK: lacustrine (thermokarst) = thermokarst / alas
+R:M,T,,diamicton,unknown,unknown,OF 7289 Rampton M: morainal
+R:M|Z,T,,diamicton,unknown,unknown,OF 7289 Rampton MZ: morainal (process still active)
+R:Photo Gap,DROP,,unknown,unknown,unknown,OF 7289 Rampton Photo Gap: photo gap: not mapped
+R:Water,H,,unknown,unknown,unknown,OF 7289 Rampton Water: water
+R:X,DROP,,unknown,unknown,unknown,OF 7289 Rampton X: undifferentiated or unknown
+R:Y,M,,unknown,unknown,unknown,OF 7289 Rampton Y: marine
+"R:Y,F",M,F,unknown,unknown,unknown,"OF 7289 Rampton Y,F: marine with fluvial"
+"R:Y,F|Z",M,F,unknown,unknown,unknown,"OF 7289 Rampton Y,FZ: marine with fluvial (process still active)"
+R:Y|A,M,,unknown,unknown,unknown,OF 7289 Rampton YA: marine (active deposition)
+R:Y|G,GM,,unknown,unknown,unknown,OF 7289 Rampton YG: marine (glacial) = glaciomarine
+R:Y|Z,M,,unknown,unknown,unknown,OF 7289 Rampton YZ: marine (process still active)
+Rk,R,,unknown,unknown,unknown,OF 7289 Rk: bedrock kettled / thermokarst
+Rs,R,,unknown,unknown,unknown,OF 7289 Rs: bedrock striated (fluted)
+Rt,R,,unknown,unknown,unknown,OF 7289 Rt: bedrock terrace
+Rv:C,C,,unknown,veneer,unknown,OF 7289 Rampton veneer C: colluvial overlying the mapped unit
+Rv:Cv,C,,unknown,veneer,unknown,OF 7289 Rampton veneer Cv: colluvial veneer overlying the mapped unit
+Rv:Er,E,,sand,veneer,unknown,OF 7289 Rampton veneer Er: eolian ridges overlying the mapped unit
+Rv:Ev,E,,sand,veneer,unknown,OF 7289 Rampton veneer Ev: eolian veneer overlying the mapped unit
+Rv:Fp,F,,unknown,veneer,unknown,OF 7289 Rampton veneer Fp: fluvial plain overlying the mapped unit
+Rv:Lv,L,,fines,veneer,unknown,OF 7289 Rampton veneer Lv: lacustrine veneer overlying the mapped unit
+Rv:M,T,,diamicton,veneer,unknown,OF 7289 Rampton veneer M: morainal overlying the mapped unit
+Rv:Mv,T,,diamicton,veneer,unknown,OF 7289 Rampton veneer Mv: morainal veneer overlying the mapped unit
+Rv:Y,M,,unknown,veneer,unknown,OF 7289 Rampton veneer Y: marine overlying the mapped unit
+Rv:Yv,M,,unknown,veneer,unknown,OF 7289 Rampton veneer Yv: marine veneer overlying the mapped unit
+S,C,,unknown,unknown,unknown,OF 7289 S: slump
+S.H.,DROP,,unknown,unknown,unknown,OF 7289 S.H.: S.H.: symbol not in the legend
+Sx,C,,unknown,unknown,unknown,OF 7289 Sx: slump complex
+U,DROP,,unknown,unknown,unknown,"OF 7289 U: Upland: bedrock-controlled upland, surficial units not differentiated"
+Ug,DROP,,unknown,unknown,unknown,OF 7289 Ug: Upland (glaciated): surficial units not differentiated
+Water,H,,unknown,unknown,unknown,OF 7289 Water: water
+X,DROP,,unknown,unknown,unknown,OF 7289 X: undifferentiated or unknown
+pO,O,,organic,unknown,unknown,OF 7289 pO: peat

@@ -192,7 +192,8 @@ def figure(h_mm):
 
 # ------------------------------------------------------------------ figures
 SCALE_COL = [c[2] for c in META['scale_classes']]
-SCALE_LAB = ['100 000 and finer', '125 000–250 000', '500 000–600 000', '1 000 000', '2 500 000–5 000 000']
+# labels from the bundle, so that they follow its class limits (merge 49: 1:125 000 - 1:253 440); the key head says 1 : ...
+SCALE_LAB = [c[1].replace('1:', '').replace(' – ', '–').replace(' - ', '–').strip() for c in META['scale_classes']]
 
 
 def fig_scale():
@@ -247,7 +248,9 @@ def fig_age():
     ax.bar([xu], [unk], width=0.74, color=AGE_UNKNOWN, edgecolor=EDGE, linewidth=0.3)
     top = max(vals + [unk])
     for xx, v in list(zip(x, vals)) + [(xu, unk)]:
-        ax.text(xx, v + 0.02 * top, f'{100 * v * 1e6 / TOTAL:.0f} %', ha='center', va='bottom', fontsize=7.5)
+        s = v * 1e6 / TOTAL                                       # small shares as in the key tables ('< 1 %')
+        ax.text(xx, v + 0.02 * top, f'{100 * s:.0f} %' if s >= 0.005 or s == 0 else '< 1 %', ha='center',
+                va='bottom', fontsize=7.5)
     ax.text(0.0, -0.2, f'share of the domain, 100 % = {TOTAL / 1e6:.2f} million km²', fontsize=7, color=SOFT,
             va='top', transform=ax.transAxes)
     ax.set_xticks(list(x) + [xu])

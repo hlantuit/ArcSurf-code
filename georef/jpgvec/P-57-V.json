@@ -2,14 +2,14 @@
  "sheet": "P-57-V",
  "source": "raster scan",
  "projection": "tmerc",
- "rms_m": 2.1372033823994108,
- "max_res_m": 2.1623250452103093,
- "m_per_px": 16.964367531563752,
+ "rms_m": 4.549913803668331,
+ "max_res_m": 4.6038111115730125,
+ "m_per_px": 16.929556425459925,
  "corner_residuals_m": [
-  2.2,
-  2.2,
-  2.1,
-  2.1
+  4.6,
+  4.6,
+  4.5,
+  4.5
  ],
  "corners": [
   {
@@ -21,29 +21,29 @@
     1600.0,
     818.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    4483.0,
-    818.0
+    4489.0,
+    819.0
    ],
    "snapped": [
-    4483.0,
-    818.0
+    4489.0,
+    819.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    4518.0,
+    4524.0,
     5206.0
    ],
    "snapped": [
-    4518.0,
+    4524.0,
     5206.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -54,28 +54,30 @@
     1566.0,
     5206.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
+ "frame_sag_px": 5.8,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/P-57-V/p-57-v-uste-r-bol-avlandya-gosudarstvennaya-geologicheskaya-karta-rossiyskoy-f_1.jpg P-57-V ../sources/legend_P-57-V.csv ../work/jpgvec/P-57-V.gpkg --datum 4284 --corners '1600,818;4489,819;4524,5206;1566,5206' --mmu 60 --no-snap",
  "unassigned_before_fill": 0.058,
- "area_km2": 3676.326242344726,
+ "area_km2": 3679.387871960663,
  "neatline_km2": 3679.7007474917,
- "cover_frac": 0.9990829403316902,
- "n_polygons": 4455,
+ "cover_frac": 0.999914972560948,
+ "n_polygons": 4454,
  "units": {
   "#bd8fbf": {
    "index": "eH",
-   "px": 136938,
-   "direct_frac": 0.745
+   "px": 137851,
+   "direct_frac": 0.746
   },
   "#e59a7e": {
    "index": "c,dH",
-   "px": 5214607,
+   "px": 5229031,
    "direct_frac": 0.885
   },
   "#ebad84": {
    "index": "e,dH",
-   "px": 2355736,
+   "px": 2362299,
    "direct_frac": 0.904
   },
   "#ebd290": {
@@ -85,8 +87,8 @@
   },
   "#e6c085": {
    "index": "p,dH",
-   "px": 118986,
-   "direct_frac": 0.846
+   "px": 118818,
+   "direct_frac": 0.847
   },
   "#e3d888": {
    "index": "apH",
@@ -95,22 +97,22 @@
   },
   "#cade9b": {
    "index": "aH2",
-   "px": 1289221,
-   "direct_frac": 0.745
+   "px": 1292430,
+   "direct_frac": 0.746
   },
   "#a5a393": {
    "index": "tH2",
-   "px": 24462,
+   "px": 24470,
    "direct_frac": 0.414
   },
   "#c0d88c": {
    "index": "a1H1",
-   "px": 132614,
-   "direct_frac": 0.874
+   "px": 135972,
+   "direct_frac": 0.875
   },
   "#e08272": {
    "index": "dsIII4-H",
-   "px": 424857,
+   "px": 426499,
    "direct_frac": 0.857
   },
   "#b2d38c": {
@@ -120,12 +122,12 @@
   },
   "#cd9975": {
    "index": "gIII4",
-   "px": 234643,
-   "direct_frac": 0.85
+   "px": 236203,
+   "direct_frac": 0.851
   },
   "#b1c17a": {
    "index": "fIII4",
-   "px": 121314,
+   "px": 121627,
    "direct_frac": 0.604
   },
   "#a5cc7c": {
@@ -135,7 +137,7 @@
   },
   "#c58c65": {
    "index": "gIII2",
-   "px": 496479,
+   "px": 498188,
    "direct_frac": 0.885
   },
   "#a4b766": {
@@ -155,7 +157,7 @@
   },
   "#a26d4b": {
    "index": "f,gII",
-   "px": 1665290,
+   "px": 1667611,
    "direct_frac": 0.916
   },
   "#8ac06c": {
@@ -165,7 +167,7 @@
   },
   "#997cb6": {
    "index": "PREQ",
-   "px": 96135,
+   "px": 96131,
    "direct_frac": 0.539
   }
  },

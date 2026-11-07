@@ -1,0 +1,965 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+A1583a|1,GF,,mixed,,,A1583a 1: 
+A1583a|2a,T,,diamicton,,,A1583a 2a: 
+A1583a|2c,T,,diamicton,,,A1583a 2c: same colour as 2b (both T)
+A1583a|2d,T,,diamicton,,,A1583a 2d: 
+A1583a|2e,T,,sand,,,A1583a 2e: thin cover
+A1583a|3,GF,,mixed,,,A1583a 3: 
+A1583a|4,M,,mixed,,,A1583a 4: 
+A1583a|5,M,F,mixed,,,A1583a 5: deltas of former marine (locally glacial-lake) levels
+A1583a|6a,M,,sand,,,A1583a 6a: 
+A1583a|6b,M,,gravel,,,A1583a 6b: swatch sampled by hand
+A1583a|7a,F,,mixed,,,A1583a 7a: 
+A1583a|7b,F,,mixed,,,A1583a 7b: 
+A1583a|8,C,,diamicton,,,A1583a 8: GSC Map 1583A (Hodgson & Vincent 1980); raster scan; description_ru holds the English legend text
+A1583a|A,W,R,fines,,,A1583a A: swatch sampled by hand; nearly paper-white (L 96 vs paper 99)
+A1583a|B,W,R,mixed,,,A1583a B: 
+A1583a|C,W,R,sand,,,A1583a C: 
+A1583a|D,W,R,bouldery,,,A1583a D: 
+A1647a|A.W^L,F,M,mixed,,,A1647a A.W^L: 
+A1647a|Af,F,,mixed,,,A1647a Af: 
+A1647a|Ap,F,,fines,,,A1647a Ap: 
+A1647a|At,F,,mixed,,,A1647a At: 
+A1647a|C,C,,mixed,,,A1647a C: 
+A1647a|E,E,,sand,,,A1647a E: 
+A1647a|G,GF,,mixed,,,"A1647a G: colour close to Gp^T,F and G^M (all GF)"
+A1647a|G^M,GF,,sand,,,A1647a G^M: 
+A1647a|Gp^S,GF,,sand,,,A1647a Gp^S: 
+"A1647a|Gp^T,F",GF,,sand,,,"A1647a Gp^T,F: "
+A1647a|Gx^S,GF,,mixed,,,A1647a Gx^S: 
+A1647a|Gx^T,GF,,mixed,,,A1647a Gx^T: 
+A1647a|L,K,L,fines,,,A1647a L: thermokarst-basin lacustrine
+A1647a|L^S,L,K,fines,,,A1647a L^S: 
+A1647a|L^T,L,,fines,,,A1647a L^T: second legend column read from symbols and headings (text partly off-crop)
+A1647a|M^M,T,,diamicton,,,A1647a M^M: 
+A1647a|Mb^S,T,,diamicton,,,A1647a Mb^S: 
+"A1647a|Mb^T,B Mv^T",T,,diamicton,,,"A1647a Mb^T,B Mv^T: "
+A1647a|Mm^S,T,,diamicton,,,A1647a Mm^S: 
+"A1647a|Mm^T,F,B",T,,diamicton,,,"A1647a Mm^T,F,B: "
+A1647a|O,O,,organic,,,A1647a O: 
+A1647a|R,R,,,,,A1647a R: 
+"A1647a|Wr,Wp",M,,mixed,,,"A1647a Wr,Wp: GSC Map 1647A Tuktoyaktuk Coastlands (Rampton 1987), raster scan. NB this legend uses W = marine and M = MORAINAL"
+"A1753a|1a, 1a'",W,R,fines,,,"A1753a 1a, 1a': "
+"A1753a|1b, 1b'",W,R,mixed,,,"A1753a 1b, 1b': "
+A1753a|1c,W,R,sand,,,A1753a 1c: 
+"A1753a|1d, 1d'",W,R,bouldery,,,"A1753a 1d, 1d': "
+"A1753a|2a, 2a'",T,,diamicton,,,"A1753a 2a, 2a': "
+A1753a|2b,T,,diamicton,,,A1753a 2b: 
+A1753a|3a,GF,,gravel,,,A1753a 3a: 
+A1753a|3b,GF,,gravel,,,A1753a 3b: 
+A1753a|4,GM,GL,fines,,,A1753a 4: legend does not separate glaciolacustrine from glaciomarine
+A1753a|5a,M,,fines,,,A1753a 5a: 
+A1753a|5b,M,,sand,,,A1753a 5b: 
+A1753a|6,F,,mixed,,,A1753a 6: bright yellow
+A1753a|6a,F,,mixed,,,A1753a 6a: swatch sampled by hand (very pale cream; missed by the finder)
+A1753a|6b,F,,mixed,,,A1753a 6b: 
+A1753a|7,C,,diamicton,,,A1753a 7: 
+A1753a|8,I,,,,,"A1753a 8: GSC Map 1753A Western Melville Island (Hodgson 1992), UTM, raster scan; swatch sampled by hand"
+"OF4662|Af,Ax,Ax-k",F,,mixed,,,"OF4662 Af,Ax,Ax-k: "
+"OF4662|Ap,At,Ap-k",F,,mixed,,,"OF4662 Ap,At,Ap-k: "
+OF4662|Ct,C,R,bouldery,,,OF4662 Ct: 
+"OF4662|Cv,Cx",C,,diamicton,,,"OF4662 Cv,Cx: "
+OF4662|Cz,C,,diamicton,,,OF4662 Cz: 
+"OF4662|Eb,Ev,Er",E,,sand,,,"OF4662 Eb,Ev,Er: "
+"OF4662|Gp,Gp-k,Gt,Gt-k,Gv,Gtv,Gd",GF,,gravel,,,"OF4662 Gp,Gp-k,Gt,Gt-k,Gv,Gtv,Gd: "
+"OF4662|Gr,Gh,Ghr,Gx",GF,,gravel,,,"OF4662 Gr,Gh,Ghr,Gx: "
+OF4662|Le,GL,C,fines,,,OF4662 Le: 
+"OF4662|Lp,Lp-k,Lpv",GL,,fines,,,"OF4662 Lp,Lp-k,Lpv: "
+OF4662|Ls,GL,,sand,,,OF4662 Ls: 
+"OF4662|Lx,Lx-k",GL,GF,sand,,,"OF4662 Lx,Lx-k: "
+"OF4662|R,Rd,R-k",R,,,,,"OF4662 R,Rd,R-k: "
+"OF4662|Td,Tdv,Tvd",T,,diamicton,,,"OF4662 Td,Tdv,Tvd: "
+"OF4662|Tp,Tpv",T,,diamicton,,,"OF4662 Tp,Tpv: "
+"OF4662|Tr,Th",T,,diamicton,,,"OF4662 Tr,Th: "
+"OF4662|Tv,Tb,Tv-k",T,,diamicton,veneer,,"OF4662 Tv,Tb,Tv-k: "
+"OF4662|Tx,Tx-k",T,,diamicton,,,"OF4662 Tx,Tx-k: "
+"OF4662|fO,pO,pO-k,pfO,fpO",O,,organic,,,"OF4662 fO,pO,pO-k,pfO,fpO: GSC Open File 4662 Surficial geology, Fort Norman NWT (2004), 1:250k, jp2 scan of a digital print. Organic 10-50 % of a unit is a red line overprint: grid = peat+fen, horizontal = fen, vertical = peat (--grid, pitch 26.3 px) -> index o/<base>, hclass2 O"
+"OF4662|o/Af,Ax,Ax-k",F,O,mixed,,,"OF4662 o/Af,Ax,Ax-k: Af,Ax,Ax-k with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"OF4662|o/Ap,At,Ap-k",F,O,mixed,,,"OF4662 o/Ap,At,Ap-k: Ap,At,Ap-k with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"OF4662|o/Cv,Cx",C,O,diamicton,,,"OF4662 o/Cv,Cx: Cv,Cx with organic (peat/fen) 10-50 % (line-pattern overprint)"
+OF4662|o/Cz,C,O,diamicton,,,OF4662 o/Cz: Cz with organic (peat/fen) 10-50 % (line-pattern overprint)
+"OF4662|o/Eb,Ev,Er",E,O,sand,,,"OF4662 o/Eb,Ev,Er: Eb,Ev,Er with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"OF4662|o/Gp,Gp-k,Gt,Gt-k,Gv,Gtv,Gd",GF,O,gravel,,,"OF4662 o/Gp,Gp-k,Gt,Gt-k,Gv,Gtv,Gd: Gp,Gp-k,Gt,Gt-k,Gv,Gtv,Gd with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"OF4662|o/Gr,Gh,Ghr,Gx",GF,O,gravel,,,"OF4662 o/Gr,Gh,Ghr,Gx: Gr,Gh,Ghr,Gx with organic (peat/fen) 10-50 % (line-pattern overprint)"
+OF4662|o/Le,GL,O,fines,,,OF4662 o/Le: Le with organic (peat/fen) 10-50 % (line-pattern overprint)
+"OF4662|o/Lp,Lp-k,Lpv",GL,O,fines,,,"OF4662 o/Lp,Lp-k,Lpv: Lp,Lp-k,Lpv with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"OF4662|o/Lx,Lx-k",GL,O,sand,,,"OF4662 o/Lx,Lx-k: Lx,Lx-k with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"OF4662|o/R,Rd,R-k",R,O,,,,"OF4662 o/R,Rd,R-k: R,Rd,R-k with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"OF4662|o/Td,Tdv,Tvd",T,O,diamicton,,,"OF4662 o/Td,Tdv,Tvd: Td,Tdv,Tvd with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"OF4662|o/Tp,Tpv",T,O,diamicton,,,"OF4662 o/Tp,Tpv: Tp,Tpv with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"OF4662|o/Tr,Th",T,O,diamicton,,,"OF4662 o/Tr,Th: Tr,Th with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"OF4662|o/Tv,Tb,Tv-k",T,O,diamicton,veneer,,"OF4662 o/Tv,Tb,Tv-k: Tv,Tb,Tv-k with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"OF4662|o/Tx,Tx-k",T,O,diamicton,,,"OF4662 o/Tx,Tx-k: Tx,Tx-k with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"OF4662|o/fO,pO,pO-k,pfO,fpO",O,O,organic,,,"OF4662 o/fO,pO,pO-k,pfO,fpO: fO,pO,pO-k,pfO,fpO with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1849a|1,A(Archean)",W,R,bouldery,,,"A1849a 1,A(Archean): 1 #f8d8d8 and Archean A #f8d2dc are dE ~4 apart: merged into one class"
+A1849a|10,GM,T,diamicton,,,A1849a 10: 
+A1849a|11a,M,,fines,blanket,,A1849a 11a: 
+A1849a|11b,M,R,fines,veneer,,A1849a 11b: 
+A1849a|12,M,F,sand,,,A1849a 12: 
+A1849a|13,M,,gravel,,,A1849a 13: 
+A1849a|14,F,,mixed,,,"A1849a 14: GSC Map 1849A Surficial geology, Barrow River, District of Franklin (Dredge 1994), 1:200k UTM, raster scan (mg1.pdf image 13861x11933). Unit 9 (glaciolacustrine) is printed WHITE = paper: it reads as no-data and falls to the coarser source. 14 vs 4 (dE ~5) and 1 vs Archean rock (dE ~4) are near-identical tints"
+A1849a|2,T,R,bouldery,veneer,,A1849a 2: map tint #6d393e sampled ON THE MAP (legend swatch #5f3242)
+A1849a|3,T,,bouldery,blanket,,A1849a 3: map tint #b06858 sampled ON THE MAP (legend swatch #a4685a)
+A1849a|4,T,R,diamicton,veneer,,A1849a 4: map tint #e8f1bc sampled ON THE MAP (legend swatch #e7f1cd)
+A1849a|5,T,,diamicton,blanket,,A1849a 5: map tint #78a496 sampled ON THE MAP (legend swatch #7098a6)
+A1849a|6,T,,diamicton,,,A1849a 6: map tint #1f4a4c sampled ON THE MAP (legend swatch #28565a)
+A1849a|7,GF,,gravel,,,A1849a 7: 
+A1849a|8,GF,,gravel,,,A1849a 8: 
+A1849a|A(Aphebian),R,,,,,A1849a A(Aphebian): 
+"A1746a|Af,Ax",F,,mixed,,,"A1746a Af,Ax: "
+"A1746a|Ap,Ap-k",F,,mixed,,,"A1746a Ap,Ap-k: "
+"A1746a|At,Atv",F,,sand,,,"A1746a At,Atv: "
+"A1746a|Cb,Ca,Cv",C,,diamicton,,,"A1746a Cb,Ca,Cv: "
+A1746a|Ct,C,R,bouldery,,,A1746a Ct: 
+A1746a|Cx,C,,diamicton,,,A1746a Cx: 
+A1746a|Cy,C,,mixed,,,A1746a Cy: 
+A1746a|Cz,C,,diamicton,,,A1746a Cz: 
+"A1746a|Gh,Gr",GF,,gravel,,no,"A1746a Gh,Gr: "
+"A1746a|Gp,Gt",GF,,gravel,,no,"A1746a Gp,Gt: "
+A1746a|Gx,GF,,gravel,,no,A1746a Gx: 
+"A1746a|Lp,Lp-k,Lm,Lb",GL,,fines,,yes,"A1746a Lp,Lp-k,Lm,Lb: "
+A1746a|Ls,GL,,sand,,,A1746a Ls: 
+"A1746a|Lx,Lx-k,Lv",GL,,mixed,,,"A1746a Lx,Lx-k,Lv: "
+A1746a|Md,T,,diamicton,,,A1746a Md: 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+"A1746a|Mh,Mr,Mm",T,,diamicton,,,"A1746a Mh,Mr,Mm: "
+"A1746a|Mp,Mb,Mpv",T,,diamicton,,yes,"A1746a Mp,Mb,Mpv: "
+"A1746a|Mv,Mvd",T,R,diamicton,,,"A1746a Mv,Mvd: "
+A1746a|Mx,T,,diamicton,,,A1746a Mx: 
+"A1746a|R,Rt",R,,,,,"A1746a R,Rt: "
+"A1746a|fO,pO,pO-k,pfO,fpO",O,,organic,,,"A1746a fO,pO,pO-k,pfO,fpO: GSC Maps 1741A-1748A, 1784A (Duk-Rodkin, Hughes et al. 1992-93), Mackenzie Valley 1:250k, raster scans. Shared symbology; per-sheet tints re-sampled. Ground ice from the sheets' own lg01 table (e.g. pO up to 60 % segregated ice, Lp/Mp 10-25 %). Organic 10-50 % = red line overprint (grid / horizontal fen / vertical peat) -> o/<base>, hclass2 O; 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)"
+"A1746a|o/Af,Ax",F,O,mixed,,,"A1746a o/Af,Ax: Af,Ax with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1746a|o/Ap,Ap-k",F,O,mixed,,,"A1746a o/Ap,Ap-k: Ap,Ap-k with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1746a|o/Cb,Ca,Cv",C,O,diamicton,,,"A1746a o/Cb,Ca,Cv: Cb,Ca,Cv with organic (peat/fen) 10-50 % (line-pattern overprint)"
+A1746a|o/Ct,C,O,bouldery,,,A1746a o/Ct: Ct with organic (peat/fen) 10-50 % (line-pattern overprint)
+A1746a|o/Cx,C,O,diamicton,,,A1746a o/Cx: Cx with organic (peat/fen) 10-50 % (line-pattern overprint)
+A1746a|o/Cz,C,O,diamicton,,,A1746a o/Cz: Cz with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1746a|o/Gp,Gt",GF,O,gravel,,no,"A1746a o/Gp,Gt: Gp,Gt with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1746a|o/Lp,Lp-k,Lm,Lb",GL,O,fines,,yes,"A1746a o/Lp,Lp-k,Lm,Lb: Lp,Lp-k,Lm,Lb with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1746a|o/Lx,Lx-k,Lv",GL,O,mixed,,,"A1746a o/Lx,Lx-k,Lv: Lx,Lx-k,Lv with organic (peat/fen) 10-50 % (line-pattern overprint)"
+A1746a|o/Md,T,O,diamicton,,,A1746a o/Md: Md with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1746a|o/Mh,Mr,Mm",T,O,diamicton,,,"A1746a o/Mh,Mr,Mm: Mh,Mr,Mm with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1746a|o/Mp,Mb,Mpv",T,O,diamicton,,yes,"A1746a o/Mp,Mb,Mpv: Mp,Mb,Mpv with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1746a|o/Mv,Mvd",T,O,diamicton,,,"A1746a o/Mv,Mvd: Mv,Mvd with organic (peat/fen) 10-50 % (line-pattern overprint)"
+A1746a|o/Mx,T,O,diamicton,,,A1746a o/Mx: Mx with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1746a|o/fO,pO,pO-k,pfO,fpO",O,O,organic,,,"A1746a o/fO,pO,pO-k,pfO,fpO: fO,pO,pO-k,pfO,fpO with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1747a|Af,Ax",F,,mixed,,,"A1747a Af,Ax: "
+"A1747a|Ap,Ap-k",F,,mixed,,,"A1747a Ap,Ap-k: "
+"A1747a|At,Atv",F,,sand,,,"A1747a At,Atv: "
+"A1747a|Cb,Ca,Cv",C,,diamicton,,,"A1747a Cb,Ca,Cv: "
+A1747a|Ct,C,R,bouldery,,,A1747a Ct: 
+A1747a|Cx,C,,diamicton,,,A1747a Cx: 
+A1747a|Cy,C,,mixed,,,A1747a Cy: 
+A1747a|Cz,C,,diamicton,,,A1747a Cz: 
+"A1747a|Gh,Gr",GF,,gravel,,no,"A1747a Gh,Gr: "
+"A1747a|Gp,Gt",GF,,gravel,,no,"A1747a Gp,Gt: "
+A1747a|Gx,GF,,gravel,,no,A1747a Gx: 
+"A1747a|Lp,Lp-k,Lm,Lb",GL,,fines,,yes,"A1747a Lp,Lp-k,Lm,Lb: "
+A1747a|Ls,GL,,sand,,,A1747a Ls: 
+"A1747a|Lx,Lx-k,Lv",GL,,mixed,,,"A1747a Lx,Lx-k,Lv: "
+A1747a|Md,T,,diamicton,,,A1747a Md: 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+"A1747a|Mh,Mr,Mm",T,,diamicton,,,"A1747a Mh,Mr,Mm: "
+"A1747a|Mp,Mb,Mpv",T,,diamicton,,yes,"A1747a Mp,Mb,Mpv: "
+"A1747a|Mv,Mvd",T,R,diamicton,,,"A1747a Mv,Mvd: "
+A1747a|Mx,T,,diamicton,,,A1747a Mx: 
+"A1747a|R,Rt",R,,,,,"A1747a R,Rt: "
+"A1747a|fO,pO,pO-k,pfO,fpO",O,,organic,,,"A1747a fO,pO,pO-k,pfO,fpO: GSC Maps 1741A-1748A, 1784A (Duk-Rodkin, Hughes et al. 1992-93), Mackenzie Valley 1:250k, raster scans. Shared symbology; per-sheet tints re-sampled. Ground ice from the sheets' own lg01 table (e.g. pO up to 60 % segregated ice, Lp/Mp 10-25 %). Organic 10-50 % = red line overprint (grid / horizontal fen / vertical peat) -> o/<base>, hclass2 O; 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)"
+A1747a|o/Ct,C,O,bouldery,,,A1747a o/Ct: Ct with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1747a|o/Lp,Lp-k,Lm,Lb",GL,O,fines,,yes,"A1747a o/Lp,Lp-k,Lm,Lb: Lp,Lp-k,Lm,Lb with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1747a|o/Lx,Lx-k,Lv",GL,O,mixed,,,"A1747a o/Lx,Lx-k,Lv: Lx,Lx-k,Lv with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1747a|o/Mh,Mr,Mm",T,O,diamicton,,,"A1747a o/Mh,Mr,Mm: Mh,Mr,Mm with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1747a|o/Mp,Mb,Mpv",T,O,diamicton,,yes,"A1747a o/Mp,Mb,Mpv: Mp,Mb,Mpv with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1747a|o/Mv,Mvd",T,O,diamicton,,,"A1747a o/Mv,Mvd: Mv,Mvd with organic (peat/fen) 10-50 % (line-pattern overprint)"
+A1747a|o/Mx,T,O,diamicton,,,A1747a o/Mx: Mx with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1747a|o/fO,pO,pO-k,pfO,fpO",O,O,organic,,,"A1747a o/fO,pO,pO-k,pfO,fpO: fO,pO,pO-k,pfO,fpO with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1748a|Af,Ax",F,,mixed,,,"A1748a Af,Ax: "
+"A1748a|Ap,Ap-k",F,,mixed,,,"A1748a Ap,Ap-k: "
+"A1748a|At,Atv",F,,sand,,,"A1748a At,Atv: "
+"A1748a|Cb,Ca,Cv",C,,diamicton,,,"A1748a Cb,Ca,Cv: "
+A1748a|Ct,C,R,bouldery,,,A1748a Ct: 
+A1748a|Cx,C,,diamicton,,,A1748a Cx: 
+A1748a|Cy,C,,mixed,,,A1748a Cy: 
+A1748a|Cz,C,,diamicton,,,A1748a Cz: 
+"A1748a|Gh,Gr",GF,,gravel,,no,"A1748a Gh,Gr: "
+"A1748a|Gp,Gt",GF,,gravel,,no,"A1748a Gp,Gt: "
+A1748a|Gx,GF,,gravel,,no,A1748a Gx: 
+"A1748a|Lp,Lp-k,Lm,Lb",GL,,fines,,yes,"A1748a Lp,Lp-k,Lm,Lb: "
+A1748a|Ls,GL,,sand,,,A1748a Ls: 
+"A1748a|Lx,Lx-k,Lv",GL,,mixed,,,"A1748a Lx,Lx-k,Lv: "
+A1748a|Md,T,,diamicton,,,A1748a Md: 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+"A1748a|Mh,Mr,Mm",T,,diamicton,,,"A1748a Mh,Mr,Mm: "
+"A1748a|Mp,Mb,Mpv",T,,diamicton,,yes,"A1748a Mp,Mb,Mpv: "
+"A1748a|Mv,Mvd",T,R,diamicton,,,"A1748a Mv,Mvd: "
+A1748a|Mx,T,,diamicton,,,A1748a Mx: 
+"A1748a|R,Rt",R,,,,,"A1748a R,Rt: "
+"A1748a|fO,pO,pO-k,pfO,fpO",O,,organic,,,"A1748a fO,pO,pO-k,pfO,fpO: GSC Maps 1741A-1748A, 1784A (Duk-Rodkin, Hughes et al. 1992-93), Mackenzie Valley 1:250k, raster scans. Shared symbology; per-sheet tints re-sampled. Ground ice from the sheets' own lg01 table (e.g. pO up to 60 % segregated ice, Lp/Mp 10-25 %). Organic 10-50 % = red line overprint (grid / horizontal fen / vertical peat) -> o/<base>, hclass2 O; 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)"
+"A1748a|o/Cb,Ca,Cv",C,O,diamicton,,,"A1748a o/Cb,Ca,Cv: Cb,Ca,Cv with organic (peat/fen) 10-50 % (line-pattern overprint)"
+A1748a|o/Ct,C,O,bouldery,,,A1748a o/Ct: Ct with organic (peat/fen) 10-50 % (line-pattern overprint)
+A1748a|o/Cx,C,O,diamicton,,,A1748a o/Cx: Cx with organic (peat/fen) 10-50 % (line-pattern overprint)
+A1748a|o/Md,T,O,diamicton,,,A1748a o/Md: Md with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1748a|o/Mp,Mb,Mpv",T,O,diamicton,,yes,"A1748a o/Mp,Mb,Mpv: Mp,Mb,Mpv with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1748a|o/Mv,Mvd",T,O,diamicton,,,"A1748a o/Mv,Mvd: Mv,Mvd with organic (peat/fen) 10-50 % (line-pattern overprint)"
+A1748a|o/Mx,T,O,diamicton,,,A1748a o/Mx: Mx with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1748a|o/fO,pO,pO-k,pfO,fpO",O,O,organic,,,"A1748a o/fO,pO,pO-k,pfO,fpO: fO,pO,pO-k,pfO,fpO with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1784a|Af,Ax",F,,mixed,,,"A1784a Af,Ax: "
+"A1784a|Ap,Ap-k",F,,mixed,,,"A1784a Ap,Ap-k: "
+"A1784a|At,Atv",F,,sand,,,"A1784a At,Atv: "
+"A1784a|Cb,Ca,Cv",C,,diamicton,,,"A1784a Cb,Ca,Cv: "
+A1784a|Ct,C,R,bouldery,,,A1784a Ct: 
+A1784a|Cx,C,,diamicton,,,A1784a Cx: 
+A1784a|Cy,C,,mixed,,,A1784a Cy: 
+A1784a|Cz,C,,diamicton,,,A1784a Cz: 
+"A1784a|Gh,Gr",GF,,gravel,,no,"A1784a Gh,Gr: "
+"A1784a|Gp,Gt",GF,,gravel,,no,"A1784a Gp,Gt: "
+A1784a|Gx,GF,,gravel,,no,A1784a Gx: 
+"A1784a|Lp,Lp-k,Lm,Lb",GL,,fines,,yes,"A1784a Lp,Lp-k,Lm,Lb: "
+A1784a|Ls,GL,,sand,,,A1784a Ls: 
+"A1784a|Lx,Lx-k,Lv",GL,,mixed,,,"A1784a Lx,Lx-k,Lv: "
+"A1784a|Mp,Mb,Mpv",T,,diamicton,,yes,"A1784a Mp,Mb,Mpv: "
+"A1784a|Mv,Mvd",T,R,diamicton,,,"A1784a Mv,Mvd: "
+A1784a|Mx,T,,diamicton,,,A1784a Mx: 
+"A1784a|R,Rt",R,,,,,"A1784a R,Rt: "
+"A1784a|fO,pO,pO-k,pfO,fpO",O,,organic,,,"A1784a fO,pO,pO-k,pfO,fpO: GSC Maps 1741A-1748A, 1784A (Duk-Rodkin, Hughes et al. 1992-93), Mackenzie Valley 1:250k, raster scans. Shared symbology; per-sheet tints re-sampled. Ground ice from the sheets' own lg01 table (e.g. pO up to 60 % segregated ice, Lp/Mp 10-25 %). Organic 10-50 % = red line overprint (grid / horizontal fen / vertical peat) -> o/<base>, hclass2 O; 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)"
+A1784a|o/Ct,C,O,bouldery,,,A1784a o/Ct: Ct with organic (peat/fen) 10-50 % (line-pattern overprint)
+A1784a|o/Cx,C,O,diamicton,,,A1784a o/Cx: Cx with organic (peat/fen) 10-50 % (line-pattern overprint)
+A1784a|o/Cy,C,O,mixed,,,A1784a o/Cy: Cy with organic (peat/fen) 10-50 % (line-pattern overprint)
+A1784a|o/Cz,C,O,diamicton,,,A1784a o/Cz: Cz with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1784a|o/Lp,Lp-k,Lm,Lb",GL,O,fines,,yes,"A1784a o/Lp,Lp-k,Lm,Lb: Lp,Lp-k,Lm,Lb with organic (peat/fen) 10-50 % (line-pattern overprint)"
+A1784a|o/Ls,GL,O,sand,,,A1784a o/Ls: Ls with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1784a|o/Lx,Lx-k,Lv",GL,O,mixed,,,"A1784a o/Lx,Lx-k,Lv: Lx,Lx-k,Lv with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1784a|o/Mp,Mb,Mpv",T,O,diamicton,,yes,"A1784a o/Mp,Mb,Mpv: Mp,Mb,Mpv with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1784a|o/Mv,Mvd",T,O,diamicton,,,"A1784a o/Mv,Mvd: Mv,Mvd with organic (peat/fen) 10-50 % (line-pattern overprint)"
+A1784a|o/Mx,T,O,diamicton,,,A1784a o/Mx: Mx with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1784a|o/fO,pO,pO-k,pfO,fpO",O,O,organic,,,"A1784a o/fO,pO,pO-k,pfO,fpO: fO,pO,pO-k,pfO,fpO with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1741a|Af,Ax",F,,mixed,,,"A1741a Af,Ax: "
+"A1741a|Ap,Ap-k",F,,mixed,,,"A1741a Ap,Ap-k: "
+"A1741a|At,Atv",F,,sand,,,"A1741a At,Atv: "
+"A1741a|Cb,Ca,Cv",C,,diamicton,,,"A1741a Cb,Ca,Cv: "
+A1741a|Ct,C,R,bouldery,,,A1741a Ct: 
+A1741a|Cx,C,,diamicton,,,A1741a Cx: 
+A1741a|Cy,C,,mixed,,,A1741a Cy: 
+A1741a|Cz,C,,diamicton,,,A1741a Cz: 
+"A1741a|Gh,Gr",GF,,gravel,,no,"A1741a Gh,Gr: "
+"A1741a|Gp,Gt",GF,,gravel,,no,"A1741a Gp,Gt: "
+A1741a|Gx,GF,,gravel,,no,A1741a Gx: 
+"A1741a|Lp,Lp-k,Lm,Lb",GL,,fines,,yes,"A1741a Lp,Lp-k,Lm,Lb: "
+A1741a|Ls,GL,,sand,,,A1741a Ls: 
+"A1741a|Lx,Lx-k,Lv",GL,,mixed,,,"A1741a Lx,Lx-k,Lv: "
+A1741a|Md,T,,diamicton,,,A1741a Md: 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+"A1741a|Mh,Mr,Mm",T,,diamicton,,,"A1741a Mh,Mr,Mm: "
+"A1741a|Mp,Mb,Mpv",T,,diamicton,,yes,"A1741a Mp,Mb,Mpv: "
+"A1741a|Mv,Mvd",T,R,diamicton,,,"A1741a Mv,Mvd: "
+A1741a|Mx,T,,diamicton,,,A1741a Mx: 
+"A1741a|R,Rt",R,,,,,"A1741a R,Rt: "
+"A1741a|fO,pO,pO-k,pfO,fpO",O,,organic,,,"A1741a fO,pO,pO-k,pfO,fpO: GSC Maps 1741A-1748A, 1784A (Duk-Rodkin, Hughes et al. 1992-93), Mackenzie Valley 1:250k, raster scans. Shared symbology; per-sheet tints re-sampled. Ground ice from the sheets' own lg01 table (e.g. pO up to 60 % segregated ice, Lp/Mp 10-25 %). Organic 10-50 % = red line overprint (grid / horizontal fen / vertical peat) -> o/<base>, hclass2 O; 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)"
+"A1741a|o/Af,Ax",F,O,mixed,,,"A1741a o/Af,Ax: Af,Ax with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1741a|o/Ap,Ap-k",F,O,mixed,,,"A1741a o/Ap,Ap-k: Ap,Ap-k with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1741a|o/At,Atv",F,O,sand,,,"A1741a o/At,Atv: At,Atv with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1741a|o/Cb,Ca,Cv",C,O,diamicton,,,"A1741a o/Cb,Ca,Cv: Cb,Ca,Cv with organic (peat/fen) 10-50 % (line-pattern overprint)"
+A1741a|o/Ct,C,O,bouldery,,,A1741a o/Ct: Ct with organic (peat/fen) 10-50 % (line-pattern overprint)
+A1741a|o/Cx,C,O,diamicton,,,A1741a o/Cx: Cx with organic (peat/fen) 10-50 % (line-pattern overprint)
+A1741a|o/Cy,C,O,mixed,,,A1741a o/Cy: Cy with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1741a|o/Gh,Gr",GF,O,gravel,,no,"A1741a o/Gh,Gr: Gh,Gr with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1741a|o/Lp,Lp-k,Lm,Lb",GL,O,fines,,yes,"A1741a o/Lp,Lp-k,Lm,Lb: Lp,Lp-k,Lm,Lb with organic (peat/fen) 10-50 % (line-pattern overprint)"
+A1741a|o/Ls,GL,O,sand,,,A1741a o/Ls: Ls with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1741a|o/Lx,Lx-k,Lv",GL,O,mixed,,,"A1741a o/Lx,Lx-k,Lv: Lx,Lx-k,Lv with organic (peat/fen) 10-50 % (line-pattern overprint)"
+A1741a|o/Md,T,O,diamicton,,,A1741a o/Md: Md with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1741a|o/Mp,Mb,Mpv",T,O,diamicton,,yes,"A1741a o/Mp,Mb,Mpv: Mp,Mb,Mpv with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1741a|o/Mv,Mvd",T,O,diamicton,,,"A1741a o/Mv,Mvd: Mv,Mvd with organic (peat/fen) 10-50 % (line-pattern overprint)"
+A1741a|o/Mx,T,O,diamicton,,,A1741a o/Mx: Mx with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1741a|o/R,Rt",R,O,,,,"A1741a o/R,Rt: R,Rt with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1741a|o/fO,pO,pO-k,pfO,fpO",O,O,organic,,,"A1741a o/fO,pO,pO-k,pfO,fpO: fO,pO,pO-k,pfO,fpO with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1742a|Af,Ax",F,,mixed,,,"A1742a Af,Ax: "
+"A1742a|Ap,Ap-k",F,,mixed,,,"A1742a Ap,Ap-k: "
+"A1742a|At,Atv",F,,sand,,,"A1742a At,Atv: "
+"A1742a|Cb,Ca,Cv",C,,diamicton,,,"A1742a Cb,Ca,Cv: "
+A1742a|Ct,C,R,bouldery,,,A1742a Ct: 
+A1742a|Cx,C,,diamicton,,,A1742a Cx: 
+A1742a|Cy,C,,mixed,,,A1742a Cy: 
+A1742a|Cz,C,,diamicton,,,A1742a Cz: 
+"A1742a|Gh,Gr",GF,,gravel,,no,"A1742a Gh,Gr: "
+"A1742a|Gp,Gt",GF,,gravel,,no,"A1742a Gp,Gt: "
+A1742a|Gx,GF,,gravel,,no,A1742a Gx: 
+"A1742a|Lp,Lp-k,Lm,Lb",GL,,fines,,yes,"A1742a Lp,Lp-k,Lm,Lb: "
+A1742a|Ls,GL,,sand,,,A1742a Ls: 
+"A1742a|Lx,Lx-k,Lv",GL,,mixed,,,"A1742a Lx,Lx-k,Lv: "
+A1742a|Md,T,,diamicton,,,A1742a Md: 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+"A1742a|Mh,Mr,Mm",T,,diamicton,,,"A1742a Mh,Mr,Mm: "
+"A1742a|Mp,Mb,Mpv",T,,diamicton,,yes,"A1742a Mp,Mb,Mpv: "
+"A1742a|Mv,Mvd",T,R,diamicton,,,"A1742a Mv,Mvd: "
+A1742a|Mx,T,,diamicton,,,A1742a Mx: 
+"A1742a|R,Rt",R,,,,,"A1742a R,Rt: "
+"A1742a|fO,pO,pO-k,pfO,fpO",O,,organic,,,"A1742a fO,pO,pO-k,pfO,fpO: GSC Maps 1741A-1748A, 1784A (Duk-Rodkin, Hughes et al. 1992-93), Mackenzie Valley 1:250k, raster scans. Shared symbology; per-sheet tints re-sampled. Ground ice from the sheets' own lg01 table (e.g. pO up to 60 % segregated ice, Lp/Mp 10-25 %). Organic 10-50 % = red line overprint (grid / horizontal fen / vertical peat) -> o/<base>, hclass2 O; 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)"
+A1742a|o/Ct,C,O,bouldery,,,A1742a o/Ct: Ct with organic (peat/fen) 10-50 % (line-pattern overprint)
+A1742a|o/Cx,C,O,diamicton,,,A1742a o/Cx: Cx with organic (peat/fen) 10-50 % (line-pattern overprint)
+A1742a|o/Gx,GF,O,gravel,,no,A1742a o/Gx: Gx with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1742a|o/Lp,Lp-k,Lm,Lb",GL,O,fines,,yes,"A1742a o/Lp,Lp-k,Lm,Lb: Lp,Lp-k,Lm,Lb with organic (peat/fen) 10-50 % (line-pattern overprint)"
+A1742a|o/Ls,GL,O,sand,,,A1742a o/Ls: Ls with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1742a|o/Lx,Lx-k,Lv",GL,O,mixed,,,"A1742a o/Lx,Lx-k,Lv: Lx,Lx-k,Lv with organic (peat/fen) 10-50 % (line-pattern overprint)"
+A1742a|o/Md,T,O,diamicton,,,A1742a o/Md: Md with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1742a|o/Mh,Mr,Mm",T,O,diamicton,,,"A1742a o/Mh,Mr,Mm: Mh,Mr,Mm with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1742a|o/Mp,Mb,Mpv",T,O,diamicton,,yes,"A1742a o/Mp,Mb,Mpv: Mp,Mb,Mpv with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1742a|o/Mv,Mvd",T,O,diamicton,,,"A1742a o/Mv,Mvd: Mv,Mvd with organic (peat/fen) 10-50 % (line-pattern overprint)"
+A1742a|o/Mx,T,O,diamicton,,,A1742a o/Mx: Mx with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1742a|o/fO,pO,pO-k,pfO,fpO",O,O,organic,,,"A1742a o/fO,pO,pO-k,pfO,fpO: fO,pO,pO-k,pfO,fpO with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1743a|Af,Ax",F,,mixed,,,"A1743a Af,Ax: "
+"A1743a|Ap,Ap-k",F,,mixed,,,"A1743a Ap,Ap-k: "
+"A1743a|At,Atv",F,,sand,,,"A1743a At,Atv: "
+"A1743a|Cb,Ca,Cv",C,,diamicton,,,"A1743a Cb,Ca,Cv: "
+A1743a|Ct,C,R,bouldery,,,A1743a Ct: 
+A1743a|Cx,C,,diamicton,,,A1743a Cx: 
+A1743a|Cy,C,,mixed,,,A1743a Cy: 
+A1743a|Cz,C,,diamicton,,,A1743a Cz: 
+"A1743a|Gh,Gr",GF,,gravel,,no,"A1743a Gh,Gr: "
+"A1743a|Gp,Gt",GF,,gravel,,no,"A1743a Gp,Gt: "
+A1743a|Gx,GF,,gravel,,no,A1743a Gx: 
+"A1743a|Lp,Lp-k,Lm,Lb",GL,,fines,,yes,"A1743a Lp,Lp-k,Lm,Lb: "
+A1743a|Ls,GL,,sand,,,A1743a Ls: 
+A1743a|Md,T,,diamicton,,,A1743a Md: 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+"A1743a|Mh,Mr,Mm",T,,diamicton,,,"A1743a Mh,Mr,Mm: "
+"A1743a|Mp,Mb,Mpv",T,,diamicton,,yes,"A1743a Mp,Mb,Mpv: "
+"A1743a|Mv,Mvd",T,R,diamicton,,,"A1743a Mv,Mvd: "
+A1743a|Mx,T,,diamicton,,,A1743a Mx: 
+"A1743a|R,Rt",R,,,,,"A1743a R,Rt: "
+"A1743a|fO,pO,pO-k,pfO,fpO",O,,organic,,,"A1743a fO,pO,pO-k,pfO,fpO: GSC Maps 1741A-1748A, 1784A (Duk-Rodkin, Hughes et al. 1992-93), Mackenzie Valley 1:250k, raster scans. Shared symbology; per-sheet tints re-sampled. Ground ice from the sheets' own lg01 table (e.g. pO up to 60 % segregated ice, Lp/Mp 10-25 %). Organic 10-50 % = red line overprint (grid / horizontal fen / vertical peat) -> o/<base>, hclass2 O; 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)"
+"A1743a|o/Ap,Ap-k",F,O,mixed,,,"A1743a o/Ap,Ap-k: Ap,Ap-k with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1743a|o/Cb,Ca,Cv",C,O,diamicton,,,"A1743a o/Cb,Ca,Cv: Cb,Ca,Cv with organic (peat/fen) 10-50 % (line-pattern overprint)"
+A1743a|o/Ct,C,O,bouldery,,,A1743a o/Ct: Ct with organic (peat/fen) 10-50 % (line-pattern overprint)
+A1743a|o/Cx,C,O,diamicton,,,A1743a o/Cx: Cx with organic (peat/fen) 10-50 % (line-pattern overprint)
+A1743a|o/Gx,GF,O,gravel,,no,A1743a o/Gx: Gx with organic (peat/fen) 10-50 % (line-pattern overprint)
+A1743a|o/Md,T,O,diamicton,,,A1743a o/Md: Md with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1743a|o/Mh,Mr,Mm",T,O,diamicton,,,"A1743a o/Mh,Mr,Mm: Mh,Mr,Mm with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1743a|o/Mp,Mb,Mpv",T,O,diamicton,,yes,"A1743a o/Mp,Mb,Mpv: Mp,Mb,Mpv with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1743a|o/Mv,Mvd",T,O,diamicton,,,"A1743a o/Mv,Mvd: Mv,Mvd with organic (peat/fen) 10-50 % (line-pattern overprint)"
+A1743a|o/Mx,T,O,diamicton,,,A1743a o/Mx: Mx with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1743a|o/fO,pO,pO-k,pfO,fpO",O,O,organic,,,"A1743a o/fO,pO,pO-k,pfO,fpO: fO,pO,pO-k,pfO,fpO with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1745a|Af,Ax",F,,mixed,,,"A1745a Af,Ax: "
+"A1745a|Ap,Ap-k",F,,mixed,,,"A1745a Ap,Ap-k: "
+"A1745a|At,Atv",F,,sand,,,"A1745a At,Atv: "
+"A1745a|Cb,Ca,Cv",C,,diamicton,,,"A1745a Cb,Ca,Cv: "
+A1745a|Ct,C,R,bouldery,,,A1745a Ct: 
+A1745a|Cx,C,,diamicton,,,A1745a Cx: 
+A1745a|Cy,C,,mixed,,,A1745a Cy: 
+A1745a|Cz,C,,diamicton,,,A1745a Cz: 
+"A1745a|Gp,Gt",GF,,gravel,,no,"A1745a Gp,Gt: "
+A1745a|Gx,GF,,gravel,,no,A1745a Gx: 
+"A1745a|Lp,Lp-k,Lm,Lb",GL,,fines,,yes,"A1745a Lp,Lp-k,Lm,Lb: "
+A1745a|Ls,GL,,sand,,,A1745a Ls: 
+"A1745a|Lx,Lx-k,Lv",GL,,mixed,,,"A1745a Lx,Lx-k,Lv: "
+A1745a|Md,T,,diamicton,,,A1745a Md: 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)
+"A1745a|Mh,Mr,Mm",T,,diamicton,,,"A1745a Mh,Mr,Mm: "
+"A1745a|Mp,Mb,Mpv",T,,diamicton,,yes,"A1745a Mp,Mb,Mpv: "
+"A1745a|Mv,Mvd",T,R,diamicton,,,"A1745a Mv,Mvd: "
+A1745a|Mx,T,,diamicton,,,A1745a Mx: 
+"A1745a|R,Rt",R,,,,,"A1745a R,Rt: "
+"A1745a|fO,pO,pO-k,pfO,fpO",O,,organic,,,"A1745a fO,pO,pO-k,pfO,fpO: GSC Maps 1741A-1748A, 1784A (Duk-Rodkin, Hughes et al. 1992-93), Mackenzie Valley 1:250k, raster scans. Shared symbology; per-sheet tints re-sampled. Ground ice from the sheets' own lg01 table (e.g. pO up to 60 % segregated ice, Lp/Mp 10-25 %). Organic 10-50 % = red line overprint (grid / horizontal fen / vertical peat) -> o/<base>, hclass2 O; 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)"
+"A1745a|o/Af,Ax",F,O,mixed,,,"A1745a o/Af,Ax: Af,Ax with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1745a|o/Ap,Ap-k",F,O,mixed,,,"A1745a o/Ap,Ap-k: Ap,Ap-k with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1745a|o/Cb,Ca,Cv",C,O,diamicton,,,"A1745a o/Cb,Ca,Cv: Cb,Ca,Cv with organic (peat/fen) 10-50 % (line-pattern overprint)"
+A1745a|o/Ct,C,O,bouldery,,,A1745a o/Ct: Ct with organic (peat/fen) 10-50 % (line-pattern overprint)
+A1745a|o/Cx,C,O,diamicton,,,A1745a o/Cx: Cx with organic (peat/fen) 10-50 % (line-pattern overprint)
+A1745a|o/Cy,C,O,mixed,,,A1745a o/Cy: Cy with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1745a|o/Gp,Gt",GF,O,gravel,,no,"A1745a o/Gp,Gt: Gp,Gt with organic (peat/fen) 10-50 % (line-pattern overprint)"
+A1745a|o/Md,T,O,diamicton,,,A1745a o/Md: Md with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1745a|o/Mh,Mr,Mm",T,O,diamicton,,,"A1745a o/Mh,Mr,Mm: Mh,Mr,Mm with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1745a|o/Mp,Mb,Mpv",T,O,diamicton,,yes,"A1745a o/Mp,Mb,Mpv: Mp,Mb,Mpv with organic (peat/fen) 10-50 % (line-pattern overprint)"
+"A1745a|o/Mv,Mvd",T,O,diamicton,,,"A1745a o/Mv,Mvd: Mv,Mvd with organic (peat/fen) 10-50 % (line-pattern overprint)"
+A1745a|o/Mx,T,O,diamicton,,,A1745a o/Mx: Mx with organic (peat/fen) 10-50 % (line-pattern overprint)
+"A1745a|o/fO,pO,pO-k,pfO,fpO",O,O,organic,,,"A1745a o/fO,pO,pO-k,pfO,fpO: fO,pO,pO-k,pfO,fpO with organic (peat/fen) 10-50 % (line-pattern overprint)"
+A1693a|Af,F,,mixed,,,A1693a Af: 
+"A1693a|Ap,At",F,,mixed,,,"A1693a Ap,At: GSC Map 1693A Surficial geology, Southern Mackenzie River Valley (1993), 1:500k, raster scan (jp2). Ap and At share one colour. ORGANIC DEPOSITS are a red square-grid overprint (pitch 24.6 px) over the underlying mineral unit: detected by periodicity (--grid) -> index O/<base>, hclass O. Line-screen print: swatches sampled after a 5x5 median"
+A1693a|C,C,R,,,,A1693a C: 
+A1693a|Ch,C,,,,,A1693a Ch: 
+A1693a|E,E,,sand,,,A1693a E: 
+A1693a|Gh,GF,,mixed,,,A1693a Gh: 
+A1693a|Gp,GF,,gravel,,,A1693a Gp: 
+A1693a|Lp,GL,,fines,,,A1693a Lp: 
+A1693a|Lv,GL,T,fines,veneer,,A1693a Lv: 
+"A1693a|Mh,Mr",T,,diamicton,,,"A1693a Mh,Mr: "
+"A1693a|Mp,Mm,Md",T,,diamicton,,,"A1693a Mp,Mm,Md: "
+A1693a|Mv,T,,diamicton,veneer,,A1693a Mv: 
+"A1693a|O/Ap,At",O,F,organic,,,"A1693a O/Ap,At: organic grid overprint over Ap,At"
+A1693a|O/C,O,C,organic,,,A1693a O/C: organic grid overprint over C
+A1693a|O/Ch,O,C,organic,,,A1693a O/Ch: organic grid overprint over Ch
+A1693a|O/E,O,E,organic,,,A1693a O/E: organic grid overprint over E
+A1693a|O/Gh,O,GF,organic,,,A1693a O/Gh: organic grid overprint over Gh
+A1693a|O/Gp,O,GF,organic,,,A1693a O/Gp: organic grid overprint over Gp
+A1693a|O/Lp,O,GL,organic,,,A1693a O/Lp: organic grid overprint over Lp
+A1693a|O/Lv,O,GL,organic,,,A1693a O/Lv: organic grid overprint over Lv
+"A1693a|O/Mh,Mr",O,T,organic,,,"A1693a O/Mh,Mr: organic grid overprint over Mh,Mr"
+"A1693a|O/Mp,Mm,Md",O,T,organic,,,"A1693a O/Mp,Mm,Md: organic grid overprint over Mp,Mm,Md"
+A1693a|O/Mv,O,T,organic,,,A1693a O/Mv: organic grid overprint over Mv
+A1693a|R,R,,,,,A1693a R: 
+A1782a|10a,M,,fines,blanket,,A1782a 10a: split swatch sampled by hand
+A1782a|10b,M,,fines,veneer,,A1782a 10b: split swatch sampled by hand
+A1782a|11,M,F,sand,,,A1782a 11: 
+A1782a|12,M,,gravel,,,A1782a 12: 
+A1782a|13,F,,mixed,,,"A1782a 13: GSC Map 1782A Northern Melville Peninsula (Dredge 1993), 1:200k UTM, raster scan"
+A1782a|1a,W,R,bouldery,,,A1782a 1a: colour close to 1b (both W)
+A1782a|1b,W,R,bouldery,,,A1782a 1b: 
+A1782a|2a,T,R,bouldery,veneer,,A1782a 2a: 
+A1782a|2b,T,,bouldery,blanket,,A1782a 2b: 
+A1782a|3a,T,R,diamicton,veneer,,A1782a 3a: split swatch sampled by hand
+A1782a|3b,T,R,diamicton,veneer,,A1782a 3b: split swatch sampled by hand
+A1782a|4a,T,,diamicton,blanket,,A1782a 4a: split swatch sampled by hand
+A1782a|4b,T,,diamicton,blanket,,A1782a 4b: split swatch sampled by hand
+A1782a|5,T,,diamicton,,,A1782a 5: 
+A1782a|6,GF,,mixed,,,A1782a 6: 
+A1782a|7,GF,,mixed,,,A1782a 7: 
+A1782a|8,GL,,fines,veneer,,A1782a 8: 
+A1782a|9,GM,,diamicton,,,A1782a 9: 
+A1782a|A,R,,,,,A1782a A: 
+A1782a|A2,R,,,,,A1782a A2: legend symbol also 'A'; renamed A2 here
+A1782a|P,R,,,,,A1782a P: 
+A1782a|P2,R,,,,,A1782a P2: legend symbol also 'P'; renamed P2 here
+A1964a|Af,F,,mixed,,,A1964a Af: 
+A1964a|Ap,F,,mixed,,,A1964a Ap: swatch sampled by hand
+A1964a|At,F,,mixed,,,A1964a At: 
+A1964a|Ca,C,,bouldery,,,"A1964a Ca: GSC Map 1963A Moffet Inlet and Fitzgerald Bay (Dredge 2000), 1:250k UTM, raster scan. Glacier ice is a blue line pattern on white: it reads as paper (no-data) and falls to the coarser source | legend_gsc_baffin2000 = A1963a legend (shared by Maps 1960A-1965A, Dyke 2000) + R contour tint + ice pattern"
+A1964a|Cr,C,,bouldery,,yes,A1964a Cr: rock glaciers: ice-cored by definition
+"A1964a|Gp,t,f",GF,,mixed,,,"A1964a Gp,t,f: "
+A1964a|I,I,,,,,A1964a I: placeholder fill; assigned by --pattern #ff00ff:#bbb0e7:41
+A1964a|Lb,GL,,fines,blanket,,A1964a Lb: 
+A1964a|Lt,GL,,mixed,,,A1964a Lt: 
+A1964a|Lv,GL,,fines,veneer,,A1964a Lv: 
+A1964a|Mb,GM,M,fines,blanket,,A1964a Mb: 
+A1964a|Mr,M,,gravel,,,A1964a Mr: 
+A1964a|Mt,M,F,mixed,,,A1964a Mt: 
+A1964a|Mv,GM,M,fines,veneer,,A1964a Mv: 
+A1964a|R,R,,,,,A1964a R: 
+A1964a|Tb,T,,diamicton,blanket,,A1964a Tb: 
+A1964a|Tm,T,,diamicton,,yes,A1964a Tm: relict glacier ice stated
+A1964a|Tv,T,R,diamicton,veneer,,A1964a Tv: 
+A1965a|Af,F,,mixed,,,A1965a Af: 
+A1965a|Ap,F,,mixed,,,A1965a Ap: swatch sampled by hand
+A1965a|At,F,,mixed,,,A1965a At: 
+A1965a|Ca,C,,bouldery,,,"A1965a Ca: GSC Map 1963A Moffet Inlet and Fitzgerald Bay (Dredge 2000), 1:250k UTM, raster scan. Glacier ice is a blue line pattern on white: it reads as paper (no-data) and falls to the coarser source | legend_gsc_baffin2000 = A1963a legend (shared by Maps 1960A-1965A, Dyke 2000) + R contour tint + ice pattern"
+A1965a|Cr,C,,bouldery,,yes,A1965a Cr: rock glaciers: ice-cored by definition
+"A1965a|Gp,t,f",GF,,mixed,,,"A1965a Gp,t,f: "
+A1965a|I,I,,,,,A1965a I: placeholder fill; assigned by --pattern #ff00ff:#bbb0e7:41
+A1965a|Lb,GL,,fines,blanket,,A1965a Lb: 
+A1965a|Lt,GL,,mixed,,,A1965a Lt: 
+A1965a|Lv,GL,,fines,veneer,,A1965a Lv: 
+A1965a|Mr,M,,gravel,,,A1965a Mr: 
+A1965a|Mt,M,F,mixed,,,A1965a Mt: 
+A1965a|Mv,GM,M,fines,veneer,,A1965a Mv: 
+A1965a|R,R,,,,,A1965a R: 
+A1965a|Tb,T,,diamicton,blanket,,A1965a Tb: 
+A1965a|Tm,T,,diamicton,,yes,A1965a Tm: relict glacier ice stated
+A1965a|Tv,T,R,diamicton,veneer,,A1965a Tv: 
+"A1395a|Ap,At,Af",F,,mixed,,,"A1395a Ap,At,Af: GSC Map 1395A NE Baffin Island (Hodgson & Haselton 1974), 1:500k UTM, raster scan. Letters: W = marine, M = MORAINAL, G = glaciofluvial. Bedrock (R) and ice are uncoloured: they read as paper and fall to the coarser source"
+A1395a|Cf,C,,bouldery,,,A1395a Cf: 
+A1395a|Cs,C,,,,,"A1395a Cs: map tint #95904a sampled ON THE MAP (legend swatch #a5a037, dE 17)"
+"A1395a|Gp,Gt",GF,,mixed,,,"A1395a Gp,Gt: "
+A1395a|Lp,L,,,,,A1395a Lp: glacial vs nonglacial not stated
+"A1395a|Mp,Mv,Mpv",T,,diamicton,,,"A1395a Mp,Mv,Mpv: "
+"A1395a|Mr,Mc,Mh",T,,diamicton,,,"A1395a Mr,Mc,Mh: Mc reading of the table uncertain"
+A1395a|Wr,M,,gravel,,,A1395a Wr: 
+"A1848a|1,A(Archean)",W,R,bouldery,,,"A1848a 1,A(Archean): 1 #f8d8d8 and Archean A #f8d2dc are dE ~4 apart: merged into one class"
+"A1848a|10,11b",GM,M,diamicton,,,"A1848a 10,11b: "
+A1848a|11a,M,,fines,blanket,,A1848a 11a: 
+A1848a|12,M,F,sand,,,A1848a 12: 
+A1848a|13,M,,gravel,,,"A1848a 13: GSC Map 1848A Miertsching Lake (Dredge 1994), 1:200k UTM; A1847A-1851A series legend (from A1849a), ALL tints re-sampled on this print (they differ from A1849a). Units 6 (hummocky Laurentide till) and 9-like whites are printed white = paper: lost. 11b = 10 tint: merged. Alluvium 14 (#f7f8b5) DROPPED: dE 2 from till veneer 4 on this print; its pixels read as 4"
+A1848a|2,T,R,bouldery,veneer,,A1848a 2: map tint #6d393e sampled ON THE MAP (legend swatch #5f3242)
+A1848a|3,T,,bouldery,blanket,,A1848a 3: map tint #b06858 sampled ON THE MAP (legend swatch #a4685a)
+A1848a|4,T,R,diamicton,veneer,,A1848a 4: map tint #e8f1bc sampled ON THE MAP (legend swatch #e7f1cd)
+A1848a|5,T,,diamicton,blanket,,A1848a 5: map tint #78a496 sampled ON THE MAP (legend swatch #7098a6)
+A1848a|7,GF,,gravel,,,A1848a 7: 
+A1848a|8,GF,,gravel,,,A1848a 8: 
+A1848a|A(Aphebian),R,,,,,A1848a A(Aphebian): 
+A1686a|Af,F,,mixed,,,A1686a Af: 
+A1686a|Ao,F,,mixed,,,A1686a Ao: 
+A1686a|C,C,,bouldery,,,A1686a C: 
+A1686a|D,T,R,diamicton,veneer,,A1686a D: 
+"A1686a|D*, Ds*",T,,diamicton,,,"A1686a D*, Ds*: "
+A1686a|DG,T,GF,bouldery,veneer,,A1686a DG: 
+"A1686a|Dm, Dm*",T,GF,bouldery,,,"A1686a Dm, Dm*: "
+A1686a|E,E,,sand,,,"A1686a E: GSC Map 1686A Bylot Island and adjacent areas (Klassen 1993), UTM, raster scan"
+A1686a|GM,GF,M,mixed,,,A1686a GM: index GM here is NOT glaciomarine
+"A1686a|Gk, Gk*",GF,,mixed,,,"A1686a Gk, Gk*: "
+A1686a|Go,GF,,gravel,,,A1686a Go: 
+"A1686a|Gs, Gs*",GF,,mixed,,,"A1686a Gs, Gs*: "
+A1686a|ICE,I,,,,,A1686a ICE: sampled on the map face (central Bylot ice cap)
+A1686a|L,GL,,mixed,,,A1686a L: 
+A1686a|Ld,GL,,gravel,,,A1686a Ld: 
+A1686a|MR,M,R,,veneer,,A1686a MR: 
+A1686a|Md|Mi,M,F,mixed,,,A1686a Md|Mi: two-part swatch; the finder sampled the Mi half; Md half is bright yellow and close to Af
+A1686a|Mn,M,,gravel,,,A1686a Mn: 
+A1686a|Rk,R,W,,,,A1686a Rk: 
+A1686a|Rp,R,,,,,A1686a Rp: 
+A1686a|Rx,R,,,,,A1686a Rx: 
+A1963a|Af,F,,mixed,,,A1963a Af: 
+A1963a|Ap,F,,mixed,,,A1963a Ap: swatch sampled by hand
+A1963a|At,F,,mixed,,,A1963a At: 
+A1963a|Ca,C,,bouldery,,,"A1963a Ca: GSC Map 1963A Moffet Inlet and Fitzgerald Bay (Dredge 2000), 1:250k UTM, raster scan. Glacier ice is a blue line pattern on white: it reads as paper (no-data) and falls to the coarser source | legend_gsc_baffin2000 = A1963a legend (shared by Maps 1960A-1965A, Dyke 2000) + R contour tint + ice pattern"
+A1963a|Cr,C,,bouldery,,yes,A1963a Cr: rock glaciers: ice-cored by definition
+"A1963a|Gp,t,f",GF,,mixed,,,"A1963a Gp,t,f: "
+"A1963a|Gr,h",GF,,mixed,,,"A1963a Gr,h: "
+A1963a|I,I,,,,,A1963a I: placeholder fill; assigned by --pattern #ff00ff:#bbb0e7:41
+A1963a|Lb,GL,,fines,blanket,,A1963a Lb: 
+A1963a|Lt,GL,,mixed,,,A1963a Lt: 
+A1963a|Lv,GL,,fines,veneer,,A1963a Lv: 
+A1963a|Mb,GM,M,fines,blanket,,A1963a Mb: 
+A1963a|Mr,M,,gravel,,,A1963a Mr: 
+A1963a|Mt,M,F,mixed,,,A1963a Mt: 
+A1963a|Mv,GM,M,fines,veneer,,A1963a Mv: 
+A1963a|R,R,,,,,A1963a R: 
+A1963a|Tb,T,,diamicton,blanket,,A1963a Tb: 
+A1963a|Tm,T,,diamicton,,yes,A1963a Tm: relict glacier ice stated
+A1963a|Tv,T,R,diamicton,veneer,,A1963a Tv: 
+A1319a|A,R,,,,,A1319a A: swatch sampled by hand
+A1319a|B,R,C,,veneer,,A1319a B: 
+A1319a|Qe,M,,mixed,,,A1319a Qe: 
+A1319a|Qf,F,,mixed,,,A1319a Qf: 
+A1319a|Qff,F,,mixed,,,A1319a Qff: swatch sampled by hand
+A1319a|Qfp,F,,mixed,,,A1319a Qfp: 
+A1319a|Qft,F,,mixed,,,A1319a Qft: swatch sampled by hand
+A1319a|Qgf,GF,,mixed,,,A1319a Qgf: 
+A1319a|Ql,L,,fines,,,"A1319a Ql: swatch sampled by hand; Old Crow / Bluefish / Bell basins = glacial lake Old Crow deposits, legend says lacustrine only"
+A1319a|Qml,T,,diamicton,,,"A1319a Qml: GSC Map 1319A Northern Yukon and NW District of Mackenzie (Hughes et al. 1971), 1:500k, raster scan on CREAM paper"
+A1319a|Qmm,T,,diamicton,,,A1319a Qmm: 
+A1319a|U,Q,,,,,"A1319a U: undifferentiated unit, deliberately Q: a finer source should replace it"
+OF3634_1|1a,T,,diamicton,veneer,,OF3634_1 1a: 
+OF3634_1|1b,T,,diamicton,,,OF3634_1 1b: 
+OF3634_1|1c,T,,diamicton,,,OF3634_1 1c: 
+OF3634_1|2,GF,,,,,OF3634_1 2: 
+OF3634_1|3,GF,,,,,OF3634_1 3: 
+OF3634_1|4a,GL,,fines,,,OF3634_1 4a: 
+OF3634_1|4b,GL,,,,,OF3634_1 4b: 
+OF3634_1|5a,M,GM,fines,veneer,,OF3634_1 5a: 
+OF3634_1|5b,M,GM,fines,,,OF3634_1 5b: 
+OF3634_1|5c,M,GM,,,,OF3634_1 5c: 
+OF3634_1|5d,M,,,,,OF3634_1 5d: 
+OF3634_1|6,F,,,,,OF3634_1 6: 
+OF3634_1|7,C,,,,,OF3634_1 7: 
+OF3634_1|8,E,,sand,,,"OF3634_1 8: GSC Open File 3634, Surficial geology compilation, northern Baffin Island and northern Melville Peninsula (Dredge et al. 1998), 1:500k, 2 sheets; digital PDF render, swatches sampled at the legend"
+OF3634_1|I,I,,,,,"OF3634_1 I: cyan squiggle pattern on white: placeholder fill (no pixel has it), assigned by --pattern #ff00ff:#79ffff:41"
+OF3634_1|R,R,,,,,OF3634_1 R: 
+OF3634_2|1a,T,,diamicton,veneer,,OF3634_2 1a: 
+OF3634_2|1b,T,,diamicton,,,OF3634_2 1b: 
+OF3634_2|1c,T,,diamicton,,,OF3634_2 1c: 
+OF3634_2|2,GF,,,,,OF3634_2 2: 
+OF3634_2|3,GF,,,,,OF3634_2 3: 
+OF3634_2|4a,GL,,fines,,,OF3634_2 4a: 
+OF3634_2|4b,GL,,,,,OF3634_2 4b: 
+OF3634_2|5a,M,GM,fines,veneer,,OF3634_2 5a: 
+OF3634_2|5b,M,GM,fines,,,OF3634_2 5b: 
+OF3634_2|5c,M,GM,,,,OF3634_2 5c: 
+OF3634_2|5d,M,,,,,OF3634_2 5d: 
+OF3634_2|6,F,,,,,OF3634_2 6: 
+OF3634_2|I,I,,,,,"OF3634_2 I: cyan squiggle pattern on white: placeholder fill (no pixel has it), assigned by --pattern #ff00ff:#79ffff:41"
+OF3634_2|R,R,,,,,OF3634_2 R: 
+A1620a|A,F,,sand,,,"A1620a A: GSC Map 1620A Cartwright (Fulton 1986), 1:500k TM; legend outside frame; organic terrain = red grid overprint (primary O over the underlying unit); 15-50% organic diagonal hatch NOT captured (falls to the base unit); tints from A1621a (same series), re-checked on this print"
+A1620a|G,GF,,gravel,,,A1620a G: 
+A1620a|L,L,,fines,,,A1620a L: 
+A1620a|LW,L,M,fines,,,A1620a LW: 
+A1620a|M,T,,diamicton,,,A1620a M: 
+A1620a|Mv,T,R,diamicton,veneer,,A1620a Mv: 
+A1620a|Mx,T,GF,diamicton,,,A1620a Mx: 
+A1620a|O/G,O,GF,organic,,,A1620a O/G: organic grid overprint over G
+A1620a|O/L,O,L,organic,,,A1620a O/L: organic grid overprint over L
+A1620a|O/LW,O,L,organic,,,A1620a O/LW: organic grid overprint over LW
+A1620a|O/M,O,T,organic,,,A1620a O/M: organic grid overprint over M
+A1620a|O/Mv,O,T,organic,,,A1620a O/Mv: organic grid overprint over Mv
+A1620a|O/Mx,O,T,organic,,,A1620a O/Mx: organic grid overprint over Mx
+A1620a|O/R,O,R,organic,,,A1620a O/R: organic grid overprint over R
+A1620a|O/W,O,M,organic,,,A1620a O/W: organic grid overprint over W
+A1620a|O/gW,O,M,organic,,,A1620a O/gW: organic grid overprint over gW
+A1620a|R,R,,,,,A1620a R: 
+A1620a|W,M,,fines,,,A1620a W: 
+A1620a|gW,M,,gravel,,,A1620a gW: 
+A1871a_2|A,F,,mixed,,,A1871a_2 A: 
+A1871a_2|G1,GF,,gravel,,,A1871a_2 G1: 
+A1871a_2|G2,GF,,gravel,,,A1871a_2 G2: 
+A1871a_2|L,GL,,fines,,,A1871a_2 L: 
+A1871a_2|O,O,,organic,,yes,"A1871a_2 O: GSC Map 1871A Winter Lake (Kerr et al. 1996), 1:125k UTM, two halves (north = mg1 without legend, south = mn02 with legend); tints per half checked with tint_check"
+A1871a_2|R1,R,,,,,A1871a_2 R1: 
+A1871a_2|R2,R,,,,,A1871a_2 R2: 
+A1871a_2|R3,R,,,,,A1871a_2 R3: 
+A1871a_2|T1,T,R,diamicton,veneer,,A1871a_2 T1: 
+A1871a_2|T2,T,,diamicton,blanket,,A1871a_2 T2: 
+A1871a_2|T3,T,,diamicton,,,A1871a_2 T3: 
+A1870a_1|G1,GF,,gravel,,,A1870a_1 G1: 
+A1870a_1|G2,GF,,gravel,,,A1870a_1 G2: 
+A1870a_1|O,O,,organic,,yes,"A1870a_1 O: GSC Map 1870A Lac de Gras (Ward et al. 1997), 1:125k UTM, whole sheet (mn01 scan, lighter of two scans); A and L are blank outline swatches on this print (not distinguishable by colour)"
+A1870a_1|R1,R,,,,,A1870a_1 R1: 
+A1870a_1|R2,R,,,,,A1870a_1 R2: 
+A1870a_1|R3,R,,,,,A1870a_1 R3: 
+A1870a_1|T1,T,R,diamicton,veneer,,A1870a_1 T1: 
+A1870a_1|T2,T,,diamicton,blanket,,A1870a_1 T2: 
+A1870a_1|T3,T,,diamicton,,,A1870a_1 T3: 
+A1867a_1|A,F,,mixed,,,A1867a_1 A: 
+A1867a_1|G1,GF,,gravel,,,A1867a_1 G1: 
+A1867a_1|G2,GF,,gravel,,,A1867a_1 G2: 
+A1867a_1|O,O,,organic,,yes,"A1867a_1 O: GSC Map 1867A Aylmer Lake (Dredge et al. 1995), 1:125k UTM, SOUTH half (mn01, with legend); NORTH half (mn02) has no legend: not done; L is a blank swatch on this print"
+A1867a_1|R2,R,,,,,A1867a_1 R2: 
+A1867a_1|R3,R,,,,,A1867a_1 R3: 
+A1867a_1|T1,T,R,diamicton,veneer,,A1867a_1 T1: 
+A1867a_1|T2,T,,diamicton,blanket,,A1867a_1 T2: 
+A1867a_1|T3,T,,diamicton,,,A1867a_1 T3: 
+A1998a|A,F,,mixed,,,A1998a A: 
+A1998a|D,GM,F,sand,,,A1998a D: 
+A1998a|G1,GF,,gravel,,,A1998a G1: 
+A1998a|G2,GF,,gravel,,,A1998a G2: 
+A1998a|M1,M,R,mixed,veneer,,A1998a M1: 
+A1998a|M2,M,,fines,,yes,A1998a M2: 
+A1998a|M3,M,,sand,,,A1998a M3: 
+A1998a|O,O,,organic,,,"A1998a O: GSC Map 1998A Koignuk River (Kerr and Knight 2001), 1:125k UTM NAD83; frame 67d30'-68d30'N (labels; the catalogue says 67-68); unmapped Kent Peninsula topo base excluded; R4 and R2 near-identical pinks (both R); 2026-10-06: ice_rich cleared (inferred from the unit type; the legend states no ground ice)"
+A1998a|R1,R,,,,,A1998a R1: 
+A1998a|R2,R,,,,,A1998a R2: 
+A1998a|R3,R,,,,,A1998a R3: 
+A1998a|R4,R,,,,,A1998a R4: 
+A1998a|T1,T,R,diamicton,veneer,,A1998a T1: 
+A1998a|T2,T,,diamicton,blanket,,A1998a T2: 
+A1909a|A,F,,mixed,,,A1909a A: 
+A1909a|D,GM,F,sand,,,A1909a D: 
+A1909a|G1,GF,,gravel,,,A1909a G1: 
+A1909a|G2,GF,,gravel,,,A1909a G2: 
+A1909a|L,GL,,sand,,,A1909a L: 
+A1909a|M1,M,R,fines,veneer,,A1909a M1: 
+A1909a|M2,M,,fines,,yes,A1909a M2: 
+A1909a|M3,M,,sand,,,A1909a M3: 
+A1909a|O,O,,organic,,yes,"A1909a O: GSC Map 1909A Kikerk Lake (Dredge et al. 1998), 1:125k UTM; frame 112-114W 67-68N from the corner labels; descriptive notes printed over the western map area (text = linework, filled from neighbours); T1 re-sampled on the map face (swatch dE 11 off)"
+A1909a|R2,R,,,,,A1909a R2: 
+A1909a|R3,R,,,,,A1909a R3: 
+A1909a|R4,R,,,,,A1909a R4: 
+A1909a|R5,R,,,,,A1909a R5: 
+A1909a|T1,T,R,diamicton,veneer,,A1909a T1: 
+A1909a|T2,T,,diamicton,blanket,,A1909a T2: 
+A1909a|T3,T,,diamicton,,,A1909a T3: 
+A1570a|1a,T,,diamicton,blanket,,A1570a 1a: 
+A1570a|1b,T,R,diamicton,veneer,,A1570a 1b: 
+A1570a|2a,GF,,gravel,,,A1570a 2a: 
+A1570a|2b,GF,,gravel,,,A1570a 2b: 
+A1570a|3,GL,,fines,,,A1570a 3: 
+A1570a|4a,GM,GF,sand,,,A1570a 4a: 
+A1570a|4b,GM,,fines,,,A1570a 4b: 
+A1570a|5a,M,F,sand,,,A1570a 5a: 
+A1570a|5b,M,,fines,,,A1570a 5b: 
+A1570a|5c,M,,gravel,,,A1570a 5c: 
+A1570a|6a,F,,gravel,,,A1570a 6a: 
+A1570a|6b,F,,sand,,,"A1570a 6b: GSC Map 1570A Boothia Peninsula (Dyke et al. 1984), 1:500k TM; legend panel inside the frame over Gulf of Boothia excluded; swatch tints from the legend, checked against the map face with tint_check; 1a/1b/4b/Ra RE-SAMPLED on the map face (swatches print dE 9-12 off)"
+A1570a|Ra,R,,,,,A1570a Ra: 
+A1570a|Rb,R,,bouldery,,,A1570a Rb: 
+OF4296_1|A,F,,gravel,,,"OF4296_1 A: GSC OF 4296 Wordie Bay (Dredge 2003), 1:100k UTM NAD83, 2 panels (mn1 west islands, mn2 east mainland), same legend; white legend boxes = units absent; A and Mv are very pale (check paper confusion)"
+OF4296_1|Lv,GL,T,sand,veneer,,OF4296_1 Lv: 
+OF4296_1|Mb,M,,sand,blanket,,OF4296_1 Mb: 
+OF4296_1|Mr,M,,gravel,,,OF4296_1 Mr: 
+OF4296_1|Mv,M,T,mixed,veneer,,OF4296_1 Mv: 
+OF4296_1|RB,R,,,,,OF4296_1 RB: 
+OF4296_1|RG,R,,,,,OF4296_1 RG: 
+OF4296_1|RL,R,,,,,OF4296_1 RL: 
+OF4296_1|Tv,T,R,diamicton,veneer,,OF4296_1 Tv: 
+OF4296_2|A,F,,gravel,,,"OF4296_2 A: GSC OF 4296 Wordie Bay (Dredge 2003), 1:100k UTM NAD83, 2 panels (mn1 west islands, mn2 east mainland), same legend; white legend boxes = units absent; A and Mv are very pale (check paper confusion)"
+OF4296_2|Gp,GF,,gravel,,,OF4296_2 Gp: 
+OF4296_2|Gr,GF,,gravel,,,OF4296_2 Gr: 
+OF4296_2|Lv,GL,T,sand,veneer,,OF4296_2 Lv: 
+OF4296_2|Mb,M,,sand,blanket,,OF4296_2 Mb: 
+OF4296_2|Md,M,F,sand,,,OF4296_2 Md: 
+OF4296_2|Mr,M,,gravel,,,OF4296_2 Mr: 
+OF4296_2|Mv,M,T,mixed,veneer,,OF4296_2 Mv: 
+OF4296_2|RB,R,,,,,OF4296_2 RB: 
+OF4296_2|RG,R,,,,,OF4296_2 RG: 
+OF4296_2|RL,R,,,,,OF4296_2 RL: 
+OF4296_2|Tb,T,,diamicton,blanket,,OF4296_2 Tb: 
+OF4296_2|Th,T,,diamicton,,,OF4296_2 Th: 
+OF4296_2|Tv,T,R,diamicton,veneer,,OF4296_2 Tv: 
+A2005a|Ap,F,,sand,,,A2005a Ap: 
+A2005a|Co,C,,bouldery,,,A2005a Co: 
+A2005a|Go,GF,,gravel,,,A2005a Go: 
+A2005a|Gs,GF,GL,sand,,,A2005a Gs: 
+A2005a|Gx,GF,,gravel,,,A2005a Gx: 
+A2005a|O,O,,organic,,,"A2005a O: GSC Map 2005A Lac Bermen Est, Québec (Paradis & Parent 2001), 1:125k UTM19 NAD83; white = lakes/unmapped (paper no-data); "
+A2005a|R,R,,,,,A2005a R: 
+A2005a|Tb,T,,mixed,,,A2005a Tb: 
+A2005a|Tv,T,R,mixed,,,A2005a Tv: veneer
+A2006a|Ap,F,,sand,,,A2006a Ap: 
+A2006a|Co,C,,bouldery,,,A2006a Co: 
+A2006a|Go,GF,,gravel,,,A2006a Go: 
+A2006a|Gs,GF,GL,sand,,,A2006a Gs: 
+A2006a|Gx,GF,,gravel,,,A2006a Gx: 
+A2006a|O,O,,organic,,,"A2006a O: GSC Map 2006A Lac Bermen Ouest, Québec (Paradis & Parent 2001), 1:125k UTM19 NAD83; white = lakes (paper); "
+A2006a|R,R,,,,,A2006a R: 
+A2006a|Tb,T,,mixed,,,A2006a Tb: 
+A2006a|Tv,T,R,mixed,,,A2006a Tv: veneer
+A2071a|Ap,F,,sand,,,A2071a Ap: 
+A2071a|Go,GF,,gravel,,,A2071a Go: 
+A2071a|Gs,GF,GL,sand,,,A2071a Gs: 
+A2071a|Gx,GF,,gravel,,,A2071a Gx: 
+A2071a|Mb,M,,gravel,,,A2071a Mb: 
+A2071a|Md,M,F,sand,,,A2071a Md: 
+A2071a|O,O,,organic,,,"A2071a O: GSC Map 2071A Lac Vernon ouest, Québec (Paradis & Parent 2005), 1:125k UTM18 NAD83; series legend shared with 2072A; white = lakes; ; fills = map tints (5 units sampled on the map, rest legend swatch x per-channel fit, scripts/map_tint_sample.py)"
+A2071a|R,R,,,,,A2071a R: 
+A2071a|Tb,T,,mixed,,,A2071a Tb: 
+A2071a|Tv,T,R,mixed,,,A2071a Tv: veneer
+A2072a|Ap,F,,sand,,,A2072a Ap: 
+A2072a|At,F,,gravel,,,A2072a At: 
+A2072a|Go,GF,,gravel,,,A2072a Go: 
+A2072a|Ld,GL,F,sand,,,A2072a Ld: 
+A2072a|O,O,,organic,,,"A2072a O: GSC Map 2072A Lac Vernon est, Québec (Paradis & Parent 2005), 1:125k UTM NAD83; series legend (coloured boxes = units on this sheet); "
+A2072a|R,R,,,,,A2072a R: 
+A2072a|Tb,T,,mixed,,,A2072a Tb: 
+A2072a|Tv,T,R,mixed,,,A2072a Tv: veneer
+OF1569|A,F,,gravel,,,"OF1569 A: GSC OF1569 Baffin 1:100k surficial series (Dredge et al. 2003), common legend; fills sampled on this print"
+OF1569|Gp,GF,,gravel,,,OF1569 Gp: 
+OF1569|Gr,GF,,gravel,,,OF1569 Gr: 
+OF1569|Lb,GL,,sand,,,OF1569 Lb: 
+OF1569|Lv,GL,T,sand,,,OF1569 Lv: 
+OF1569|RA,R,,,,,OF1569 RA: 
+OF1569|RB,R,,,,,OF1569 RB: 
+OF1569|RG,R,,,,,OF1569 RG: 
+OF1569|RL,R,,,,,OF1569 RL: 
+OF1569|Tb,T,,diamicton,,,OF1569 Tb: 
+OF1569|Th,T,,diamicton,,,OF1569 Th: 
+OF1569|Tm,T,,diamicton,,,OF1569 Tm: 
+OF1569|Tv,T,R,diamicton,,,OF1569 Tv: 
+OF1571|A,F,,gravel,,,"OF1571 A: GSC OF1571 Baffin 1:100k surficial series (Dredge et al. 2003), common legend; fills sampled on this print"
+OF1571|Gp,GF,,gravel,,,OF1571 Gp: 
+OF1571|Gr,GF,,gravel,,,OF1571 Gr: 
+OF1571|Lb,GL,,sand,,,OF1571 Lb: 
+OF1571|Lv,GL,T,sand,,,OF1571 Lv: 
+OF1571|RA,R,,,,,OF1571 RA: 
+OF1571|RF,R,,,,,OF1571 RF: 
+OF1571|RG,R,,,,,OF1571 RG: 
+OF1571|RL,R,,,,,OF1571 RL: 
+OF1571|Tb,T,,diamicton,,,OF1571 Tb: 
+OF1571|Th,T,,diamicton,,,OF1571 Th: 
+OF1571|Tm,T,,diamicton,,,OF1571 Tm: 
+OF1571|Tv,T,R,diamicton,,,OF1571 Tv: 
+OF1570|A,F,,gravel,,,"OF1570 A: GSC OF1570 Baffin 1:100k surficial series (Dredge et al. 2003), common legend; fills sampled on this print"
+OF1570|Gp,GF,,gravel,,,OF1570 Gp: 
+OF1570|Gr,GF,,gravel,,,OF1570 Gr: 
+OF1570|Lb,GL,,sand,,,OF1570 Lb: 
+OF1570|Lv,GL,T,sand,,,OF1570 Lv: 
+OF1570|RB,R,,,,,OF1570 RB: 
+OF1570|RG,R,,,,,OF1570 RG: 
+OF1570|RL,R,,,,,OF1570 RL: 
+OF1570|Tb,T,,diamicton,,,OF1570 Tb: 
+OF1570|Th,T,,diamicton,,,OF1570 Th: 
+OF1570|Tv,T,R,diamicton,,,OF1570 Tv: 
+OF4357|A,F,,gravel,,,"OF4357 A: GSC OF4357 Baffin 1:100k surficial series (Dredge et al. 2003), common legend; fills sampled on this print"
+OF4357|Gp,GF,,gravel,,,OF4357 Gp: 
+OF4357|Gr,GF,,gravel,,,OF4357 Gr: 
+OF4357|Lb,GL,,sand,,,OF4357 Lb: 
+OF4357|Lv,GL,T,sand,,,OF4357 Lv: 
+OF4357|Md,M,F,sand,,,OF4357 Md: 
+OF4357|Mv,M,T,mixed,,,OF4357 Mv: 
+OF4357|RA,R,,,,,OF4357 RA: 
+OF4357|RF,R,,,,,OF4357 RF: 
+OF4357|RG,R,,,,,OF4357 RG: 
+OF4357|RL,R,,,,,OF4357 RL: 
+OF4357|Tb,T,,diamicton,,,OF4357 Tb: 
+OF4357|Th,T,,diamicton,,,OF4357 Th: 
+OF4357|Tm,T,,diamicton,,,OF4357 Tm: 
+OF4357|Tv,T,R,diamicton,,,OF4357 Tv: 
+OF1572|A,F,,gravel,,,"OF1572 A: GSC OF1572 Baffin 1:100k surficial series (Dredge et al. 2003), common legend; fills sampled on this print"
+OF1572|Gp,GF,,gravel,,,OF1572 Gp: 
+OF1572|Gr,GF,,gravel,,,OF1572 Gr: 
+OF1572|Lb,GL,,sand,,,OF1572 Lb: 
+OF1572|Lv,GL,T,sand,,,OF1572 Lv: 
+OF1572|Mb,M,,sand,,,OF1572 Mb: 
+OF1572|Md,M,F,sand,,,OF1572 Md: 
+OF1572|Mv,M,T,mixed,,,OF1572 Mv: 
+OF1572|RA,R,,,,,OF1572 RA: 
+OF1572|RF,R,,,,,OF1572 RF: 
+OF1572|RG,R,,,,,OF1572 RG: 
+OF1572|RL,R,,,,,OF1572 RL: 
+OF1572|Tb,T,,diamicton,,,OF1572 Tb: 
+OF1572|Th,T,,diamicton,,,OF1572 Th: 
+OF1572|Tm,T,,diamicton,,,OF1572 Tm: 
+OF1572|Tv,T,R,diamicton,,,OF1572 Tv: 
+OF4355|GM,GM,,diamicton,,,OF4355 GM: 
+OF4355|Gp,GF,,gravel,,,OF4355 Gp: 
+OF4355|Mb,M,,sand,,,OF4355 Mb: 
+OF4355|Mr,M,,gravel,,,"OF4355 Mr: GSC OF4355 Baffin 1:100k surficial series (Dredge et al. 2003), common legend; fills sampled on this print"
+OF4355|Mv,M,T,mixed,,,OF4355 Mv: 
+OF4355|RB,R,,,,,OF4355 RB: 
+OF4355|RC,R,,,,,OF4355 RC: 
+OF4355|RG,R,,,,,OF4355 RG: 
+OF4355|RL,R,,,,,OF4355 RL: 
+OF4355|Tb,T,,diamicton,,,OF4355 Tb: 
+OF4355|Tv,T,R,diamicton,,,OF4355 Tv: 
+OF4354|A,F,,gravel,,,"OF4354 A: GSC OF4354 Baffin 1:100k surficial series (Dredge et al. 2003), common legend; fills sampled on this print"
+OF4354|Gp,GF,,gravel,,,OF4354 Gp: 
+OF4354|Gr,GF,,gravel,,,OF4354 Gr: 
+OF4354|Lb,GL,,sand,,,OF4354 Lb: 
+OF4354|Lv,GL,T,sand,,,OF4354 Lv: 
+OF4354|Mb,M,,sand,,,OF4354 Mb: 
+OF4354|Md,M,F,sand,,,OF4354 Md: 
+OF4354|Mv,M,T,mixed,,,OF4354 Mv: 
+OF4354|RB,R,,,,,OF4354 RB: 
+OF4354|RG,R,,,,,OF4354 RG: 
+OF4354|RL,R,,,,,OF4354 RL: 
+OF4354|Tb,T,,diamicton,,,OF4354 Tb: 
+OF4354|Th,T,,diamicton,,,OF4354 Th: 
+OF4354|Tv,T,R,diamicton,,,OF4354 Tv: 
+OF4287|A,F,,gravel,,,"OF4287 A: GSC OF4287 Nadluardjuk Lake, Baffin 1:100k (Dredge 2002); 2002 edition of the Baffin series legend (GLv/GFp/GFc codes); "
+OF4287|GFc,GF,,gravel,,,OF4287 GFc: 
+OF4287|GFp,GF,,gravel,,,OF4287 GFp: 
+OF4287|GLv,GL,T,sand,,,OF4287 GLv: 
+OF4287|Mb,M,,sand,,,OF4287 Mb: 
+OF4287|Md,M,F,sand,,,OF4287 Md: 
+OF4287|Mr,M,,gravel,,,OF4287 Mr: 
+OF4287|Mv,M,T,mixed,,,OF4287 Mv: 
+OF4287|RB,R,,,,,OF4287 RB: 
+OF4287|RG,R,,,,,OF4287 RG: 
+OF4287|RL,R,,,,,OF4287 RL: 
+OF4287|Tb,T,,diamicton,,,OF4287 Tb: 
+OF4287|Th,T,,diamicton,,,OF4287 Th: 
+OF4287|Tv,T,R,diamicton,,,OF4287 Tv: 
+OF4412|A,F,,gravel,,,"OF4412 A: GSC OF4412 Baffin 1:100k surficial series (Dredge et al. 2003), common legend; fills sampled on this print"
+OF4412|Gp,GF,,gravel,,,OF4412 Gp: 
+OF4412|Gr,GF,,gravel,,,OF4412 Gr: 
+OF4412|Lv,GL,T,sand,,,OF4412 Lv: 
+OF4412|Mb,M,,sand,,,OF4412 Mb: 
+OF4412|Md,M,F,sand,,,OF4412 Md: 
+OF4412|Mr,M,,gravel,,,OF4412 Mr: 
+OF4412|Mv,M,T,mixed,,,OF4412 Mv: 
+OF4412|RA,R,,,,,OF4412 RA: 
+OF4412|RB,R,,,,,OF4412 RB: 
+OF4412|RF,R,,,,,OF4412 RF: 
+OF4412|RG,R,,,,,OF4412 RG: 
+OF4412|RL,R,,,,,OF4412 RL: 
+OF4412|Tb,T,,diamicton,,,OF4412 Tb: 
+OF4412|Th,T,,diamicton,,,OF4412 Th: 
+OF4412|Tv,T,R,diamicton,,,OF4412 Tv: 
+A1633a|A,F,,mixed,,,"A1633a A: GSC Map 1633A Coats Island (Aylsworth & Shilts 1987), 1:125k UTM NAD27; legend inside the frame (excluded); split boxes X/R = 20-80% bedrock outcrop -> hclass2 R; "
+A1633a|Af,F,,gravel,,,A1633a Af: 
+A1633a|G,GF,,gravel,,,A1633a G: 
+A1633a|MO,M,O,fines,,,A1633a MO: 
+A1633a|MO/R,M,R,fines,,,A1633a MO/R: veneer
+A1633a|Md,M,F,sand,,,A1633a Md: 
+A1633a|Mr,M,,gravel,,,A1633a Mr: 
+A1633a|Mr/R,M,R,gravel,,,A1633a Mr/R: veneer
+A1633a|MrO,M,O,gravel,,,A1633a MrO: 
+A1633a|MrO/R,M,R,gravel,,,A1633a MrO/R: veneer
+A1633a|Mw,M,,sand,,,A1633a Mw: 
+A1633a|R,R,,,,,A1633a R: 
+A1633a|T,T,,diamicton,,,A1633a T: 
+A1633a|T/R,T,R,diamicton,,,A1633a T/R: veneer
+A1633a|TM,T,M,diamicton,,,A1633a TM: 
+A1633a|TM/R,T,R,diamicton,,,A1633a TM/R: veneer
+A1633a|Th,T,,diamicton,,,A1633a Th: 
+A1632a|A,F,,mixed,,,"A1632a A: GSC Map 1632A Mansel Island (Aylsworth & Shilts 1987), 1:125k UTM NAD27; legend inside the frame (excluded); split boxes X/R = 20-80% bedrock outcrop -> hclass2 R; TL corner label misprinted 63d30 (frame is 61d30-62d30N); "
+A1632a|G,GF,,gravel,,,A1632a G: 
+A1632a|MO,M,O,fines,,,A1632a MO: 
+A1632a|MO/R,M,R,fines,,,A1632a MO/R: veneer
+A1632a|Md,M,F,sand,,,A1632a Md: 
+A1632a|Mr,M,,gravel,,,A1632a Mr: 
+A1632a|Mr/R,M,R,gravel,,,A1632a Mr/R: veneer
+A1632a|MrO,M,O,gravel,,,A1632a MrO: 
+A1632a|MrO/R,M,R,gravel,,,A1632a MrO/R: veneer
+A1632a|Mw,M,,sand,,,A1632a Mw: 
+A1632a|R,R,,,,,A1632a R: 
+A1632a|TM,T,M,diamicton,,,A1632a TM: 
+A1632a|TM/R,T,R,diamicton,,,A1632a TM/R: veneer
+A1632a|Th,T,,diamicton,,,A1632a Th: 
+A1632a|Th/R,T,R,diamicton,,,A1632a Th/R: veneer
+A1632a|Tr,T,,diamicton,,,A1632a Tr: 
+A1632a|Tr/R,T,R,diamicton,,,A1632a Tr/R: veneer
+A1910a|A,F,,mixed,,,A1910a A: 
+A1910a|D,GM,GF,gravel,,,A1910a D: 
+A1910a|G1,GF,,gravel,,,A1910a G1: 
+A1910a|G2,GF,,gravel,,,A1910a G2: 
+A1910a|M1,M,R,fines,,,A1910a M1: veneer
+A1910a|M2,M,,fines,,,A1910a M2: 
+A1910a|M3,M,,sand,,,A1910a M3: 
+A1910a|O,O,,organic,,,"A1910a O: GSC Map 1910A Coppermine (east half) (Kerr, Dredge, Ward 1997), 1:125k TM CM 114d30; R3 granitoid not present; "
+A1910a|R1,R,,,,,A1910a R1: 
+A1910a|R2,R,,,,,A1910a R2: 
+A1910a|R4,R,,,,,A1910a R4: 
+A1910a|R5,R,,,,,A1910a R5: 
+A1910a|T1,T,R,diamicton,,,A1910a T1: veneer
+A1910a|T2,T,,diamicton,,,A1910a T2: 
+A1591a|1,R,,,,,A1591a 1: 
+A1591a|10,O,,organic,,,"A1591a 10: GSC Map 1591a (Vincent 1986), La Grande series 1:100k UTM NAD27, legend common to 1590A-1592A; tidal flat unit 7 printed white = no-data; "
+A1591a|2,T,,sand,,,A1591a 2: 
+A1591a|3,T,,sand,,,A1591a 3: 
+A1591a|4,GF,,gravel,,,A1591a 4: 
+A1591a|5,GF,,gravel,,,A1591a 5: 
+A1591a|6,M,,fines,,,A1591a 6: 
+A1591a|8,M,,gravel,,,A1591a 8: 
+A1591a|9,F,,sand,,,A1591a 9: 
+A1590a|1,R,,,,,A1590a 1: 
+A1590a|10,O,,organic,,,"A1590a 10: GSC Map 1590a (Vincent 1986), La Grande series 1:100k UTM NAD27, legend common to 1590A-1592A; tidal flat unit 7 printed white = no-data; "
+A1590a|2,T,,sand,,,A1590a 2: 
+A1590a|3,T,,sand,,,A1590a 3: 
+A1590a|4,GF,,gravel,,,A1590a 4: 
+A1590a|5,GF,,gravel,,,A1590a 5: 
+A1590a|6,M,,fines,,,A1590a 6: 
+A1590a|8,M,,gravel,,,A1590a 8: 
+A1590a|9,F,,sand,,,A1590a 9: 
+A1592a|1,R,,,,,A1592a 1: 
+A1592a|10,O,,organic,,,"A1592a 10: GSC Map 1592a (Vincent 1986), La Grande series 1:100k UTM NAD27, legend common to 1590A-1592A; tidal flat unit 7 printed white = no-data; "
+A1592a|2,T,,sand,,,A1592a 2: 
+A1592a|4,GF,,gravel,,,A1592a 4: 
+A1592a|6,M,,fines,,,A1592a 6: 
+A1592a|8,M,,gravel,,,A1592a 8: 
+A1592a|9,F,,sand,,,A1592a 9: 
+A1683a|1a,T,R,sand,,,A1683a 1a: veneer
+A1683a|2,GF,,gravel,,,A1683a 2: 
+A1683a|3,GF,,gravel,,,A1683a 3: 
+A1683a|4a,GL,O,fines,,,A1683a 4a: 
+A1683a|4c,GL,GF,gravel,,,A1683a 4c: veneer
+A1683a|7,O,,organic,,,"A1683a 7: GSC Map 1683A Island Lake-Opasquia Lake (Clarke 1989), 1:250k UTM NAD27; Ontario part unmapped (excluded by staircase boxes along the straight provincial boundary); coloured blocks = units on this map; "
+A1683a|R1,R,,,,,A1683a R1: 
+A1672a|1a,T,R,sand,,,A1672a 1a: veneer
+A1672a|1b,T,,sand,,,A1672a 1b: 
+A1672a|2,GF,,gravel,,,A1672a 2: 
+A1672a|3,GF,,gravel,,,A1672a 3: 
+A1672a|4a,GL,O,fines,,,A1672a 4a: 
+A1672a|4b,GL,,gravel,,,A1672a 4b: 
+A1672a|6,F,,mixed,,,A1672a 6: 
+A1672a|7,O,,organic,,,A1672a 7: Stull Lake 1:250k (Clarke 1988); 
+A1672a|R1,R,,,,,A1672a R1: 
+A1695a|1b,T,,sand,,,A1695a 1b: 
+A1695a|2,GF,,gravel,,,A1695a 2: 
+A1695a|3,GF,,gravel,,,A1695a 3: 
+A1695a|4a,GL,O,fines,,,A1695a 4a: 
+A1695a|4b,GL,,gravel,,,A1695a 4b: 
+A1695a|5a,M,T,fines,,,A1695a 5a: 
+A1695a|5b,M,,sand,,,A1695a 5b: 
+A1695a|6,F,,mixed,,,A1695a 6: 
+A1695a|7,O,,organic,,,A1695a 7: Echoing River 1:250k (Clarke 1989); 
+A1695a|R1,R,,,,,A1695a R1: 
+A1694a|4a,GL,O,fines,,,A1694a 4a: 
+A1694a|7,O,,organic,,,A1694a 7: Deer Lake 1:250k (Stanton & Clarke 1989); 
+A1694a|R1,R,,,,,A1694a R1: 
+A1603a|A,F,,mixed,,,A1603a A: North-central Manitoba 1:500k (Klassen & Netterville 1985); 
+A1603a|G,GF,,gravel,,,A1603a G: 
+A1603a|Gt,GF,,gravel,,,A1603a Gt: 
+A1603a|L,GL,,fines,,,A1603a L: 
+A1603a|LM-LR,GL,,fines,,,A1603a LM-LR: veneer over till or rock
+A1603a|Lr,GL,,gravel,,,A1603a Lr: 
+A1603a|M,T,,sand,,,A1603a M: 
+A1603a|Mh,T,GF,mixed,,,A1603a Mh: 
+A1603a|Mv,T,R,sand,,,A1603a Mv: veneer
+A1603a|R-Rc,R,,,,,A1603a R-Rc: 
+A1603a|W,M,T,mixed,,,A1603a W: veneer
+A1603a|Wr,M,,gravel,,,A1603a Wr: 
+A1172a|1,T,,diamicton,,,A1172a 1: 
+A1172a|2,GF,,gravel,,,A1172a 2: 
+A1172a|3,F,,mixed,,,"A1172a 3: Nash Creek 1:253 440 (Vernon & Hughes 1965), GSC Map 1172A; "
+A1171a|1,T,,diamicton,,,A1171a 1: 
+A1171a|2,GF,,gravel,,,A1171a 2: 
+A1171a|3,F,,mixed,,,"A1171a 3: Larsen Creek 1:253 440 (Vernon & Hughes 1965), GSC Map 1171A; "
+M24-1987_1|DPR,R,T,,veneer,,M24-1987_1 DPR: drift-poor (> 80 % outcrop)
+M24-1987_1|DRU,T,,diamicton,,,M24-1987_1 DRU: drumlinoid / fluted till field
+M24-1987_1|GF,GF,,gravel,,,"M24-1987_1 GF: GSC Map 24-1987 (Aylsworth & Shilts 1989), Glacial features around the Keewatin Ice Divide, 1:1M, 2 sheets; colour scan; description_ru holds the English legend text"
+M24-1987_1|RIB,T,,diamicton,,,M24-1987_1 RIB: ribbed moraine field
+M24-1987_1|UND,T,,diamicton,,,"M24-1987_1 UND: generally till; CLIPPED at ingest to where the GSC 1:5M map says T, R or GF (marine / glaciolacustrine / organic areas keep the 1:5M class)"
+M24-1987_2|DPR,R,T,,veneer,,M24-1987_2 DPR: drift-poor (> 80 % outcrop)
+M24-1987_2|DRU,T,,diamicton,,,M24-1987_2 DRU: drumlinoid / fluted till field
+M24-1987_2|GF,GF,,gravel,,,"M24-1987_2 GF: GSC Map 24-1987 (Aylsworth & Shilts 1989), Glacial features around the Keewatin Ice Divide, 1:1M, 2 sheets; colour scan; description_ru holds the English legend text"
+M24-1987_2|RIB,T,,diamicton,,,M24-1987_2 RIB: ribbed moraine field
+M24-1987_2|UND,T,,diamicton,,,"M24-1987_2 UND: generally till; CLIPPED at ingest to where the GSC 1:5M map says T, R or GF (marine / glaciolacustrine / organic areas keep the 1:5M class)"
+M1609A|Ax,F,C,mixed,,,M1609A Ax: 
+M1609A|Ca,C,,mixed,,,M1609A Ca: colluvial apron (hatched swatch)
+M1609A|Ch,C,,bouldery,,,M1609A Ch: landslide (hatched swatch)
+M1609A|Gt,GF,,gravel,,,M1609A Gt: 
+M1609A|I,I,,,,,"M1609A I: GSC Map 1609A Seymour Arm, BC (Fulton, Alley & Achard 1986), 1:250k, TM CM 116 (map margin), NAD27; colour scan; frame 118-120W 51-52N; description_ru holds the English legend text; swatches sampled at explicit positions (legend_from_points); glacier ice (pale blue stipple on white)fills calibrated on the map face (preview_tint_calib.py, PAPER seed) except O, Ca, Ch, Mm read inside labelled map polygons (calibration drifted 10-26 dE onto contour/linework mixtures)"
+M1609A|L,GL,,fines,,,M1609A L: glacier-dammed (late-glacial) lakes -> glaciolacustrine
+M1609A|Mb,T,,diamicton,blanket,,M1609A Mb: 
+M1609A|Mm,T,,diamicton,blanket,,M1609A Mm: 
+M1609A|Mv,T,R,diamicton,veneer,,M1609A Mv: 
+M1609A|Ra,R,C,,,,M1609A Ra: alpine rock (hatched swatch)
+M1609A|Rs,R,C,,,,M1609A Rs: steep rock (hatched swatch)

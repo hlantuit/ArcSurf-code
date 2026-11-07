@@ -1,0 +1,67 @@
+xkey,hclass,hclass2,texture,cover,ice_rich,xwalk_note
+A,F,,mixed,unknown,unknown,GSC symbol A: genetic F
+A.GF,F,GF,mixed,unknown,unknown,"GSC symbol A.GF: genetic F, second GF"
+A.GL,F,GL,mixed,unknown,unknown,"GSC symbol A.GL: genetic F, second GL"
+GF.A,GF,F,gravel,unknown,unknown,"GSC symbol GF.A: genetic GF, second F"
+GF.T,GF,T,gravel,unknown,unknown,"GSC symbol GF.T: genetic GF, second T"
+GF.Tv,GF,T,gravel,unknown,unknown,"GSC symbol GF.Tv: genetic GF, second T"
+GFh,GF,,gravel,unknown,unknown,GSC symbol GFh: genetic GF
+GFh.GL,GF,GL,gravel,unknown,unknown,"GSC symbol GFh.GL: genetic GF, second GL"
+GFh.GLv,GF,GL,gravel,unknown,unknown,"GSC symbol GFh.GLv: genetic GF, second GL"
+GFh.R,GF,R,gravel,unknown,unknown,"GSC symbol GFh.R: genetic GF, second R"
+GFh.Tv,GF,T,gravel,unknown,unknown,"GSC symbol GFh.Tv: genetic GF, second T"
+GFh/R,GF,R,gravel,unknown,unknown,"GSC symbol GFh/R: genetic GF, second R"
+GFr,GF,,gravel,unknown,unknown,GSC symbol GFr: genetic GF
+GFr.GL,GF,GL,gravel,unknown,unknown,"GSC symbol GFr.GL: genetic GF, second GL"
+GFt,GF,,gravel,unknown,unknown,GSC symbol GFt: genetic GF
+GFv,GF,R,gravel,veneer,unknown,"GSC symbol GFv: genetic GF, second R, veneer"
+GFv.R,GF,R,gravel,veneer,unknown,"GSC symbol GFv.R: genetic GF, second R, veneer"
+GFv.Tv,GF,T,gravel,veneer,unknown,"GSC symbol GFv.Tv: genetic GF, second T, veneer"
+GFv/T,GF,T,gravel,veneer,unknown,"GSC symbol GFv/T: genetic GF, second T, veneer"
+GFv/Tv,GF,T,gravel,veneer,unknown,"GSC symbol GFv/Tv: genetic GF, second T, veneer"
+GL,GL,,fines,unknown,unknown,GSC symbol GL: genetic GL
+GL.GLv,GL,,fines,unknown,unknown,GSC symbol GL.GLv: genetic GL
+GL.T,GL,T,fines,unknown,unknown,"GSC symbol GL.T: genetic GL, second T"
+GL.Tv,GL,T,fines,unknown,unknown,"GSC symbol GL.Tv: genetic GL, second T"
+GL/T,GL,T,fines,unknown,unknown,"GSC symbol GL/T: genetic GL, second T"
+GL/Tr,GL,T,fines,unknown,unknown,"GSC symbol GL/Tr: genetic GL, second T"
+GLd,GL,,fines,unknown,unknown,GSC symbol GLd: genetic GL
+GLv,GL,R,fines,veneer,unknown,"GSC symbol GLv: genetic GL, second R, veneer"
+GLv.R,GL,R,fines,veneer,unknown,"GSC symbol GLv.R: genetic GL, second R, veneer"
+GLv.T,GL,T,fines,veneer,unknown,"GSC symbol GLv.T: genetic GL, second T, veneer"
+GLv.Tv,GL,T,fines,veneer,unknown,"GSC symbol GLv.Tv: genetic GL, second T, veneer"
+GLv/T,GL,T,fines,veneer,unknown,"GSC symbol GLv/T: genetic GL, second T, veneer"
+GLv/Th,GL,T,fines,veneer,unknown,"GSC symbol GLv/Th: genetic GL, second T, veneer"
+GLv/Tr,GL,T,fines,veneer,unknown,"GSC symbol GLv/Tr: genetic GL, second T, veneer"
+GLv/Tv,GL,T,fines,veneer,unknown,"GSC symbol GLv/Tv: genetic GL, second T, veneer"
+R,R,,unknown,unknown,unknown,GSC symbol R: genetic R
+R.GFh,R,GF,unknown,unknown,unknown,"GSC symbol R.GFh: genetic R, second GF"
+R.GFv,R,GF,unknown,unknown,unknown,"GSC symbol R.GFv: genetic R, second GF"
+R.GLv,R,GL,unknown,unknown,unknown,"GSC symbol R.GLv: genetic R, second GL"
+R.Tv,R,T,unknown,unknown,unknown,"GSC symbol R.Tv: genetic R, second T"
+T,T,,diamicton,unknown,unknown,GSC symbol T: genetic T
+T.GLv,T,GL,diamicton,unknown,unknown,"GSC symbol T.GLv: genetic T, second GL"
+T.R,T,R,diamicton,unknown,unknown,"GSC symbol T.R: genetic T, second R"
+T.Tr,T,,diamicton,unknown,unknown,GSC symbol T.Tr: genetic T
+T.Tv,T,,diamicton,unknown,unknown,GSC symbol T.Tv: genetic T
+Th,T,,diamicton,unknown,unknown,GSC symbol Th: genetic T
+Th.Tr,T,,diamicton,unknown,unknown,GSC symbol Th.Tr: genetic T
+Th.Tv,T,,diamicton,unknown,unknown,GSC symbol Th.Tv: genetic T
+Tr,T,,diamicton,unknown,unknown,GSC symbol Tr: genetic T
+Tr.GLv,T,GL,diamicton,unknown,unknown,"GSC symbol Tr.GLv: genetic T, second GL"
+Tr.R,T,R,diamicton,unknown,unknown,"GSC symbol Tr.R: genetic T, second R"
+Tr.T,T,,diamicton,unknown,unknown,GSC symbol Tr.T: genetic T
+Tr.Th,T,,diamicton,unknown,unknown,GSC symbol Tr.Th: genetic T
+Tr.Tv,T,,diamicton,unknown,unknown,GSC symbol Tr.Tv: genetic T
+Tv,T,R,diamicton,veneer,unknown,"GSC symbol Tv: genetic T, second R, veneer"
+Tv.GF,T,GF,diamicton,veneer,unknown,"GSC symbol Tv.GF: genetic T, second GF, veneer"
+Tv.GFh,T,GF,diamicton,veneer,unknown,"GSC symbol Tv.GFh: genetic T, second GF, veneer"
+Tv.GFk,T,GF,diamicton,veneer,unknown,"GSC symbol Tv.GFk: genetic T, second GF, veneer"
+Tv.GFv,T,GF,diamicton,veneer,unknown,"GSC symbol Tv.GFv: genetic T, second GF, veneer"
+Tv.GL,T,GL,diamicton,veneer,unknown,"GSC symbol Tv.GL: genetic T, second GL, veneer"
+Tv.GLv,T,GL,diamicton,veneer,unknown,"GSC symbol Tv.GLv: genetic T, second GL, veneer"
+Tv.R,T,R,diamicton,veneer,unknown,"GSC symbol Tv.R: genetic T, second R, veneer"
+Tv.T,T,R,diamicton,veneer,unknown,"GSC symbol Tv.T: genetic T, second R, veneer"
+Tv.Th,T,R,diamicton,veneer,unknown,"GSC symbol Tv.Th: genetic T, second R, veneer"
+Tv.Tr,T,R,diamicton,veneer,unknown,"GSC symbol Tv.Tr: genetic T, second R, veneer"
+Tv/T,T,R,diamicton,veneer,unknown,"GSC symbol Tv/T: genetic T, second R, veneer"

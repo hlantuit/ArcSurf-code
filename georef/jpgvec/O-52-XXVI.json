@@ -2,14 +2,14 @@
  "sheet": "O-52-XXVI",
  "source": "raster scan",
  "projection": "eqdc",
- "rms_m": 8.774267298338284,
- "max_res_m": 8.84985074650831,
- "m_per_px": 16.961298428054313,
+ "rms_m": 6.590506210599784,
+ "max_res_m": 6.648843793774303,
+ "m_per_px": 16.930565877627345,
  "corner_residuals_m": [
-  8.8,
-  8.8,
-  8.7,
-  8.7
+  6.6,
+  6.6,
+  6.5,
+  6.5
  ],
  "corners": [
   {
@@ -21,29 +21,29 @@
     663.0,
     877.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    4215.0,
-    877.0
+    4221.0,
+    876.0
    ],
    "snapped": [
-    4215.0,
-    877.0
+    4221.0,
+    876.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
-    4247.0,
+    4254.0,
     5260.0
    ],
    "snapped": [
-    4247.0,
+    4254.0,
     5260.0
    ],
-   "ok": false
+   "ok": "measured"
   },
   {
    "approx": [
@@ -54,83 +54,74 @@
     633.0,
     5260.0
    ],
-   "ok": false
+   "ok": "measured"
   }
  ],
- "unassigned_before_fill": 0.117,
- "area_km2": 4507.4140809514065,
+ "frame_sag_px": 6.6,
+ "argv": "jpg_to_polygons.py extract /albedo/scratch/user/hlantuit/arctic_surficial/raw/russia_geokniga/O-52-XXVI/o-52-xxvi-verhove-rseymde-gosudarstvennaya-geologicheskaya-karta-rossiyskoy_1.jpg O-52-XXVI ../sources/legend_O-52-XXVI.csv ../work/jpgvec/O-52-XXVI.gpkg --datum 4284 --corners '663,877;4221,876;4254,5260;633,5260' --mmu 60 --no-snap",
+ "unassigned_before_fill": 0.147,
+ "area_km2": 4511.471551875561,
  "neatline_km2": 4511.878132672441,
- "cover_frac": 0.9990106001115792,
- "n_polygons": 10036,
+ "cover_frac": 0.9999098865738558,
+ "n_polygons": 4112,
  "units": {
-  "#feb688": {
-   "index": "d",
-   "px": 3582159,
-   "direct_frac": 0.667
+  "#d3a0e4": {
+   "index": "e",
+   "px": 429405,
+   "direct_frac": 0.837
   },
-  "#ff9998": {
-   "index": "c",
-   "px": 1994399,
-   "direct_frac": 0.792
+  "#ffacb4": {
+   "index": "c|d,s",
+   "px": 1731558,
+   "direct_frac": 0.828
   },
-  "#ff868f": {
-   "index": "d,s",
-   "px": 2300,
-   "direct_frac": 0.417
+  "#feb096": {
+   "index": "e,d|c,d",
+   "px": 9822902,
+   "direct_frac": 0.742
   },
-  "#f59275": {
-   "index": "c,d",
-   "px": 22131,
-   "direct_frac": 0.154
+  "#fdb4a8": {
+   "index": "e,d|c,d",
+   "px": 198414,
+   "direct_frac": 0.722
   },
-  "#ffab86": {
-   "index": "e,d",
-   "px": 6413849,
-   "direct_frac": 0.817
-  },
-  "#f4ffc7": {
+  "#faf9d3": {
    "index": "aH",
-   "px": 528053,
-   "direct_frac": 0.653
+   "px": 382897,
+   "direct_frac": 0.77
   },
-  "#b0bd72": {
+  "#cad49a": {
    "index": "plH",
-   "px": 44328,
-   "direct_frac": 0.129
+   "px": 7486,
+   "direct_frac": 0.733
   },
-  "#e6cf85": {
+  "#eddba4": {
    "index": "d,aIII-H",
-   "px": 765689,
-   "direct_frac": 0.827
+   "px": 855896,
+   "direct_frac": 0.791
   },
-  "#eebd9b": {
-   "index": "gIII2",
-   "px": 2267822,
-   "direct_frac": 0.761
+  "#ffc3a4": {
+   "index": "gIII4|gIII2",
+   "px": 2138496,
+   "direct_frac": 0.873
   },
-  "#a4e452": {
-   "index": "fIII2",
-   "px": 37396,
-   "direct_frac": 0.138
+  "#d2eb79": {
+   "index": "a1III3|fIII2",
+   "px": 178086,
+   "direct_frac": 0.858
   },
-  "#c34632": {
-   "index": "gII6",
-   "px": 18208,
-   "direct_frac": 0.353
+  "#90d44a": {
+   "index": "a4IItb-sm",
+   "px": 4985,
+   "direct_frac": 0.946
   },
   "#8a59a8": {
    "index": "PREQ",
-   "px": 27955,
-   "direct_frac": 0.028
+   "px": 61,
+   "direct_frac": 0.098
   }
  },
- "confusable_pairs": [
-  [
-   "d",
-   "e,d",
-   6.8
-  ]
- ],
+ "confusable_pairs": [],
  "overprint": null,
  "datum": "EPSG:4284",
  "dE": 14.0,

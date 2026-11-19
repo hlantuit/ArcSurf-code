@@ -1,6 +1,8 @@
 # ArcSurf code
 
-Code, crosswalk tables, legend transcriptions and georeferencing records of ArcSurf, the harmonised surficial geology map of the Arctic (Lantuit and Fritz, Earth System Science Data, @PAPER_DOI@; data on PANGAEA: geology and A0 wall map @DATA_DOI@, addendum @ADDENDUM_DOI@).
+[![DOI](https://zenodo.org/badge/1431470231.svg)](https://doi.org/10.5281/zenodo.24379297)
+
+Code, crosswalk tables, legend transcriptions and georeferencing records of ArcSurf, the harmonised surficial geology map of the Arctic (Lantuit and Fritz, Earth System Science Data, submitted; data on PANGAEA: geology and A0 wall map, DOI to follow; addendum, DOI to follow).
 
 With these files and the published source maps (Appendix A of the paper; `sources.csv` of the data release), the ArcSurf layer can be rebuilt.
 
@@ -35,7 +37,7 @@ The scripts are licensed under the MIT licence (`LICENSE`); the tables and docum
 
 ## Citation
 
-Please cite this code with the DOI of its version (`CITATION.cff`, Zenodo), together with the data release and the data paper. Contact: Hugues Lantuit, Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Potsdam, Germany (hugues.lantuit@awi.de).
+Please cite this code with the DOI of its version, together with the data release and the data paper: version 1.0.0 is https://doi.org/10.5281/zenodo.24379298 (all versions: https://doi.org/10.5281/zenodo.24379297). Contact: Hugues Lantuit, Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Potsdam, Germany (hugues.lantuit@awi.de).
 
 ## Funding
 

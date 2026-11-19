@@ -22,8 +22,12 @@ keywords:
   - harmonised legend
   - map vectorisation
   - GIS
-# After the Zenodo release, add its DOI here:
-# identifiers:
-#   - type: doi
-#     value: "10.5281/zenodo.0000000"
-#     description: "Zenodo archive of this version"
+doi: "10.5281/zenodo.24379298"
+date-released: "2026-11-19"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24379298"
+    description: "Zenodo archive of version 1.0.0"
+  - type: doi
+    value: "10.5281/zenodo.24379297"
+    description: "Zenodo concept DOI (all versions)"
